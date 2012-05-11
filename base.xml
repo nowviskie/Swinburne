@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Poems and Ballads</title>
+        <author>Algernon Charles Swinburne</author>
+      </titleStmt>
+      <editionStmt>
+        <edition></edition>
+        <respStmt>
+          <resp>edited by</resp> <name>Bethany Nowviskie</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="mc">
+            <biblFull>
+              <titleStmt>
+                <title>Poems and Ballads</title>
+              </titleStmt>
+              <publicationStmt>
+                <publisher>Edward Moxon and Co.</publisher>
+                <pubPlace>London</pubPlace>
+                <date>1866</date>
+              </publicationStmt>
+            </biblFull>
+          </witness>
+          <witness xml:id="cw">CW <bibl></bibl> (see further <ptr target="http://www.loc.com"/>)</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head rend="center">A BALLAD OF LIFE</head>
+        <pb n="[1]"/>
+        <lg>
+          <l n="1">
+            <hi rend="sc">I found</hi> in dreams a place of wind and flowers, </l>
+          <l n="2" rend="ti-1"> Full of sweet trees and colour of glad grass, </l>
+          <l n="3" rend="ti-1"> In midst whereof there was </l>
+          <l n="4"> A lady clothed like summer with sweet hours. </l>
+          <l n="5"> Her beauty, fervent as a fiery moon, </l>
+          <l n="6" rend="ti-1"> Made my blood burn and swoon </l>
+          <l n="7" rend="ti-2"> Like a flame rained upon. </l>
+          <l n="8"> Sorrow had filled her shaken eyelids' blue, </l>
+          <l n="9"> And her mouth's sad red heavy rose all through </l>
+          <l n="10" rend="ti-2"> Seemed sad with glad things gone. </l>
+        </lg>
+        <lg>
+          <l n="11"> She held a little cithern by the strings, </l>
+          <l n="12" rend="ti-1"> Shaped heartwise, strung with subtle-coloured hair </l>
+          <l n="13" rend="ti-1"> Of some dead lute-player </l>
+          <l n="14"> That in dead years had done delicious things. </l>
+          <pb n="2"/>
+          <l n="15"> The seven strings were named accordingly; </l>
+          <l n="16" rend="ti-1"> The first string charity, </l>
+          <l n="17" rend="ti-2"> The second tenderness, </l>
+          <l n="18"> The rest were pleasure, sorrow, sleep, and sin, </l>
+          <l n="19"> And loving-kindness, that is pity's kin </l>
+          <l n="20" rend="ti-2"> And is most pitiless. </l>
+        </lg>
+        <lg>
+          <l n="21"> There were three men with her, each garmented </l>
+          <l n="22" rend="ti-1"> With gold and shod with gold upon the feet; </l>
+          <l n="23" rend="ti-1"> And with plucked ears of wheat </l>
+          <l n="24"> The first man's hair was wound upon his head. </l>
+          <l n="25"> His face was red, and his mouth curled and sad; </l>
+          <l n="26" rend="ti-1"> All his gold raiment had </l>
+          <l n="27" rend="ti-2"> Pale stains of dust and rust. </l>
+          <l n="28"> A riven hood was pulled across his eyes; </l>
+          <l n="29"> The token of him being upon this wise </l>
+          <l n="30" rend="ti-2"> Made for a sign of Lust. </l>
+        </lg>
+        <lg>
+          <l n="31"> The next was Shame, with hollow heavy face </l>
+          <l n="32" rend="ti-1"> Coloured like green wood when flame kindles it. </l>
+          <l n="33" rend="ti-1"> He hath such feeble feet </l>
+          <l n="34"> They may not well endure in any place. </l>
+          <l n="35"> His face was full of grey old miseries, </l>
+          <l n="36" rend="ti-1"> And all his blood's increase </l>
+          <l n="37" rend="ti-2"> Was even increase of pain. </l>
+          <l n="38"> The last was Fear, that is akin to Death; </l>
+          <l n="39"> He is Shame's friend, and always as Shame saith </l>
+          <l n="40" rend="ti-2"> Fear answers him again. </l>
+        </lg>
+        <pb n="3"/>
+        <lg>
+          <l n="41"> My soul said in me; This is marvellous, </l>
+          <l n="42" rend="ti-1"> Seeing the air's face is not so delicate </l>
+          <l n="43" rend="ti-1"> Nor the sun's grace so great, </l>
+          <l n="44"> If sin and she be kin or amorous. </l>
+          <l n="45"> And seeing where maidens served her on their knees, </l>
+          <l n="46" rend="ti-1"> I bade one crave of these </l>
+          <l n="47" rend="ti-2"> To know the cause thereof. </l>
+          <l n="48"> Then Fear said: I am Pity that was dead. </l>
+          <l n="49"> And Shame said: I am Sorrow comforted. </l>
+          <l n="50" rend="ti-2"> And Lust said: I am Love. </l>
+        </lg>
+        <lg>
+          <l n="51"> Thereat her hands began a lute-playing, </l>
+          <l n="52" rend="ti-1"> And her sweet mouth a song in a strange tongue; </l>
+          <l n="53" rend="ti-1"> And all the while she sung </l>
+          <l n="54"> There was no sound but long tears following </l>
+          <l n="55"> Long tears upon men's faces waxen white </l>
+          <l n="56" rend="ti-1"> With extreme sad delight. </l>
+          <l n="57" rend="ti-2"> But those three following men </l>
+          <l n="58"> Became as men raised up among the dead; </l>
+          <l n="59"> Great glad mouths open and fair cheeks made red </l>
+          <l n="60" rend="ti-2"> With child's blood come again. </l>
+        </lg>
+        <lg>
+          <l n="61"> Then I said: Now assuredly I see </l>
+          <l n="62" rend="ti-1"> My lady is perfect, and transfigureth </l>
+          <l n="63" rend="ti-1"> All sin and sorrow and death, </l>
+          <l n="64"> Making them fair as her own eyelids be, </l>
+          <l n="65"> Or lips wherein my whole soul's life abides; </l>
+          <l n="66" rend="ti-1"> Or as her sweet white sides </l>
+          <pb n="4"/>
+          <l n="67" rend="ti-2"> And bosom carved to kiss. </l>
+          <l n="68"> Now therefore, if her pity further me, </l>
+          <l n="69"> Doubtless for her sake all my days shall be </l>
+          <l n="70" rend="ti-2"> As righteous as she is. </l>
+        </lg>
+        <lg>
+          <l n="71"> Forth, ballad, and take roses in both arms, </l>
+          <l n="72" rend="ti-1"> Even till the top rose touch thee in the throat </l>
+          <l n="73"> Where the least thornprick harms; </l>
+          <l n="74" rend="ti-1"> And girdled in thy golden singing-coat, </l>
+          <l n="75"> Come thou before my lady and say this; </l>
+          <l n="76" rend="ti-1"> Borgia, thy gold hair's colour burns in me, </l>
+          <l n="77" rend="ti-2"> Thy mouth makes beat my blood in feverish rhymes; </l>
+          <l n="78" rend="ti-1"> Therefore so many as these roses be, </l>
+          <l n="79" rend="ti-2"> Kiss me so many times. </l>
+          <l n="80"> Then it may be, seeing how sweet she is, </l>
+          <l n="81" rend="ti-1"> That she will stoop herself none otherwise </l>
+          <l n="82" rend="ti-2"> Than a blown vine-branch doth, </l>
+          <l n="83" rend="ti-1"> And kiss thee with soft laughter on thine eyes, </l>
+          <l n="84" rend="ti-2"> Ballad, and on thy mouth. </l>
+        </lg>
+
+
+      </div>
+    </body>
+  </text>
+</TEI>
