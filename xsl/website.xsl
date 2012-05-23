@@ -10,8 +10,11 @@
         <xsl:text disable-output-escaping="yes">&lt;!DOCTYPE html></xsl:text>
         <html>
             <head>
-                <link href='http://fonts.googleapis.com/css?family=Prata' rel='stylesheet' type='text/css'/>
-                <link rel="stylesheet" href="css/style.css"/>
+                <link href="css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+                <link href="css/print.css" media="print" rel="stylesheet" type="text/css" />
+                <!--[if IE]>
+                    <link href="css/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+                <![endif]-->
             </head>
             <body></body>
         </html>
