@@ -78,9 +78,9 @@
           <l n="21"> There were three men with her, each garmented </l>
           <l n="22" rend="ti-1"> With gold and shod with gold upon the feet; </l>
           <l n="23" rend="ti-1"> And with plucked ears of wheat </l>
-          <l n="24"> The first man's hair was wound upon his head. </l>
+          <l n="24"> The first man's hair was wound upon his head<app><rdg wit="#mc #ny">.</rdg><rdg wit="#hr #cw">:</rdg></app> </l>
           <l n="25"> His face was red, and his mouth curled and sad; </l>
-          <l n="26" rend="ti-1"> All his gold raiment had </l>
+          <l n="26" rend="ti-1"> All his gold <app><rdg wit="#mc #hr #cw">garment</rdg><rdg wit="#mu #ny">raiment</rdg></app> had </l>
           <l n="27" rend="ti-2"> Pale stains of dust and rust. </l>
           <l n="28"> A riven hood was pulled across his eyes; </l>
           <l n="29"> The token of him being upon this wise </l>
@@ -100,7 +100,7 @@
         </lg>
         <pb n="3"/>
         <lg>
-          <l n="41"> My soul said in me; This is marvellous, </l>
+          <l n="41"> My soul said in me<app><rdg wit="#mc #hr #cw">;</rdg><rdg wit="#ny">:</rdg></app> This is marvellous, </l>
           <l n="42" rend="ti-1"> Seeing the air's face is not so delicate </l>
           <l n="43" rend="ti-1"> Nor the sun's grace so great, </l>
           <l n="44"> If sin and she be kin or amorous. </l>
@@ -116,11 +116,11 @@
           <l n="52" rend="ti-1"> And her sweet mouth a song in a strange tongue; </l>
           <l n="53" rend="ti-1"> And all the while she sung </l>
           <l n="54"> There was no sound but long tears following </l>
-          <l n="55"> Long tears upon men's faces waxen white </l>
+          <l n="55"> Long tears upon men's faces<app><rdg wit="#mc"> </rdg><rdg wit="#mu #ny #hr #cw"></rdg></app> waxen white </l>
           <l n="56" rend="ti-1"> With extreme sad delight. </l>
           <l n="57" rend="ti-2"> But those three following men </l>
           <l n="58"> Became as men raised up among the dead; </l>
-          <l n="59"> Great glad mouths open and fair cheeks made red </l>
+          <l n="59"> Great glad mouths open<app><rdg wit="#mc #cw"> </rdg><rdg wit="#mu #ny #hr">, </rdg></app> and fair cheeks made red </l>
           <l n="60" rend="ti-2"> With child's blood come again. </l>
         </lg>
         <lg>
@@ -141,7 +141,7 @@
           <l n="72" rend="ti-1"> Even till the top rose touch thee in the throat </l>
           <l n="73"> Where the least thornprick harms; </l>
           <l n="74" rend="ti-1"> And girdled in thy golden singing-coat, </l>
-          <l n="75"> Come thou before my lady and say this; </l>
+          <l n="75"> Come thou before my lady and say this<app><rdg wit="#mc #hr #cw">;</rdg><rdg wit="#ny">:</rdg></app> </l>
           <l n="76" rend="ti-1"> Borgia, thy gold hair's colour burns in me, </l>
           <l n="77" rend="ti-2"> Thy mouth makes beat my blood in feverish rhymes; </l>
           <l n="78" rend="ti-1"> Therefore so many as these roses be, </l>
@@ -164,7 +164,7 @@
           <l n="4"> Cover thy lips and eyelids, let thine ears </l>
           <l n="5"> Be filled with rumour of people sorrowing; </l>
           <l n="6"> Make thee soft raiment out of woven sighs </l>
-          <l n="7"> Upon the flesh to cleave, </l>
+          <l n="7"> Upon the flesh to cleave<app><rdg wit="#mc #hr #cw">,</rdg><rdg wit="#ny">;</rdg></app> </l>
           <l n="8"> Set pains therein and many a grievous thing, </l>
           <l n="9"> And many sorrows after each his wise </l>
           <l n="10"> For armlet and for gorget and for sleeve. </l>
@@ -173,7 +173,7 @@
           <l n="11"> O Love's lute heard about the lands of death, </l>
           <l n="12"> Left hanged upon the trees that were therein; </l>
           <l n="13"> O Love and Time and Sin, </l>
-          <l n="14"> Three singing mouths that mourn now underbreath, </l>
+          <l n="14"> Three singing mouths that mourn now <app><rdg wit="#mc #cw">underbreath</rdg><rdg wit="#mu #ny #hr">under breath</rdg></app>, </l>
           <l n="15"> Three lovers, each one evil spoken of; </l>
           <l n="16"> O smitten lips wherethrough this voice of mine </l>
           <l n="17"> Came softer with her praise; </l>
@@ -223,7 +223,7 @@
           <l n="51"> The tears that through her eyelids fell on me </l>
           <l n="52"> Made mine own bitter where they ran between </l>
           <l n="53"> As blood had fallen therein, </l>
-          <l n="54"> She saying; Arise, lift up thine eyes and see </l>
+          <l n="54"> She saying<app><rdg wit="#mc #hr #cw">;</rdg><rdg wit="#ny">:</rdg></app> Arise, lift up thine eyes<app><rdg wit="#mc #hr #cw"> </rdg><rdg wit="#ny">,</rdg></app> and see </l>
           <l n="55"> If any glad thing be or any good </l>
           <l n="56"> Now the best thing is taken forth of us; </l>
           <l n="57"> Even she to whom all praise </l>
@@ -250,7 +250,7 @@
           <l n="73"> Sweet still, but now not red, </l>
           <l n="74"> Was the shut mouth whereby men lived and died. </l>
           <l n="75"> And sweet, but emptied of the blood's blue shade, </l>
-          <l n="76"> The great curled eyelids that withheld her eyes. </l>
+          <l n="76"> The great curled eyelids that withheld her eyes<app><rdg wit="#mc #hr #cw">.</rdg><rdg wit="#ny"> </rdg></app> </l>
           <l n="77"> And sweet, but like spoilt gold, </l>
           <l n="78"> The weight of colour in her tresses weighed. </l>
           <l n="79"> And sweet, but as a vesture with new dyes, </l>
@@ -289,10 +289,10 @@
           <l n="105"> And grass that fades ere any of it be mown; </l>
           <l n="106"> And when thy bosom is filled full thereof </l>
           <l n="107"> Seek out Death's face ere the light altereth, </l>
-          <l n="108"> And say "My master that was thrall to Love </l>
+          <l n="108"> And say<app><rdg wit="#mc #hr #cw"> </rdg><rdg wit="#ny">:</rdg></app> "My master that was thrall to Love </l>
           <l n="109"> Is become thrall to Death." </l>
           <l n="110"> Bow down before him, ballad, sigh and groan, </l>
-          <l n="111"> But make no sojourn in thine outgoing; </l>
+          <l n="111"> But make no sojourn in <app><rdg wit="#mc #hr #cw">thine</rdg><rdg wit="#ny">thy</rdg></app> outgoing; </l>
           <l n="112"> For haply it may be </l>
           <l n="113"> That when thy feet return at evening </l>
           <l n="114"> Death shall come in with thee. </l>
@@ -307,10 +307,11 @@
           <cit>
             <quote>
               <p>
+                <!-- TODO: are line breaks important here? -->
                 <foreign xml:lang="fr"> Lors dit en plourant; Hélas trop malheureux homme et
                   mauldict pescheur, oncques ne verrai-je clémence et miséricorde de Dieu. Ores m'en
                   irai-je d'icy et me cacherai dedans le mont Horsel, en requérant de faveur et
-                  d'amoureuse merci ma doulce dame Vénus, car pour son amour serai-je bien à tout
+                  d'amoureuse merci ma doulce dame Vénus, car pour son amour <app><rdg wit="#mc #hr #cw">serai-je</rdg><rdg wit="#ny">serai je</rdg></app> bien à tout
                   jamais damné en enfer. Voicy la fin de tous mes faicts d'armes et de toutes mes
                   belles chansons. Hélas, trop belle estoyt la face de ma dame et ses yeulx, et en
                   mauvais jour je vis ces chouses-là. Lors s'en alla tout en gémissant et se
