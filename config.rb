@@ -3,10 +3,11 @@
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "views/shared/css"
+css_dir = "css"
 sass_dir = "_sass"
-images_dir = "views/shared/images"
-javascripts_dir = "views/shared/javascripts"
+images_dir = "images"
+javascripts_dir = "javascripts"
 output_style = :compressed # expanded, nested, compact, or compressed
 relative_assets = false
 line_comments = false
+
