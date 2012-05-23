@@ -49,11 +49,17 @@
             <hi rend="sc">I found</hi> in dreams a place of wind and flowers, </l>
           <l n="2" rend="ti-1"> Full of sweet trees and colour of glad grass, </l>
           <l n="3" rend="ti-1"> In midst whereof there was </l>
-          <l n="4"> A lady clothed like summer with sweet <app>
+          <l n="4"> A lady clothed like summer with sweet 
+            <app type="substantive">
               <rdg wit="#mc #cw">hours</rdg>
               <rdg wit="#mu #hr">bowers</rdg>
-              <rdg wit="#ny"/>
-            </app>. </l>
+              <rdg wit="#ny">bowers</rdg>
+            </app>
+            <app type="accidental">
+              <rdg wit="#mc #cw #mu #hr">.</rdg>
+              <rdg wit="#ny">;</rdg>
+            </app>
+          </l>
           <l n="5"> Her beauty, fervent as a fiery moon, </l>
           <l n="6" rend="ti-1"> Made my blood burn and swoon </l>
           <l n="7" rend="ti-2"> Like a flame rained upon. </l>
@@ -306,7 +312,7 @@
         <epigraph>
           <cit>
             <quote>
-              <p>
+              <p rend='justify'>
                 <!-- TODO: are line breaks important here? -->
                 <foreign xml:lang="fr"> Lors dit en plourant; Hélas trop malheureux homme et
                   mauldict pescheur, oncques ne verrai-je clémence et miséricorde de Dieu. Ores m'en
