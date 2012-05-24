@@ -33,7 +33,7 @@
                     <nav id="nav-primary"><ul><li>Some navigation</li></ul></nav>
                     
                     <div role="main">
-                        <xsl:apply-templates select="TEI/text/body" />
+                        <!--<xsl:apply-templates select="TEI/text/body" />-->
                     </div>
                     <footer>
                         <p>footer</p>
