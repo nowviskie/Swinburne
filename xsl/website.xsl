@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="tei"
-    version="2.0">
+    version="1.0">
     
     <xsl:output method="html" encoding="UTF-8" indent="no"/>
     
@@ -28,7 +28,17 @@
                 <script src="javascripts/libs/modernizr-2.5.3.min.js" />
             </head>
             <body>
-                
+                <div id="container">
+                    <header role="banner"><h1>Header</h1></header>
+                    <nav id="nav-primary"><ul><li>Some navigation</li></ul></nav>
+                    
+                    <div role="main">
+                        <xsl:apply-templates select="TEI/text/body" />
+                    </div>
+                    <footer>
+                        <p>footer</p>
+                    </footer>
+                </div>
                 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
                 <script src="javascripts/swinburne-1.0.min.js"></script>
             </body>
