@@ -22,6 +22,20 @@
         <listWit>
           <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Alderman Library, UVA,
             and Chadwyck-Healey electronic edition.</witness>
+          <witness xml:id="e">
+            Emory copy, a potential HU. “First edition with Hotten's title page and uncorrected
+            text as first published by Moxon.” Trimmed and re-bound in red (morocco?) with gilt
+            sometime after it was referred to as “first series.” See photos, and note that I did not do a
+            full collation – I only compared E against this apparatus. Hotten title page seems integral
+            (though this could be because of rebinding), as does B1 and B2. In fact, I can find no
+            cancel leaves, therefore leading me to believe that this is a Moxon Uncorrected with
+            Hotten’s title page tipped in, later separated from the Burne-Jones dedication page when
+            re-bound (paper on dedication page is very thin in the gutter). Paper is generally thin like
+            Moxon, but hard to tell with nothing to compare it to. Page signatures are found at lower
+            right. Colophon “BRADBURY, EVANS, AND CO., PRINTERS, WHITEFRIARS” at
+            bottom of 344. No advertisements. See variants 1.4 and 146.5 – E is my only witness so
+            far to those readings.
+          </witness>
           <witness xml:id="mc"> same edition as MU with errors detected by ACS corrected, 1866. UVA
             Special Collections and library of Jerome J. McGann. </witness>
           <witness xml:id="mu">initial printing, Moxon 1866 with printer’s errors (not yet collated
@@ -40,7 +54,11 @@
   </teiHeader>
   <text>
     <body>
-
+      <!-- 
+        For examples in dealing with the app and lemmas, see:
+        http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-lem.html#TC 
+        
+      -->
       <div>
         <head rend="center">A BALLAD OF LIFE</head>
         <pb n="[1]"/>
@@ -50,14 +68,15 @@
           <l n="2" rend="ti-1"> Full of sweet trees and colour of glad grass, </l>
           <l n="3" rend="ti-1"> In midst whereof there was </l>
           <l n="4"> A lady clothed like summer with sweet 
-            <app type="substantive">
-              <rdg wit="#mc #cw">hours</rdg>
-              <rdg wit="#mu #hr">bowers</rdg>
-              <rdg wit="#ny">bowers</rdg>
-            </app>
-            <app type="accidental">
-              <rdg wit="#mc #cw #mu #hr">.</rdg>
-              <rdg wit="#ny">;</rdg>
+            <app>
+              <lem wit="#mc #cw">hours.</lem>
+              <rdgGrp>
+                <rdg wit="#hm" type="accidental">hours,</rdg>
+              </rdgGrp>
+              <rdgGrp type="substantive">
+                <rdg wit="#mu, #hr">bowers.</rdg>
+                <rdg wit="#e" type="accidental">bowers,</rdg>
+              </rdgGrp>
             </app>
           </l>
           <l n="5"> Her beauty, fervent as a fiery moon, </l>
@@ -72,7 +91,9 @@
           <l n="12" rend="ti-1"> Shaped heartwise, strung with subtle-coloured hair </l>
           <l n="13" rend="ti-1"> Of some dead lute-player </l>
           <l n="14"> That in dead years had done delicious things. </l>
+          
           <pb n="2"/>
+          
           <l n="15"> The seven strings were named accordingly; </l>
           <l n="16" rend="ti-1"> The first string charity, </l>
           <l n="17" rend="ti-2"> The second tenderness, </l>
@@ -84,9 +105,19 @@
           <l n="21"> There were three men with her, each garmented </l>
           <l n="22" rend="ti-1"> With gold and shod with gold upon the feet; </l>
           <l n="23" rend="ti-1"> And with plucked ears of wheat </l>
-          <l n="24"> The first man's hair was wound upon his head<app><rdg wit="#mc #ny">.</rdg><rdg wit="#hr #cw">:</rdg></app> </l>
+          <l n="24"> The first man's hair was wound upon his 
+            <app>
+              <rdg wit="#mc #ny #e">head.</rdg>
+              <rdg wit="#hr #cw" type="accidental">head:</rdg>
+            </app> 
+          </l>
           <l n="25"> His face was red, and his mouth curled and sad; </l>
-          <l n="26" rend="ti-1"> All his gold <app><rdg wit="#mc #hr #cw">garment</rdg><rdg wit="#mu #ny">raiment</rdg></app> had </l>
+          <l n="26" rend="ti-1"> All his gold 
+            <app>
+              <rdg wit="#mc #hr #cw">garment</rdg>
+              <!-- TODO: in the app, e is raiment, same as mu, ny -->
+              <rdg wit="#mu #ny #e">raiment</rdg>
+            </app> had </l>
           <l n="27" rend="ti-2"> Pale stains of dust and rust. </l>
           <l n="28"> A riven hood was pulled across his eyes; </l>
           <l n="29"> The token of him being upon this wise </l>
@@ -104,9 +135,14 @@
           <l n="39"> He is Shame's friend, and always as Shame saith </l>
           <l n="40" rend="ti-2"> Fear answers him again. </l>
         </lg>
+        
         <pb n="3"/>
+        
         <lg>
-          <l n="41"> My soul said in me<app><rdg wit="#mc #hr #cw">;</rdg><rdg wit="#ny">:</rdg></app> This is marvellous, </l>
+          <l n="41"> My soul said in <app>
+            <rdg wit="#mc #hr #cw">me;</rdg>
+            <rdg wit="#ny">me:</rdg>
+          </app> This is marvellous, </l>
           <l n="42" rend="ti-1"> Seeing the air's face is not so delicate </l>
           <l n="43" rend="ti-1"> Nor the sun's grace so great, </l>
           <l n="44"> If sin and she be kin or amorous. </l>
@@ -303,43 +339,66 @@
           <l n="113"> That when thy feet return at evening </l>
           <l n="114"> Death shall come in with thee. </l>
         </lg>
-        <pb n="[10]"/>
+        
       </div>
+      
+      
+        <div type="blank">
+          <pb n="[10]"/>
+        </div>
+      
+        <div type="half-title">
+        
+          <pb n="[11]"/>
+        
+          <head rend="center">LAUS VENERIS</head>
+        
+        </div>
+        
       <div>
-        <pb n="[11]"/>
-        <head rend="center">LAUS VENERIS</head>
         <pb n="12"/>
+        
         <epigraph>
           <cit>
             <quote>
               <p rend='justify'>
                 <!-- TODO: are line breaks important here? -->
-                <foreign xml:lang="fr"> Lors dit en plourant; Hélas trop malheureux homme et
-                  mauldict pescheur, oncques ne verrai-je clémence et miséricorde de Dieu. Ores m'en
-                  irai-je d'icy et me cacherai dedans le mont Horsel, en requérant de faveur et
-                  d'amoureuse merci ma doulce dame Vénus, car pour son amour <app><rdg wit="#mc #hr #cw">serai-je</rdg><rdg wit="#ny">serai je</rdg></app> bien à tout
-                  jamais damné en enfer. Voicy la fin de tous mes faicts d'armes et de toutes mes
-                  belles chansons. Hélas, trop belle estoyt la face de ma dame et ses yeulx, et en
-                  mauvais jour je vis ces chouses-là. Lors s'en alla tout en gémissant et se
-                  retourna chez elle, et là vescut tristement en grand amour près de sa dame. Puis
-                  après advint que le pape vit un jour esclater sur son baston force belles fleurs
-                  rouges et blanches et maints boutons de feuilles, et ainsi vit-il reverdir toute
-                  l'escorce. Ce dont il eut grande crainte et moult s'en esmut, et grande pitié lui
-                  prit de ce chevalier qui s'en estoyt départi sans espoir comme un homme misérable
-                  et damné. Doncques envoya force messaigers devers luy pour le ramener, disant
-                  qu'il aurait de Dieu grace et bonne absolution de son grand péché d'amour. Mais
-                  oncques plus ne le virent; car toujours demeura ce pauvre chevalier auprès de
-                  Vénus la haulte et forte déesse ès flancs de la montagne amoureuse. </foreign>
+                <foreign xml:lang="fr"> 
+                  Lors dit en plourant; Hélas trop malheureux homme et mauldict <lb/>
+                  pescheur, oncques ne verrai-je clémence et miséricorde de Dieu. Ores <lb/>
+                  m'en irai-je d'icy et me cacherai dedans le mont Horsel, en requérant <lb/>
+                  de faveur et d'amoureuse merci ma doulce dame Vénus, car pour son <lb/>
+                  amour <app>
+                    <rdg wit="#mc #hr #cw">serai-je</rdg>
+                    <rdg wit="#ny">serai je</rdg>
+                  </app> bien à tout jamais damné en enfer. Voicy la fin de <lb/>
+                  tous mes faicts d'armes et de toutes mes belles chansons. Hélas, trop <lb/>
+                  belle estoyt la face de ma dame et ses yeulx, et en mauvais jour je vis <lb/>
+                  ces chouses-là. Lors s'en alla tout en gémissant et se retourna chez <lb/>
+                  elle, et là vescut tristement en grand amour près de sa dame. Puis <lb/>
+                  après advint que le pape vit un jour esclater sur son baston force belles <lb/>
+                  fleurs rouges et blanches et maints boutons de feuilles, et ainsi vit-il <lb/>
+                  reverdir toute l'escorce. Ce dont il eut grande crainte et moult s'en <lb/>
+                  esmut, et grande pitié lui prit de ce chevalier qui s'en estoyt départi <lb/>
+                  sans espoir comme un homme misérable et damné. Doncques envoya <lb/>
+                  force messaigers devers luy pour le ramener, disant qu'il aurait de <lb/>
+                  Dieu grace et bonne absolution de son grand péché d'amour. Mais <lb/>
+                  oncques plus ne le virent; car toujours demeura ce pauvre chevalier <lb/>
+                  auprès de Vénus la haulte et forte déesse ès flancs de la montagne <lb/>
+                  amoureuse. </foreign>
               </p>
             </quote>
             <bibl>
               <foreign xml:lang="fr">
                 <hi rend="i">Livre des grandes merveilles d'amour, escript en latin et en françoys
-                  par Maistre Antoine Gaget.</hi> 1530. </foreign>
+                  par Maistre Antoine Gaget.</hi> 1530. 
+              </foreign>
             </bibl>
           </cit>
         </epigraph>
+        
         <pb n="[13]"/>
+        
         <head rend="center">LAUS VENERIS</head>
         <lg>
           <l n="1">
