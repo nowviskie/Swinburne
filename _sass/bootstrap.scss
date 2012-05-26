@@ -1,19 +1,19 @@
 /*!
- * this is a port to SCSS version of the bootstrap less
- 
- * ==========================================
- * Bootstrap @VERSION
+ * Bootstrap v2.0.3
  *
- * Copyright 2011 Twitter, Inc
+ * Copyright 2012 Twitter, Inc
  * Licensed under the Apache License v2.0
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
- * Date: @DATE
  */
 
+// Updated for SASS:
+//  - remove .less on import filenames
+//  - move @import for reset below mixins, because it uses tab-focus mixin
 
-@import "variables";
+// Core variables and mixins
+@import "variables"; // Modify this for custom colors, font-sizes, etc
 @import "mixins";
 
 // CSS Reset
@@ -24,38 +24,48 @@
 @import "grid";
 @import "layouts";
 
-
-// Styled patterns and elements
+// Base CSS
 @import "type";
-//@import "code";
+@import "code";
 @import "forms";
 @import "tables";
 
+// Components: common
 @import "sprites";
 @import "dropdowns";
 @import "wells";
 @import "component-animations";
 @import "close";
 
+// Components: Buttons & Alerts
 @import "buttons";
 @import "button-groups";
-@import "alerts";
+@import "alerts"; // Note: alerts share common CSS with buttons and thus have styles in buttons
 
+// Components: Nav
+@import "navs";
+@import "navbar";
+@import "breadcrumbs";
+@import "pagination";
+@import "pager";
+
+// Components: Popovers
 @import "modals";
 @import "tooltip";
 @import "popovers";
 
-/*@import "thumbnails";*/
-/*@import "labels-badges";*/
-/*@import "progress-bars";*/
-/*@import "accordion";*/
-/*@import "carousel";*/
-/*@import "hero-unit";*/
+// Components: Misc
+@import "thumbnails";
+@import "labels-badges";
+@import "progress-bars";
+@import "accordion";
+@import "carousel";
+@import "hero-unit";
 
-@import "utilities";
+// Utility classes
+@import "utilities"; // Has to be last to override when necessary
 
-// fonts
-@import url(http://fonts.googleapis.com/css?family=Prata|Buenard|Adamina);
+@import url(http://fonts.googleapis.com/css?family=Adamina);
 
 body {
     color: #000;
@@ -65,6 +75,7 @@ body {
 .opening {
   font-family: Adamina, serif;
   font-size: 12pt;
+  margin-top: 60px;
 }
 
 .center {
