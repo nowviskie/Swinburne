@@ -5,54 +5,96 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Poems and Ballads</title>
-        <author>Algernon Charles Swinburne</author>
+        <title>Poems and Ballads, 1866</title>
+        <author xml:id="ACS">Algernon Charles Swinburne</author>
+        <editor role="general" xml:id="BN">Bethany Nowviskie</editor>
+        <editor role="technical" xml:id="WG">Wayne Graham</editor>
+        <sponsor>Scholars' Lab, University of Virginia Library</sponsor>
+        <principal>Bethany Nowviskie</principal>
       </titleStmt>
       <editionStmt>
-        <edition/>
-        <respStmt>
-          <resp>edited by</resp>
-          <name>Bethany Nowviskie</name>
-        </respStmt>
+        <edition n="0.9">
+          <title>work-in-progress</title>
+          <date when="2012-05-27">27 May 2012</date>
+        </edition>
+        <respStmt><resp>additional annotations provided by </resp><name xml:id="JJM">Jerome J. McGann and Charles Sligh</name></respStmt>
       </editionStmt>
       <publicationStmt>
-        <p>Publication Information</p>
+        <authority>Bethany Nowviskie</authority>
+        <availability status="free">
+          <p>Made freely available under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0</ref> license.</p>
+        </availability>
+        <date when="2012">2012</date>
       </publicationStmt>
       <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Algernon Charles Swinburne</author>
+            <title>Poems and Ballads.</title>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Edward Moxon and Co.</publisher>
+              <date when="1846">1866</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <msDesc>
+          <msIdentifier>
+            <institution>University of Virginia</institution>
+            <repository>Albert and Shirley Small Special Collections Library</repository>
+            <idno>PR5506 .P6 1866b (Copy 1; Robert and Virginia Tunstall Trust Fund.)</idno>
+            <msName>Moxon Corrected Edition (MC)</msName>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <collation>
+                  <formula>8, [2], vii, [1], 344 p. ; 18 cm. (8vo)</formula>
+                </collation>
+              </supportDesc>
+            </objectDesc>
+            <bindingDesc><p>Original green cloth, stamped in gold and blind.</p></bindingDesc>
+          </physDesc>
+        </msDesc>
         <listWit>
-          <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Alderman Library, UVA,
-            and Chadwyck-Healey electronic edition.</witness>
-          <witness xml:id="e">
-            Emory copy, a potential HU. “First edition with Hotten's title page and uncorrected
-            text as first published by Moxon.” Trimmed and re-bound in red (morocco?) with gilt
-            sometime after it was referred to as “first series.” See photos, and note that I did not do a
-            full collation – I only compared E against this apparatus. Hotten title page seems integral
-            (though this could be because of rebinding), as does B1 and B2. In fact, I can find no
-            cancel leaves, therefore leading me to believe that this is a Moxon Uncorrected with
-            Hotten’s title page tipped in, later separated from the Burne-Jones dedication page when
-            re-bound (paper on dedication page is very thin in the gutter). Paper is generally thin like
-            Moxon, but hard to tell with nothing to compare it to. Page signatures are found at lower
-            right. Colophon “BRADBURY, EVANS, AND CO., PRINTERS, WHITEFRIARS” at
-            bottom of 344. No advertisements. See variants 1.4 and 146.5 – E is my only witness so
-            far to those readings.
-          </witness>
-          <witness xml:id="mc"> same edition as MU with errors detected by ACS corrected, 1866. UVA
+          <witness xml:id="mu">Initial printing, Moxon 1866 with printer’s errors (not yet collated
+            -- any information re: this volume comes from collations by T. J. Wise and my examination of E). 
+            True MUs reported in libraries of Mark Samuels Lasner and Cecil Lang.</witness>
+          <witness xml:id="mc">Same edition as MU with errors detected by ACS corrected, 1866. Examined: UVA
             Special Collections and library of Jerome J. McGann. </witness>
-          <witness xml:id="mu">initial printing, Moxon 1866 with printer’s errors (not yet collated
-            -- any information re: this volume comes from collations by T. J. Wise). Library of Mark
-            Samuels Lasner, and library of Cecil xml:lang.</witness>
           <witness xml:id="ny">Carleton/Moxon “Author’s Edition” 1866 (set from MU with spelling
-            Americanized, punctuation regularized, and additional errors). Alderman Library and
+            Americanized, punctuation regularized, and additional errors). xamined: Alderman Library and
             Special Collections, UVA. (Americanized spellings in a separate listing.)</witness>
-          <witness xml:id="hm">Moxon remainders with Hotten title-page inserted. No variations
-            between this text and MC, therefore not listed below. UVA Special Collections.</witness>
-          <witness xml:id="hr">first Hotten reprint set from MU 1866, with additional errors.
-            Library of Jerome J. McGann.</witness>
+          <witness xml:id="hm">Moxon remainders with Hotten title-page inserted. Initially found no variants between
+            UVA Special Collections copy and MC (therefore HMC), but Nowviskie HM copy varies. To disentangle.</witness>
+          <witness xml:id="hr">First Hotten reprint set from MU 1866, with additional errors. Examined: Library of Jerome J. McGann.</witness>
+          <witness xml:id="e">
+            Emory copy, a potential HMU (Moxon Uncorrected with Hotten’s title page tipped in), later re-bound. 
+            NB variants 1.4 and 146.5 – my only witness so far to those readings. Examined: Emory MARBL, single copy.
+          </witness>
+          <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
+            and Chadwyck-Healey electronic edition.</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Work toward a critical edition, tracing the re-introduction of errors identified and corrected by Swinburne in the 1866 Moxon Corrected edition, into subsequent Hotten, Carleton, and Chatto &amp; Windus texts.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>Page signatures and running headers have not been reproduced.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <p>All variants, accidental and substantive, are encoded here -- with the exception of Americanized spellings in the New York (Carleton) edition, noted separately.</p>
+      </editorialDecl>
+    </encodingDesc>
   </teiHeader>
   <text>
+    <front>
+      <gap>
+        <desc>All front matter (including advertisements, half title, title, dedication, and table of contents) has been temporarily omitted.</desc>
+      </gap>
+    </front>
     <body>
       <!-- 
         For examples in dealing with the app and lemmas, see:
