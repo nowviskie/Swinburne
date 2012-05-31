@@ -46,12 +46,12 @@
           <div class="container">
 
             <div class="subnav">
-          <ul class="nav nav-pills">
-            <li><a href="#a_ballad_of_life">A Ballad of Life</a></li>
-            <li><a href="#a_ballad_of_death">A Ballad of Death</a></li>
-            <li><a href="#laus_veneris">Laus Veneris</a></li>
-          </ul>
-        </div>
+              <ul class="nav nav-pills">
+                <li><a href="#a_ballad_of_life">A Ballad of Life</a></li>
+                <li><a href="#a_ballad_of_death">A Ballad of Death</a></li>
+                <li><a href="#laus_veneris">Laus Veneris</a></li>
+              </ul>
+            </div>
 
 
             <!-- <section class="opening">
@@ -181,46 +181,66 @@
                 <span data-"65" class="line"> Or lips wherein my whole soul's life abides; </span>
                 <span data-"66" class="line ti-1"> Or as her sweet white sides </span>
                 </section>
-             </section>
+                </section>
 
                 <div class="row">
                   <div class="span12">
                     <div class="alert alert-info">
-                     The <strong>Moxon Corrected</strong> edition was the bomb, yo! But then it got secretly un-corrected and some dude in <code>New York</code> totally stole it. The MPAA was so lame in the 19th century.
+                      The <strong>Moxon Corrected</strong> edition was the bomb, yo! But then it got secretly un-corrected and some dude in <code>New York</code> totally stole it. The MPAA was so lame in the 19th century.
                     </div>
+                  </div>
+                </div>
+
+                <footer class="footer">
+                <p class="pull-right"><a href="#">Back to top</a>
+                <p>Edited with all the love in the world by <a href="http://twitter.com/nowviskie">@nowviskie</a>. Tenderly code-ninja'd by <a href="http://twitter.com/wayne_graham">@wayne_graham</a>.</p>
+                <p>Code licensed under the
+                <a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>
+                . Documentation and XML encoding licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0</a>.</p>
+                </footer>
+
               </div>
+
             </div>
 
-            <footer class="footer">
-            <p class="pull-right"><a href="#">Back to top</a>
-            <p>Edited with all the love in the world by <a href="http://twitter.com/nowviskie">@nowviskie</a>. Tenderly code-ninja'd by <a href="http://twitter.com/wayne_graham">@wayne_graham</a>.</p>
-            <p>Code licensed under the
-<a target="_blank" href="http://www.apache.org/licenses/LICENSE-2.0">Apache License v2.0</a>
-. Documentation and XML encoding licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0</a>.</p>
-              </footer>
+          </div>
 
-              </div>
-   
-                        </div>
+          <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+          <script>window.jQuery || document.write('<script src="javascripts/libs/jquery-1.7.2.min.js"><\/script>')</script>
+            <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
-        </div>
+            <script src="javascripts/swinburne-1.0.js"></script>
+            <script src="javascripts/stats.js"></script>
 
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="javascripts/libs/jquery-1.7.2.min.js"><\/script>')</script>
-          <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+            <script>
+              $(function() {
 
-          <script src="javascripts/swinburne-1.0.js"></script>
+                // Stats
+                var stats = new Stats();
+                stats.setMode(1);
+                stats.domElement.style.position = 'absolute';
+                stats.domElement.style.left = '0px';
+                stats.domElement.style.top = '40px';
 
-          <script>
-            $('.anaglyphic').click(function(){
-              $('.app').addClass('anaglyphic');
-            });
-            $('.normal').click(function(){
-              $('.app').removeClass('anaglyphic');
-            });
-          </script>
+                document.body.appendChild(stats.domElement);
+
+                setInterval(function() {
+                  stats.begin();
 
 
-        </body>
-      </html>
+                  stats.end();
+                }, 1000 / 60);
+
+                $('.anaglyphic').click(function(){
+                  $('.app').addClass('anaglyphic');
+                });
+                $('.normal').click(function(){
+                  $('.app').removeClass('anaglyphic');
+                });
+              });
+            </script>
+
+
+          </body>
+        </html>
 
