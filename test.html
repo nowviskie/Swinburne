@@ -1,9 +1,9 @@
 <!doctype html>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-  <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-    <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-      <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
         <head>
           <meta charset="utf-8">
 
@@ -36,6 +36,7 @@
                   <ul class="nav">
                     <li class="active"><a href="#" class="normal">Normal</a></li>
                     <li class=""><a href="#" class="anaglyphic">Anaglyphic</a></li>
+                    <li class=""><a href="#" class="hinman">Hinman</a></li>
                   </ul>
                 </div>
               </div>
@@ -107,7 +108,7 @@
                 <span data-n="23" class="line ti-1"> And with plucked ears of wheat </span>
                 <span data-n="24" class="line"> The first man's hair was wound upon his 
                   <span class="app" title="head:">
-                    <rdg wit="#mc #ny #e">head.</rdg>
+                    <span data-wit="#mc #ny #e">head.</rdg>
                     <!--<rdg wit="#hr #cw" type="accidental">head:</rdg>-->
                   </span> 
                 </span>
@@ -213,9 +214,7 @@
             <script src="javascripts/stats.js"></script>
 
             <script>
-              $(function() {
-
-                // Stats
+ // Stats
                 var stats = new Stats();
                 stats.setMode(1);
                 stats.domElement.style.position = 'absolute';
@@ -231,13 +230,34 @@
                   stats.end();
                 }, 1000 / 60);
 
+
+                $(function() {
+
+                  var hinman_sound = document.createElement('audio');
+                  document.body.appendChild(hinman_sound);
+                  hinman_sound.setAttribute('src', 'audio/ticktock.ogg');
+                  hinman_sound.setAttribute('loop', true);
+
+
                 $('.anaglyphic').click(function(){
                   $('.app').addClass('anaglyphic');
+                  console.log('anaglyph');
                 });
+                 $('.hinman').click(function(){
+                   $('.app').addClass('blink');
+                   $('.blink').blink({delay:350});
+                   hinman_sound.play();
+                   console.log('blink');
+                });
+
+
                 $('.normal').click(function(){
                   $('.app').removeClass('anaglyphic');
+                  $('.blink').stopBlink();
+                  $('.app').removeClass('blink');
+                  hinman_sound.pause();
                 });
-              });
+            })
             </script>
 
 
