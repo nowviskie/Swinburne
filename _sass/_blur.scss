@@ -1,3 +1,11 @@
+@mixin transition ($seconds) {
+   -webkit-transition: opacity $seconds linear, -webkit-transform $seconds ease-in-out, box-shadow $seconds ease-in-out;
+   -moz-transition: opacity $seconds linear, -moz-transform $seconds ease-in-out, box-shadow $seconds ease-in-out;
+   -o-transition: opacity $seconds linear, -o-transform $seconds ease-in-out, box-shadow $seconds ease-in-out;
+   -ms-transition: opacity $seconds linear, -ms-transform $seconds ease-in-out, box-shadow $seconds ease-in-out;
+   transition: opacity $seconds linear, transform $seconds ease-in-out, box-shadow $seconds ease-in-out;
+}
+
 
   section {
     display: block;
@@ -6,11 +14,7 @@
     -webkit-backface-visibility: hidden;
     z-index: 1;
     box-shadow: px 0px 0px 10px rgba(255,255,255,1), 1px 1px 3px 10px rgba(0,0,0,0.2);
-    -webkit-transition: opacity 0.4s linear, -webkit-transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
-    -moz-transition: opacity 0.4s linear, -moz-transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
-    -o-transition: opacity 0.4s linear, -o-transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
-    -ms-transition: opacity 0.4s linear, -ms-transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
-    transition: opacity 0.4s linear, transform 0.4s ease-in-out, box-shadow 0.4s ease-in-out;
+    @include transition(0.4s);
 
     .line {
       -webkit-transition: opacity 0.2s linear, text-shadow 0.5s ease-in-out, color 0.5s ease-in-out;
@@ -18,11 +22,11 @@
       ease-in-out, color 0.5s ease-in-out;
       -o-transition: opacity 0.2s linear, text-shadow 0.5s ease-in-out, color 0.5s ease-in-out;
       -ms-transition: opacity 0.2s linear, text-shadow 0.5s ease-in-out, color 0.5s ease-in-out;
-      transition: opacity 0.2s linear, text-shadow 0.5s ease-in-out, color 0.5s ease-in-out;    
+      transition: opacity 0.2s linear, text-shadow 0.5s ease-in-out, color 0.5s ease-in-out;
     }
 
     .blur {
-      box-shadow: 0px 0px 20px 10px rgba(255, 255, 255, 1);
+      box-shadow: 0px 0px 20px 10px rgba(255,255,255,1);
 	    -webkit-transform: scale(0.9);
 	    -moz-transform: scale(0.9);
 	    -o-transform: scale(0.9);
