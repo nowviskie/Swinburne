@@ -37,6 +37,7 @@ window.log = function f() {
   }
 }());
 
+// blink
 (function($) {
   $.fn.blink = function(options) {
     var defaults = { delay: 500 };
