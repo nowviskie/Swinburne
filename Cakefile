@@ -8,10 +8,10 @@ files = [
 	'./javascripts/libs/bootstrap/bootstrap-collapse.js',
 	'./javascripts/libs/bootstrap/bootstrap-dropdown.js',
 	'./javascripts/libs/bootstrap/bootstrap-modal.js',
+  './javascripts/libs/bootstrap/bootstrap-tooltip.js',
 	'./javascripts/libs/bootstrap/bootstrap-popover.js',
 	'./javascripts/libs/bootstrap/bootstrap-tab.js',
-	'./javascripts/libs/bootstrap/bootstrap-tooltip.js',
-	'./javascripts/libs/bootstrap/bootstrap-transition.js',
+		'./javascripts/libs/bootstrap/bootstrap-transition.js',
 	'./javascripts/libs/bootstrap/bootstrap-typeahead.js',
   './javascripts/swinburne.js',
 ]
