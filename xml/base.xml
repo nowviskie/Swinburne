@@ -57,21 +57,19 @@
           </physDesc>
         </msDesc>
         <listWit>
-          <witness xml:id="mu">Initial printing, Moxon 1866 with printer’s errors (not yet collated
-            -- any information re: this volume comes from collations by T. J. Wise and my examination of E). 
+          <witness xml:id="mu">Initial printing, Moxon 1866 with printer’s errors (Not yet collated.
+            Any information re: this volume comes from collations by T. J. Wise and my examination of E). 
             True MUs reported in libraries of Mark Samuels Lasner and Cecil Lang.</witness>
           <witness xml:id="mc">Same edition as MU with errors detected by ACS corrected, 1866. Examined: UVA
             Special Collections and library of Jerome J. McGann. </witness>
+          <witness xml:id="hm">Moxon remainders with Hotten title-page inserted. Initially found no variants between
+            UVA Special Collections copy and MC (therefore HMC), but Nowviskie HM copy varies. To disentangle.</witness>
+          <witness xml:id="e">Emory copy, a potential HMU (Moxon Uncorrected with Hotten’s title page tipped in), later re-bound. 
+            NB variants 1.4 and 146.5 – my only witness so far to those readings.</witness>
+          <witness xml:id="hr">First Hotten reprint set from MU 1866, with additional errors. Examined: Library of Jerome J. McGann.</witness>
           <witness xml:id="ny">Carleton/Moxon “Author’s Edition” 1866 (set from MU with spelling
             Americanized, punctuation regularized, and additional errors). xamined: Alderman Library and
             Special Collections, UVA. (Americanized spellings in a separate listing.)</witness>
-          <witness xml:id="hm">Moxon remainders with Hotten title-page inserted. Initially found no variants between
-            UVA Special Collections copy and MC (therefore HMC), but Nowviskie HM copy varies. To disentangle.</witness>
-          <witness xml:id="hr">First Hotten reprint set from MU 1866, with additional errors. Examined: Library of Jerome J. McGann.</witness>
-          <witness xml:id="e">
-            Emory copy, a potential HMU (Moxon Uncorrected with Hotten’s title page tipped in), later re-bound. 
-            NB variants 1.4 and 146.5 – my only witness so far to those readings. Examined: Emory MARBL, single copy.
-          </witness>
           <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
             and Chadwyck-Healey electronic edition.</witness>
         </listWit>
@@ -85,7 +83,7 @@
         <p>Page signatures and running headers have not been reproduced.</p>
       </samplingDecl>
       <editorialDecl>
-        <p>All variants, accidental and substantive, are encoded here -- with the exception of Americanized spellings in the New York (Carleton) edition, noted separately.</p>
+        <p>All variants, accidental and substantive, are encoded here&#x2014;with the exception of Americanized spellings in the New York (Carleton) edition, noted separately.</p>
       </editorialDecl>
     </encodingDesc>
   </teiHeader>
@@ -157,9 +155,9 @@
           <l n="25"> His face was red, and his mouth curled and sad; </l>
           <l n="26" rend="ti-1"> All his gold 
             <app>
-              <rdg wit="#mc #hr #cw">garment</rdg>
+              <rdg wit="#hr #cw">garment</rdg>
               <!-- TODO: in the app, e is raiment, same as mu, ny -->
-              <rdg wit="#mu #ny #e">raiment</rdg>
+              <rdg wit="#mc #mu #ny #e">raiment</rdg>
             </app> had </l>
           <l n="27" rend="ti-2"> Pale stains of dust and rust. </l>
           <l n="28"> A riven hood was pulled across his eyes; </l>
