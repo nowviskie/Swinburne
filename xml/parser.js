@@ -13,14 +13,14 @@ fs.readFile(xmlFile, function (er, d) {
     var xmlstr = d.toString("utf8")
 
     var parser = sax.parser(true)
-    var products = []
-    var product = null
+    var linegroups = []
+    var line = null
     var currentTag = null
 
     parser.onclosetag = function (tagName) {
       if (tagName === "lg") {
-        products.push(product)
-        currentTag = product = null
+        linegroups.push(line)
+        currentTag = line = null
         return
       }
       if (currentTag && currentTag.parent) {
@@ -31,9 +31,9 @@ fs.readFile(xmlFile, function (er, d) {
     }
 
     parser.onopentag = function (tag) {
-      if (tag.name !== "lg" && !product) return
+      if (tag.name !== "lg" && !line) return
       if (tag.name === "lg") {
-        product = tag
+        line = tag
       }
       tag.parent = currentTag
       tag.children = []
@@ -46,12 +46,12 @@ fs.readFile(xmlFile, function (er, d) {
     }
 
     parser.onend = function () {
-      var out = util.inspect(products, false, 3, true)
+      var out = util.inspect(linegroups, false, 3, true)
       res.writeHead(200, {"content-type":"application/json"})
       //res.end("{\"ok\":true}")
-      res.end(JSON.stringify(products))
+      res.end(JSON.stringify(linegroups))
 
-      //console.log(products)
+      //console.log(linegroups)
     }
 
     parser.write(xmlstr).end()
