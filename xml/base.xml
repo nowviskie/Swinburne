@@ -100,334 +100,364 @@
       -->
       <div>
         <div type="opening">
-        <pb n="[1]" type="verso"/>
-        
-        <head rend="center">A BALLAD OF LIFE</head>
-        
-        <lg>
-          <l n="1">
-            <hi rend="sc">I found</hi> in dreams a place of wind and flowers, </l>
-          <l n="2" rend="ti-1"> Full of sweet trees and colour of glad grass, </l>
-          <l n="3" rend="ti-1"> In midst whereof there was </l>
-          <l n="4"> A lady clothed like summer with sweet 
-            <app>
-              <lem wit="#mc #cw">hours.</lem>
-              <rdgGrp>
-                <rdg wit="#hm" type="accidental">hours,</rdg>
-              </rdgGrp>
-              <rdgGrp type="substantive">
-                <rdg wit="#mu, #hr">bowers.</rdg>
-                <rdg wit="#e" type="accidental">bowers,</rdg>
-              </rdgGrp>
-            </app>
-          </l>
-          <l n="5"> Her beauty, fervent as a fiery moon, </l>
-          <l n="6" rend="ti-1"> Made my blood burn and swoon </l>
-          <l n="7" rend="ti-2"> Like a flame rained upon. </l>
-          <l n="8"> Sorrow had filled her shaken eyelids' blue, </l>
-          <l n="9"> And her mouth's sad red heavy rose all through </l>
-          <l n="10" rend="ti-2"> Seemed sad with glad things gone. </l>
-        </lg>
-        <lg>
-          <l n="11"> She held a little cithern by the strings, </l>
-          <l n="12" rend="ti-1"> Shaped heartwise, strung with subtle-coloured hair </l>
-          <l n="13" rend="ti-1"> Of some dead lute-player </l>
-          <l n="14"> That in dead years had done delicious things. </l>
-        </lg>
-        
-          <pb n="2" type="recto"/>
-        <lg>
-          <l n="15"> The seven strings were named accordingly; </l>
-          <l n="16" rend="ti-1"> The first string charity, </l>
-          <l n="17" rend="ti-2"> The second tenderness, </l>
-          <l n="18"> The rest were pleasure, sorrow, sleep, and sin, </l>
-          <l n="19"> And loving-kindness, that is pity's kin </l>
-          <l n="20" rend="ti-2"> And is most pitiless. </l>
-        </lg>
-        <lg>
-          <l n="21"> There were three men with her, each garmented </l>
-          <l n="22" rend="ti-1"> With gold and shod with gold upon the feet; </l>
-          <l n="23" rend="ti-1"> And with plucked ears of wheat </l>
-          <l n="24"> The first man's hair was wound upon his 
-            <app>
-              <rdg wit="#mc #ny #e">head.</rdg>
-              <rdg wit="#hr #cw" type="accidental">head:</rdg>
-            </app> 
-          </l>
-          <l n="25"> His face was red, and his mouth curled and sad; </l>
-          <l n="26" rend="ti-1"> All his gold 
-            <app>
-              <rdg wit="#hr #cw">garment</rdg>
-              <!-- TODO: in the app, e is raiment, same as mu, ny -->
-              <rdg wit="#mc #mu #ny #e">raiment</rdg>
-            </app> had </l>
-          <l n="27" rend="ti-2"> Pale stains of dust and rust. </l>
-          <l n="28"> A riven hood was pulled across his eyes; </l>
-          <l n="29"> The token of him being upon this wise </l>
-          <l n="30" rend="ti-2"> Made for a sign of Lust. </l>
-        </lg>
-        <lg>
-          <l n="31"> The next was Shame, with hollow heavy face </l>
-          <l n="32" rend="ti-1"> Coloured like green wood when flame kindles it. </l>
-          <l n="33" rend="ti-1"> He hath such feeble feet </l>
-          <l n="34"> They may not well endure in any place. </l>
-          <l n="35"> His face was full of grey old miseries, </l>
-          <l n="36" rend="ti-1"> And all his blood's increase </l>
-          <l n="37" rend="ti-2"> Was even increase of pain. </l>
-          <l n="38"> The last was Fear, that is akin to Death; </l>
-          <l n="39"> He is Shame's friend, and always as Shame saith </l>
-          <l n="40" rend="ti-2"> Fear answers him again. </l>
-        </lg>
+          <div type="verso">
+            <pb n="[1]" type="verso"/>
+
+            <head rend="center">A BALLAD OF LIFE</head>
+
+            <lg>
+              <l n="1">
+                <hi rend="sc">I found</hi> in dreams a place of wind and flowers, </l>
+              <l n="2" rend="ti-1"> Full of sweet trees and colour of glad grass, </l>
+              <l n="3" rend="ti-1"> In midst whereof there was </l>
+              <l n="4"> A lady clothed like summer with sweet <app>
+                  <lem wit="#mc #cw">hours.</lem>
+                  <rdgGrp>
+                    <rdg wit="#hm" type="accidental">hours,</rdg>
+                  </rdgGrp>
+                  <rdgGrp type="substantive">
+                    <rdg wit="#mu, #hr">bowers.</rdg>
+                    <rdg wit="#e" type="accidental">bowers,</rdg>
+                  </rdgGrp>
+                </app>
+              </l>
+              <l n="5"> Her beauty, fervent as a fiery moon, </l>
+              <l n="6" rend="ti-1"> Made my blood burn and swoon </l>
+              <l n="7" rend="ti-2"> Like a flame rained upon. </l>
+              <l n="8"> Sorrow had filled her shaken eyelids' blue, </l>
+              <l n="9"> And her mouth's sad red heavy rose all through </l>
+              <l n="10" rend="ti-2"> Seemed sad with glad things gone. </l>
+            </lg>
+            <lg>
+              <l n="11"> She held a little cithern by the strings, </l>
+              <l n="12" rend="ti-1"> Shaped heartwise, strung with subtle-coloured hair </l>
+              <l n="13" rend="ti-1"> Of some dead lute-player </l>
+              <l n="14"> That in dead years had done delicious things. </l>
+            </lg>
           </div>
+          <div type="recto">
+
+            <pb n="2" type="recto"/>
+            <lg>
+              <l n="15"> The seven strings were named accordingly; </l>
+              <l n="16" rend="ti-1"> The first string charity, </l>
+              <l n="17" rend="ti-2"> The second tenderness, </l>
+              <l n="18"> The rest were pleasure, sorrow, sleep, and sin, </l>
+              <l n="19"> And loving-kindness, that is pity's kin </l>
+              <l n="20" rend="ti-2"> And is most pitiless. </l>
+            </lg>
+            <lg>
+              <l n="21"> There were three men with her, each garmented </l>
+              <l n="22" rend="ti-1"> With gold and shod with gold upon the feet; </l>
+              <l n="23" rend="ti-1"> And with plucked ears of wheat </l>
+              <l n="24"> The first man's hair was wound upon his <app>
+                  <rdg wit="#mc #ny #e">head.</rdg>
+                  <rdg wit="#hr #cw" type="accidental">head:</rdg>
+                </app>
+              </l>
+              <l n="25"> His face was red, and his mouth curled and sad; </l>
+              <l n="26" rend="ti-1"> All his gold <app>
+                  <rdg wit="#hr #cw">garment</rdg>
+                  <!-- TODO: in the app, e is raiment, same as mu, ny -->
+                  <rdg wit="#mc #mu #ny #e">raiment</rdg>
+                </app> had </l>
+              <l n="27" rend="ti-2"> Pale stains of dust and rust. </l>
+              <l n="28"> A riven hood was pulled across his eyes; </l>
+              <l n="29"> The token of him being upon this wise </l>
+              <l n="30" rend="ti-2"> Made for a sign of Lust. </l>
+            </lg>
+            <lg>
+              <l n="31"> The next was Shame, with hollow heavy face </l>
+              <l n="32" rend="ti-1"> Coloured like green wood when flame kindles it. </l>
+              <l n="33" rend="ti-1"> He hath such feeble feet </l>
+              <l n="34"> They may not well endure in any place. </l>
+              <l n="35"> His face was full of grey old miseries, </l>
+              <l n="36" rend="ti-1"> And all his blood's increase </l>
+              <l n="37" rend="ti-2"> Was even increase of pain. </l>
+              <l n="38"> The last was Fear, that is akin to Death; </l>
+              <l n="39"> He is Shame's friend, and always as Shame saith </l>
+              <l n="40" rend="ti-2"> Fear answers him again. </l>
+            </lg>
+          </div>
+        </div>
         <div type="opening">
-        <pb n="3" type="verso"/>
-        
-        <lg>
-          <l n="41"> My soul said in <app>
-            <rdg wit="#mc #hr #cw #e">me;</rdg>
-            <rdg wit="#ny">me:</rdg>
-          </app> This is marvellous, </l>
-          <l n="42" rend="ti-1"> Seeing the air's face is not so delicate </l>
-          <l n="43" rend="ti-1"> Nor the sun's grace so great, </l>
-          <l n="44"> If sin and she be kin or amorous. </l>
-          <l n="45"> And seeing where maidens served her on their knees, </l>
-          <l n="46" rend="ti-1"> I bade one crave of these </l>
-          <l n="47" rend="ti-2"> To know the cause thereof. </l>
-          <l n="48"> Then Fear said: I am Pity that was dead. </l>
-          <l n="49"> And Shame said: I am Sorrow comforted. </l>
-          <l n="50" rend="ti-2"> And Lust said: I am Love. </l>
-        </lg>
-        <lg>
-          <l n="51"> Thereat her hands began a lute-playing, </l>
-          <l n="52" rend="ti-1"> And her sweet mouth a song in a strange tongue; </l>
-          <l n="53" rend="ti-1"> And all the while she sung </l>
-          <l n="54"> There was no sound but long tears following </l>
-          <l n="55"> Long tears upon men's <app>
-            <rdg wit="#mc">faces waxen</rdg>
-            <rdg wit="#mu #ny #hr #cw #e">faces, waxen</rdg>
-          </app> white </l>
-          <l n="56" rend="ti-1"> With extreme sad delight. </l>
-          <l n="57" rend="ti-2"> But those three following men </l>
-          <l n="58"> Became as men raised up among the dead; </l>
-          <l n="59"> Great glad mouths <app>
-            <rdg wit="#mc #cw">open and</rdg>
-            <rdg wit="#mu #ny #hr #e">open, and</rdg>
-          </app>  fair cheeks made red </l>
-          <l n="60" rend="ti-2"> With child's blood come again. </l>
-        </lg>
-        <lg>
-          <l n="61"> Then I said: Now assuredly I see </l>
-          <l n="62" rend="ti-1"> My lady is perfect, and transfigureth </l>
-          <l n="63" rend="ti-1"> All sin and sorrow and death, </l>
-          <l n="64"> Making them fair as her own eyelids be, </l>
-          <l n="65"> Or lips wherein my whole soul's life abides; </l>
-          <l n="66" rend="ti-1"> Or as her sweet white sides </l>
-          </lg>
-          <pb n="4" type="recto"/>
-          <lg>
-          <l n="67" rend="ti-2"> And bosom carved to kiss. </l>
-          <l n="68"> Now therefore, if her pity further me, </l>
-          <l n="69"> Doubtless for her sake all my days shall be </l>
-          <l n="70" rend="ti-2"> As righteous as she is. </l>
-        </lg>
-        <lg>
-          <l n="71"> Forth, ballad, and take roses in both arms, </l>
-          <l n="72" rend="ti-1"> Even till the top rose touch thee in the throat </l>
-          <l n="73"> Where the least thornprick harms; </l>
-          <l n="74" rend="ti-1"> And girdled in thy golden singing-coat, </l>
-          <l n="75"> Come thou before my lady and say <app><rdg wit="#mc #hr #cw #e">this;</rdg><rdg wit="#ny">this:</rdg></app> </l>
-          <l n="76" rend="ti-1"> Borgia, thy gold hair's colour burns in me, </l>
-          <l n="77" rend="ti-2"> Thy mouth makes beat my blood in feverish rhymes; </l>
-          <l n="78" rend="ti-1"> Therefore so many as these roses be, </l>
-          <l n="79" rend="ti-2"> Kiss me so many times. </l>
-          <l n="80"> Then it may be, seeing how sweet she is, </l>
-          <l n="81" rend="ti-1"> That she will stoop herself none otherwise </l>
-          <l n="82" rend="ti-2"> Than a blown vine-branch doth, </l>
-          <l n="83" rend="ti-1"> And kiss thee with soft laughter on thine eyes, </l>
-          <l n="84" rend="ti-2"> Ballad, and on thy mouth. </l>
-        </lg>
+          <div type="recto">
+            <pb n="3"/>
+
+            <lg>
+              <l n="41"> My soul said in <app>
+                  <rdg wit="#mc #hr #cw #e">me;</rdg>
+                  <rdg wit="#ny">me:</rdg>
+                </app> This is marvellous, </l>
+              <l n="42" rend="ti-1"> Seeing the air's face is not so delicate </l>
+              <l n="43" rend="ti-1"> Nor the sun's grace so great, </l>
+              <l n="44"> If sin and she be kin or amorous. </l>
+              <l n="45"> And seeing where maidens served her on their knees, </l>
+              <l n="46" rend="ti-1"> I bade one crave of these </l>
+              <l n="47" rend="ti-2"> To know the cause thereof. </l>
+              <l n="48"> Then Fear said: I am Pity that was dead. </l>
+              <l n="49"> And Shame said: I am Sorrow comforted. </l>
+              <l n="50" rend="ti-2"> And Lust said: I am Love. </l>
+            </lg>
+            <lg>
+              <l n="51"> Thereat her hands began a lute-playing, </l>
+              <l n="52" rend="ti-1"> And her sweet mouth a song in a strange tongue; </l>
+              <l n="53" rend="ti-1"> And all the while she sung </l>
+              <l n="54"> There was no sound but long tears following </l>
+              <l n="55"> Long tears upon men's <app>
+                  <rdg wit="#mc">faces waxen</rdg>
+                  <rdg wit="#mu #ny #hr #cw #e">faces, waxen</rdg>
+                </app> white </l>
+              <l n="56" rend="ti-1"> With extreme sad delight. </l>
+              <l n="57" rend="ti-2"> But those three following men </l>
+              <l n="58"> Became as men raised up among the dead; </l>
+              <l n="59"> Great glad mouths <app>
+                  <rdg wit="#mc #cw">open and</rdg>
+                  <rdg wit="#mu #ny #hr #e">open, and</rdg>
+                </app> fair cheeks made red </l>
+              <l n="60" rend="ti-2"> With child's blood come again. </l>
+            </lg>
+            <lg>
+              <l n="61"> Then I said: Now assuredly I see </l>
+              <l n="62" rend="ti-1"> My lady is perfect, and transfigureth </l>
+              <l n="63" rend="ti-1"> All sin and sorrow and death, </l>
+              <l n="64"> Making them fair as her own eyelids be, </l>
+              <l n="65"> Or lips wherein my whole soul's life abides; </l>
+              <l n="66" rend="ti-1"> Or as her sweet white sides </l>
+            </lg>
           </div>
+          <div type="verso">
+            <pb n="4"/>
+            <lg>
+              <l n="67" rend="ti-2"> And bosom carved to kiss. </l>
+              <l n="68"> Now therefore, if her pity further me, </l>
+              <l n="69"> Doubtless for her sake all my days shall be </l>
+              <l n="70" rend="ti-2"> As righteous as she is. </l>
+            </lg>
+            <lg>
+              <l n="71"> Forth, ballad, and take roses in both arms, </l>
+              <l n="72" rend="ti-1"> Even till the top rose touch thee in the throat </l>
+              <l n="73"> Where the least thornprick harms; </l>
+              <l n="74" rend="ti-1"> And girdled in thy golden singing-coat, </l>
+              <l n="75"> Come thou before my lady and say <app>
+                  <rdg wit="#mc #hr #cw #e">this;</rdg>
+                  <rdg wit="#ny">this:</rdg>
+                </app>
+              </l>
+              <l n="76" rend="ti-1"> Borgia, thy gold hair's colour burns in me, </l>
+              <l n="77" rend="ti-2"> Thy mouth makes beat my blood in feverish rhymes; </l>
+              <l n="78" rend="ti-1"> Therefore so many as these roses be, </l>
+              <l n="79" rend="ti-2"> Kiss me so many times. </l>
+              <l n="80"> Then it may be, seeing how sweet she is, </l>
+              <l n="81" rend="ti-1"> That she will stoop herself none otherwise </l>
+              <l n="82" rend="ti-2"> Than a blown vine-branch doth, </l>
+              <l n="83" rend="ti-1"> And kiss thee with soft laughter on thine eyes, </l>
+              <l n="84" rend="ti-2"> Ballad, and on thy mouth. </l>
+            </lg>
+          </div>
+      </div>
       </div>
       
       <div>
         <div type="opening">
-        <pb n="[5]" type="verso"/>
-        
-        <head rend="center">A BALLAD OF DEATH</head>
-        <lg>
-          <l n="1">
-            <hi rend="sc">Kneel</hi> down, fair Love, and fill thyself with tears, </l>
-          <l n="2"> Girdle thyself with sighing for a girth </l>
-          <l n="3"> Upon the sides of mirth, </l>
-          <l n="4"> Cover thy lips and eyelids, let thine ears </l>
-          <l n="5"> Be filled with rumour of people sorrowing; </l>
-          <l n="6"> Make thee soft raiment out of woven sighs </l>
-          <l n="7"> Upon the flesh to <app><rdg wit="#mc #hr #cw #e">cleave,</rdg><rdg wit="#ny">cleave;</rdg></app> </l>
-          <l n="8"> Set pains therein and many a grievous thing, </l>
-          <l n="9"> And many sorrows after each his wise </l>
-          <l n="10"> For armlet and for gorget and for sleeve. </l>
-        </lg>
-        <lg>
-          <l n="11"> O Love's lute heard about the lands of death, </l>
-          <l n="12"> Left hanged upon the trees that were therein; </l>
-          <l n="13"> O Love and Time and Sin, </l>
-          <l n="14"> Three singing mouths that mourn now <app>
-            <rdg wit="#mc #cw">underbreath</rdg>
-            <rdg wit="#mu #ny #hr #e">under breath</rdg>
-          </app>, </l>
-          <l n="15"> Three lovers, each one evil spoken of; </l>
-          <l n="16"> O smitten lips wherethrough this voice of mine </l>
-          <l n="17"> Came softer with her praise; </l>
-          <l n="18"> Abide a little for our lady's love. </l>
-          <l n="19"> The kisses of her mouth were more than wine, </l>
-          <l n="20"> And more than peace the passage of her days. </l>
-        </lg>
-        
-        <pb n="6" type="recto"/>
-        
-        <lg>
-          <l n="21"> O Love, thou knowest if she were good to see. </l>
-          <l n="22"> O Time, thou shalt not find in any land </l>
-          <l n="23"> Till, cast out of thine hand, </l>
-          <l n="24"> The sunlight and the moonlight fail from thee, </l>
-          <l n="25"> Another woman fashioned like as this. </l>
-          <l n="26"> O Sin, thou knowest that all thy shame in her </l>
-          <l n="27"> Was made a goodly thing; </l>
-          <l n="28"> Yea, she caught Shame and shamed him with her kiss, </l>
-          <l n="29"> With her fair kiss, and lips much lovelier </l>
-          <l n="30"> Than lips of amorous roses in late spring. </l>
-        </lg>
-        <lg>
-          <l n="31"> By night there stood over against my bed </l>
-          <l n="32"> Queen Venus with a hood striped gold and black, </l>
-          <l n="33"> Both sides drawn fully back </l>
-          <l n="34"> From brows wherein the sad blood failed of red, </l>
-          <l n="35"> And temples drained of purple and full of death. </l>
-          <l n="36"> Her curled hair had the wave of sea-water </l>
-          <l n="37"> And the sea's gold in it. </l>
-          <l n="38"> Her eyes were as a dove's that sickeneth. </l>
-          <l n="39"> Strewn dust of gold she had shed over her, </l>
-          <l n="40"> And pearl and purple and amber on her feet. </l>
-        </lg>
-        <lg>
-          <l n="41"> Upon her raiment of dyed sendaline </l>
-          <l n="42"> Were painted all the secret ways of love </l>
-          <l n="43"> And covered things thereof, </l>
-          <l n="44"> That hold delight as grape-flowers hold their wine; </l>
-          <l n="45"> Red mouths of maidens and red feet of doves, </l>
-          <l n="46"> And brides that kept within the bride-chamber </l>
-        </lg>
-        </div>
-          <div type="opening">
-          <pb n="7" type="verso"/>
-          <lg>
-          <l n="47"> Their garment of soft shame, </l>
-          <l n="48"> And weeping faces of the wearied loves </l>
-          <l n="49"> That swoon in sleep and awake wearier, </l>
-          <l n="50"> With heat of lips and hair shed out like flame. </l>
-        </lg>
-        <lg>
-          <l n="51"> The tears that through her eyelids fell on me </l>
-          <l n="52"> Made mine own bitter where they ran between </l>
-          <l n="53"> As blood had fallen therein, </l>
-          <l n="54"> She <app>
-            <rdg wit="#mc #hr #cw #e">saying; Arise</rdg>
-            <rdg wit="#ny">saying: Arise</rdg>
-          </app>, lift up thine <app><rdg wit="#mc #hr #cw #e">eyes and</rdg><rdg wit="#ny">eyes, and</rdg></app> see </l>
-          <l n="55"> If any glad thing be or any good </l>
-          <l n="56"> Now the best thing is taken forth of us; </l>
-          <l n="57"> Even she to whom all praise </l>
-          <l n="58"> Was as one flower in a great multitude, </l>
-          <l n="59"> One glorious flower of many and glorious, </l>
-          <l n="60"> One day found gracious among many days: </l>
-        </lg>
-        <lg>
-          <l n="61"> Even she whose handmaiden was Love&#x2014;to whom </l>
-          <l n="62"> At kissing times across her stateliest bed </l>
-          <l n="63"> Kings bowed themselves and shed </l>
-          <l n="64"> Pale wine, and honey with the honeycomb, </l>
-          <l n="65"> And spikenard bruised for a burnt-offering; </l>
-          <l n="66"> Even she between whose lips the kiss became </l>
-          <l n="67"> As fire and frankincense; </l>
-          <l n="68"> Whose hair was as gold raiment on a king, </l>
-          <l n="69"> Whose eyes were as the morning purged with flame, </l>
-          <l n="70"> Whose eyelids as sweet savour issuing thence. </l>
-        </lg>
-        <lg>
-          <l n="71"> Then I beheld, and lo on the other side </l>
-          <l n="72"> My lady's likeness crowned and robed and dead. </l>
-          
-          <pb n="8" type="recto"/>
-          
-          <l n="73"> Sweet still, but now not red, </l>
-          <l n="74"> Was the shut mouth whereby men lived and died. </l>
-          <l n="75"> And sweet, but emptied of the blood's blue shade, </l>
-          <l n="76"> The great curled eyelids that withheld her <app>
-            <rdg wit="#mc #hr #cw #e">eyes.</rdg>
-            <rdg wit="#ny">eyes</rdg></app> </l>
-          <l n="77"> And sweet, but like spoilt gold, </l>
-          <l n="78"> The weight of colour in her tresses weighed. </l>
-          <l n="79"> And sweet, but as a vesture with new dyes, </l>
-          <l n="80"> The body that was clothed with love of old. </l>
-        </lg>
-        <lg>
-          <l n="81"> Ah! that my tears filled all her woven hair </l>
-          <l n="82"> And all the hollow bosom of her gown&#x2014; </l>
-          <l n="83"> Ah! that my tears ran down </l>
-          <l n="84"> Even to the place where many kisses were, </l>
-          <l n="85"> Even where her parted breast-flowers have place, </l>
-          <l n="86"> Even where they are cloven apart&#x2014;who knows not this? </l>
-          <l n="87"> Ah! the flowers cleave apart </l>
-          <l n="88"> And their sweet fills the tender interspace; </l>
-          <l n="89"> Ah! the leaves grown thereof were things to kiss </l>
-          <l n="90"> Ere their fine gold was tarnished at the heart. </l>
-        </lg>
-        <lg>
-          <l n="91"> Ah! in the days when God did good to me, </l>
-          <l n="92"> Each part about her was a righteous thing; </l>
-          <l n="93"> Her mouth an almsgiving, </l>
-          <l n="94"> The glory of her garments charity, </l>
-          <l n="95"> The beauty of her bosom a good deed, </l>
-          <l n="96"> In the good days when God kept sight of us; </l>
-          <l n="97"> Love lay upon her eyes, </l>
-          <l n="98"> And on that hair whereof the world takes heed; </l>
-        </lg>
+          <div type="verso">
+            <pb n="[5]"/>
+
+            <head rend="center">A BALLAD OF DEATH</head>
+            <lg>
+              <l n="1">
+                <hi rend="sc">Kneel</hi> down, fair Love, and fill thyself with tears, </l>
+              <l n="2"> Girdle thyself with sighing for a girth </l>
+              <l n="3"> Upon the sides of mirth, </l>
+              <l n="4"> Cover thy lips and eyelids, let thine ears </l>
+              <l n="5"> Be filled with rumour of people sorrowing; </l>
+              <l n="6"> Make thee soft raiment out of woven sighs </l>
+              <l n="7"> Upon the flesh to <app>
+                  <rdg wit="#mc #hr #cw #e">cleave,</rdg>
+                  <rdg wit="#ny">cleave;</rdg>
+                </app>
+              </l>
+              <l n="8"> Set pains therein and many a grievous thing, </l>
+              <l n="9"> And many sorrows after each his wise </l>
+              <l n="10"> For armlet and for gorget and for sleeve. </l>
+            </lg>
+            <lg>
+              <l n="11"> O Love's lute heard about the lands of death, </l>
+              <l n="12"> Left hanged upon the trees that were therein; </l>
+              <l n="13"> O Love and Time and Sin, </l>
+              <l n="14"> Three singing mouths that mourn now <app>
+                  <rdg wit="#mc #cw">underbreath</rdg>
+                  <rdg wit="#mu #ny #hr #e">under breath</rdg>
+                </app>, </l>
+              <l n="15"> Three lovers, each one evil spoken of; </l>
+              <l n="16"> O smitten lips wherethrough this voice of mine </l>
+              <l n="17"> Came softer with her praise; </l>
+              <l n="18"> Abide a little for our lady's love. </l>
+              <l n="19"> The kisses of her mouth were more than wine, </l>
+              <l n="20"> And more than peace the passage of her days. </l>
+            </lg>
           </div>
+          <div type="recto">
+            <pb n="6"/>
+
+            <lg>
+              <l n="21"> O Love, thou knowest if she were good to see. </l>
+              <l n="22"> O Time, thou shalt not find in any land </l>
+              <l n="23"> Till, cast out of thine hand, </l>
+              <l n="24"> The sunlight and the moonlight fail from thee, </l>
+              <l n="25"> Another woman fashioned like as this. </l>
+              <l n="26"> O Sin, thou knowest that all thy shame in her </l>
+              <l n="27"> Was made a goodly thing; </l>
+              <l n="28"> Yea, she caught Shame and shamed him with her kiss, </l>
+              <l n="29"> With her fair kiss, and lips much lovelier </l>
+              <l n="30"> Than lips of amorous roses in late spring. </l>
+            </lg>
+            <lg>
+              <l n="31"> By night there stood over against my bed </l>
+              <l n="32"> Queen Venus with a hood striped gold and black, </l>
+              <l n="33"> Both sides drawn fully back </l>
+              <l n="34"> From brows wherein the sad blood failed of red, </l>
+              <l n="35"> And temples drained of purple and full of death. </l>
+              <l n="36"> Her curled hair had the wave of sea-water </l>
+              <l n="37"> And the sea's gold in it. </l>
+              <l n="38"> Her eyes were as a dove's that sickeneth. </l>
+              <l n="39"> Strewn dust of gold she had shed over her, </l>
+              <l n="40"> And pearl and purple and amber on her feet. </l>
+            </lg>
+            <lg>
+              <l n="41"> Upon her raiment of dyed sendaline </l>
+              <l n="42"> Were painted all the secret ways of love </l>
+              <l n="43"> And covered things thereof, </l>
+              <l n="44"> That hold delight as grape-flowers hold their wine; </l>
+              <l n="45"> Red mouths of maidens and red feet of doves, </l>
+              <l n="46"> And brides that kept within the bride-chamber </l>
+            </lg>
+          </div>
+        </div>
         <div type="opening">
-          <pb n="9" type="verso"/>
-          <lg>
-          <l n="99"> And all her body was more virtuous </l>
-          <l n="100"> Than souls of women fashioned otherwise. </l>
-        </lg>
-        <lg>
-          <l n="101"> Now, ballad, gather poppies in thine hands </l>
-          <l n="102"> And sheaves of brier and many rusted sheaves </l>
-          <l n="103"> Rain-rotten in rank lands, </l>
-          <l n="104"> Waste marigold and late unhappy leaves </l>
-          <l n="105"> And grass that fades ere any of it be mown; </l>
-          <l n="106"> And when thy bosom is filled full thereof </l>
-          <l n="107"> Seek out Death's face ere the light altereth, </l>
-          <l n="108"> And <app>
-            <rdg wit="#mc #hr #cw #e">say "My </rdg>
-            <rdg wit="#ny">say: "My</rdg>
-          </app> master that was thrall to Love </l>
-          <l n="109"> Is become thrall to Death." </l>
-          <l n="110"> Bow down before him, ballad, sigh and groan, </l>
-          <l n="111"> But make no sojourn in <app><rdg wit="#mc #hr #cw #e">thine</rdg><rdg wit="#ny">thy</rdg></app> outgoing; </l>
-          <l n="112"> For haply it may be </l>
-          <l n="113"> That when thy feet return at evening </l>
-          <l n="114"> Death shall come in with thee. </l>
-        </lg>
+          <div type="verso">
+            <pb n="7"/>
+            <lg>
+              <l n="47"> Their garment of soft shame, </l>
+              <l n="48"> And weeping faces of the wearied loves </l>
+              <l n="49"> That swoon in sleep and awake wearier, </l>
+              <l n="50"> With heat of lips and hair shed out like flame. </l>
+            </lg>
+            <lg>
+              <l n="51"> The tears that through her eyelids fell on me </l>
+              <l n="52"> Made mine own bitter where they ran between </l>
+              <l n="53"> As blood had fallen therein, </l>
+              <l n="54"> She <app>
+                  <rdg wit="#mc #hr #cw #e">saying; Arise</rdg>
+                  <rdg wit="#ny">saying: Arise</rdg>
+                </app>, lift up thine <app>
+                  <rdg wit="#mc #hr #cw #e">eyes and</rdg>
+                  <rdg wit="#ny">eyes, and</rdg>
+                </app> see </l>
+              <l n="55"> If any glad thing be or any good </l>
+              <l n="56"> Now the best thing is taken forth of us; </l>
+              <l n="57"> Even she to whom all praise </l>
+              <l n="58"> Was as one flower in a great multitude, </l>
+              <l n="59"> One glorious flower of many and glorious, </l>
+              <l n="60"> One day found gracious among many days: </l>
+            </lg>
+            <lg>
+              <l n="61"> Even she whose handmaiden was Love&#x2014;to whom </l>
+              <l n="62"> At kissing times across her stateliest bed </l>
+              <l n="63"> Kings bowed themselves and shed </l>
+              <l n="64"> Pale wine, and honey with the honeycomb, </l>
+              <l n="65"> And spikenard bruised for a burnt-offering; </l>
+              <l n="66"> Even she between whose lips the kiss became </l>
+              <l n="67"> As fire and frankincense; </l>
+              <l n="68"> Whose hair was as gold raiment on a king, </l>
+              <l n="69"> Whose eyes were as the morning purged with flame, </l>
+              <l n="70"> Whose eyelids as sweet savour issuing thence. </l>
+            </lg>
+            <lg>
+              <l n="71"> Then I beheld, and lo on the other side </l>
+              <l n="72"> My lady's likeness crowned and robed and dead. </l>
+            </lg>
           </div>
-        
-      </div>
-      
-      
-        <div type="blank">
-          
-          <pb n="[10]"/>
-          
+          <div type="recto">
+            <pb n="8" type="recto"/>
+            <lg>
+              <l n="73"> Sweet still, but now not red, </l>
+              <l n="74"> Was the shut mouth whereby men lived and died. </l>
+              <l n="75"> And sweet, but emptied of the blood's blue shade, </l>
+              <l n="76"> The great curled eyelids that withheld her <app>
+                  <rdg wit="#mc #hr #cw #e">eyes.</rdg>
+                  <rdg wit="#ny">eyes</rdg>
+                </app>
+              </l>
+              <l n="77"> And sweet, but like spoilt gold, </l>
+              <l n="78"> The weight of colour in her tresses weighed. </l>
+              <l n="79"> And sweet, but as a vesture with new dyes, </l>
+              <l n="80"> The body that was clothed with love of old. </l>
+            </lg>
+            <lg>
+              <l n="81"> Ah! that my tears filled all her woven hair </l>
+              <l n="82"> And all the hollow bosom of her gown&#x2014; </l>
+              <l n="83"> Ah! that my tears ran down </l>
+              <l n="84"> Even to the place where many kisses were, </l>
+              <l n="85"> Even where her parted breast-flowers have place, </l>
+              <l n="86"> Even where they are cloven apart&#x2014;who knows not this? </l>
+              <l n="87"> Ah! the flowers cleave apart </l>
+              <l n="88"> And their sweet fills the tender interspace; </l>
+              <l n="89"> Ah! the leaves grown thereof were things to kiss </l>
+              <l n="90"> Ere their fine gold was tarnished at the heart. </l>
+            </lg>
+            <lg>
+              <l n="91"> Ah! in the days when God did good to me, </l>
+              <l n="92"> Each part about her was a righteous thing; </l>
+              <l n="93"> Her mouth an almsgiving, </l>
+              <l n="94"> The glory of her garments charity, </l>
+              <l n="95"> The beauty of her bosom a good deed, </l>
+              <l n="96"> In the good days when God kept sight of us; </l>
+              <l n="97"> Love lay upon her eyes, </l>
+              <l n="98"> And on that hair whereof the world takes heed; </l>
+            </lg>
+          </div>
         </div>
+        <div type="opening">
+          <div type="verso">
+            <pb n="9" type="verso"/>
+            <lg>
+              <l n="99"> And all her body was more virtuous </l>
+              <l n="100"> Than souls of women fashioned otherwise. </l>
+            </lg>
+            <lg>
+              <l n="101"> Now, ballad, gather poppies in thine hands </l>
+              <l n="102"> And sheaves of brier and many rusted sheaves </l>
+              <l n="103"> Rain-rotten in rank lands, </l>
+              <l n="104"> Waste marigold and late unhappy leaves </l>
+              <l n="105"> And grass that fades ere any of it be mown; </l>
+              <l n="106"> And when thy bosom is filled full thereof </l>
+              <l n="107"> Seek out Death's face ere the light altereth, </l>
+              <l n="108"> And <app>
+                  <rdg wit="#mc #hr #cw #e">say "My </rdg>
+                  <rdg wit="#ny">say: "My</rdg>
+                </app> master that was thrall to Love </l>
+              <l n="109"> Is become thrall to Death." </l>
+              <l n="110"> Bow down before him, ballad, sigh and groan, </l>
+              <l n="111"> But make no sojourn in <app>
+                  <rdg wit="#mc #hr #cw #e">thine</rdg>
+                  <rdg wit="#ny">thy</rdg>
+                </app> outgoing; </l>
+              <l n="112"> For haply it may be </l>
+              <l n="113"> That when thy feet return at evening </l>
+              <l n="114"> Death shall come in with thee. </l>
+            </lg>
+          </div>
+          <div type="recto">
+            <div type="blank">
+              <pb n="[10]"/>
+            </div>
+          </div>
+        </div>
+
+
+
+      </div>
       
         <div type="half-title">
         
