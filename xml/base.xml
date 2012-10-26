@@ -34,7 +34,7 @@
             <imprint>
               <pubPlace>London</pubPlace>
               <publisher>Edward Moxon and Co.</publisher>
-              <date when="1846">1866</date>
+              <date when="1866">1866</date>
             </imprint>
           </monogr>
         </biblStruct>
@@ -1439,7 +1439,7 @@
             <ref xmlns:xlink="http://www.w3.org/1999/xlink" n="1 [page 30]" rend="super"
               target="ref_01">*</ref> &#x00c6;sch. Fr. Niobe:&#x2014;<quote rend="block">
               <lg>
-                <l>μόνoς θεῶν γὰρ Θάνατος οὐ δώρων ἐρᾷ, κ.τ.λ.</l>
+                <l>μόνoς θεῶν γὰρ Θάνατος οὐ δώρων ἐρᾷ, κ.τ.λ.</l>
               </lg>
             </quote>
           </p>
@@ -2249,8 +2249,8 @@
             <quote xml:lang="grc" rend="block">
               <lg>
                 <!-- Fix this!!! -->
-                <l n="1" rend="ti-1">τίνος αὖ τὺ πειθοῖ</l>
-                <l n="2">μάψ σαγηνεύσας φιλότατα;</l>
+                <l n="1" rend="ti-1">τίνος αὖ τὺ πειθοῖ</l>
+                <l n="2">μάψ σαγηνεύσας φιλότατα;</l>
               </lg>
             </quote>
             <bibl rend="sc">Sappho.</bibl>
@@ -2720,7 +2720,7 @@
                 <p><hi rend="super"
                   >*</hi><!-- <xref xmlns:xlink="http://www.w3.org/1999/xlink" n="1 [page 73]"
                       rend="super" xlink:href="#ref_01">*</xref> -->
-                  Φυχάριον εἶ βαστάζον νεκρὸν.</p>
+                  Φυχάριον εἶ βαστάζον νεκρὸν.</p>
               </quote>
               <bibl rend="ti-8 block sc">Epictetus</bibl>
             </cit>
@@ -3294,8 +3294,8 @@
             <quote xml:lang="grc">
               <lg>
                 <l>ἐν οὐράνῷ φαεννὰς</l>
-                <l>κρύψω παρ' ὑμὶν αὐγὰς,</l>
-                <l>μίας πρὸ νυκτὸς ἑπτὰ νύκτας ἕξετε, κ.τ.λ.</l>
+                <l>κρύψω παρ' ὑμὶν αὐγὰς,</l>
+                <l>μίας πρὸ νυκτὸς ἑπτὰ νύκτας ἕξετε, κ.τ.λ.</l>
                 <!-- Fix This! -->
               </lg>
             </quote>
