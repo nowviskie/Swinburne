@@ -99,7 +99,8 @@
         http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-lem.html#TC 
       -->
       <div>
-        <pb n="[1]"/>
+        <div type="opening">
+        <pb n="[1]" type="verso"/>
         
         <head rend="center">A BALLAD OF LIFE</head>
         
@@ -132,9 +133,10 @@
           <l n="12" rend="ti-1"> Shaped heartwise, strung with subtle-coloured hair </l>
           <l n="13" rend="ti-1"> Of some dead lute-player </l>
           <l n="14"> That in dead years had done delicious things. </l>
-          
-          <pb n="2"/>
-          
+        </lg>
+        
+          <pb n="2" type="recto"/>
+        <lg>
           <l n="15"> The seven strings were named accordingly; </l>
           <l n="16" rend="ti-1"> The first string charity, </l>
           <l n="17" rend="ti-2"> The second tenderness, </l>
@@ -176,8 +178,9 @@
           <l n="39"> He is Shame's friend, and always as Shame saith </l>
           <l n="40" rend="ti-2"> Fear answers him again. </l>
         </lg>
-        
-        <pb n="3"/>
+          </div>
+        <div type="opening">
+        <pb n="3" type="verso"/>
         
         <lg>
           <l n="41"> My soul said in <app>
@@ -219,9 +222,9 @@
           <l n="64"> Making them fair as her own eyelids be, </l>
           <l n="65"> Or lips wherein my whole soul's life abides; </l>
           <l n="66" rend="ti-1"> Or as her sweet white sides </l>
-          
-          <pb n="4"/>
-          
+          </lg>
+          <pb n="4" type="recto"/>
+          <lg>
           <l n="67" rend="ti-2"> And bosom carved to kiss. </l>
           <l n="68"> Now therefore, if her pity further me, </l>
           <l n="69"> Doubtless for her sake all my days shall be </l>
@@ -243,11 +246,12 @@
           <l n="83" rend="ti-1"> And kiss thee with soft laughter on thine eyes, </l>
           <l n="84" rend="ti-2"> Ballad, and on thy mouth. </l>
         </lg>
+          </div>
       </div>
       
       <div>
-
-        <pb n="[5]"/>
+        <div type="opening">
+        <pb n="[5]" type="verso"/>
         
         <head rend="center">A BALLAD OF DEATH</head>
         <lg>
@@ -279,7 +283,7 @@
           <l n="20"> And more than peace the passage of her days. </l>
         </lg>
         
-        <pb n="6"/>
+        <pb n="6" type="recto"/>
         
         <lg>
           <l n="21"> O Love, thou knowest if she were good to see. </l>
@@ -312,9 +316,11 @@
           <l n="44"> That hold delight as grape-flowers hold their wine; </l>
           <l n="45"> Red mouths of maidens and red feet of doves, </l>
           <l n="46"> And brides that kept within the bride-chamber </l>
-          
-          <pb n="7"/>
-          
+        </lg>
+        </div>
+          <div type="opening">
+          <pb n="7" type="verso"/>
+          <lg>
           <l n="47"> Their garment of soft shame, </l>
           <l n="48"> And weeping faces of the wearied loves </l>
           <l n="49"> That swoon in sleep and awake wearier, </l>
@@ -351,7 +357,7 @@
           <l n="71"> Then I beheld, and lo on the other side </l>
           <l n="72"> My lady's likeness crowned and robed and dead. </l>
           
-          <pb n="8"/>
+          <pb n="8" type="recto"/>
           
           <l n="73"> Sweet still, but now not red, </l>
           <l n="74"> Was the shut mouth whereby men lived and died. </l>
@@ -385,9 +391,11 @@
           <l n="96"> In the good days when God kept sight of us; </l>
           <l n="97"> Love lay upon her eyes, </l>
           <l n="98"> And on that hair whereof the world takes heed; </l>
-          
-          <pb n="9"/>
-          
+        </lg>
+          </div>
+        <div type="opening">
+          <pb n="9" type="verso"/>
+          <lg>
           <l n="99"> And all her body was more virtuous </l>
           <l n="100"> Than souls of women fashioned otherwise. </l>
         </lg>
@@ -410,6 +418,7 @@
           <l n="113"> That when thy feet return at evening </l>
           <l n="114"> Death shall come in with thee. </l>
         </lg>
+          </div>
         
       </div>
       
