@@ -181,7 +181,7 @@
           </div>
         </div>
         <div type="opening">
-          <div type="recto">
+          <div type="verso">
             <pb n="3"/>
 
             <lg>
@@ -226,7 +226,7 @@
               <l n="66" rend="ti-1"> Or as her sweet white sides </l>
             </lg>
           </div>
-          <div type="verso">
+          <div type="recto">
             <pb n="4"/>
             <lg>
               <l n="67" rend="ti-2"> And bosom carved to kiss. </l>
