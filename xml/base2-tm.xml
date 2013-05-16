@@ -3736,7 +3736,7 @@
                     <head rend="center">FIFTH ANTIPHONE.</head>
                         <l n="16-33">From all thy lovers that love thee</l>
                         <l n="16-34" rend="ti-2"><app><lem wit="#mc #hr #cw">I the Lord am</lem>
-                        <rdgGrp type="a"><rdg wit="#ny">I, the Lord, am</rdg></rdgGrp></app> sunder thee;</l>
+                        <rdgGrp type="accidental"><rdg wit="#ny">I, the Lord, am</rdg></rdgGrp></app> sunder thee;</l>
                         <l n="16-35">I will make darkness above thee,</l>
                         <l n="16-36" rend="ti-2">And thick darkness under thee;</l>
                         <l n="16-37">Before me goeth a light,</l>
@@ -3833,7 +3833,7 @@
                         <l n="16-99">The inevitable hell</l>
                         <l n="16-100" rend="ti-2">Shall surely take hold on you;</l>
                         <l n="16-101">Your gold shall be for a <app><lem wit="#mc #hr #cw">token,</lem>
-                        <rdgGrp type="a"><rdg wit="#ny">token;</rdg></rdgGrp></app></l>
+                        <rdgGrp type="accidental"><rdg wit="#ny">token;</rdg></rdgGrp></app></l>
                         <l n="16-102" rend="ti-2">Your staff for a rod;</l>
                         <l n="16-103">With the breaking of bands ye are broken,</l>
                         <l n="16-104" rend="ti-2">Saith the Lord God.</l>
@@ -3860,7 +3860,7 @@
                         <l n="16-118" rend="ti-2">As the burning of fire;</l>
                         <l n="16-119">And our souls became sorely afraid</l>
                         <l n="16-120" rend="ti-2">For our <app><lem wit="#mc #ny #e">souls&#x2019;</lem>
-                        <rdgGrp type="a"><rdg wit="#hr #cw">soul's</rdg></rdgGrp></app> desire.</l>
+                        <rdgGrp type="accidental"><rdg wit="#hr #cw">soul's</rdg></rdgGrp></app> desire.</l>
                     </lg>
                     <lg>
                         <l n="16-121">We whom the world loved well,</l>
@@ -3894,7 +3894,7 @@
                         <l n="17-8" rend="ti-1">Or who the abundance of tears?</l>
                         <l n="17-9">Mine eyes are heavy with love</l>
                         <l n="17-10" rend="ti-1">And a sword gone <app><lem wit="#mc #hr #cw">thorough</lem>
-                        <rdgGrp type="a"><rdg wit="#ny">through</rdg></rdgGrp></app> mine ears,</l>
+                        <rdgGrp type="accidental"><rdg wit="#ny">through</rdg></rdgGrp></app> mine ears,</l>
                         <l n="17-11" rend="ti-2">A sound like a sword and fire,</l>
                         <l n="17-12" rend="ti-2">For pity, for great desire;</l>
                         <l n="17-13">Who shall ensure me thereof,</l>
@@ -3954,9 +3954,9 @@
                         <l n="17-49">The many ways and waves, the birth</l>
                         <l n="17-50">Fruitless, the labour nothing worth?</l>
                         <l n="17-51" rend="ti-1">Who hath known, who knoweth, O gods? <app><lem wit="#cw #mc #hr">not we.</lem>
-                        <rdgGrp type="a"><rdg wit="#ny">not we</rdg></rdgGrp></app>
+                        <rdgGrp type="accidental"><rdg wit="#ny">not we</rdg></rdgGrp></app>
                             <app><lem wit="#e #mc #ny #hr"><lb/></lem>
-                            <rdgGrp type="a"><rdg wit="#cw"></rdg></rdgGrp></app></l>
+                            <rdgGrp type="accidental"><rdg wit="#cw"></rdg></rdgGrp></app></l>
                         
                         <!-- 110.7 {break between stanzas} MC, NY, HR, E ] {no break between stanzas} CW -->
                         <!-- app would include line break/no line break between stanzas; the only way to show this
@@ -4005,7 +4005,7 @@
                         <l n="17-84">Lo, what hath he seen or known</l>
                         <l n="17-85" rend="ti-1">Of the way and the wave</l>
                         <l n="17-86">Unbeholden, <app><lem wit="#mc #hr #ny #e">unsailed-on</lem>
-                        <rdgGrp type="a"><rdg wit="#cw">unsailed on</rdg></rdgGrp></app>, unsown,</l>
+                        <rdgGrp type="accidental"><rdg wit="#cw">unsailed on</rdg></rdgGrp></app>, unsown,</l>
                         <l n="17-87" rend="ti-1">From the breast to the grave?</l>
                     </lg>
                     <lg>
@@ -4022,7 +4022,8 @@
                 <div type="verso">
                     <pb n="[112]"/>
                     <lg>
-                        <l n="17-94">But dumb the goddesses underground</l>
+                        <l n="17-94"><!-- <app><lem wit="#mc #hr #ny"></lem>
+                        <rdgGrp type="accidental"><rdg wit="#cw"><lb/></rdg></rdgGrp></app> -->But dumb the goddesses underground</l>
                         <l n="17-95" rend="ti-1">Wait, and we hear not on earth if their feet</l>
                         <l n="17-96" rend="ti-2">Rise, and the night wax loud with their wings;</l>
                         <l n="17-97">Dumb, without word or shadow of sound;</l>
@@ -4071,190 +4072,645 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[114]" type="verso"/>
+                        <head rend="center">ANIMA ANCEPS.</head><!-- <l n="18-x"> -->
+                        <lg>
+                            <l n="18-1">
+                                <hi rend="sc">Till</hi> death have broken </l>
+                            <l n="18-2">Sweet life's love-token, </l>
+                            <l n="18-3">Till all be spoken </l>
+                            <l n="18-4" rend="ti-1">That shall be said, </l>
+                            <l n="18-5">What dost thou praying, </l>
+                            <l n="18-6">O soul, and playing </l>
+                            <l n="18-7">With song and saying, </l>
+                            <l n="18-8" rend="ti-1">Things flown and fled? </l>
+                            <l n="18-9">For this we know not&#x2014; </l>
+                            <l n="18-10">That fresh springs flow not </l>
+                            <l n="18-11">And fresh griefs grow not </l>
+                            <l n="18-12" rend="ti-1">When men are dead; </l>
+                            <l n="18-13">When strange years cover </l>
+                            <l n="18-14">Lover and lover, </l>
+                            <l n="18-15">And joys are over </l>
+                            <l n="18-16" rend="ti-1">And tears are shed.</l>
+                        </lg>
+                        <lg>
+                            <l n="18-17">If one day's sorrow </l>
+                            <l n="18-18">Mar the day's morrow&#x2014; </l>
+                            <l n="18-19">If man's life borrow </l>
+                            <l n="18-20" rend="ti-1">And man's death pay&#x2014; </l></lg>
                     </div>
                     <div type="recto">
                         <pb n="[115]" type="recto"/>
+                        <lg>
+                            <l n="18-21">If souls once taken, </l>
+                            <l n="18-22">If lives once shaken, </l>
+                            <l n="18-23">Arise, awaken, </l>
+                            <l n="18-24" rend="ti-1">By night, by day&#x2014; </l>
+                            <l n="18-25">Why with strong crying </l>
+                            <l n="18-26">And years of sighing, </l>
+                            <l n="18-27">Living and dying, </l>
+                            <l n="18-28" rend="ti-1">Fast ye and pray? </l>
+                            <l n="18-29">For all your weeping, </l>
+                            <l n="18-30">Waking and sleeping, </l>
+                            <l n="18-31">Death comes to reaping </l>
+                            <l n="18-32" rend="ti-1">And takes away.<app><lem wit="#mc"><lb/></lem>
+                            <rdgGrp type="accidental"><rdg wit="#mu #cw #e #hr #ny"></rdg></rdgGrp></app></l>
+                            <l n="18-33">Though time rend after </l>
+                            <l n="18-34">Roof-tree from rafter, </l>
+                            <l n="18-35">A little laughter </l>
+                            <l n="18-36" rend="ti-1">Is much more worth </l>
+                            <l n="18-37">Than thus to measure </l>
+                            <l n="18-38">The hour, the treasure, </l>
+                            <l n="18-39">The pain, the pleasure, </l>
+                            <l n="18-40" rend="ti-1">The death, the birth; </l>
+                            <l n="18-41">Grief, when days alter, </l>
+                            <l n="18-42">Like joy shall falter; </l>
+                            <l n="18-43">Song-book and psalter, </l>
+                            <l n="18-44" rend="ti-1">Mourning and mirth. </l>
+                            <l n="18-45">Live like the swallow; </l>
+                            <l n="18-46">Seek not to follow </l>
+                            <l n="18-47">Where earth is hollow </l>
+                            <l n="18-48" rend="ti-1">Under the <app><lem wit="#cw #hr #mc">earth.</lem>
+                            <rdgGrp type="accidental"><rdg wit="#ny">earth</rdg></rdgGrp></app> </l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
                         <pb n="[116]" type="verso"/>
+                        <head rend="center">IN THE ORCHARD.</head><!-- <l n="19-x"> -->
+                        <head rend="center x-small">(PROVENÇAL BURDEN).</head>
+                        <lg>
+                            <l n="19-1">
+                                <hi rend="sc">Leave</hi> go my hands, let me catch breath and see; </l>
+                            <l n="19-2">Let the dew-fall drench either side of me; </l>
+                            <l n="19-3" rend="ti-1">Clear apple-leaves are soft upon that moon </l>
+                            <l n="19-4">Seen sidelong like a blossom in the tree; </l>
+                            <l n="19-5" rend="ti-1">Ah God, ah God, that day should be so soon.</l>
+                        </lg>
+                        <lg>
+                            <l n="19-6">The grass is thick and cool, it lets us lie. </l>
+                            <l n="19-7">Kissed upon either cheek and either eye, </l>
+                            <l n="19-8" rend="ti-1">I turn to thee as some green afternoon </l>
+                            <l n="19-9">Turns toward sunset, and is loth to die; </l>
+                            <l n="19-10" rend="ti-1">Ah God, ah God, that day should be so soon.</l>
+                        </lg>
+                        <lg>
+                            <l n="19-11">Lie closer, lean your face upon my side, </l>
+                            <l n="19-12">Feel where the dew fell that has hardly dried, </l>
+                            <l n="19-13" rend="ti-1">Hear how the blood beats that went nigh to swoon; </l>
+                            <l n="19-14">The pleasure lives there when the sense has died; </l>
+                            <l n="19-15" rend="ti-1">Ah God, ah God, that day should be so soon.</l>
+                        </lg>
                     </div>
                     <div type="recto">
                         <pb n="[117]" type="recto"/>
+                        <lg>
+                            <l n="19-16">O my fair lord, I charge you leave me this: </l>
+                            <l n="19-17">Is it not sweeter than a foolish kiss? </l>
+                            <l n="19-18" rend="ti-1">Nay take it then, my flower, my first in June, </l>
+                            <l n="19-19">My rose, so like a tender mouth it is: </l>
+                            <l n="19-20" rend="ti-1">Ah God, ah God, that day should be so soon.</l>
+                        </lg>
+                        <lg>
+                            <l n="19-21">Love, till dawn sunder night from day with fire, </l>
+                            <l n="19-22">Dividing my delight and my desire, </l>
+                            <l n="19-23" rend="ti-1">The crescent life and love the plenilune, </l>
+                            <l n="19-24">Love me though dusk begin and dark retire; </l>
+                            <l n="19-25" rend="ti-1">Ah God, ah God, that day should be so soon.</l>
+                        </lg>
+                        <lg>
+                            <l n="19-26">Ah, my heart fails, my blood draws back; I know, </l>
+                            <l n="19-27">When life runs over, life is near to go; </l>
+                            <l n="19-28" rend="ti-1">And with the slain of love love's ways are strewn, </l>
+                            <l n="19-29">And with their blood, if love will have it so; </l>
+                            <l n="19-30" rend="ti-1">Ah God, ah God, that day should be so soon.</l>
+                        </lg>
+                        <lg>
+                            <l n="19-31">Ah, do thy will now; slay me if thou wilt; </l>
+                            <l n="19-32">There is no building now the walls are built, </l>
+                            <l n="19-33" rend="ti-1">No quarrying now the corner-stone is hewn, </l>
+                            <l n="19-34">No drinking now the vine's whole blood is spilt; </l>
+                            <l n="19-35" rend="ti-1">Ah God, ah God, that day should be so soon.</l>
+                        </lg>
+                        <lg>
+                            <l n="19-36">Nay, slay me now; nay, for I will be slain; </l>
+                            <l n="19-37">Pluck thy red pleasure from the teeth of pain, </l>
+                            <l n="19-38"><app><lem wit="#mc #ny #cw #e" rend="ti-1">Break down thy vine ere yet grape-gatherers prune,</lem>
+                                <rdgGrp type="a"><rdg wit="#hr">Break down thy vine ere yet grape-gatherers prune,</rdg></rdgGrp></app> </l>
+                            <l n="19-39">Slay me ere day can slay desire again; </l>
+                            <l n="19-40" rend="ti-1">Ah God, ah God, that day should be so soon.</l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
                         <pb n="[118]" type="verso"/>
+                        <lg>
+                            <l n="19-41">Yea, with thy sweet lips, with thy sweet sword; yea, </l>
+                            <l n="19-42">Take life and all, for I will die, I say; </l>
+                            <l n="19-43" rend="ti-1">Love, I gave love, is life a better boon? </l>
+                            <l n="19-44">For sweet night's sake I will not live till day; </l>
+                            <l n="19-45" rend="ti-1">Ah God, ah God, that day should be so soon.</l>
+                        </lg>
+                        <lg>
+                            <l n="19-46">Nay, I will sleep then only; nay, but go. </l>
+                            <l n="19-47">Ah sweet, too sweet to me, my sweet, I know </l>
+                            <l n="19-48" rend="ti-1">Love, sleep, and death go to the sweet same tune; </l>
+                            <l n="19-49">Hold my hair fast, and kiss me through it so. </l>
+                            <l n="1950" rend="ti-1">Ah God, ah God, that day should be so soon. </l>
+                        </lg>
                     </div>
                     <div type="recto">
                         <pb n="[119]" type="recto"/>
+                        <head rend="center">A MATCH.</head><!-- <l n="20-x" -->
+                        <lg>
+                            <l n="20-1">
+                                <hi rend="sc">If </hi>love were what the rose is, </l>
+                            <l n="20-2" rend="ti-1">And I were like the leaf, </l>
+                            <l n="20-3">Our lives would grow together </l>
+                            <l n="20-4">In sad or singing weather, </l>
+                            <l n="20-5">Blown fields or flowerful closes, </l>
+                            <l n="20-6" rend="ti-1">Green pleasure or grey grief; </l>
+                            <l n="20-7">If love were what the rose is, </l>
+                            <l n="20-8" rend="ti-1">And I were like the leaf.</l>
+                        </lg>
+                        <lg>
+                            <l n="20-9">If I were what the words are, </l>
+                            <l n="20-10" rend="ti-1">And love were like the tune, </l>
+                            <l n="20-11">With double sound and single </l>
+                            <l n="20-12">Delight our lips would mingle, </l>
+                            <l n="20-13">With kisses glad as birds are </l>
+                            <l n="20-14" rend="ti-1">That get sweet rain at noon; </l>
+                            <l n="20-15">If I were what the words are </l>
+                            <l n="20-16" rend="ti-1">And love were like the tune.</l>
+                        </lg>
+                        <lg>
+                            <l n="20-17">If you were life, my darling, </l>
+                            <l n="20-18" rend="ti-1">And I your love were death, </l>
+                            <l n="20-19">We'd shine and snow together </l>
+                            <l n="20-20">Ere March made sweet the weather </l></lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
                         <pb n="[120]" type="verso"/>
+                        <lg>
+                            <l n="20-21">With daffodil and starling </l>
+                            <l n="20-22" rend="ti-1">And hours of fruitful breath; </l>
+                            <l n="20-23">If you were life, my darling, </l>
+                            <l n="20-24" rend="ti-1">And I your love were death.</l>
+                        </lg>
+                        <lg>
+                            <l n="20-25">If you were thrall to sorrow, </l>
+                            <l n="20-26" rend="ti-1">And I were page to joy, </l>
+                            <l n="20-27">We'd play for lives and seasons </l>
+                            <l n="20-28">With loving looks and treasons </l>
+                            <l n="20-29">And tears of night and morrow </l>
+                            <l n="20-30" rend="ti-1">And laughs of maid and boy; </l>
+                            <l n="20-31">If you were thrall to sorrow, </l>
+                            <l n="20-32" rend="ti-1">And I were page to joy.</l>
+                        </lg>
+                        <lg>
+                            <l n="20-33">If you were April's lady, </l>
+                            <l n="20-34" rend="ti-1">And I were lord in May, </l>
+                            <l n="20-35">We'd throw with leaves for hours </l>
+                            <l n="20-36">And draw for days with flowers, </l>
+                            <l n="20-37">Till day like night were shady </l>
+                            <l n="20-38" rend="ti-1">And night were bright like day; </l>
+                            <l n="20-39">If you were April's lady, </l>
+                            <l n="20-40" rend="ti-1">And I were lord in May.</l>
+                        </lg>
+                        <lg>
+                            <l n="20-41">If you were queen of pleasure, </l>
+                            <l n="20-42" rend="ti-1">And I were king of pain, </l>
+                            <l n="20-43">We'd hunt down love together, </l>
+                            <l n="20-44">Pluck out his flying-feather, </l>
+                        </lg>
                     </div>
                     <div type="recto">
                         <pb n="[121]" type="recto"/>
+                        <lg>
+                            <l n="20-45">And teach his feet a measure, </l>
+                            <l n="20-46" rend="ti-1">And find his mouth a rein; </l>
+                            <l n="20-47">If you were queen of pleasure, </l>
+                            <l n="20-48" rend="ti-1">And I were king of pain. </l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
                         <pb n="[122]" type="verso"/>
+                        <head rend="center">FAUSTINE.</head><!-- <l n="21-x" -->
+                        <epigraph>
+                            <p rend="center i">
+                                <foreign xml:lang="lat" rend="i"> Ave Faustina Imperatrix, morituri te
+                                    salutant.</foreign>
+                            </p>
+                        </epigraph>
+                        <lg>
+                            <l n="21-1">
+                                <hi rend="sc">Lean</hi> back, and get some minutes' peace; </l>
+                            <l n="21-2" rend="ti-1">Let your head lean </l>
+                            <l n="21-3">Back to the shoulder with its fleece </l>
+                            <l n="21-4" rend="ti-1">Of locks, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-5">The shapely silver shoulder stoops, </l>
+                            <l n="21-6" rend="ti-1">Weighed over clean </l>
+                            <l n="21-7">With state of splendid hair that droops </l>
+                            <l n="21-8" rend="ti-1">Each side, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-9">Let me go over your good gifts </l>
+                            <l n="21-10" rend="ti-1">That crown you queen; </l>
+                            <l n="21-11">A queen whose kingdom ebbs and shifts </l>
+                            <l n="21-12" rend="ti-1">Each week, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-13">Bright heavy brows well gathered up: </l>
+                            <l n="21-14" rend="ti-1">White gloss and sheen; </l>
+                            <l n="21-15">Carved lips that make my lips a cup </l>
+                            <l n="21-16" rend="ti-1">To drink, Faustine,</l>
+                        </lg>
                     </div>
                     <div type="recto">
                         <pb n="[123]" type="recto"/>
+                        <lg>
+                            <l n="21-17">Wine and rank poison, milk and blood, </l>
+                            <l n="21-18" rend="ti-1">Being mixed therein </l>
+                            <l n="21-19">Since first the devil threw dice with God </l>
+                            <l n="21-20" rend="ti-1">For you, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-21">Your naked new-born soul, their stake, </l>
+                            <l n="21-22" rend="ti-1">Stood blind between; </l>
+                            <l n="21-23">God <app><lem wit="#hr #mc #cw">said "let</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">said, "Let</rdg></rdgGrp></app> him that wins her take </l>
+                            <l n="21-24" rend="ti-1">And keep Faustine."</l>
+                        </lg>
+                        <lg>
+                            <l n="21-25">But this time Satan throve, no <app><lem wit="#ny #mc #hr">doubt:</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">doubt;</rdg></rdgGrp></app> </l>
+                            <l n="21-26" rend="ti-1">Long since, I ween, </l>
+                            <l n="21-27">God's part in you was battered out; </l>
+                            <l n="21-28" rend="ti-1">Long since, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-29">The die rang sideways as it fell, </l>
+                            <l n="21-30" rend="ti-1">Rang cracked and thin, </l>
+                            <l n="21-31">Like a man's laughter heard in hell </l>
+                            <l n="21-32" rend="ti-1">Far down, <app><lem wit="#mc #cw #e">Faustine,</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Faustine</rdg><rdg wit="#hr">Faustine.</rdg></rdgGrp></app></l>
+                        </lg>
+                        <lg>
+                            <l n="21-33">A shadow of laughter like a sigh, </l>
+                            <l n="21-34" rend="ti-1">Dead sorrow's kin; </l>
+                            <l n="21-35">So rang, thrown down, the devil's die </l>
+                            <l n="21-36" rend="ti-1">That won Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-37">A suckling of his breed you were, </l>
+                            <l n="21-38" rend="ti-1">One hard to wean; </l>
+                            <l n="21-39">But God, who lost you, left you fair, </l>
+                            <l n="21-40" rend="ti-1">We see, Faustine.</l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
                         <pb n="[124]" type="verso"/>
+                        <lg>
+                            <l n="21-41">You have the face that suits a woman </l>
+                            <l n="21-42" rend="ti-1">For her soul's screen&#x2014; </l>
+                            <l n="21-43">The sort of beauty that's called human </l>
+                            <l n="21-44" rend="ti-1">In hell, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-45">You could do all things but be good </l>
+                            <l n="21-46" rend="ti-1">Or chaste of mien; </l>
+                            <l n="21-47">And that you would not if you could, </l>
+                            <l n="21-48" rend="ti-1">We know, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-49">Even he who cast seven devils out </l>
+                            <l n="21-50" rend="ti-1">Of Magdalene </l>
+                            <l n="21-51">Could hardly do as much, I doubt, </l>
+                            <l n="21-52" rend="ti-1">For you, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-53">Did Satan make you to spite God? </l>
+                            <l n="21-54" rend="ti-1">Or did God mean </l>
+                            <l n="21-55">To scourge with scorpions for a rod </l>
+                            <l n="21-56" rend="ti-1">Our sins, Faustine?</l>
+                        </lg>
+                        <lg>
+                            <l n="21-57">I know what queen at first you were, </l>
+                            <l n="21-58" rend="ti-1">As though I had seen </l>
+                            <l n="21-59">Red gold and black imperious hair </l>
+                            <l n="21-60" rend="ti-1">Twice crown Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-61">As if your fed sarcophagus </l>
+                            <l n="21-62" rend="ti-1">Spared flesh and skin, </l>
+                            <l n="21-63">You come back face to face with us, </l>
+                            <l n="21-64" rend="ti-1">The same Faustine.</l>
+                        </lg>
                     </div>
                     <div type="recto">
                         <pb n="[125]" type="recto"/>
+                        <lg>
+                            <l n="21-65">She loved the games men played with death, </l>
+                            <l n="21-66" rend="ti-1">Where death must win; </l>
+                            <l n="21-67">As though the slain man's blood and breath </l>
+                            <l n="21-68" rend="ti-1">Revived Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-69">Nets caught the pike, pikes tore the net; </l>
+                            <l n="21-70" rend="ti-1">Lithe limbs and lean </l>
+                            <l n="21-71">From drained-out pores dripped thick red sweat </l>
+                            <l n="21-72" rend="ti-1">To soothe Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-73">She drank the steaming drift and dust </l>
+                            <l n="21-74" rend="ti-1">Blown off the scene; </l>
+                            <l n="21-75">Blood could not ease the bitter lust </l>
+                            <l n="21-76" rend="ti-1">That galled Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-77">All round the foul fat furrows reeked, </l>
+                            <l n="21-78" rend="ti-1">Where blood sank in; </l>
+                            <l n="21-79">The circus splashed and seethed and shrieked </l>
+                            <l n="21-80" rend="ti-1">All round Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-81">But these are gone now: years entomb </l>
+                            <l n="21-82" rend="ti-1">The dust and din; </l>
+                            <l n="21-83">Yea, even the bath's fierce reek and fume </l>
+                            <l n="21-84" rend="ti-1">That slew Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-85">Was life worth living then? and now </l>
+                            <l n="21-86" rend="ti-1">Is life worth sin? </l>
+                            <l n="21-87">Where are the imperial years? and how </l>
+                            <l n="21-88" rend="ti-1">Are you Faustine?</l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
                         <pb n="[126]" type="verso"/>
+                        <lg>
+                            <l n="21-89">Your soul forgot her joys, forgot </l>
+                            <l n="21-90" rend="ti-1">Her times of teen; </l>
+                            <l n="21-91">Yea, this life likewise will you not </l>
+                            <l n="21-92" rend="ti-1">Forget, Faustine?</l>
+                        </lg>
+                        <lg>
+                            <l n="21-93">For in the time we know not of </l>
+                            <l n="21-94" rend="ti-1">Did fate begin </l>
+                            <l n="21-95">Weaving the web of days that wove </l>
+                            <l n="21-96" rend="ti-1">Your doom, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-97">The threads were wet with wine, and all </l>
+                            <l n="21-98" rend="ti-1">Were smooth to spin; </l>
+                            <l n="21-99">They wove you like a Bacchanal, </l>
+                            <l n="21-100" rend="ti-1">The first Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-101">And Bacchus cast your mates and you </l>
+                            <l n="21-102" rend="ti-1">Wild grapes to glean; </l>
+                            <l n="21-103">Your flower-like lips were dashed with dew </l>
+                            <l n="21-104" rend="ti-1">From his, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-105">Your drenched loose hands were stretched to hold </l>
+                            <l n="21-106" rend="ti-1">The vine's wet green, </l>
+                            <l n="21-107">Long ere they coined in Roman gold </l>
+                            <l n="21-108" rend="ti-1">Your face, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-109">Then after change of soaring feather </l>
+                            <l n="21-110" rend="ti-1">And winnowing fin, </l>
+                            <l n="21-111">You woke in weeks of feverish weather, </l>
+                            <l n="21-112" rend="ti-1">A new Faustine.</l>
+                        </lg>
                     </div>
                     <div type="recto">
                         <pb n="[127]" type="recto"/>
+                        <lg>
+                            <l n="21-113">A star upon your birthday burned, </l>
+                            <l n="21-114" rend="ti-1">Whose fierce serene </l>
+                            <l n="21-115">Red pulseless planet never yearned </l>
+                            <l n="21-116" rend="ti-1">In heaven, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-117">Stray breaths of Sapphic song that blew </l>
+                            <l n="21-118" rend="ti-1">Through Mitylene </l>
+                            <l n="21-119">Shook the fierce quivering blood in you </l>
+                            <l n="21-120" rend="ti-1">By night, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-121">The shameless nameless love that makes </l>
+                            <l n="21-122" rend="ti-1">Hell's iron gin </l>
+                            <l n="21-123">Shut on you like a trap that breaks </l>
+                            <l n="21-124" rend="ti-1">The soul, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-125">And when your veins were void and dead, </l>
+                            <l n="21-126" rend="ti-1">What ghosts unclean </l>
+                            <l n="21-127">Swarmed round the straitened barren bed </l>
+                            <l n="21-128" rend="ti-1">That hid Faustine?</l>
+                        </lg>
+                        <lg>
+                            <l n="21-129">What sterile growths of sexless root </l>
+                            <l n="21-130" rend="ti-1">Or epicene? </l>
+                            <l n="21-131">What flower of kisses without fruit </l>
+                            <l n="21-132" rend="ti-1">Of love, Faustine?</l>
+                        </lg>
+                        <lg>
+                            <l n="21-133">What adders came to shed their coats? </l>
+                            <l n="21-134" rend="ti-1">What coiled obscene </l>
+                            <l n="21-135">Small serpents with soft stretching throats </l>
+                            <l n="21-136" rend="ti-1">Caressed Faustine?</l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
                         <pb n="[128]" type="verso"/>
+                        <lg>
+                            <l n="21-137">But the time came of famished hours, </l>
+                            <l n="21-138" rend="ti-1">Maimed loves and mean, </l>
+                            <l n="21-139">This ghastly thin-faced time of ours, </l>
+                            <l n="21-140" rend="ti-1">To spoil Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-141">You seem a thing that hinges hold, </l>
+                            <l n="21-142" rend="ti-1">A love-machine </l>
+                            <l n="21-143">With clockwork joints of supple gold&#x2014; </l>
+                            <l n="21-144" rend="ti-1">No more, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-145">Not godless, for you serve one God, </l>
+                            <l n="21-146" rend="ti-1">The Lampsacene, </l>
+                            <l n="21-147">Who metes the gardens with his rod; </l>
+                            <l n="21-148" rend="ti-1">Your lord, Faustine.</l>
+                        </lg>
+                        <lg>
+                            <l n="21-149">If one should love you with real love </l>
+                            <l n="21-150" rend="ti-1">(Such things have been, </l>
+                            <l n="21-151">Things your fair face knows nothing of, </l>
+                            <l n="21-152" rend="ti-1">It seems, Faustine);</l>
+                        </lg>
+                        <lg>
+                            <l n="21-153">That clear hair heavily bound back, </l>
+                            <l n="21-154" rend="ti-1">The lights wherein </l>
+                            <l n="21-155">Shift from dead blue to burnt-up <app><lem wit="#ny #e #cw #mc">black;</lem>
+                            <rdgGrp type="a"><rdg wit="#hr">black</rdg></rdgGrp></app> </l>
+                            <l n="21-156" rend="ti-1">Your throat, Faustine,</l>
+                        </lg>
+                        <lg>
+                            <l n="21-157">Strong, heavy, throwing out the face </l>
+                            <l n="21-158" rend="ti-1">And hard bright chin </l>
+                            <l n="21-159">And shameful scornful lips that grace </l>
+                            <l n="21-160" rend="ti-1">Their shame, Faustine,</l>
+                        </lg>
                     </div>
                     <div type="recto">
                         <pb n="[129]" type="recto"/>
+                        <lg>
+                            <l n="21-161">Curled lips, long since half kissed away, </l>
+                            <l n="21-162" rend="ti-1">Still sweet and keen; </l>
+                            <l n="21-163">You'd give him&#x2014;poison shall we say? </l>
+                            <l n="21-164" rend="ti-1">Or what, Faustine? </l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
-                    <div type="verso">
-                        <pb n="[100]" type="verso"/>
+                    <div type="verso"><!-- 12:51 5/16/13 -->
+                        <pb n="[130]" type="verso"/>
+                        
                     </div>
                     <div type="recto">
-                        <pb n="[101]" type="recto"/>
+                        <pb n="[131]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[102]" type="verso"/>
+                        <pb n="[132]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[103]" type="recto"/>
+                        <pb n="[133]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[104]" type="verso"/>
+                        <pb n="[134]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[105]" type="recto"/>
+                        <pb n="[135]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[106]" type="verso"/>
+                        <pb n="[136]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[107]" type="recto"/>
+                        <pb n="[137]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[108]" type="verso"/>
+                        <pb n="[138]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[109]" type="recto"/>
+                        <pb n="[139]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[100]" type="verso"/>
+                        <pb n="[140]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[101]" type="recto"/>
+                        <pb n="[141]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[102]" type="verso"/>
+                        <pb n="[142]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[103]" type="recto"/>
+                        <pb n="[143]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[104]" type="verso"/>
+                        <pb n="[144]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[105]" type="recto"/>
+                        <pb n="[145]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[106]" type="verso"/>
+                        <pb n="[146]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[107]" type="recto"/>
+                        <pb n="[147]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[108]" type="verso"/>
+                        <pb n="[148]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[109]" type="recto"/>
+                        <pb n="[149]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[100]" type="verso"/>
+                        <pb n="[150]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[101]" type="recto"/>
+                        <pb n="[151]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[102]" type="verso"/>
+                        <pb n="[152]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[103]" type="recto"/>
+                        <pb n="[153]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[104]" type="verso"/>
+                        <pb n="[154]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[105]" type="recto"/>
+                        <pb n="[155]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[106]" type="verso"/>
+                        <pb n="[156]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[107]" type="recto"/>
+                        <pb n="[157]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[108]" type="verso"/>
+                        <pb n="[158]" type="verso"/>
                     </div>
                     <div type="recto">
-                        <pb n="[109]" type="recto"/>
+                        <pb n="[159]" type="recto"/>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[100]" type="verso"/>
+                        <pb n="[160]" type="verso"/>
                     </div>
                     <div type="recto">
                         <pb n="[101]" type="recto"/>
