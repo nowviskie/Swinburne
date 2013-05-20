@@ -1211,14 +1211,15 @@
                     <lg>
                         <l n="3-413">High up in barren heaven before his face </l>
                         <l n="3-414">As we twain in the heavy-hearted place, </l>
-                        <l n="3-415" rend="ti-1">Remembering love and all the dead delight, </l>
+                        <l n="3-415"><!-- line is indented in lemma, not indented in other versions; can formatting discrepancies be shown in this fashion? -->
+                            <app><lem wit="#ny #mc #e #cw" rend="ti-1">One from another; I hold thee with my hand,</lem>
+                                <rdgGrp type="accidental"><rdg wit="#hr">One from another; I hold thee with my hand,</rdg></rdgGrp></app> </l>
                         <l n="3-416">And all that time was sweet with for a space?</l>
                     </lg>
                     <lg>
                         <l n="3-417">For till the thunder in the trumpet be, </l>
                         <l n="3-418">Soul may divide from body, but not we </l>
-                        <l n="3-419"><!-- line is indented in lemma, not indented in other versions; can formatting discrepancies be shown in this fashion? --><app><lem wit="#ny #mc #e #cw" rend="ti-1">One from another; I hold thee with my hand,</lem>
-                            <rdgGrp type="accidental"><rdg wit="#hr">One from another; I hold thee with my hand,</rdg></rdgGrp></app> </l>
+                        <l n="3-419" rend="ti-1">One from another; I hold thee with my hand,</l>
                         <l n="3-420">I let mine eyes have all their will of thee,</l>
                     </lg>
                     <lg>
@@ -5348,7 +5349,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[153]" type="recto"/>
-                        <head rend="center">EROTION.</head><!-- <l n="30"> -->
+                        <head rend="center">EROTION.</head><!-- <l n="41-30"> -->
                         <lg>
                             <l n="30-1">
                                 <hi rend="sc">Sweet</hi> for a little even to fear, and sweet,</l>
@@ -6721,7 +6722,8 @@
                         <lg>
                             <l n="36-393">Who are we that embalm and embrace thee </l>
                             <l n="36-394" rend="ti-1">With spices and savours of song? </l>
-                            <l n="36-395">What is time, that his children should face thee? </l>
+                            <l n="36-395">What is <app><lem wit="#mc #hr #cw">time</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Time</rdg></rdgGrp></app>, that his children should face thee? </l>
                             <l n="36-396" rend="ti-1">What am I, that my lips do thee wrong? </l>
                             <l n="36-397">I could hurt thee&#x2014;but pain would delight thee; </l>
                             <l n="36-398" rend="ti-1">Or caress thee&#x2014;but love would repel; </l>
@@ -6784,7 +6786,8 @@
                             <l n="36-435">And our fathers of old, and our lovers, </l>
                             <l n="36-436" rend="ti-1">We shall know if they sleep not or sleep. </l>
                             <l n="36-437">We shall see whether hell be not heaven, </l>
-                            <l n="36-438" rend="ti-1">Find out whether tares be not grain, </l>
+                            <l n="36-438" rend="ti-1">Find out <app><lem wit="#hr #mc #cw">whether</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">weather</rdg></rdgGrp></app> tares be not grain, </l>
                             <l n="36-439">And the joys of thee seventy times seven, </l>
                             <l n="36-440" rend="ti-1">Our Lady of Pain. </l>
                         </lg>
@@ -6813,59 +6816,2021 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[196]" type="verso"/>
-                    </div>
-                    <div type="recto">
-                        <pb n="[197]" type="recto"/>
-                    </div>
-                </div>
-                <div type="opening">
-                    <div type="verso">
+                        <head rend="center">THE GARDEN OF PROSERPINE.</head><!-- <l n="37-n"> -->
+                        <lg>
+                            <l n="37-1">
+                                <hi rend="sc">Here</hi>, where the world is quiet; </l>
+                            <l n="37-2" rend="ti-1">Here, where all trouble seems </l>
+                            <l n="37-3">Dead winds' and spent waves' riot </l>
+                            <l n="37-4" rend="ti-1">In doubtful dreams of dreams; </l>
+                            <l n="37-5">I watch the green field growing </l>
+                            <l n="37-6">For reaping folk and sowing, </l>
+                            <l n="37-7">For harvest-time and mowing, </l>
+                            <l n="37-8" rend="ti-1">A sleepy world of streams.</l>
+                        </lg>
+                        <lg>
+                            <l n="37-9">I am tired of tears and laughter, </l>
+                            <l n="37-10" rend="ti-1">And men that laugh and weep; </l>
+                            <l n="37-11">Of what may come hereafter </l>
+                            <l n="37-12" rend="ti-1">For men that sow to reap: </l>
+                            <l n="37-13">I am weary of days and hours, </l>
+                            <l n="37-14">Blown buds of barren flowers, </l>
+                            <l n="37-15">Desires and dreams and powers </l>
+                            <l n="37-16" rend="ti-1">And everything but sleep.</l>
+                        </lg>
+                        <lg>
+                            <l n="37-17">Here life has death for neighbour, </l>
+                            <l n="37-18" rend="ti-1">And far from eye or ear </l></lg>
+                            <pb n="197" type="recto"/>
+                            <lg>
+                                <l n="37-19">Wan waves and wet winds labour, </l>
+                            <l n="37-20" rend="ti-1">Weak ships and spirits steer; </l>
+                            <l n="37-21">They drive adrift, and whither </l>
+                            <l n="37-22">They wot not who make thither; </l>
+                            <l n="37-23">But no such winds blow hither, </l>
+                            <l n="37-24" rend="ti-1">And no such things grow here.</l>
+                        </lg>
+                        <lg>
+                            <l n="37-25">No growth of moor or coppice, </l>
+                            <l n="37-26" rend="ti-1">No heather-flower or vine, </l>
+                            <l n="37-27">But bloomless buds of poppies, </l>
+                            <l n="37-28" rend="ti-1">Green grapes of Proserpine, </l>
+                            <l n="37-29">Pale beds of blowing rushes </l>
+                            <l n="37-30">Where no leaf blooms or blushes </l>
+                            <l n="37-31">Save this whereout she crushes </l>
+                            <l n="37-32" rend="ti-1">For dead men deadly wine.</l>
+                        </lg>
+                        <lg>
+                            <l n="37-33">Pale, without name or number, </l>
+                            <l n="37-34" rend="ti-1">In fruitless fields of corn, </l>
+                            <l n="37-35">They bow themselves and slumber </l>
+                            <l n="37-36" rend="ti-1">All night till light is born; </l>
+                            <l n="37-37">And like a soul belated, </l>
+                            <l n="37-38">In hell and heaven unmated, </l>
+                            <l n="37-39">By cloud and mist abated </l>
+                            <l n="37-40" rend="ti-1">Comes out of darkness morn.</l>
+                        </lg>
+                        <lg>
+                            <l n="37-41">Though one were strong as seven, </l>
+                            <l n="37-42" rend="ti-1">He too with death shall dwell, </l>
+                            <l n="37-43">Nor wake with wings in heaven, </l>
+                            <l n="37-44" rend="ti-1">Nor weep for pains in hell; </l></lg>
+                    </div></div>
+                    <div type="opening">
+                        <div type="verso">
                         <pb n="[198]" type="verso"/>
+                        <lg>
+                            <l n="37-45">Though one were fair as roses, </l>
+                            <l n="37-46">His beauty clouds and closes; </l>
+                            <l n="37-47">And well though love reposes, </l>
+                            <l n="37-48" rend="ti-1">In the end it is not well.</l>
+                        </lg>
+                        <lg>
+                            <l n="37-49">Pale, beyond porch and portal, </l>
+                            <l n="37-50" rend="ti-1">Crowned with calm leaves, she stands </l>
+                            <l n="37-51">Who gathers all things mortal </l>
+                            <l n="37-52" rend="ti-1">With cold immortal hands; </l>
+                            <l n="37-53">Her xml:languid lips are sweeter </l>
+                            <l n="37-54">Than love's who fears to greet her </l>
+                            <l n="37-55">To men that mix and meet her </l>
+                            <l n="37-56" rend="ti-1">From many times and lands.</l>
+                        </lg>
+                        <lg>
+                            <l n="37-57">She waits for each and other, </l>
+                            <l n="37-58" rend="ti-1">She waits for all men born; </l>
+                            <l n="37-59">Forgets the earth her mother, </l>
+                            <l n="37-60" rend="ti-1">The life of fruits and corn; </l>
+                            <l n="37-61">And spring and seed and swallow </l>
+                            <l n="37-62">Take wing for her and follow </l>
+                            <l n="37-63">Where summer song rings hollow </l>
+                            <l n="37-64" rend="ti-1">And flowers are put to scorn.</l>
+                        </lg>
+                        <lg>
+                            <l n="37-65">There go the loves that wither, </l>
+                            <l n="37-66" rend="ti-1">The old loves with wearier wings; </l>
+                            <l n="37-67">And all dead years draw thither, </l>
+                            <l n="37-68" rend="ti-1">And all disastrous things; </l>
+                            <l n="37-69">Dead dreams of days forsaken, </l>
+                            <l n="37-70">Blind buds that snows have shaken, </l>
+                        </lg>
                     </div>
-                    <div type="recto">
-                        <pb n="[199]" type="recto"/>
-                    </div>
+                        <div type="recto">
+                            <pb n="[199]" type="recto"/>
+                            <lg><l n="37-71">Wild leaves that winds have taken, </l>
+                                <l n="37-72" rend="ti-1">Red strays of ruined springs.</l>
+                            </lg>
+                            <lg>
+                                <l n="37-73">We are not sure of sorrow, </l>
+                                <l n="37-74" rend="ti-1">And joy was never sure; </l>
+                                <l n="37-75">To-day will die to-morrow; </l>
+                                <l n="37-76" rend="ti-1">Time stoops to no man's lure; </l>
+                                <l n="37-77">And love, grown faint and fretful, </l>
+                                <l n="37-78">With lips but half regretful </l>
+                                <l n="37-79">Sighs, and with eyes forgetful </l>
+                                <l n="37-80" rend="ti-1">Weeps that no loves endure.</l>
+                            </lg>
+                            <lg>
+                                <l n="37-81">From too much love of living, </l>
+                                <l n="37-82" rend="ti-1">From hope and fear set free, </l>
+                                <l n="37-83">We thank with brief thanksgiving </l>
+                                <l n="37-84" rend="ti-1">Whatever gods may be </l>
+                                <l n="37-85">That no life lives for ever; </l>
+                                <l n="37-86">That dead men rise up never; </l>
+                                <l n="37-87">That even the weariest river </l>
+                                <l n="37-88" rend="ti-1">Winds somewhere safe to sea.</l>
+                            </lg>
+                            <lg>
+                                
+                                <l n="37-89">Then star nor sun shall waken, </l>
+                                <l n="37-90" rend="ti-1">Nor any change of light: </l>
+                                <l n="37-91">Nor sound of waters shaken, </l>
+                                <l n="37-92" rend="ti-1">Nor any sound or sight: </l>
+                                <l n="37-93">Nor wintry leaves nor vernal, </l>
+                                <l n="37-94">Nor days nor things diurnal; </l>
+                                <l n="37-95">Only the sleep eternal </l>
+                                <l n="37-96" rend="ti-1">In an eternal night. </l></lg>
+                        </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
                         <pb n="[200]" type="verso"/>
+                        <head rend="center">HESPERIA</head><!-- <l n="38-"> -->
+                        <lg>
+                            <l n="38-1">
+                                <hi rend="sc">Out</hi> of the golden remote wild west where the sea without shore is, </l>
+                            <l n="38-2" rend="ti-1">Full of the sunset, and sad, if at all, with the fulness of joy, </l>
+                            <l n="38-3">As a wind sets in with the autumn that blows from the region of stories, </l>
+                            <l n="38-4" rend="ti-1">Blows with a perfume of songs and of memories beloved from a boy, </l>
+                            <l n="38-5">Blows from the capes of the past <app><lem wit="#mc #hr #cw">oversea</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">over-sea</rdg></rdgGrp></app> to the bays of the present, </l>
+                            <l n="38-6" rend="ti-1">Filled as with shadow of sound with the pulse of invisible feet, </l>
+                            <l n="38-7">Far out to the shallows and straits of the future, by rough ways or pleasant, </l>
+                            <l n="38-8" rend="ti-1">Is it thither the wind's wings beat? is it hither to me, O my sweet? </l>
+                            <l n="38-9">For thee, in the stream of the deep tide-wind blowing in with the water, </l>
+                            <l n="38-10" rend="ti-1">Thee I behold as a bird borne in with the wind from the west, </l>
+                        </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[101]" type="recto"/>
+                        <pb n="[201]" type="recto"/>
+                        <lg>
+                            <l n="38-11">Straight from the sunset, across white waves whence rose as a daughter </l>
+                            <l n="38-12" rend="ti-1">Venus thy mother, in years when the world was a water at rest.</l>
+                            <l n="38-13">Out of the distance of dreams, as a dream that abides after slumber, </l>
+                            <l n="38-14" rend="ti-1">Strayed from the fugitive flock of the night, when the moon overhead </l>
+                            <l n="38-15">Wanes in the wan waste heights of the heaven, and stars without number </l>
+                            <l n="38-16" rend="ti-1">Die without sound, and are spent like lamps that are burnt by the
+                                dead, </l>
+                            <l n="38-17">Comes back to me, stays by me, lulls me with touch of forgotten caresses, </l>
+                            <l n="38-18" rend="ti-1">One warm dream clad about with a fire as of life that endures; </l>
+                            <l n="38-19">The delight of thy face, and the sound of thy feet, and the wind of thy tresses, </l>
+                            <l n="38-20" rend="ti-1">And all of a man that regrets, and all of a maid that allures. </l>
+                            <l n="38-21">But thy bosom is warm for my face and profound as a manifold flower, </l>
+                            <l n="38-22" rend="ti-1">Thy silence as music, thy voice as an odour that fades in a flame; </l>
+                            <l n="38-23">Not a dream, not a dream is the kiss of thy mouth, and the bountiful hour </l>
+                            <l n="38-24" rend="ti-1">That makes me forget what was sin, and would make me forget were it
+                                shame. </l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[102]" type="verso"/>
+                        <pb n="[202]" type="verso"/>
+                        <lg>
+                        <l n="38-25">Thine eyes that are quiet, thine hands that are tender, thy lips that are
+                            loving, </l>
+                        <l n="38-26" rend="ti-1">Comfort and cool me as dew in the dawn of a moon like a dream; </l>
+                        <l n="38-27">And my heart yearns baffled and blind, moved vainly toward thee, and moving </l>
+                        <l n="38-28" rend="ti-1">As the refluent seaweed moves in the xml:languid exuberant stream, </l>
+                        <l n="38-29">Fair as a rose is on earth, as a rose under water in prison,</l>
+                        <l n="38-30" rend="ti-1">That stretches and swings to the slow passionate pulse of the sea, </l>
+                        <l n="38-31">Closed up from the air and the sun, but alive, as a ghost rearisen, </l>
+                        <l n="38-32" rend="ti-1">Pale as the love that revives as a ghost rearisen in me. </l>
+                        <l n="38-33">From the bountiful infinite west, from the happy memorial places </l>
+                        <l n="38-34" rend="ti-1">Full of the stately repose and the lordly delight of the dead, </l>
+                        <l n="38-35">Where the fortunate islands are lit with the light of ineffable faces, </l>
+                        <l n="38-36" rend="ti-1">And the sound of a sea without wind is about them, and sunset is
+                            red, </l>
+                        <l n="38-37">Come back to redeem and release me from love that recalls and represses, </l>
+                        <l n="38-38" rend="ti-1">That cleaves to my flesh as a flame, till the serpent has eaten his
+                            fill; </l>
+                        <l n="38-39">From the bitter delights of the dark, and the feverish, the furtive caresses </l></lg>
                     </div>
                     <div type="recto">
-                        <pb n="[103]" type="recto"/>
+                        <pb n="[203]" type="recto"/>
+                        <lg>
+                            <l n="38-40" rend="ti-1">That murder the youth in a man or ever his heart have its will. </l>
+                            <l n="38-41">Thy lips cannot laugh and thine eyes cannot weep; thou art pale as a rose is, </l>
+                            <l n="38-42" rend="ti-1">Paler and sweeter than leaves that cover the blush of the bud; </l>
+                            <l n="38-43">And the heart of the flower is compassion, and pity the core it encloses, </l>
+                            <l n="38-44" rend="ti-1">Pity, not love, that is born of the breath and decays with the
+                                blood. </l>
+                            <l n="38-45">As the cross that a wild nun clasps till the edge of it bruises her bosom, </l>
+                            <l n="38-46" rend="ti-1">So love wounds as we grasp it, and blackens and burns as a
+                                flame;</l>
+                            <l n="38-47">I have loved overmuch in my life; when the live bud bursts with the blossom, </l>
+                            <l n="38-48" rend="ti-1">Bitter as ashes or tears is the fruit, and the wine thereof shame. </l>
+                            <l n="38-49">As a heart that its anguish divides is the green bud cloven asunder; </l>
+                            <l n="38-50" rend="ti-1">As the blood of a man self-slain is the flush of the leaves that
+                                allure; </l>
+                            <l n="38-51">And the perfume as poison and wine to the brain, a delight and a wonder; </l>
+                            <l n="38-52" rend="ti-1">And the thorns are too sharp for a boy, too slight for a man, to
+                                endure. </l>
+                            <l n="38-53">Too soon did I love it, and lost love's rose; and I cared not for <app><lem wit="#mc #hr #ny">glory's;</lem>
+                                <rdgGrp type="a"><rdg wit="#cw">glory's:</rdg></rdgGrp></app> </l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[104]" type="verso"/>
+                        <pb n="[204]" type="verso"/>
+                        <l n="38-54" rend="ti-1">Only the blossoms of sleep and of pleasure were mixed in my hair. </l>
+                        <l n="38-55">Was it myrtle or poppy thy garland was woven <app><lem wit="#mc #hr #cw">with,</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">with.</rdg></rdgGrp></app> O my Dolores? </l>
+                        <l n="38-56" rend="ti-1">Was it pallor of slumber, or blush as of blood, that I found in thee
+                            fair? </l>
+                        <l n="38-57">For desire is a respite from love, and the flesh not the heart is her fuel; </l>
+                        <l n="38-58" rend="ti-1">She was sweet to me once, who am fled and escaped from the rage of
+                            her reign; </l>
+                        <l n="38-59">Who behold as of old time at hand as I turn, with her mouth growing cruel, </l>
+                        <l n="38-60" rend="ti-1">And flushed as with wine with the blood of her lovers, Our Lady of
+                            Pain. </l>
+                        <l n="38-61">Low down where the thicket is thicker with thorns than with leaves in the
+                            summer, </l>
+                        <l n="38-62" rend="ti-1">In the brake is a gleaming of eyes and a hissing of tongues that I
+                            knew; </l>
+                        <l n="38-63">And the lithe long throats of her snakes reach round her, their mouths overcome
+                            her,</l>
+                        <l n="38-64" rend="ti-1">And her lips grow cool with their foam, made moist as a desert with
+                            dew. </l>
+                        <l n="38-65">With the thirst and the hunger of lust though her beautiful lips be so bitter, </l>
+                        <l n="38-66" rend="ti-1">With the cold foul foam of the snakes they soften and redden and
+                            smile; </l>
+                        <l n="38-67">And her fierce mouth sweetens, her eyes wax wide and her eyelashes glitter, </l>
                     </div>
                     <div type="recto">
-                        <pb n="[105]" type="recto"/>
+                        <pb n="[205]" type="recto"/>
+                        <lg>
+                            <l n="38-68" rend="ti-1">And she laughs with a savour of blood in her face, and a savour of
+                                guile. </l>
+                            <l n="38-69">She laughs, and her hands reach hither, her hair blows hither and hisses, </l>
+                            <l n="38-70" rend="ti-1">As a low-lit flame in a wind, back-blown till it shudder and leap; </l>
+                            <l n="38-71">Let her lips not again lay hold on my soul, nor her poisonous kisses, </l>
+                            <l n="38-72" rend="ti-1">To consume it alive and divide from thy bosom, Our Lady of Sleep. </l>
+                            <l n="38-73">Ah daughter of sunset and slumber, if now it return into prison, </l>
+                            <l n="38-74" rend="ti-1">Who shall redeem it anew? but we, if thou wilt, let us fly; </l>
+                            <l n="38-75">Let us take to us, now that the white skies thrill with a moon unarisen, </l>
+                            <l n="38-76" rend="ti-1">Swift horses of fear or of love, take flight and depart and not die. </l>
+                            <l n="38-77">They are swifter than dreams, they are stronger than death; there is none that
+                                hath ridden, </l>
+                            <l n="38-78" rend="ti-1">None that shall ride in the dim strange ways of his life as we ride; </l>
+                            <l n="38-79">By the meadows of memory, the highlands of hope, and the shore that is hidden, </l>
+                            <l n="38-80" rend="ti-1">Where life breaks loud and unseen, a sonorous invisible tide;</l>
+                            <l n="38-81">By the sands where sorrow has trodden, the salt pools bitter and sterile, </l>
+                        </lg>
                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[106]" type="verso"/>
+                        <pb n="[206]" type="verso"/>
+                        <l n="38-82" rend="ti-1">By the thundering reef and the low sea-wall and the channel of
+                            years, </l>
+                        <l n="38-83">Our wild steeds press on the night, strain hard through pleasure and peril, </l>
+                        <l n="38-84" rend="ti-1">Labour and listen and pant not or pause for the peril that nears; </l>
+                        <l n="38-85">And the sound of them trampling the way cleaves night as an arrow asunder, </l>
+                        <l n="38-86" rend="ti-1">And slow by the sand-hill and swift by the down with its glimpses of
+                            grass, </l>
+                        <l n="38-87">Sudden and steady the music, as eight hoofs trample and thunder, </l>
+                        <l n="38-88" rend="ti-1">Rings in the ear of the low blind wind of the night as we pass; </l>
+                        <l n="38-89">Shrill shrieks in our faces the blind bland air that was mute as a maiden, </l>
+                        <l n="38-90" rend="ti-1">Stung into storm by the speed of our passage, and deaf where we
+                            past; </l>
+                        <l n="38-91">And our spirits too burn as we bound, thine holy but mine heavy-laden, </l>
+                        <l n="38-92" rend="ti-1">As we burn with the fire of our flight; <app><lem wit="#mc #ny">ah love,</lem>
+                            <rdgGrp type="a"><rdg wit="#hr">ah, love,</rdg><rdg wit="#cw">ah love</rdg></rdgGrp></app> shall we win at the
+                            last? </l>
                     </div>
                     <div type="recto">
-                        <pb n="[107]" type="recto"/>
+                        <pb n="[207]" type="recto"/>
+                        <head rend="center">LOVE AT SEA</head><!-- <l n="39-x"> -->
+                        <lg>
+                            <l n="39-1">
+                                <hi rend="sc">We</hi> are in love's land to-day; </l>
+                            <l n="39-2" rend="ti-2">Where shall we go? </l>
+                            <l n="39-3">Love, shall we start or stay, </l>
+                            <l n="39-4" rend="ti-2">Or sail or row? </l>
+                            <l n="39-5">There's many a wind and way, </l>
+                            <l n="39-6">And never a May but May; </l>
+                            <l n="39-7">We are in love's hand to-day; </l>
+                            <l n="39-8" rend="ti-2">Where shall we go?</l>
+                        </lg>
+                        <lg>
+                            <l n="39-9">Our landwind is the breath </l>
+                            <l n="39-10">Of sorrows kissed to death </l>
+                            <l n="39-11" rend="ti-2">And joys that were; </l>
+                            <l n="39-12">Our ballast is a rose; </l>
+                            <l n="39-13">Our way lies where God knows </l>
+                            <l n="39-14" rend="ti-2">And love knows where. </l>
+                            <l n="39-15" rend="ti-4">We are in love's hand to-day&#x2014; </l>
+                        </lg>
+                        <lg>
+                            <l n="39-16">Our seamen are fledged Loves, </l>
+                            <l n="39-17">Our masts are bills of doves, </l>
+                            <l n="39-18" rend="ti-2">Our decks fine gold; </l></lg>
                     </div>
                 </div>
-                <div type="opening">
-                    <div type="verso">
-                        <pb n="[108]" type="verso"/>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                    <lg>
+                        <l n="39-19">Our ropes are dead maids' hair, </l>
+                        <l n="39-20">Our stores are love-shafts fair </l>
+                        <l n="39-21" rend="ti-2">And manifold. </l>
+                        <l n="39-22" rend="ti-4">We are in love's land to-day&#x2014; </l>
+                    </lg>
+                    <lg>
+                        <l n="39-23">Where shall we land you, sweet? </l>
+                        <l n="39-24">On fields of strange men's feet, </l>
+                        <l n="39-25" rend="ti-2">Or fields near home? </l>
+                        <l n="39-26">Or where the fire-flowers blow, </l>
+                        <l n="39-27">Or where the flowers of snow </l>
+                        <l n="39-28" rend="ti-2">Or flowers of foam? </l>
+                        <l n="39-29" rend="ti-4">We are in love's hand to-day&#x2014; </l>
+                    </lg>
+                    <lg>
+                        <l n="39-30">Land me, she says, where love </l>
+                        <l n="39-31">Shows but one shaft, one dove, </l>
+                        <l n="39-32" rend="ti-2">One heart, one hand. </l>
+                        <l n="39-33">&#x2014;A shore like that, my dear, </l>
+                        <l n="39-34">Lies where no man will steer, </l>
+                        <l n="39-35" rend="ti-2">No maiden land. </l>
+                    </lg>
+                    <note place="end">
+                        <p rend="ti-4">
+                            <hi rend="i">Imitated from Théophile Gautier. </hi>
+                        </p>
+                    </note>    
                     </div>
-                    <div type="recto">
-                        <pb n="[109]" type="recto"/>
-                    </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                    <head rend="center">APRIL.</head><!-- <l n="40-x"> -->
+                    <head rend="center x-small">FROM THE FRENCH OF THE VIDAME DE CHARTES.</head>
+                    <head rend="center x-small">12&#x2014;?</head>
+                    <lg>
+                        <l n="40-1">
+                            <hi rend="sc">When</hi> the fields catch flower </l>
+                        <l n="40-2" rend="ti-1">And the underwood is green, </l>
+                        <l n="40-3">And from bower unto bower </l>
+                        <l n="40-4" rend="ti-1">The songs of the birds begin, </l>
+                        <l n="40-5" rend="ti-1">I sing with sighing between. </l>
+                        <l n="40-6">When I laugh and sing, </l>
+                        <l n="40-7" rend="ti-1">I am heavy at heart for my sin; </l>
+                        <l n="40-8">I am sad in the spring </l>
+                        <l n="40-9" rend="ti-1">For my love that I shall not win, </l>
+                        <l n="40-10">For a foolish thing.</l>
+                    </lg>
+                    <lg>
+                        <l n="40-11">This profit I have of my woe, </l>
+                        <l n="40-12" rend="ti-1">That I know, as I sing, </l>
+                        <l n="40-13">I know he will needs have it so </l>
+                        <l n="40-14" rend="ti-1">Who is master and king, </l>
+                        <l n="40-15" rend="ti-1">Who is lord of the spirit of spring. </l></lg>
                 </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[210]" type="verso"/>
+                    <lg>
+                        <l n="40-16">I will serve her and will not spare </l>
+                        <l n="40-17" rend="ti-1">Till her pity awake </l>
+                        <l n="40-18">Who is good, who is pure, who is fair, </l>
+                        <l n="40-19" rend="ti-1">Even her for whose sake </l>
+                        <l n="40-20">Love hath ta'en me and slain unaware.</l>
+                    </lg>
+                    <lg>
+                        <l n="40-21">O my lord, O Love, </l>
+                        <l n="40-22" rend="ti-1">I have laid my life at thy feet; </l>
+                        <l n="40-23">Have thy will thereof, </l>
+                        <l n="40-24" rend="ti-1">Do as it please thee with it, </l>
+                        <l n="40-25" rend="ti-1">For what shall please thee is sweet. </l>
+                        <l n="40-26">I am come unto thee </l>
+                        <l n="40-27" rend="ti-1">To do thee service, O Love; </l>
+                        <l n="40-28">Yet cannot I see </l>
+                        <l n="40-29" rend="ti-1">Thou wilt take any pity thereof, </l>
+                        <l n="40-30">Any mercy on me.</l>
+                    </lg>
+                    <lg>
+                        <l n="40-31">But the grace I have long time sought </l>
+                        <l n="40-32" rend="ti-1">Comes never in sight, </l>
+                        <l n="40-33">If in her it abideth not, </l>
+                        <l n="40-34" rend="ti-1">Through thy mercy and might, </l>
+                        <l n="40-35" rend="ti-1">Whose heart is the world's delight. </l>
+                        <l n="40-36">Thou hast sworn without fail I shall die, </l>
+                        <l n="40-37" rend="ti-1">For my heart is set </l>
+                        <l n="40-38">On what hurts me, I wot not why, </l>
+                        <l n="40-39" rend="ti-1">But cannot forget </l>
+                        <l n="40-40">What I love, what I sing for and sigh.</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[211]" type="recto"/>
+                    <lg>
+                        <l n="40-41">She is worthy of praise, </l>
+                        <l n="40-42" rend="ti-1">For this grief of her giving is worth </l>
+                        <l n="40-43">All the joy of my days </l>
+                        <l n="40-44" rend="ti-1">That lie between death's day and birth, </l>
+                        <l n="40-45" rend="ti-1">All the lordship of things upon earth. </l>
+                        <l n="40-46">Nay, what have I said? </l>
+                        <l n="40-47" rend="ti-1">I would not be glad if I could; </l>
+                        <l n="40-48">My dream and my dread </l>
+                        <l n="40-49" rend="ti-1">Are of her, and for her sake I would </l>
+                        <l n="40-50">That my life were fled.</l>
+                    </lg>
+                    <lg>
+                        <l n="40-51">Lo, sweet, if I durst not pray to you, </l>
+                        <l n="40-52" rend="ti-1">Then were I dead; </l>
+                        <l n="40-53">If I sang not a little to say to you, </l>
+                        <l n="40-54" rend="ti-1">(Could it be said) </l>
+                        <l n="40-55" rend="ti-1">O my love, how my heart would be fed; </l>
+                        <l n="40-56">Ah sweet who hast hold of my heart, </l>
+                        <l n="40-57" rend="ti-1">For thy love's sake I live, </l>
+                        <l n="40-58">Do but tell me, ere either depart, </l>
+                        <l n="40-59" rend="ti-1">What a lover may give </l>
+                        <l n="40-60">For a woman so fair as thou art.</l>
+                    </lg>
+                    <lg>
+                        <l n="40-61">The lovers that disbelieve, </l>
+                        <l n="40-62" rend="ti-1">False rumours shall grieve </l>
+                        <l n="40-63">And evil-speaking shall part.</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[212]" type="verso"/>
+                    <head rend="center">BEFORE PARTING</head>
+                    <lg>
+                        <l n="41-1">
+                            <hi rend="sc">A month</hi> or twain to live on honeycomb </l>
+                        <l n="41-2">Is pleasant; but one tires of scented time, </l>
+                        <l n="41-3">Cold sweet recurrence of accepted rhyme, </l>
+                        <l n="41-4">And that strong purple under juice and foam </l>
+                        <l n="41-5">Where the wine's heart has burst; </l>
+                        <l n="41-6">Nor feel the latter kisses like the first.</l>
+                    </lg>
+                    <lg>
+                        <l n="41-7">Once yet, this poor one time; I will not pray </l>
+                        <l n="41-8">Even to change the bitterness of it, </l>
+                        <l n="41-9">The bitter taste ensuing on the sweet, </l>
+                        <l n="41-10">To make your tears fall where your soft hair lay </l>
+                        <l n="41-11">All blurred and heavy in some perfumed wise </l>
+                        <l n="41-12">Over my face and eyes.</l>
+                    </lg>
+                    <lg>
+                        <l n="41-13">And yet who knows what end the scythèd wheat </l>
+                        <l n="41-14">Makes of its foolish poppies' mouths of red? </l>
+                        <l n="41-15">These were not sown, these are not harvested, </l>
+                        <l n="41-16">They grow a month and are cast under feet </l>
+                        <l n="41-17">And none has care thereof, </l>
+                        <l n="41-18">As none has care of a divided love.</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[213]" type="recto"/>
+                    <lg>
+                        <l n="41-19">I know each shadow of your lips by rote, </l>
+                        <l n="41-20">Each change of love in eyelids and eyebrows; </l>
+                        <l n="41-21">The fashion of fair temples tremulous</l>
+                        <l n="41-22">With tender blood, and colour of your throat; </l>
+                        <l n="41-23">I know not how love is gone out of this, </l>
+                        <l n="41-24">Seeing that all was his.</l>
+                    </lg>
+                    <lg>
+                        <l n="41-25">Love's likeness there endures upon all these: </l>
+                        <l n="41-26">But out of these one shall not gather love. </l>
+                        <l n="41-27">Day hath not strength nor the night shade enough </l>
+                        <l n="41-28">To make love whole and fill his lips with ease, </l>
+                        <l n="41-29">As some bee-builded cell </l>
+                        <l n="41-30">Feels at filled lips the <app><lem wit="#cw #hr #mc">the heavy honey</lem>
+                        <rdgGrp type="s"><rdg wit="#ny">the honey</rdg></rdgGrp></app> swell.</l>
+                    </lg>
+                    <lg>
+                        <l n="41-31">I know not how this last month leaves your hair </l>
+                        <l n="41-32">Less full of purple colour and hid spice, </l>
+                        <l n="41-33">And that luxurious trouble of closed eyes </l>
+                        <l n="41-34">Is mixed with meaner shadow and waste care; </l>
+                        <l n="41-35">And love, kissed out by pleasure, seems not yet </l>
+                        <l n="41-36">Worth patience to regret. </l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[214]" type="verso"/>
+                    <head rend="center">THE SUNDEW.</head><!-- <l n="42-x"> -->
+                    <lg>
+                        <l n="42-1">
+                            <hi rend="sc">A little</hi> marsh-plant, yellow green, </l>
+                        <l n="42-2">And pricked at lip with tender red. </l>
+                        <l n="42-3">Tread close, and either way you tread </l>
+                        <l n="42-4">Some faint black water jets between </l>
+                        <l n="42-5">Lest you should bruise the curious head.</l>
+                    </lg>
+                    <lg>
+                        <l n="42-6">A live thing <app><lem wit="#mu #ny #hr #e">may be</lem>
+                        <rdgGrp type="a"><rdg wit="#mc #cw">maybe</rdg></rdgGrp></app>; who shall know? </l>
+                        <l n="42-7">The summer knows and suffers it; </l>
+                        <l n="42-8">For the cool moss is thick and sweet </l>
+                        <l n="42-9">Each side, and saves the blossom so </l>
+                        <l n="42-10">That it lives out the long June heat.</l>
+                    </lg>
+                    <lg>
+                        <l n="42-11">The deep scent of the heather burns </l>
+                        <l n="42-12">About it; breathless though it be, </l>
+                        <l n="42-13">Bow down and worship; more than we </l>
+                        <l n="42-14">Is the least flower whose life returns, </l>
+                        <l n="42-15">Least weed renascent in the sea.</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[215]" type="recto"/>
+                    <lg>
+                        <l n="42-16">We are vexed and cumbered in earth's sight </l>
+                        <l n="42-17">With wants, with many memories; </l>
+                        <l n="42-18">These see their mother what she is, </l>
+                        <l n="42-19">Glad-growing, till August leave more bright </l>
+                        <l n="42-20">The apple-coloured cranberries.</l>
+                    </lg>
+                    <lg>
+                        <l n="42-21">Wind blows and bleaches the strong grass, </l>
+                        <l n="42-22">Blown all one way to shelter it </l>
+                        <l n="42-23">From trample of strayed kine, with feet </l>
+                        <l n="42-24">Felt heavier than the moorhen was, </l>
+                        <l n="42-25">Strayed up past patches of wild wheat.</l>
+                    </lg>
+                    <lg>
+                        <l n="42-26">You call it sundew: how it grows, </l>
+                        <l n="42-27">If with its colour it have breath, </l>
+                        <l n="42-28">If life taste sweet to it, if death </l>
+                        <l n="42-29">Pain its soft petal, no man knows: </l>
+                        <l n="42-30">Man has no sight or sense that saith.</l>
+                    </lg>
+                    <lg>
+                        <l n="42-31">My sundew, grown of gentle days, </l>
+                        <l n="42-32">In these green miles the spring begun </l>
+                        <l n="42-33">Thy growth ere April had half done </l>
+                        <l n="42-34">With the soft secret of her ways </l>
+                        <l n="42-35">Or June made ready for the sun.</l>
+                    </lg>
+                    <lg>
+                        <l n="42-36">O red-lipped mouth of marsh-flower, </l>
+                        <l n="42-37">I have a secret halved with thee. </l>
+                        <l n="42-38">The name that is love's name to me </l>
+                        <l n="42-39">Thou knowest, and the face of her </l>
+                        <l n="42-40">Who is my festival to see.</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[216]" type="verso"/>
+                    <lg>
+                        <l n="42-41">The hard sun, as thy petals knew, </l>
+                        <l n="42-42">Coloured the heavy moss-water: </l>
+                        <l n="42-43">Thou wert not worth green midsummer </l>
+                        <l n="42-44">Nor fit to live to August blue, </l>
+                        <l n="42-45">O sundew, not remembering her. </l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[217]" type="recto"/>
+                    <head rend="center">FÉLISE</head><!-- <l n="43-n"> -->
+                    <epigraph>
+                        <p xml:lang="fr" rend="center">
+                            <hi rend="i">Mais où sont les neiges d'antan?</hi>
+                        </p>
+                    </epigraph>
+                    <lg>
+                        <l n="43-1">
+                            <hi rend="sc">What</hi> shall be said between us here</l>
+                        <l n="43-2" rend="ti-1">Among the downs, between the trees,</l>
+                        <l n="43-3">In fields that knew our feet last year,</l>
+                        <l n="43-4" rend="ti-1">In sight of quiet sands and seas,</l>
+                        <l n="43-5" rend="ti-1">This year, Félise?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-6">Who knows what word were best to say?</l>
+                        <l n="43-7" rend="ti-1">For last year's leaves lie dead and red</l>
+                        <l n="43-8">On this sweet day, in this green May,</l>
+                        <l n="43-9" rend="ti-1">And barren corn makes bitter bread.</l>
+                        <l n="43-10" rend="ti-1">What shall be said?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-11">Here as last year the fields begin,</l>
+                        <l n="43-12" rend="ti-1">A fire of flowers and glowing grass;</l>
+                        <l n="43-13">The old fields we laughed and lingered in,</l>
+                        <l n="43-14" rend="ti-1">Seeing each our souls in last year's glass,</l>
+                        <l n="43-15" rend="ti-1">Félise, alas!</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[218]" type="verso"/>
+                    <lg>
+                        <l n="43-16">Shall we not laugh, shall we not weep,</l>
+                        <l n="43-17" rend="ti-1">Not we, though this be as it is?</l>
+                        <l n="43-18">For love awake or love asleep</l>
+                        <l n="43-19" rend="ti-1">Ends in a laugh, a dream, a kiss,</l>
+                        <l n="43-20" rend="ti-1">A song like this.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-21">I that have slept awake, and you</l>
+                        <l n="43-22" rend="ti-1">Sleep, who last year were well awake.</l>
+                        <l n="43-23">Though love do all that love can do,</l>
+                        <l n="43-24" rend="ti-1">My heart will never ache or break</l>
+                        <l n="43-25" rend="ti-1">For your heart's sake.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-26">The great sea, faultless as a flower,</l>
+                        <l n="43-27" rend="ti-1">Throbs, trembling under beam and breeze,</l>
+                        <l n="43-28">And laughs with love of the amorous hour.</l>
+                        <l n="43-29" rend="ti-1">I found you fairer once, Félise,</l>
+                        <l n="43-30" rend="ti-1">Than flowers or seas.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-31">We played at bondsman and at queen;</l>
+                        <l n="43-32" rend="ti-1">But as the days change men change too;</l>
+                        <l n="43-33">I find the grey sea's notes of green,</l>
+                        <l n="43-34" rend="ti-1">The green sea's fervent flakes of blue,</l>
+                        <l n="43-35" rend="ti-1">More fair than you.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-36">Your beauty is not over fair</l>
+                        <l n="43-37" rend="ti-1">Now in mine eyes, who am grown up wise.</l>
+                        <l n="43-38">The smell of flowers in all your hair</l>
+                        <l n="43-39" rend="ti-1">Allures not now; no sigh replies</l>
+                        <l n="43-40" rend="ti-1">If your heart sighs.</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[219]" type="recto"/>
+                    <lg>
+                    <l n="43-41">But you sigh seldom, you sleep sound,</l>
+                    <l n="43-42" rend="ti-1">You find love's new name good enough.</l>
+                    <l n="43-43">Less sweet I find it than I found</l>
+                    <l n="43-44" rend="ti-1">The sweetest name that ever love</l>
+                    <l n="43-45" rend="ti-1">Grew weary of.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-46">My snake with bright bland eyes, my snake</l>
+                        <l n="43-47" rend="ti-1">Grown tame and glad to be caressed,</l>
+                        <l n="43-48">With lips athirst for mine to slake</l>
+                        <l n="43-49" rend="ti-1">Their tender fever! who had guessed</l>
+                        <l n="43-50" rend="ti-1">You loved me best?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-51">I had died for this last year, to know</l>
+                        <l n="43-52" rend="ti-1">You loved me. Who shall turn on fate?</l>
+                        <l n="43-53">I care not if love come or go</l>
+                        <l n="43-54" rend="ti-1">Now, though your love seek mine for mate.</l>
+                        <l n="43-55" rend="ti-1">It is too late.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-56">The dust of many strange desires</l>
+                        <l n="43-57" rend="ti-1">Lies deep between us; in our eyes</l>
+                        <l n="43-58">Dead smoke of perishable fires</l>
+                        <l n="43-59" rend="ti-1">Flickers, a fume in air and skies,</l>
+                        <l n="43-60" rend="ti-1">A steam of sighs.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-61">You loved me and you loved me not;</l>
+                        <l n="43-62" rend="ti-1">A little, much, and overmuch.</l>
+                        <l n="43-63">Will you forget as I <app><lem wit="#mc #ny #hr">forget?</lem>
+                            <rdgGrp type="s"><rdg wit="#cw">forgot?</rdg></rdgGrp></app></l>
+                        <l n="43-64" rend="ti-1">Let all dead things lie dead; none such</l>
+                        <l n="43-65" rend="ti-1">Are soft to touch.</l></lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[220]" type="verso"/>
+                    <lg>
+                        <l n="43-66">I love you and I do not love,</l>
+                        <l n="43-67" rend="ti-1">Too much, a little, not at <app><lem wit="#mc #ny">all:</lem>
+                            <rdgGrp type="a"><rdg wit="#hr #cw">all;</rdg></rdgGrp></app></l>
+                        <l n="43-68">Too much, and never yet enough.</l>
+                        <l n="43-69" rend="ti-1">Birds quick to fledge and fly at call</l>
+                        <l n="43-70" rend="ti-1">Are quick to fall.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-71">And these love longer now than men,</l>
+                        <l n="43-72" rend="ti-1">And larger loves than ours are these.</l>
+                        <l n="43-73">No diver brings up love again</l>
+                        <l n="43-74" rend="ti-1">Dropped once, my beautiful Félise,</l>
+                        <l n="43-75" rend="ti-1">In such cold seas.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-76">Gone deeper than all plummets sound,</l>
+                        <l n="43-77" rend="ti-1">Where in the dim green dayless day</l>
+                        <l n="43-78">The life of such dead things lies bound</l>
+                        <l n="43-79" rend="ti-1">As the sea feeds on, wreck and stray</l>
+                        <l n="43-80" rend="ti-1">And castaway.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-81">Can I forget? yea, that can I,</l>
+                        <l n="43-82" rend="ti-1">And that can all men; so will you,</l>
+                        <l n="43-83">Alive, or later, when you die.</l>
+                        <l n="43-84" rend="ti-1">Ah, but the love you plead was true?</l>
+                        <l n="43-85" rend="ti-1">Was mine not too?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-86">I loved you for that name of yours</l>
+                        <l n="43-87" rend="ti-1">Long ere we met, and long enough.</l>
+                        <l n="43-88">Now that one thing of all endures&#x2014; </l>
+                        <l n="43-89" rend="ti-1">The sweetest name that ever love</l>
+                        <l n="43-90" rend="ti-1">Waxed weary of.</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[221]" type="recto"/>
+                    <lg>
+                        <l n="43-91">Like colours in the sea, like flowers,</l>
+                        <l n="43-92" rend="ti-1">Like a cat's splendid circled eyes</l>
+                        <l n="43-93">That wax and wane with love for hours,</l>
+                        <l n="43-94" rend="ti-1">Green as green flame, blue-grey like skies,</l>
+                        <l n="43-95" rend="ti-1">And soft like sighs&#x2014;</l>
+                    </lg>
+                    <lg>
+                        <l n="43-96">And all these only like your name,</l>
+                        <l n="43-97" rend="ti-1">And your name full of all of these.</l>
+                        <l n="43-98">I say it, and it sounds the same&#x2014; </l>
+                        <l n="43-99" rend="ti-1">Save that I say it now at ease,</l>
+                        <l n="43-100" rend="ti-1">Your name, Félise.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-101">I <app><lem wit="#mc #hr #cw">said &#x2014;she</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">said, &#x2014;She</rdg></rdgGrp></app> must be swift and white,</l>
+                        <l n="43-102" rend="ti-1">And subtly warm, and half perverse,</l>
+                        <l n="43-103">And sweet like sharp soft fruit to bite,</l>
+                        <l n="43-104" rend="ti-1">And like a snake's love lithe and fierce.&#x2015;</l>
+                        <l n="43-105" rend="ti-1">Men have guessed worse.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-106">What was the song I made of you</l>
+                        <l n="43-107" rend="ti-1">Here where the grass forgets our feet</l>
+                        <l n="43-108">As afternoon forgets the dew?</l>
+                        <l n="43-109" rend="ti-1">Ah that such sweet things should be fleet,</l>
+                        <l n="43-110" rend="ti-1">Such fleet things sweet!</l>
+                    </lg>
+                    <lg>
+                        <l n="43-111">As afternoon forgets the dew,</l>
+                        <l n="43-112" rend="ti-1">As time in time forgets all men,</l>
+                        <l n="43-113">As our old place forgets us two,</l>
+                        <l n="43-114" rend="ti-1">Who might have turned to one thing <app><lem wit="#mc #ny #hr">then,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">then</rdg></rdgGrp></app></l>
+                        <l n="43-115" rend="ti-1">But not again.</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[222]" type="verso"/>
+                    <q rend="block">
+                        <lg>
+                            <l n="43-116"><app><lem wit="#mc #ny"><hi rend="x-small">O lips that mine have grown into</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">O lips that mine have grown into</rdg></rdgGrp></app></l>
+                            <l n="43-117" rend="ti-1"><app><lem wit="#mc #ny"><hi rend="x-small">Like April's kissing May,</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">Like April's kissing May,</rdg></rdgGrp></app></l>
+                            <l n="43-118"><app><lem wit="#mc #ny"><hi rend="x-small">O fervent eyelids letting through</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">O fervent eyelids letting through</rdg></rdgGrp></app></l>
+                            <l n="43-119"><app><lem wit="#mc #ny"><hi rend="x-small">Those eyes the greenest of things blue,</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">Those eyes the greenest of things blue,</rdg></rdgGrp></app></l>
+                            <l n="43-120"><app><lem wit="#mc #ny"><hi rend="x-small">The bluest of things grey,</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">The bluest of things grey,</rdg></rdgGrp></app></l>
+                        </lg>
+                        <lg>
+                            <l n="43-121"><app><lem wit="#mc #ny"><hi rend="x-small">If you were I and I were you,</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">If you were I and I were you,</rdg></rdgGrp></app></l>
+                            <l n="43-122" rend="ti-1"><app><lem wit="#mc #ny"><hi rend="x-small">How could I love you, say?</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">How could I love you, say?</rdg></rdgGrp></app></l>
+                            <l n="43-123"><app><lem wit="#mc #ny"><hi rend="x-small">How could the roseleaf love the rue,</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">How could the roseleaf love the rue,</rdg></rdgGrp></app></l>
+                            <l n="43-124"><app><lem wit="#mc #ny"><hi rend="x-small">The day love nightfall and her dew,</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">The day love nightfall and her dew,</rdg></rdgGrp></app></l>
+                            <l n="43-125" rend="ti-1"><app><lem wit="#mc #ny"><hi rend="x-small">Though night may love the day?</hi></lem>
+                                <rdgGrp type="substantive"><rdg wit="#hr #cw">Though night may love the day?</rdg></rdgGrp></app></l>
+                        </lg>
+                    </q>
+                    <lg>
+                        <l n="43-126">You loved it may be more than I;</l>
+                        <l n="43-127" rend="ti-1">We know not; love is hard to <app><lem wit="#mc #ny #hr">seize,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">seize.</rdg></rdgGrp></app></l><!-- print apparatus suggests that this should be in the 14th line - tm -->
+                        <l n="43-128">And all things are not good to try;</l>
+                        <l n="43-129" rend="ti-1">And lifelong loves the worst of these</l>
+                        <l n="43-130" rend="ti-1">For us, Félise.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-131">Ah, take the season and have done,</l>
+                        <l n="43-132" rend="ti-1">Love well the hour and let it go:</l>
+                        <l n="43-133">Two souls may sleep and wake up one,</l>
+                        <l n="43-134" rend="ti-1">Or dream they wake and find it so,</l>
+                        <l n="43-135" rend="ti-1">And then&#x2014;you know.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-136">Kiss me once hard as though a flame</l>
+                        <l n="43-137" rend="ti-1">Lay on my lips and made them fire;</l>
+                        <l n="43-138">The same lips now, and not the same;</l>
+                        <l n="43-139" rend="ti-1">What breath shall fill and re-inspire</l>
+                        <l n="43-140" rend="ti-1">A dead desire?</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[223]" type="recto"/>
+                    <lg>
+                        <l n="43-141">The old song sounds hollower in mine ear</l>
+                        <l n="43-142" rend="ti-1">Than thin keen sounds of dead men's speech&#x2014; </l>
+                        <l n="43-143">A noise one hears and would not hear;</l>
+                        <l n="43-144" rend="ti-1">Too strong to die, too weak to reach</l>
+                        <l n="43-145" rend="ti-1">From wave to beach.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-146">We stand on either side the sea,</l>
+                        <l n="43-147" rend="ti-1">Stretch hands, blow kisses, laugh and <app><lem wit="#mc #hr #cw">lean</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">lean,</rdg></rdgGrp></app></l>
+                        <l n="43-148">I toward you, you toward me;</l>
+                        <l n="43-149" rend="ti-1">But what hears either save the keen</l>
+                        <l n="43-150" rend="ti-1">Grey sea between?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-151">A year divides us, love from love,</l>
+                        <l n="43-152" rend="ti-1">Though you love now, though I loved then.</l>
+                        <l n="43-153">The gulf is strait, but deep enough;</l>
+                        <l n="43-154" rend="ti-1">Who shall recross, who among men</l>
+                        <l n="43-155" rend="ti-1">Shall cross again?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-156">Love was a jest last year, you said,</l>
+                        <l n="43-157" rend="ti-1">And what lives surely, surely dies.</l>
+                        <l n="43-158">Even so; but now that love is dead,</l>
+                        <l n="43-159" rend="ti-1">Shall love rekindle from wet eyes,</l>
+                        <l n="43-160" rend="ti-1"><app><lem wit="#ny #mc #cw" rend="ti-1">From subtle sighs?</lem>
+                            <rdgGrp type="accidental"><rdg wit="#hr">From subtle sighs?</rdg></rdgGrp></app></l>
+                    </lg>
+                    <lg>
+                        <l n="43-161">For many loves are good to see,</l>
+                        <l n="43-162" rend="ti-1">Mutable loves, and loves perverse;</l>
+                        <l n="43-163">But there is nothing, nor shall be,</l>
+                        <l n="43-164" rend="ti-1">So sweet, so wicked, but my verse</l>
+                        <l n="43-165" rend="ti-1">Can dream of worse.</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[224]" type="verso"/>
+                    <lg>
+                        <l n="43-166">For we that sing and you that love</l>
+                        <l n="43-167" rend="ti-1">Know that which man may, only we.</l>
+                        <l n="43-168">The rest live under us; above,</l>
+                        <l n="43-169" rend="ti-1">Live the great gods in heaven, and see</l>
+                        <l n="43-170" rend="ti-1">What things shall be.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-171">So this thing is and must be so;</l>
+                        <l n="43-172" rend="ti-1">For man dies, and love also dies.</l>
+                        <l n="43-173">Though yet love's ghost moves to and fro</l>
+                        <l n="43-174" rend="ti-1">The sea-green mirrors of your eyes,</l>
+                        <l n="43-175" rend="ti-1">And laughs, and lies.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-176">Eyes coloured like a water-flower,</l>
+                        <l n="43-177" rend="ti-1">And deeper than the green sea's glass;</l>
+                        <l n="43-178">Eyes that remember one sweet hour&#x2014;</l>
+                        <l n="43-179" rend="ti-1">In vain we swore it should not pass;</l>
+                        <l n="43-180" rend="ti-1">In vain, alas!</l>
+                    </lg>
+                    <lg>
+                        <l n="43-181">Ah my Félise, if love or sin,</l>
+                        <l n="43-182" rend="ti-1">If shame or fear could hold it fast,</l>
+                        <l n="43-183">Should we not hold it? Love wears thin,</l>
+                        <l n="43-184" rend="ti-1">And they laugh well who laugh the last.</l>
+                        <l n="43-185" rend="ti-1">Is it not past?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-186">The gods, the gods are stronger; time</l>
+                        <l n="43-187" rend="ti-1">Falls down before them, all men's knees</l>
+                        <l n="43-188">Bow, all men's prayers and sorrows climb</l>
+                        <l n="43-189" rend="ti-1">Like incense towards them; yea, for these</l>
+                        <l n="43-190" rend="ti-1">Are gods, Félise.</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[225]" type="recto"/>
+                    <lg>
+                        <l n="43-191">Immortal are they, clothed with powers,</l>
+                        <l n="43-192" rend="ti-1">Not to be comforted at all;</l>
+                        <l n="43-193">Lords over all the fruitless hours;</l>
+                        <l n="43-194" rend="ti-1">Too great to appease, too high to appal,</l>
+                        <l n="43-195" rend="ti-1">Too far to call.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-196">For none shall move the most high gods,</l>
+                        <l n="43-197" rend="ti-1">Who are most sad, being cruel; none</l>
+                        <l n="43-198">Shall break or take away the rods</l>
+                        <l n="43-199" rend="ti-1">Wherewith they scourge us, not as one</l>
+                        <l n="43-200" rend="ti-1">That smites a son.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-201">By many a name of many a creed</l>
+                        <l n="43-202" rend="ti-1">We have called upon them, since the sands</l>
+                        <l n="43-203">Fell through time's hour-glass first, a seed</l>
+                        <l n="43-204" rend="ti-1">Of life; and out of many lands</l>
+                        <l n="43-205" rend="ti-1">Have we stretched hands.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-206">When have they heard us? who hath known</l>
+                        <l n="43-207" rend="ti-1">Their faces, climbed unto their feet,</l>
+                        <l n="43-208">Felt them and found them? Laugh or groan,</l>
+                        <l n="43-209" rend="ti-1"><app><lem wit="#ny #mc #cw" rend="ti-1">Doth summer remurmur and repeat</lem>
+                            <rdgGrp type="accidental"><rdg wit="#hr">Doth summer remurmur and repeat</rdg></rdgGrp></app></l>
+                        <l n="43-210" rend="ti-1">Sad sounds or sweet?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-211">Do the stars answer? in the night</l>
+                        <l n="43-212" rend="ti-1">Have ye found comfort? or by day</l>
+                        <l n="43-213">Have ye seen gods? What hope, what light,</l>
+                        <l n="43-214" rend="ti-1">Falls from the farthest starriest way</l>
+                        <l n="43-215" rend="ti-1">On you that pray?</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[226]" type="verso"/>
+                    <lg>
+                        <l n="43-216">Are the skies wet because we weep,</l>
+                        <l n="43-217" rend="ti-1">Or fair because of any mirth?</l>
+                        <l n="43-218">Cry out; they are gods; perchance they sleep;</l>
+                        <l n="43-219" rend="ti-1">Cry; thou shalt know what prayers are worth,</l>
+                        <l n="43-220" rend="ti-1">Thou dust and earth.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-221">O earth, thou art fair; O dust, thou art great;</l>
+                        <l n="43-222" rend="ti-1">O laughing lips and lips that mourn,</l>
+                        <l n="43-223">Pray, till ye feel the exceeding weight</l>
+                        <l n="43-224" rend="ti-1">Of God's intolerable scorn,</l>
+                        <l n="43-225" rend="ti-1">Not to be borne.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-226">Behold, there is no grief like this;</l>
+                        <l n="43-227" rend="ti-1">The barren blossom of thy prayer,</l>
+                        <l n="43-228">Thou shalt find out how sweet it is.</l>
+                        <l n="43-229" rend="ti-1">O fools and blind, what seek ye there,</l>
+                        <l n="43-230" rend="ti-1">High up in the air?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-231">Ye must have gods, the friends of men,</l>
+                        <l n="43-232" rend="ti-1">Merciful gods, compassionate,</l>
+                        <l n="43-233">And these shall answer you again.</l>
+                        <l n="43-234" rend="ti-1">Will ye beat always at the gate,</l>
+                        <l n="43-235" rend="ti-1">Ye fools of fate?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-236">Ye fools and blind; for this is sure,</l>
+                        <l n="43-237" rend="ti-1">That all ye shall not live, but die.</l>
+                        <l n="43-238">Lo, what thing have ye found endure?</l>
+                        <l n="43-239" rend="ti-1">Or what thing have ye found on high</l>
+                        <l n="43-240" rend="ti-1">Past the blind sky?</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[227]" type="recto"/>
+                    <lg>
+                        <l n="43-241">The ghosts of words and dusty dreams,</l>
+                        <l n="43-242" rend="ti-1">Old memories, faiths infirm and dead.</l>
+                        <l n="43-243">Ye fools; for which among you deems</l>
+                        <l n="43-244" rend="ti-1">His prayer can alter green to red</l>
+                        <l n="43-245" rend="ti-1">Or stones to bread?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-246">Why should ye bear with hopes and fears</l>
+                        <l n="43-247" rend="ti-1">Till all these things be drawn in one,</l>
+                        <l n="43-248">The sound of iron-footed years,</l>
+                        <l n="43-249" rend="ti-1">And all the oppression that is done</l>
+                        <l n="43-250" rend="ti-1">Under the sun?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-251">Ye might end surely, surely pass</l>
+                        <l n="43-252" rend="ti-1">Out of the multitude of things,</l>
+                        <l n="43-253">Under the dust, beneath the grass,</l>
+                        <l n="43-254" rend="ti-1">Deep in dim death, where no thought stings,</l>
+                        <l n="43-255" rend="ti-1">No record clings.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-256">No memory more of love or hate,</l>
+                        <l n="43-257" rend="ti-1">No trouble, nothing that aspires,</l>
+                        <l n="43-258">No sleepless labour thwarting fate,</l>
+                        <l n="43-259" rend="ti-1">And thwarted; where no travail tires,</l>
+                        <l n="43-260" rend="ti-1">Where no faith fires.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-261">All passes, <app><lem wit="#mc #hr #cw">nought</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">naught</rdg></rdgGrp></app> that has been is,</l>
+                        <l n="43-262" rend="ti-1">Things good and evil have one end.</l>
+                        <l n="43-263">Can anything be otherwise</l>
+                        <l n="43-264" rend="ti-1">Though all men swear all things would mend</l>
+                        <l n="43-265" rend="ti-1">With God to friend?</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[228]" type="verso"/>
+                    <lg>
+                        <l n="43-266">Can ye beat off one wave with prayer,</l>
+                        <l n="43-267" rend="ti-1">Can ye move mountains? bid the flower</l>
+                        <l n="43-268">Take flight and turn to a bird in the air?</l>
+                        <l n="43-269" rend="ti-1">Can ye hold fast for shine or shower</l>
+                        <l n="43-270" rend="ti-1">One wingless hour?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-271">Ah sweet, and we too, can we bring</l>
+                        <l n="43-272" rend="ti-1">One sigh back, bid one smile revive?</l>
+                        <l n="43-273">Can God restore one ruined thing,</l>
+                        <l n="43-274" rend="ti-1">Or he who slays our souls alive</l>
+                        <l n="43-275" rend="ti-1">Make dead things thrive?</l>
+                    </lg>
+                    <lg>
+                        <l n="43-276">Two gifts perforce he has given us yet,</l>
+                        <l n="43-277" rend="ti-1">Though sad things stay and glad things fly;</l>
+                        <l n="43-278">Two gifts he has given us, to forget</l>
+                        <l n="43-279" rend="ti-1">All glad and sad things that go by,</l>
+                        <l n="43-280" rend="ti-1">And then to die.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-281">We know not whether death be good,</l>
+                        <l n="43-282" rend="ti-1">But life at least it will not be:</l>
+                        <l n="43-283">Men will stand saddening as we stood,</l>
+                        <l n="43-284" rend="ti-1">Watch the same fields and skies as we</l>
+                        <l n="43-285" rend="ti-1">And the same sea.</l>
+                    </lg>
+                    <lg>
+                        <l n="43-286">Let this be said between us here,</l>
+                        <l n="43-287" rend="ti-1">One love grows green when one turns grey;</l>
+                        <l n="43-288">This year knows nothing of last year;</l>
+                        <l n="43-289" rend="ti-1">To-morrow has no more to say</l>
+                        <l n="43-290" rend="ti-1">To yesterday.</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[229]" type="recto"/>
+                    <lg>
+                        <l n="43-291">Live and let live, as I will do,</l>
+                        <l n="43-292" rend="ti-1">Love and let love, and so will I.</l>
+                        <l n="43-293">But, sweet, for me no more with you:</l>
+                        <l n="43-294" rend="ti-1">Not while I live, not though I die.</l>
+                        <l n="43-295" rend="ti-1"><app><lem wit="#mc">Goodnight, goodbye.</lem>
+                            <rdgGrp type="a"><rdg wit="#mu #hr #e">Good-night, good-bye.</rdg></rdgGrp>
+                            <rdgGrp type="a"><rdg wit="#ny">Good-night, good-by.</rdg></rdgGrp>
+                            <rdgGrp type="a"><rdg wit="#cw">Good night, good bye.</rdg></rdgGrp></app></l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[230]" type="verso"/>
+                    <head rend="center">AN INTERLUDE.</head><!-- <l n="44-x">-->
+                    <lg>
+                        <l n="44-1"> In the greenest growth of the Maytime, </l>
+                        <l n="44-2" rend="ti-1"> I rode where the woods were wet, </l>
+                        <l n="44-3"> Between the dawn and the daytime; </l>
+                        <l n="44-4" rend="ti-1"> The spring was glad that we met. </l>
+                    </lg>
+                    <lg>
+                        <l n="44-5"> There was something the season wanted, </l>
+                        <l n="44-6" rend="ti-1"> Though the ways and the woods smelt sweet; </l>
+                        <l n="44-7"> The breath at your lips that panted, </l>
+                        <l n="44-8" rend="ti-1"> The pulse of the grass at your feet. </l>
+                    </lg>
+                    <lg>
+                        <l n="44-9"> You came, and the sun came after, </l>
+                        <l n="44-10" rend="ti-1"> And the green grew golden above; </l>
+                        <l n="44-11"> And the flag-flowers lightened with laughter, </l>
+                        <l n="44-12" rend="ti-1"> And the meadow-sweet shook with love. </l>
+                    </lg>
+                    <lg>
+                        <l n="44-13"> Your feet in the full-grown grasses </l>
+                        <l n="44-14" rend="ti-1"> Moved soft as a weak wind blows; </l>
+                        <l n="44-15"> You passed me as April passes, </l>
+                        <l n="44-16" rend="ti-1"> With face made out of a rose. </l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[231]" type="recto"/>
+                        <lg>
+                            <l n="44-17"> By the stream where the stems were slender, </l>
+                            <l n="44-18" rend="ti-1"> Your bright foot paused at the sedge; </l>
+                            <l n="44-19"> It might be to watch the tender </l>
+                            <l n="44-20" rend="ti-1"> Light leaves in the springtime hedge, </l>
+                        </lg>
+                        <lg>
+                            <l n="44-21"> On boughs that the sweet month blanches </l>
+                            <l n="44-22" rend="ti-1"> With flowery frost of May: </l>
+                            <l n="44-23"> It might be a bird in the branches, </l>
+                            <l n="44-24" rend="ti-1"> It might be a thorn in the way. </l>
+                        </lg>
+                        <lg>
+                            <l n="44-25"> I waited to watch you linger </l>
+                            <l n="44-26" rend="ti-1"> With foot drawn back from the dew, </l>
+                            <l n="44-27"> Till a sunbeam straight like a finger </l>
+                            <l n="44-28" rend="ti-1"> Struck sharp through the leaves at you. </l>
+                        </lg>
+                        <lg>
+                            <l n="44-29"> And a bird overhead sang <hi rend="i">Follow</hi>, </l>
+                            <l n="44-30" rend="ti-1"> And a bird to the right sang <hi rend="i">Here;</hi>
+                            </l>
+                            <l n="44-31"> And the arch of the leaves was hollow, </l>
+                            <l n="44-32" rend="ti-1"> And the meaning of May was clear. </l>
+                        </lg>
+                        <lg>
+                            <l n="44-33"> I saw where the sun's hand pointed, </l>
+                            <l n="44-34" rend="ti-1"> I knew what the bird's note said; </l>
+                            <l n="44-35"> By the dawn and the dewfall anointed, </l>
+                            <l n="44-36" rend="ti-1"> You were queen by the gold on your head. </l>
+                        </lg>
+                        <lg>
+                            <l n="44-37"> As the glimpse of a burnt-out ember </l>
+                            <l n="44-38" rend="ti-1"> Recalls a regret of the sun, </l>
+                            <l n="44-39"> I remember, forget, and remember </l>
+                            <l n="44-40" rend="ti-1"> What Love saw done and undone. </l>
+                        </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[232]" type="verso"/>
+                    <lg>
+                        <l n="44-41"> I remember the way we parted, </l>
+                        <l n="44-42" rend="ti-1"> The day and the way we met; </l>
+                        <l n="44-43"> You hoped we were both broken-hearted, </l>
+                        <l n="44-44" rend="ti-1"> And knew we should both forget. </l>
+                    </lg>
+                    <lg>
+                        <l n="44-45"> And May with her world in flower </l>
+                        <l n="44-46" rend="ti-1"> Seemed still to murmur and smile </l>
+                        <l n="44-47"> As you murmured and smiled for an hour; </l>
+                        <l n="44-48" rend="ti-1"> I saw you turn at the stile. </l>
+                    </lg>
+                    <lg>
+                        <l n="44-49"> A hand like a white wood-blossom </l>
+                        <l n="44-50" rend="ti-1"> You lifted, and waved, and passed, </l>
+                        <l n="44-51"> With head hung down to the bosom, </l>
+                        <l n="44-52" rend="ti-1"> And pale, as it seemed, at last. </l>
+                    </lg>
+                    <lg>
+                        <l n="44-53"> And the best and the worst of this is </l>
+                        <l n="44-54" rend="ti-1"> That neither is most to blame </l>
+                        <l n="44-55"> If you've forgotten my kisses </l>
+                        <l n="44-56" rend="ti-1"> And I've forgotten your name. </l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[233]" type="recto"/>
+                    <head rend="center">HENDECASYLLABICS.</head><!-- <l n="45-x"> -->
+                    <lg>
+                        <l n="45-1">
+                            <hi rend="sc">In </hi>the month of the long decline of roses </l>
+                        <l n="45-2">I, beholding the summer dead before me, </l>
+                        <l n="45-3">Set my face to the sea and journeyed silent, </l>
+                        <l n="45-4">Gazing eagerly where above the sea-mark </l>
+                        <l n="45-5">Flame as fierce as the fervid eyes of lions </l>
+                        <l n="45-6">Half divided the eyelids of the sunset; </l>
+                        <l n="45-7">Till I heard as it were a noise of waters </l>
+                        <l n="45-8">Moving tremulous under feet of angels </l>
+                        <l n="45-9">Multitudinous, out of all the heavens; </l>
+                        <l n="45-10">Knew the fluttering wind, the fluttered foliage, </l>
+                        <l n="45-11">Shaken fitfully, full of sound and shadow; </l>
+                        <l n="45-12">And saw, trodden upon by noiseless angels, </l>
+                        <l n="45-13">Long mysterious reaches fed with moonlight, </l>
+                        <l n="45-14">Sweet sad straits in a soft subsiding channel, </l>
+                        <l n="45-15">Blown about by the lips of winds I knew not, </l>
+                        <l n="45-16">Winds not born in the north nor any quarter, </l>
+                        <l n="45-17">Winds not warm with the south nor any sunshine; </l>
+                        <l n="45-18">Heard between them a voice of exultation, </l>
+                        <l n="45-19">"Lo, the summer is dead, the sun is faded, </l>
+                        <l n="45-20">Even like as a leaf the year is withered, </l></lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[234]" type="verso"/>
+                    <lg>
+                        <l n="45-21">All the fruits of the day from all her branches </l>
+                        <l n="45-22">Gathered, neither is any left to gather. </l>
+                        <l n="45-23">All the flowers are dead, the tender blossoms, </l>
+                        <l n="45-24">All are taken away; the season wasted, </l>
+                        <l n="45-25">Like an ember among the fallen ashes.</l>
+                        <l n="45-26">Now with light of the winter days, with moonlight, </l>
+                        <l n="45-27">Light of snow, and the bitter light of <app><lem wit="#mc #hr #cw">hoarfrost</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">hoar-frost</rdg></rdgGrp></app>, </l>
+                        <l n="45-28">We bring flowers that fade not after autumn, </l>
+                        <l n="45-29">Pale white chaplets and crowns of latter seasons, </l>
+                        <l n="45-30">Fair false leaves (but the summer leaves were <app><lem wit="#mc #hr #cw">falser),</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">falser</rdg></rdgGrp></app> </l>
+                        <l n="45-31">Woven under the eyes of stars and planets </l>
+                        <l n="45-32">When low light was upon the windy reaches </l>
+                        <l n="45-33">Where the flower of foam was blown, a lily </l>
+                        <l n="45-34">Dropt among the sonorous fruitless furrows </l>
+                        <l n="45-35">And green fields of the sea that make no pasture: </l>
+                        <l n="45-36">Since the winter begins, the weeping winter, </l>
+                        <l n="45-37">All whose flowers are tears, and round his temples </l>
+                        <l n="45-38">Iron blossom of frost is bound for ever." </l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[235]" type="recto"/>
+                    <head rend="center">SAPPHICS.</head><!-- <l n="46-x"> -->
+                    <lg>
+                        <l n="46-1">
+                            <hi rend="sc">All</hi> the night sleep came not upon my eyelids, </l>
+                        <l n="46-2">Shed not dew, nor shook nor unclosed a feather, </l>
+                        <l n="46-3">Yet with lips shut close and with eyes of iron </l>
+                        <l n="46-4" rend="ti-1">Stood and beheld me.</l>
+                    </lg>
+                    <lg>
+                        <l n="46-5">Then to me so lying awake a vision </l>
+                        <l n="46-6">Came without sleep over the seas and touched me, </l>
+                        <l n="46-7">Softly touched mine eyelids and lips; and I too, </l>
+                        <l n="46-8" rend="ti-1">Full of the vision,</l>
+                    </lg>
+                    <lg>
+                        <l n="46-9">Saw the white implacable Aphrodite, </l>
+                        <l n="46-10">Saw the hair unbound and the feet unsandalled </l>
+                        <l n="46-11">Shine as fire of sunset on western waters; </l>
+                        <l n="46-12" rend="ti-1">Saw the reluctant</l>
+                    </lg>
+                    <lg>
+                        <l n="46-13">Feet, the straining plumes of the doves that drew her, </l>
+                        <l n="46-14">Looking always, looking with necks reverted, </l>
+                        <l n="46-15">Back to Lesbos, back to the hills whereunder </l>
+                        <l n="46-16" rend="ti-1">Shone Mitylene;</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[236]" type="verso"/>
+                    <lg>
+                        <l n="46-17">Heard the flying feet of the Loves behind her </l>
+                        <l n="46-18">Make a sudden thunder upon the waters, </l>
+                        <l n="46-19">As the thunder flung from the strong unclosing </l>
+                        <l n="46-20" rend="ti-1">Wings of a great wind.</l>
+                    </lg>
+                    <lg>
+                        <l n="46-21">So the goddess fled from her place, with awful </l>
+                        <l n="46-22">Sound of feet and thunder of wings around her; </l>
+                        <l n="46-23">While behind a clamour of singing women </l>
+                        <l n="46-24" rend="ti-1">Severed the twilight.</l>
+                    </lg>
+                    <lg>
+                        <l n="46-25">Ah the singing, ah the delight, the passion! </l>
+                        <l n="46-26">All the Loves wept, listening; sick with anguish, </l>
+                        <l n="46-27">Stood the crowned nine Muses about Apollo; </l>
+                        <l n="46-28" rend="ti-1">Fear was upon them,</l>
+                    </lg>
+                    <lg>
+                        <l n="46-29">While the tenth sang wonderful things they knew not. </l>
+                        <l n="46-30">Ah the tenth, the Lesbian! the nine were silent, </l>
+                        <l n="46-31">None endured the sound of her song for weeping; </l>
+                        <l n="46-32" rend="ti-1">Laurel by laurel,</l>
+                    </lg>
+                    <lg>
+                        <l n="46-33">Faded all their crowns; but about her forehead, </l>
+                        <l n="46-34">Round her woven tresses and ashen temples </l>
+                        <l n="46-35">White as dead snow, paler than grass in summer, </l>
+                        <l n="46-36" rend="ti-1">Ravaged with kisses,</l>
+                    </lg>
+                    <lg>
+                        <l n="46-37">Shone a light of fire as a crown for ever. </l>
+                        <l n="46-38">Yea, almost the implacable Aphrodite </l>
+                        <l n="46-39">Paused, and almost wept; such a song was that song. </l>
+                        <l n="46-40" rend="ti-1">Yea, by her name too</l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[237]" type="recto"/>
+                    <lg>
+                        <l n="46-41">Called her, saying, ''Turn to me, O my Sappho;'' </l>
+                        <l n="46-42">Yet she turned her face from the Loves, she saw not </l>
+                        <l n="46-43">Tears for laughter darken immortal eyelids, </l>
+                        <l n="46-44" rend="ti-1">Heard not about her</l>
+                    </lg>
+                    <lg>
+                        <l n="46-45">Fearful fitful wings of the doves departing, </l>
+                        <l n="46-46">Saw not how the bosom of Aphrodite </l>
+                        <l n="46-47">Shook with weeping, saw not her shaken raiment, </l>
+                        <l n="46-48" rend="ti-1">Saw not her hands wrung;</l>
+                    </lg>
+                    <lg>
+                        <l n="46-49">Saw the Lesbians kissing across their smitten </l>
+                        <l n="46-50">Lutes with lips more sweet than the sound of lute-strings, </l>
+                        <l n="46-51">Mouth to mouth and hand upon hand, her chosen, </l>
+                        <l n="46-52" rend="ti-1">Fairer than all men;</l>
+                    </lg>
+                    <lg>
+                        <l n="46-53">Only saw the beautiful lips and fingers, </l>
+                        <l n="46-54">Full of songs and kisses and little whispers, </l>
+                        <l n="46-55">Full of music; only beheld among them </l>
+                        <l n="46-56" rend="ti-1">Soar, as a bird soars</l>
+                    </lg>
+                    <lg>
+                        <l n="46-57">Newly fledged, her visible song, a marvel, </l>
+                        <l n="46-58">Made of perfect sound and exceeding passion, </l>
+                        <l n="46-59">Sweetly shapen, terrible, full of thunders, </l>
+                        <l n="46-60" rend="ti-1">Clothed with the wind's wings.</l>
+                    </lg>
+                    <lg>
+                        <l n="46-61">Then rejoiced she, laughing with love, and scattered </l>
+                        <l n="46-62">Roses, awful roses of holy blossom; </l>
+                        <l n="46-63">Then the Loves thronged sadly with hidden faces </l>
+                        <l n="46-64" rend="ti-1">Round Aphrodite,</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[238]" type="verso"/>
+                    <lg>
+                        <l n="46-65">Then the Muses, stricken at heart, were silent; </l>
+                        <l n="46-66">Yea, the gods waxed pale; such a song was that song. </l>
+                        <l n="46-67">All reluctant, all with a fresh repulsion, </l>
+                        <l n="46-68" rend="ti-1">Fled from before her.</l>
+                    </lg>
+                    <lg>
+                        <l n="46-69">All withdrew long since, and the land was barren, </l>
+                        <l n="46-70">Full of fruitless women and music only. </l>
+                        <l n="46-71">Now perchance, when winds are assuaged at sunset, </l>
+                        <l n="46-72" rend="ti-1">Lulled at the dewfall,</l>
+                    </lg>
+                    <lg>
+                        <l n="46-73">By the grey sea-side, unassuaged, unheard of, </l>
+                        <l n="46-74">Unbeloved, unseen in the ebb of twilight, </l>
+                        <l n="46-75">Ghosts of outcast women return lamenting, </l>
+                        <l n="46-76" rend="ti-1">Purged not in Lethe,</l>
+                    </lg>
+                    <lg>
+                        <l n="46-77">Clothed about with flame and with tears, and singing </l>
+                        <l n="46-78">Songs that move the heart of the shaken heaven, </l>
+                        <l n="46-79">Songs that break the heart of the earth with pity, </l>
+                        <l n="46-80" rend="ti-1">Hearing, to hear them. </l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[239]" type="recto"/>
+                    <head rend="center"> AT ELEUSIS. </head><!-- <l n="47-x"> -->
+                    <lg>
+                        <l n="47-1">
+                            <hi rend="sc"> Men </hi> of Eleusis, ye that with long staves </l>
+                        <l n="47-2"> Sit in the market-houses, and speak words </l>
+                        <l n="47-3"> Made sweet with wisdom as the rare wine is </l>
+                        <l n="47-4"> Thickened with honey; and ye sons of these </l>
+                        <l n="47-5"> Who in the glad thick streets go up and down </l>
+                        <l n="47-6"> For pastime or grave traffic or mere chance; </l>
+                        <l n="47-7"> And all fair women having rings of gold </l>
+                        <l n="47-8"> On hands or hair; and chiefest over these </l>
+                        <l n="47-9"> I name you, daughters of this man the king, </l>
+                        <l n="47-10"> Who dipping deep smooth pitchers of pure brass </l>
+                        <l n="47-11"> Under the bubbled wells, till each round lip </l>
+                        <l n="47-12"> Stooped with loose gurgle of waters incoming, </l>
+                        <l n="47-13"> Found me an old sick woman, lamed and lean, </l>
+                        <l n="47-14"> Beside a growth of builded olive-boughs </l>
+                        <l n="47-15"> Whence multiplied thick song of thick-plumed throats&#x2014; </l>
+                        <l n="47-16"> Also wet tears filled up my hollow hands </l>
+                        <l n="47-17"> By reason of my crying into them&#x2014; </l>
+                        <l n="47-18"> And pitied me; for as cold water ran </l>
+                        <l n="47-19"> And washed the pitchers full from lip to lip, </l>
+                        <l n="47-20"> So washed both eyes full the strong salt of tears. </l></lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[240]" type="verso"/>
+                    <lg>
+                        <l n="47-21"> And ye put water to my mouth, made sweet </l>
+                        <l n="47-22"> With brown hill-berries; so in time I spoke </l>
+                        <l n="47-23"> And gathered my loose knees from under me. </l>
+                        <l n="47-24"> Moreover in the broad fair halls this month </l>
+                        <l n="47-25"> Have I found space and bountiful abode </l>
+                        <l n="47-26"> To please me. I Demeter speak of this, </l>
+                        <l n="47-27"> Who am the mother and the mate of things: </l>
+                        <l n="47-28"> For as ill men by drugs or singing words </l>
+                        <l n="47-29"> Shut the doors inward of the narrowed womb </l>
+                        <l n="47-30"> Like a lock bolted with round iron through, </l>
+                        <l n="47-31"> Thus I shut up the body and sweet mouth </l>
+                        <l n="47-32"> Of all soft pasture and the tender land, </l>
+                        <l n="47-33"> So that no seed can enter in by it </l>
+                        <l n="47-34"> Though one sow thickly, nor some grain get out </l>
+                        <l n="47-35"> Past the hard clods men cleave and bite with steel </l>
+                        <l n="47-36"> To widen the sealed lips of them for use. </l>
+                        <l n="47-37"> None of you is there in the peopled street </l>
+                        <l n="47-38"> But knows how all the dry-drawn furrows ache </l>
+                        <l n="47-39"> With no green spot made count of in the black: </l>
+                        <l n="47-40"> How the wind finds no comfortable grass </l>
+                        <l n="47-41"> Nor is assuaged with bud nor breath of herbs; </l>
+                        <l n="47-42"> And in hot autumn when ye house the stacks, </l>
+                        <l n="47-43"> All fields are helpless in the sun, all trees </l>
+                        <l n="47-44"> Stand as a man stripped out of all but skin. </l>
+                        <l n="47-45"> Nevertheless ye sick have help to get </l>
+                        <l n="47-46"> By means and stablished ordinance of God; </l>
+                        <l n="47-47"> For God is wiser than a good man is. </l>
+                        <l n="47-48"> But never shall new grass be sweet in earth </l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[241]" type="recto"/>
+                    <lg>
+                        <l n="47-49"> Till I get righted of my wound and wrong </l>
+                        <l n="47-50"> By changing counsel of ill-minded Zeus. </l>
+                        <l n="47-51"> For of all other gods is none save me </l>
+                        <l n="47-52"> Clothed with like power to build and break the year. </l>
+                        <l n="47-53"> I make the lesser green begin, when spring </l>
+                        <l n="47-54"> Touches not earth but with one fearful foot; </l>
+                        <l n="47-55"> And as a careful gilder with grave art </l>
+                        <l n="47-56"> Soberly colours and completes the face, </l>
+                        <l n="47-57"> Mouth, chin and all, of some sweet work in stone, </l>
+                        <l n="47-58"> I carve the shapes of grass and tender corn </l>
+                        <l n="47-59"> And colour the ripe edges and long spikes </l>
+                        <l n="47-60"> With the red increase and the grace of gold. </l>
+                        <l n="47-61"> No tradesman in soft wools is cunninger </l>
+                        <l n="47-62"> To kill the secret of the fat white fleece </l>
+                        <l n="47-63"> With stains of blue and purple wrought in it. </l>
+                        <l n="47-64"> Three moons were made and three moons burnt away </l>
+                        <l n="47-65"> While I held journey hither out of Crete </l>
+                        <l n="47-66"> Comfortless, tended by grave Hecate </l>
+                        <l n="47-67"> Whom my wound stung with double iron point; </l>
+                        <l n="47-68"> For all my face was like a cloth wrung out </l>
+                        <l n="47-69"> With close and weeping wrinkles, and both lids </l>
+                        <l n="47-70"> Sodden with salt continuance of tears. </l>
+                        <l n="47-71"> For Hades and the sidelong will of Zeus </l>
+                        <l n="47-72"> And that lame wisdom that has writhen feet, </l>
+                        <l n="47-73"> Cunning, begotten in the bed of Shame, </l>
+                        <l n="47-74"> These three took evil will at me, and made </l>
+                        <l n="47-75"> Such counsel that when time got wing to fly </l>
+                        <l n="47-76"> This Hades out of summer and low fields </l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[242]" type="verso"/>
+                    <lg>
+                        <l n="47-77"> Forced the bright body of Persephone: </l>
+                        <l n="47-78"> Out of pure grass, where she lying down, red flowers </l>
+                        <l n="47-79"> Made their sharp little shadows on her sides, </l>
+                        <l n="47-80"> Pale heat, pale colour on pale maiden flesh&#x2014; </l>
+                        <l n="47-81"> And chill water slid over her reddening feet, </l>
+                        <l n="47-82"> Killing the throbs in their soft blood; and birds, </l>
+                        <l n="47-83"> Perched next her elbow and pecking at her hair, </l>
+                        <l n="47-84"> Stretched their necks more to see her than even to sing. </l>
+                        <l n="47-85"> A sharp thing is it I have need to say; </l>
+                        <l n="47-86"> For Hades holding both white wrists of hers </l>
+                        <l n="47-87"> Unloosed the girdle and with knot by knot </l>
+                        <l n="47-88"> Bound her between his wheels upon the seat, </l>
+                        <l n="47-89"> Bound her pure body, holiest yet and dear </l>
+                        <l n="47-90"> To me and God as always, clothed about </l>
+                        <l n="47-91"> With blossoms loosened as her knees went down, </l>
+                        <l n="47-92"> Let fall as she let go of this and this </l>
+                        <l n="47-93"> By tens and twenties, tumbled to her feet, </l>
+                        <l n="47-94"> White waifs or purple of the pasturage. </l>
+                        <l n="47-95"> Therefore with only going up and down </l>
+                        <l n="47-96"> My feet were wasted, and the gracious air, </l>
+                        <l n="47-97"> To me discomfortable and dun, became </l>
+                        <l n="47-98"> As weak smoke blowing in the under world. </l>
+                        <l n="47-99"> And finding in the process of ill days </l>
+                        <l n="47-100"> What part had Zeus herein, and how as mate </l>
+                        <l n="47-101"> He coped with Hades, yokefellow in sin, </l>
+                        <l n="47-102"> I set my lips against the meat of gods </l>
+                        <l n="47-103"> And drank not neither ate or slept in heaven. </l>
+                        <l n="47-104"> Nor in the golden greeting of their mouths </l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[243]" type="recto"/>
+                    <lg>
+                        <l n="47-105"> Did ear take note of me, nor eye at all </l>
+                        <l n="47-106"> Track my feet going in the ways of them. </l>
+                        <l n="47-107"> Like a great fire on some strait slip of land </l>
+                        <l n="47-108"> Between two washing inlets of wet sea </l>
+                        <l n="47-109"> That burns the grass up to each lip of beach </l>
+                        <l n="47-110"> And strengthens, waxing in the growth of wind, </l>
+                        <l n="47-111"> So burnt my soul in me at heaven and earth, </l>
+                        <l n="47-112"> Each way a ruin and a hungry plague, </l>
+                        <l n="47-113"> Visible evil; nor could any night </l>
+                        <l n="47-114"> Put cool between mine eyelids, nor the sun </l>
+                        <l n="47-115"> With competence of gold fill out my want. </l>
+                        <l n="47-116"> Yea so my flame burnt up the grass and stones, </l>
+                        <l n="47-117"> Shone to the salt-white edges of thin sea, </l>
+                        <l n="47-118"> Distempered all the gracious work, and made </l>
+                        <l n="47-119"> Sick change, unseasonable increase of days </l>
+                        <l n="47-120"> And scant avail of seasons; for by this </l>
+                        <l n="47-121"> The fair gods faint in hollow heaven: there comes </l>
+                        <l n="47-122"> No taste of burnings of the twofold fat </l>
+                        <l n="47-123"> To leave their palates smooth, nor in their lips </l>
+                        <l n="47-124"> Soft rings of smoke and weak scent wandering; </l>
+                        <l n="47-125"> All cattle waste and rot, and their ill smell </l>
+                        <l n="47-126"> Grows alway from the lank unsavoury flesh </l>
+                        <l n="47-127"> That no man slays for offering; the sea </l>
+                        <l n="47-128"> And waters moved between the heath and corn </l>
+                        <l n="47-129"> Preserve the people of fin-twinkling fish, </l>
+                        <l n="47-130"> And river-flies feed thick upon the smooth; </l>
+                        <l n="47-131"> But all earth over is no man or bird </l>
+                        <l n="47-132"> (Except the sweet race of the kingfisher) </l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[244]" type="verso"/>
+                    <lg>
+                        <l n="47-133"> That lacks not and is wearied with much loss. </l>
+                        <l n="47-134"> Meantime the purple inward of the house </l>
+                        <l n="47-135"> Was softened with all grace of scent and sound </l>
+                        <l n="47-136"> In ear and nostril perfecting my praise; </l>
+                        <l n="47-137"> Faint grape-flowers and cloven honey-cake </l>
+                        <l n="47-138"> And the just grain with dues of the shed salt </l>
+                        <l n="47-139"> Made me content: yet my hand loosened not </l>
+                        <l n="47-140"> Its gripe upon your harvest all year long. </l>
+                        <l n="47-141"> While I, thus woman-muffled in wan flesh </l>
+                        <l n="47-142"> And waste externals of a perished face, </l>
+                        <l n="47-143"> Preserved the levels of my wrath and love </l>
+                        <l n="47-144"> Patiently ruled; and with soft offices </l>
+                        <l n="47-145"> Cooled the sharp noons and busied the warm nights </l>
+                        <l n="47-146"> In care of this my choice, this child my choice, </l>
+                        <l n="47-147"> Triptolemus, the king's selected son: </l>
+                        <l n="47-148"> That this fair yearlong body, which hath grown </l>
+                        <l n="47-149"> Strong with strange milk upon the mortal lip </l>
+                        <l n="47-150"> And nerved with half a god, might so increase </l>
+                        <l n="47-151"> Outside the bulk and the bare scope of man: </l>
+                        <l n="47-152"> And waxen over large to hold within </l>
+                        <l n="47-153"> Base breath of yours and this impoverished air, </l>
+                        <l n="47-154"> I might exalt him past the flame of stars, </l>
+                        <l n="47-155"> The limit and walled reach of the great world. </l>
+                        <l n="47-156"> Therefore my breast made common to his mouth </l>
+                        <l n="47-157"> Immortal savours, and the taste whereat </l>
+                        <l n="47-158"> Twice their hard life strains out the coloured veins </l>
+                        <l n="47-159"> And twice its brain confirms the narrow shell. </l>
+                        <l n="47-160"> Also at night, unwinding cloth from cloth </l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[245]" type="recto"/>
+                    <lg>
+                        <l n="47-161"> As who unhusks an almond to the white </l>
+                        <l n="47-162"> And pastures curiously the purer taste, </l>
+                        <l n="47-163"> I bared the gracious limbs and the soft feet, </l>
+                        <l n="47-164"> Unswaddled the weak hands, and in mid ash </l>
+                        <l n="47-165"> Laid the sweet flesh of either feeble side, </l>
+                        <l n="47-166"> More tender for impressure of some touch </l>
+                        <l n="47-167"> Than wax to any pen; and lit around </l>
+                        <l n="47-168"> Fire, and made crawl the white worm-shapen flame, </l>
+                        <l n="47-169"> And leap in little angers spark by spark </l>
+                        <l n="47-170"> At head at once and feet; and the faint hair </l>
+                        <l n="47-171"> Hissed with rare sprinkles in the closer curl, </l>
+                        <l n="47-172"> And like scaled oarage of a keen thin fish </l>
+                        <l n="47-173"> In sea-water, so in pure fire his feet </l>
+                        <l n="47-174"> Struck out, and the flame bit not in his flesh </l>
+                        <l n="47-175"> But like a kiss it curled his lip, and heat </l>
+                        <l n="47-176"> Fluttered his eyelids; so each night I blew </l>
+                        <l n="47-177"> The hot ash red to purge him to full god. </l>
+                        <l n="47-178"> Ill is it when fear hungers in the soul </l>
+                        <l n="47-179"> For painful food, and chokes thereon, being fed; </l>
+                        <l n="47-180"> And ill slant eyes interpret the straight sun, </l>
+                        <l n="47-181"> But in their scope its white is wried to black: </l>
+                        <l n="47-182"> By the queen Metaneira mean I this; </l>
+                        <l n="47-183"> For with sick wrath upon her lips, and heart, </l>
+                        <l n="47-184"> Narrowing with fear the spleenful passages, </l>
+                        <l n="47-185"> She thought to thread this web's fine ravel out, </l>
+                        <l n="47-186"> Nor leave her shuttle split in combing it; </l>
+                        <l n="47-187"> Therefore she stole on us, and with hard sight </l>
+                        <l n="47-188"> Peered, and stooped close; then with pale open mouth </l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[246]" type="verso"/>
+                    <lg>
+                        <l n="47-189"> As the fire smote her in the eyes between </l>
+                        <l n="47-190"> Cried, and the child's laugh, sharply shortening </l>
+                        <l n="47-191"> As fire doth under rain, fell off; the flame </l>
+                        <l n="47-192"> Writhed once all through and died, and in thick dark </l>
+                        <l n="47-193"> Tears fell from mine on the child's weeping eyes, </l>
+                        <l n="47-194"> Eyes dispossessed of strong inheritance </l>
+                        <l n="47-195"> And mortal fallen anew. Who not the less </l>
+                        <l n="47-196"> From bud of beard to pale-grey flower of hair </l>
+                        <l n="47-197"> Shall wax vinewise to a lordly vine, whose grapes </l>
+                        <l n="47-198"> Bleed the red heavy blood of swoln soft wine, </l>
+                        <l n="47-199"> Subtle with sharp leaves' intricacy, until </l>
+                        <l n="47-200"> Full of white years and blossom of hoary days </l>
+                        <l n="47-201"> I take him perfected; for whose one sake </l>
+                        <l n="47-202"> I am thus gracious to the least who stands </l>
+                        <l n="47-203"> Filleted with white wool and girt upon </l>
+                        <l n="47-204"> As he whose prayer endures upon the lip </l>
+                        <l n="47-205"> And falls not waste: wherefore let sacrifice </l>
+                        <l n="47-206"> Burn and run red in all the wider ways; </l>
+                        <l n="47-207"> Seeing I have sworn by the pale temples' band </l>
+                        <l n="47-208"> And poppied hair of gold Persephone </l>
+                        <l n="47-209"> Sad-tressed and pleached low down about her brows, </l>
+                        <l n="47-210"> And by the sorrow in her lips, and death </l>
+                        <l n="47-211"> Her dumb and mournful-mouthèd minister, </l>
+                        <l n="47-212"> My word for you is eased of its harsh weight </l>
+                        <l n="47-213"> And doubled with soft promise; and your king </l>
+                        <l n="47-214"> Triptolemus, this Celeus dead and swathed </l>
+                        <l n="47-215"> Purple and pale for golden burial, </l>
+                        <l n="47-216"> Shall be your helper in my services, </l>
+                    </lg>
+                </div>
+                <div type="recto">
+                    <pb n="[247]" type="recto"/>
+                    <lg>
+                        <l n="47-217"> Dividing earth and reaping fruits thereof </l>
+                        <l n="47-218"> In fields where wait, well-girt, well-wreathen, all </l>
+                        <l n="47-219"> The heavy-handed seasons all year through; </l>
+                        <l n="47-220"> Saving the choice of warm spear-headed grain, </l>
+                        <l n="47-221"> And stooping sharp to the slant-sided share </l>
+                        <l n="47-222"> All beasts that furrow the remeasured land </l>
+                        <l n="47-223"> With their bowed necks of burden equable. </l>
+                    </lg>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[248]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[249]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[250]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[251]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[252]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[253]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[254]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[255]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[256]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[257]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[258]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[259]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[260]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
+            <div type="opening">
+                <div type="verso">
+                    <pb n="[208]" type="verso"/>
+                </div>
+                <div type="recto">
+                    <pb n="[209]" type="recto"/>
+                </div>
+            </div>
             
         </body>
         
