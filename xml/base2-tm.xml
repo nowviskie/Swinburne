@@ -6137,67 +6137,68 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[178]" type="verso"/>
-                        <head rend="center">DOLORES</head>
+                        <head rend="center">DOLORES</head><!-- <l n="36-x"> -->
                         <head rend="center x-small">(NOTRE-DAME DES SEPT DOULEURS.)</head>
                         <lg>
-                            <l n="1">Cold eyelids that hide like a jewel </l>
-                            <l n="2" rend="ti-1">Hard eyes that grow soft for an hour; </l>
-                            <l n="3">The heavy white limbs, and the cruel </l>
-                            <l n="4" rend="ti-1">Red mouth like a venomous flower; </l>
-                            <l n="5">When these are gone by with their glories, </l>
-                            <l n="6" rend="ti-1">What shall rest of thee then, what remain, </l>
-                            <l n="7">O mystic and sombre Dolores, </l>
-                            <l n="8" rend="ti-1">Our Lady of Pain?</l>
+                            <l n="36-1">Cold eyelids that hide like a jewel </l>
+                            <l n="36-2" rend="ti-1">Hard eyes that grow soft for an hour; </l>
+                            <l n="36-3">The heavy white limbs, and the cruel </l>
+                            <l n="36-4" rend="ti-1">Red mouth like a venomous flower; </l>
+                            <l n="36-5">When these are gone by with their glories, </l>
+                            <l n="36-6" rend="ti-1">What shall rest of thee then, what remain, </l>
+                            <l n="36-7">O mystic and sombre Dolores, </l>
+                            <l n="36-8" rend="ti-1">Our Lady of Pain?</l>
                         </lg>
                         <lg>
-                            <l n="9">Seven sorrows the priests give their Virgin; </l>
-                            <l n="10" rend="ti-1">But thy sins, which are seventy times seven, </l>
-                            <l n="11">Seven ages would fail thee to purge in, </l>
-                            <l n="12" rend="ti-1">And then they would haunt thee in heaven: </l>
-                            <l n="13">Fierce midnights and famishing morrows, </l>
-                            <l n="14" rend="ti-1">And the loves that complete and control </l>
-                            <l n="15">All the joys of the flesh, all the sorrows </l>
-                            <l n="16" rend="ti-1">That wear out the soul.</l>
+                            <l n="36-9">Seven sorrows the priests give their Virgin; </l>
+                            <l n="36-10" rend="ti-1">But thy sins, which are seventy times seven, </l>
+                            <l n="36-11">Seven ages would fail thee to purge in, </l>
+                            <l n="36-12" rend="ti-1">And then they would haunt thee in heaven: </l>
+                            <l n="36-13">Fierce midnights and famishing morrows, </l>
+                            <l n="36-14" rend="ti-1">And the loves that complete and control </l>
+                            <l n="36-15">All the joys of the flesh, all the sorrows </l>
+                            <l n="36-16" rend="ti-1">That wear out the soul.</l>
                         </lg>
                         <lg>
-                            <l n="17">O garment not golden but gilded, </l>
-                            <l n="18" rend="ti-1">O garden where all men may dwell, </l></lg>
+                            <l n="36-17">O garment not golden but gilded, </l>
+                            <l n="36-18" rend="ti-1">O garden where all men may dwell, </l></lg>
                     </div>
                     <div type="recto">
                         <pb n="[179]" type="recto"/>
                         <lg>
-                            <l n="19">O tower not of ivory, but builded </l>
-                            <l n="20" rend="ti-1">By hands that reach heaven from hell;</l>
-                            <l n="21">O mystical rose of the mire, </l>
-                            <l n="22" rend="ti-1">O house not of gold but of gain, </l>
-                            <l n="23">O house of unquenchable fire, </l>
-                            <l n="24" rend="ti-1">Our Lady of Pain!</l>
+                            <l n="36-19">O tower not of ivory, but builded </l>
+                            <l n="36-20" rend="ti-1">By hands that reach heaven from hell;</l>
+                            <l n="36-21">O mystical rose of the mire, </l>
+                            <l n="36-22" rend="ti-1">O house not of gold but of gain, </l>
+                            <l n="36-23">O house of unquenchable fire, </l>
+                            <l n="36-24" rend="ti-1">Our Lady of Pain!</l>
                         </lg>
                         <lg>
-                            <l n="25">O lips full of lust and of laughter, </l>
-                            <l n="26" rend="ti-1">Curled snakes that are fed from my breast, </l>
-                            <l n="27">Bite hard, lest remembrance come after </l>
-                            <l n="28" rend="ti-1">And press with new lips where you pressed. </l>
-                            <l n="29">For my heart too springs up at the pressure, </l>
-                            <l n="30" rend="ti-1">Mine eyelids too moisten and burn; </l>
-                            <l n="31">Ah, feed me and fill me with pleasure, </l>
-                            <l n="32" rend="ti-1">Ere pain come in turn.</l>
+                            <l n="36-25">O lips full of lust and of laughter, </l>
+                            <l n="36-26" rend="ti-1">Curled snakes that are fed from my breast, </l>
+                            <l n="36-27">Bite hard, lest remembrance come after </l>
+                            <l n="36-28" rend="ti-1">And press with new lips where you pressed. </l>
+                            <l n="36-29">For my heart too springs up at the pressure, </l>
+                            <l n="36-30" rend="ti-1">Mine eyelids too moisten and burn; </l>
+                            <l n="36-31">Ah, feed me and fill me with pleasure, </l>
+                            <l n="36-32" rend="ti-1">Ere pain come in turn.</l>
                         </lg>
                         <lg>
-                            <l n="33">In yesterday's reach and to-morrow's, </l>
-                            <l n="34" rend="ti-1">Out of sight though they lie of to-day, </l>
-                            <l n="35">There have been and there yet shall be sorrows </l>
-                            <l n="36" rend="ti-1">That smite not and bite not in play. </l>
-                            <l n="37">The life and the love thou despisest, </l>
-                            <l n="38" rend="ti-1">These hurt us indeed, and in vain, </l>
-                            <l n="39">O wise among women, and wisest, </l>
-                            <l n="40" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-33">In yesterday's reach and to-morrow's, </l>
+                            <l n="36-34" rend="ti-1">Out of sight though they lie of to-day, </l>
+                            <l n="36-35">There have been and there yet shall be <app><lem wit="#mc #ny #cw">sorrows</lem>
+                            <rdgGrp type="a"><rdg wit="#hr">sorrows,</rdg></rdgGrp></app> </l>
+                            <l n="36-36" rend="ti-1">That smite not and bite not in play. </l>
+                            <l n="36-37">The life and the love thou despisest, </l>
+                            <l n="36-38" rend="ti-1">These hurt us indeed, and in vain, </l>
+                            <l n="36-39">O wise among women, and wisest, </l>
+                            <l n="36-40" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="41">Who gave thee thy wisdom? what stories </l>
-                            <l n="42" rend="ti-1">That stung thee, what visions that smote? </l>
-                            <l n="43">Wert thou pure and a maiden, Dolores, </l>
-                            <l n="44" rend="ti-1">When desire took thee first by the throat? </l>
+                            <l n="36-41">Who gave thee thy wisdom? what stories </l>
+                            <l n="36-42" rend="ti-1">That stung thee, what visions that smote? </l>
+                            <l n="36-43">Wert thou pure and a maiden, Dolores, </l>
+                            <l n="36-44" rend="ti-1">When desire took thee first by the throat? </l>
                         </lg>
                     </div>
                 </div>
@@ -6205,75 +6206,75 @@
                     <div type="verso">
                         <pb n="[180]" type="verso"/>
                         <lg>
-                            <l n="45">What bud was the shell of a blossom </l>
-                            <l n="46" rend="ti-1">That all men may smell to and pluck? </l>
-                            <l n="47">What milk fed thee first at what bosom? </l>
-                            <l n="48" rend="ti-1">What sins gave thee suck?</l>
+                            <l n="36-45">What bud was the shell of a blossom </l>
+                            <l n="36-46" rend="ti-1">That all men may smell to and pluck? </l>
+                            <l n="36-47">What milk fed thee first at what bosom? </l>
+                            <l n="36-48" rend="ti-1">What sins gave thee suck?</l>
                         </lg>
                         <lg>
-                            <l n="49">We shift and bedeck and bedrape us, </l>
-                            <l n="50" rend="ti-1">Thou art noble and nude and antique;</l>
-                            <l n="51">Libitina thy mother, Priapus </l>
-                            <l n="52" rend="ti-1">Thy father, a Tuscan and Greek. </l>
-                            <l n="53">We play with light loves in the portal, </l>
-                            <l n="54" rend="ti-1">And wince and relent and refrain; </l>
-                            <l n="55">Loves die, and we know thee immortal, </l>
-                            <l n="56" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-49">We shift and bedeck and bedrape us, </l>
+                            <l n="36-50" rend="ti-1">Thou art noble and nude and antique;</l>
+                            <l n="36-51">Libitina thy mother, Priapus </l>
+                            <l n="36-52" rend="ti-1">Thy father, a Tuscan and Greek. </l>
+                            <l n="36-53">We play with light loves in the portal, </l>
+                            <l n="36-54" rend="ti-1">And wince and relent and refrain; </l>
+                            <l n="36-55">Loves die, and we know thee immortal, </l>
+                            <l n="36-56" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="57">Fruits fail and love dies and time ranges; </l>
-                            <l n="58" rend="ti-1">Thou art fed with perpetual breath, </l>
-                            <l n="59">And alive after infinite changes, </l>
-                            <l n="60" rend="ti-1">And fresh from the kisses of death; </l>
-                            <l n="61">Of xml:languors rekindled and rallied, </l>
-                            <l n="62" rend="ti-1">Of barren delights and unclean, </l>
-                            <l n="63">Things monstrous and fruitless, a pallid </l>
-                            <l n="64" rend="ti-1">And poisonous queen.</l>
+                            <l n="36-57">Fruits fail and love dies and time ranges; </l>
+                            <l n="36-58" rend="ti-1">Thou art fed with perpetual breath, </l>
+                            <l n="36-59">And alive after infinite changes, </l>
+                            <l n="36-60" rend="ti-1">And fresh from the kisses of death; </l>
+                            <l n="36-61">Of xml:languors rekindled and rallied, </l>
+                            <l n="36-62" rend="ti-1">Of barren delights and unclean, </l>
+                            <l n="36-63">Things monstrous and fruitless, a pallid </l>
+                            <l n="36-64" rend="ti-1">And poisonous queen.</l>
                         </lg>
                         <lg>
-                            <l n="65">Could you hurt me, sweet lips, though I hurt you? </l>
-                            <l n="66" rend="ti-1">Men touch them, and change in a trice </l>
-                            <l n="67">The lilies and xml:languors of virtue </l>
-                            <l n="68" rend="ti-1">For the raptures and roses of vice; </l>
-                            <l n="69">Those lie where thy foot on the floor is, </l>
-                            <l n="70" rend="ti-1">These crown and caress thee and chain, </l>
+                            <l n="36-65">Could you hurt me, sweet lips, though I hurt you? </l>
+                            <l n="36-66" rend="ti-1">Men touch them, and change in a trice </l>
+                            <l n="36-67">The lilies and xml:languors of virtue </l>
+                            <l n="36-68" rend="ti-1">For the raptures and roses of vice; </l>
+                            <l n="36-69">Those lie where thy foot on the floor is, </l>
+                            <l n="36-70" rend="ti-1">These crown and caress thee and chain, </l>
                         </lg>
                     </div>
                     <div type="recto">
                         <pb n="[181]" type="recto"/>
                         <lg>
-                            <l n="71">O splendid and sterile Dolores, </l>
-                            <l n="72" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-71">O splendid and sterile Dolores, </l>
+                            <l n="36-72" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="73">There are sins it may be to discover, </l>
-                            <l n="74" rend="ti-1">There are deeds it may be to delight. </l>
-                            <l n="75">What new work wilt thou find for thy lover, </l>
-                            <l n="76" rend="ti-1">What new passions for daytime or night? </l>
-                            <l n="77">What spells that they know not a word of </l>
-                            <l n="78" rend="ti-1">Whose lives are as leaves overblown? </l>
-                            <l n="79">What tortures undreamt of, unheard of, </l>
-                            <l n="80" rend="ti-1">Unwritten, unknown?</l>
+                            <l n="36-73">There are sins it may be to discover, </l>
+                            <l n="36-74" rend="ti-1">There are deeds it may be to delight. </l>
+                            <l n="36-75">What new work wilt thou find for thy lover, </l>
+                            <l n="36-76" rend="ti-1">What new passions for daytime or night? </l>
+                            <l n="36-77">What spells that they know not a word of </l>
+                            <l n="36-78" rend="ti-1">Whose lives are as leaves overblown? </l>
+                            <l n="36-79">What tortures undreamt of, unheard of, </l>
+                            <l n="36-80" rend="ti-1">Unwritten, unknown?</l>
                         </lg>
                         <lg>
-                            <l n="81">Ah beautiful passionate body </l>
-                            <l n="82" rend="ti-1">That never has ached with a heart! </l>
-                            <l n="83">On thy mouth though the kisses are bloody, </l>
-                            <l n="84" rend="ti-1">Though they sting till it shudder and smart, </l>
-                            <l n="85">More kind than the love we adore is, </l>
-                            <l n="86" rend="ti-1">They hurt not the heart or the brain, </l>
-                            <l n="87">O bitter and tender Dolores, </l>
-                            <l n="88" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-81">Ah beautiful passionate body </l>
+                            <l n="36-82" rend="ti-1">That never has ached with a heart! </l>
+                            <l n="36-83">On thy mouth though the kisses are bloody, </l>
+                            <l n="36-84" rend="ti-1">Though they sting till it shudder and smart, </l>
+                            <l n="36-85">More kind than the love we adore is, </l>
+                            <l n="36-86" rend="ti-1">They hurt not the heart or the brain, </l>
+                            <l n="36-87">O bitter and tender Dolores, </l>
+                            <l n="36-88" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="89">As our kisses relax and redouble, </l>
-                            <l n="90" rend="ti-1">From the lips and the foam and the fangs </l>
-                            <l n="91">Shall no new sin be born for men's trouble, </l>
-                            <l n="92" rend="ti-1">No dream of impossible pangs? </l>
-                            <l n="93">With the sweet of the sins of old ages </l>
-                            <l n="94" rend="ti-1">Wilt thou satiate thy soul as of yore? </l>
-                            <l n="95">Too sweet is the rind, say the sages, </l>
-                            <l n="96" rend="ti-1">Too bitter the core.</l>
+                            <l n="36-89">As our kisses relax and redouble, </l>
+                            <l n="36-90" rend="ti-1">From the lips and the foam and the fangs </l>
+                            <l n="36-91">Shall no new sin be born for men's trouble, </l>
+                            <l n="36-92" rend="ti-1">No dream of impossible pangs? </l>
+                            <l n="36-93">With the sweet of the sins of old ages </l>
+                            <l n="36-94" rend="ti-1">Wilt thou satiate thy soul as of yore? </l>
+                            <l n="36-95">Too sweet is the rind, say the sages, </l>
+                            <l n="36-96" rend="ti-1">Too bitter the core.</l>
                         </lg>
                     </div>
                 </div>
@@ -6281,75 +6282,76 @@
                     <div type="verso">
                         <pb n="[182]" type="verso"/>
                         <lg>
-                            <l n="97">Hast thou told all thy secrets the last time, </l>
-                            <l n="98" rend="ti-1">And bared all thy beauties to one? </l>
-                            <l n="99">Ah, where shall we go then for pastime, </l>
-                            <l n="100" rend="ti-1">If the worst that can be has been done? </l>
-                            <l n="101">But sweet as the rind was the core is; </l>
-                            <l n="102" rend="ti-1">We are fain of thee still, we are fain, </l>
-                            <l n="103">O sanguine and subtle Dolores, </l>
-                            <l n="104" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-97">Hast thou told all thy secrets the last time, </l>
+                            <l n="36-98" rend="ti-1">And bared all thy beauties to one? </l>
+                            <l n="36-99">Ah, where shall we go then for pastime, </l>
+                            <l n="36-100" rend="ti-1">If the worst that can be has been done? </l>
+                            <l n="36-101">But sweet as the rind was the core is; </l>
+                            <l n="36-102" rend="ti-1">We are fain of thee still, we are fain, </l>
+                            <l n="36-103">O sanguine and subtle Dolores, </l>
+                            <l n="36-104" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="105">By the hunger of change and emotion, </l>
-                            <l n="106" rend="ti-1">By the thirst of unbearable things, </l>
-                            <l n="107">By despair, the twin-born of devotion, </l>
-                            <l n="108" rend="ti-1">By the pleasure that winces and stings, </l>
-                            <l n="109">The delight that consumes the desire, </l>
-                            <l n="110" rend="ti-1">The desire that outruns the delight, </l>
-                            <l n="111">By the cruelty deaf as a fire </l>
-                            <l n="112" rend="ti-1">And blind as the night,</l>
+                            <l n="36-105">By the hunger of change and emotion, </l>
+                            <l n="36-106" rend="ti-1">By the thirst of unbearable things, </l>
+                            <l n="36-107">By despair, the twin-born of devotion, </l>
+                            <l n="36-108" rend="ti-1">By the pleasure that winces and stings, </l>
+                            <l n="36-109">The delight that consumes the desire, </l>
+                            <l n="36-110" rend="ti-1">The desire that outruns the delight, </l>
+                            <l n="36-111">By the cruelty deaf as a fire </l>
+                            <l n="36-112" rend="ti-1">And blind as the night,</l>
                         </lg>
                         <lg>
-                            <l n="113">By the ravenous teeth that have smitten </l>
-                            <l n="114" rend="ti-1">Through the kisses that blossom and bud, </l>
-                            <l n="115">By the lips intertwisted and bitten </l>
-                            <l n="116" rend="ti-1">Till the foam has a savour of blood, </l>
-                            <l n="117">By the pulse as it rises and falters, </l>
-                            <l n="118" rend="ti-1">By the hands as they slacken and strain, </l>
-                            <l n="119">I adjure thee, respond from thine altars, </l>
-                            <l n="120" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-113">By the ravenous teeth that have smitten </l>
+                            <l n="36-114" rend="ti-1">Through the kisses that blossom and bud, </l>
+                            <l n="36-115">By the lips intertwisted and bitten </l>
+                            <l n="36-116" rend="ti-1">Till the foam has a savour of blood, </l>
+                            <l n="36-117">By the pulse as it rises and falters, </l>
+                            <l n="36-118" rend="ti-1">By the hands as they slacken and strain, </l>
+                            <l n="36-119">I adjure thee, respond from thine altars, </l>
+                            <l n="36-120" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="121">Wilt thou smile as a woman disdaining </l>
-                            <l n="122" rend="ti-1">The light fire in the veins of a boy? </l>
+                            <l n="36-121">Wilt thou smile as a woman disdaining </l>
+                            <l n="36-122" rend="ti-1">The light fire in the veins of a boy? </l>
                         </lg>
                     </div>
                     <div type="recto">
                         <pb n="[183]" type="recto"/>
                         <lg>
-                            <l n="123">But he comes to thee sad, without feigning, </l>
-                            <l n="124" rend="ti-1">Who has wearied of sorrow and joy; </l>
-                            <l n="125">Less careful of labour and glory </l>
-                            <l n="126" rend="ti-1">Than the elders whose hair has uncurled; </l>
-                            <l n="127">And young, but with fancies as hoary </l>
-                            <l n="128" rend="ti-1">And grey as the world.</l>
+                            <l n="36-123">But he comes to thee sad, without feigning, </l>
+                            <l n="36-124" rend="ti-1">Who has wearied of sorrow and joy; </l>
+                            <l n="36-125">Less careful of labour and glory </l>
+                            <l n="36-126" rend="ti-1">Than the elders whose hair has <app><lem wit="#mc #ny #hr">uncurled;</lem>
+                                <rdgGrp type="a"><rdg wit="#cw">uncurled:</rdg></rdgGrp></app> </l>
+                            <l n="36-127">And young, but with fancies as hoary </l>
+                            <l n="36-128" rend="ti-1">And grey as the world.</l>
                         </lg>
                         <lg>
-                            <l n="129">I have passed from the outermost portal </l>
-                            <l n="130" rend="ti-1">To the shrine where a sin is a prayer; </l>
-                            <l n="131">What care though the service be mortal? </l>
-                            <l n="132" rend="ti-1">O our Lady of Torture, what care? </l>
-                            <l n="133">All thine the last wine that I pour is, </l>
-                            <l n="134" rend="ti-1">The last in the chalice we drain, </l>
-                            <l n="135">O fierce and luxurious Dolores, </l>
-                            <l n="136" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-129">I have passed from the outermost portal </l>
+                            <l n="36-130" rend="ti-1">To the shrine where a sin is a prayer; </l>
+                            <l n="36-131">What care though the service be mortal? </l>
+                            <l n="36-132" rend="ti-1">O our Lady of Torture, what care? </l>
+                            <l n="36-133">All thine the last wine that I pour is, </l>
+                            <l n="36-134" rend="ti-1">The last in the chalice we drain, </l>
+                            <l n="36-135">O fierce and luxurious Dolores, </l>
+                            <l n="36-136" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="137">All thine the new wine of desire, </l>
-                            <l n="138" rend="ti-1">The fruit of four lips as they clung </l>
-                            <l n="139">Till the hair and the eyelids took fire, </l>
-                            <l n="140" rend="ti-1">The foam of a serpentine tongue, </l>
-                            <l n="141">The froth of the serpents of pleasure, </l>
-                            <l n="142" rend="ti-1">More salt than the foam of the sea, </l>
-                            <l n="143">Now felt as a flame, now at leisure </l>
-                            <l n="144" rend="ti-1">As wine shed for me.</l>
+                            <l n="36-137">All thine the new wine of desire, </l>
+                            <l n="36-138" rend="ti-1">The fruit of four lips as they clung </l>
+                            <l n="36-139">Till the hair and the eyelids took fire, </l>
+                            <l n="36-140" rend="ti-1">The foam of a serpentine tongue, </l>
+                            <l n="36-141">The froth of the serpents of pleasure, </l>
+                            <l n="36-142" rend="ti-1">More salt than the foam of the sea, </l>
+                            <l n="36-143">Now felt as a flame, now at leisure </l>
+                            <l n="36-144" rend="ti-1">As wine shed for me.</l>
                         </lg>
                         <lg>
-                            <l n="145">Ah thy people, thy children, thy chosen, </l>
-                            <l n="146" rend="ti-1">Marked cross from the womb and perverse! </l>
-                            <l n="147">They have found out the secret to cozen </l>
-                            <l n="148" rend="ti-1">The gods that constrain us and curse; </l>
+                            <l n="36-145">Ah thy people, thy children, thy chosen, </l>
+                            <l n="36-146" rend="ti-1">Marked cross from the womb and perverse! </l>
+                            <l n="36-147">They have found out the secret to cozen </l>
+                            <l n="36-148" rend="ti-1">The gods that constrain us and curse; </l>
                         </lg>
                     </div>
                 </div>
@@ -6357,75 +6359,75 @@
                     <div type="verso">
                         <pb n="[184]" type="verso"/>
                         <lg>
-                            <l n="149">They alone, they are wise, and none other; </l>
-                            <l n="150" rend="ti-1">Give me place, even me, in their train, </l>
-                            <l n="151">O my sister, my spouse, and my mother, </l>
-                            <l n="152" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-149">They alone, they are wise, and none other; </l>
+                            <l n="36-150" rend="ti-1">Give me place, even me, in their train, </l>
+                            <l n="36-151">O my sister, my spouse, and my mother, </l>
+                            <l n="36-152" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="153">For the crown of our life as it closes </l>
-                            <l n="154" rend="ti-1">Is darkness, the fruit thereof dust; </l>
-                            <l n="155">No thorns go as deep as a rose's, </l>
-                            <l n="156" rend="ti-1">And love is more cruel than lust. </l>
-                            <l n="157">Time turns the old days to derision, </l>
-                            <l n="158" rend="ti-1">Our loves into corpses or wives; </l>
-                            <l n="159">And marriage and death and division </l>
-                            <l n="160" rend="ti-1">Make barren our lives.</l>
+                            <l n="36-153">For the crown of our life as it closes </l>
+                            <l n="36-154" rend="ti-1">Is darkness, the fruit thereof dust; </l>
+                            <l n="36-155">No thorns go as deep as a rose's, </l>
+                            <l n="36-156" rend="ti-1">And love is more cruel than lust. </l>
+                            <l n="36-157">Time turns the old days to derision, </l>
+                            <l n="36-158" rend="ti-1">Our loves into corpses or wives; </l>
+                            <l n="36-159">And marriage and death and division </l>
+                            <l n="36-160" rend="ti-1">Make barren our lives.</l>
                         </lg>
                         <lg>
-                            <l n="161">And pale from the past we draw nigh thee, </l>
-                            <l n="162" rend="ti-1">And satiate with comfortless hours; </l>
-                            <l n="163">And we know thee, how all men belie thee, </l>
-                            <l n="164" rend="ti-1">And we gather the fruit of thy flowers; </l>
-                            <l n="165">The passion that slays and recovers, </l>
-                            <l n="166" rend="ti-1">The pangs and the kisses that rain </l>
-                            <l n="167">On the lips and the limbs of thy lovers, </l>
-                            <l n="168" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-161">And pale from the past we draw nigh thee, </l>
+                            <l n="36-162" rend="ti-1">And satiate with comfortless hours; </l>
+                            <l n="36-163">And we know thee, how all men belie thee, </l>
+                            <l n="36-164" rend="ti-1">And we gather the fruit of thy flowers; </l>
+                            <l n="36-165">The passion that slays and recovers, </l>
+                            <l n="36-166" rend="ti-1">The pangs and the kisses that rain </l>
+                            <l n="36-167">On the lips and the limbs of thy lovers, </l>
+                            <l n="36-168" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="169">The desire of thy furious embraces </l>
-                            <l n="170" rend="ti-1">Is more than the wisdom of years, </l>
-                            <l n="171">On the blossom though blood lie in traces, </l>
-                            <l n="172" rend="ti-1">Though the foliage be sodden with tears. </l>
-                            <l n="173">For the lords in whose keeping the door is </l>
-                            <l n="174" rend="ti-1">That opens on all who draw breath </l>
+                            <l n="36-169">The desire of thy furious embraces </l>
+                            <l n="36-170" rend="ti-1">Is more than the wisdom of years, </l>
+                            <l n="36-171">On the blossom though blood lie in traces, </l>
+                            <l n="36-172" rend="ti-1">Though the foliage be sodden with tears. </l>
+                            <l n="36-173">For the lords in whose keeping the door is </l>
+                            <l n="36-174" rend="ti-1">That opens on all who draw breath </l>
                         </lg>
                     </div>
                     <div type="recto">
                         <pb n="[185]" type="recto"/>
                         <lg>
-                            <l n="175">Gave the cypress to love, my Dolores, </l>
-                            <l n="176" rend="ti-1">The myrtle to death.</l>
+                            <l n="36-175">Gave the cypress to love, my Dolores, </l>
+                            <l n="36-176" rend="ti-1">The myrtle to death.</l>
                         </lg>
                         <lg>
-                            <l n="177">And they laughed, changing hands in the measure, </l>
-                            <l n="178" rend="ti-1">And they mixed and made peace after strife; </l>
-                            <l n="179">Pain melted in tears, and was pleasure; </l>
-                            <l n="180" rend="ti-1">Death tingled with blood, and was life. </l>
-                            <l n="181">Like lovers they melted and tingled, </l>
-                            <l n="182" rend="ti-1">In the dusk of thine innermost fane; </l>
-                            <l n="183">In the darkness they murmured and mingled, </l>
-                            <l n="184" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-177">And they laughed, changing hands in the measure, </l>
+                            <l n="36-178" rend="ti-1">And they mixed and made peace after strife; </l>
+                            <l n="36-179">Pain melted in tears, and was pleasure; </l>
+                            <l n="36-180" rend="ti-1">Death tingled with blood, and was life. </l>
+                            <l n="36-181">Like lovers they melted and tingled, </l>
+                            <l n="36-182" rend="ti-1">In the dusk of thine innermost fane; </l>
+                            <l n="36-183">In the darkness they murmured and mingled, </l>
+                            <l n="36-184" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="185">In a twilight where virtues are vices, </l>
-                            <l n="186" rend="ti-1">In thy chapels, unknown of the sun, </l>
-                            <l n="187">To a tune that enthralls and entices, </l>
-                            <l n="188" rend="ti-1">They were wed, and the twain were as one. </l>
-                            <l n="189">For the tune from thine altar hath sounded </l>
-                            <l n="190" rend="ti-1">Since God bade the world's work begin, </l>
-                            <l n="191">And the fume of thine incense abounded, </l>
-                            <l n="192" rend="ti-1">To sweeten the sin.</l>
+                            <l n="36-185">In a twilight where virtues are vices, </l>
+                            <l n="36-186" rend="ti-1">In thy chapels, unknown of the sun, </l>
+                            <l n="36-187">To a tune that enthralls and entices, </l>
+                            <l n="36-188" rend="ti-1">They were wed, and the twain were as one. </l>
+                            <l n="36-189">For the tune from thine altar hath sounded </l>
+                            <l n="36-190" rend="ti-1">Since God bade the world's work begin, </l>
+                            <l n="36-191">And the fume of thine incense abounded, </l>
+                            <l n="36-192" rend="ti-1">To sweeten the sin.</l>
                         </lg>
                         <lg>
-                            <l n="193">Love listens, and paler than ashes, </l>
-                            <l n="194" rend="ti-1">Through his curls as the crown on them slips, </l>
-                            <l n="195">Lifts xml:languid wet eyelids and lashes, </l>
-                            <l n="196" rend="ti-1">And laughs with insatiable lips. </l>
-                            <l n="197">Thou shalt hush him with heavy caresses, </l>
-                            <l n="198" rend="ti-1">With music that scares the profane; </l>
-                            <l n="199">Thou shalt darken his eyes with thy tresses, </l>
-                            <l n="200" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-193">Love listens, and paler than ashes, </l>
+                            <l n="36-194" rend="ti-1">Through his curls as the crown on them slips, </l>
+                            <l n="36-195">Lifts xml:languid wet eyelids and lashes, </l>
+                            <l n="36-196" rend="ti-1">And laughs with insatiable lips. </l>
+                            <l n="36-197">Thou shalt hush him with heavy caresses, </l>
+                            <l n="36-198" rend="ti-1">With music that scares the profane; </l>
+                            <l n="36-199">Thou shalt darken his eyes with thy tresses, </l>
+                            <l n="36-200" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                     </div>
                 </div>
@@ -6433,75 +6435,76 @@
                     <div type="verso">
                         <pb n="[186]" type="verso"/>
                         <lg>
-                            <l n="201">Thou shalt blind his bright eyes though he wrestle, </l>
-                            <l n="202" rend="ti-1">Thou shalt chain his light limbs though he strive; </l>
-                            <l n="203">In his lips all thy serpents shall nestle, </l>
-                            <l n="204" rend="ti-1">In his hands all thy cruelties thrive. </l>
-                            <l n="205">In the daytime thy voice shall go through him, </l>
-                            <l n="206" rend="ti-1">In his dreams he shall feel thee and ache; </l>
-                            <l n="207">Thou shalt kindle by night and subdue him </l>
-                            <l n="208" rend="ti-1">Asleep and awake.</l>
+                            <l n="36-201">Thou shalt blind his bright eyes though he wrestle, </l>
+                            <l n="36-202" rend="ti-1">Thou shalt chain his light limbs though he strive; </l>
+                            <l n="36-203">In his lips all thy serpents shall nestle, </l>
+                            <l n="36-204" rend="ti-1">In his hands all thy cruelties thrive. </l>
+                            <l n="36-205">In the daytime thy voice shall go through him, </l>
+                            <l n="36-206" rend="ti-1">In his dreams he shall feel thee and ache; </l>
+                            <l n="36-207">Thou shalt kindle by night and subdue him </l>
+                            <l n="36-208" rend="ti-1">Asleep and awake.</l>
                         </lg>
                         <lg>
-                            <l n="209">Thou shalt touch and make redder his roses </l>
-                            <l n="210" rend="ti-1">With juice not of fruit nor of bud; </l>
-                            <l n="211">When the sense in the spirit reposes, </l>
-                            <l n="212" rend="ti-1">Thou shalt quicken the soul through the blood. </l>
-                            <l n="213">Thine, thine the one grace we implore is, </l>
-                            <l n="214" rend="ti-1">Who would live and not xml:languish or feign, </l>
-                            <l n="215">O sleepless and deadly Dolores, </l>
-                            <l n="216" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-209">Thou shalt touch and make redder his roses </l>
+                            <l n="36-210" rend="ti-1">With juice not of fruit nor of bud; </l>
+                            <l n="36-211">When the sense in the spirit reposes, </l>
+                            <l n="36-212" rend="ti-1">Thou shalt quicken the soul through the blood. </l>
+                            <l n="36-213">Thine, thine the one grace we implore is, </l>
+                            <l n="36-214" rend="ti-1">Who would live and not xml:languish or feign, </l>
+                            <l n="36-215">O sleepless and deadly Dolores, </l>
+                            <l n="36-216" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="217">Dost thou dream, in a respite of slumber, </l>
-                            <l n="218" rend="ti-1">In a lull of the fires of thy life, </l>
-                            <l n="219">Of the days without name, without number, </l>
-                            <l n="220" rend="ti-1">When thy will stung the world into strife; </l>
-                            <l n="221">When, a goddess, the pulse of thy passion </l>
-                            <l n="222" rend="ti-1">Smote kings as they revelled in Rome; </l>
-                            <l n="223">And they hailed thee re-risen, O Thalassian, </l>
-                            <l n="224" rend="ti-1">Foam-white, from the foam?</l>
+                            <l n="36-217">Dost thou dream, in a respite of slumber, </l>
+                            <l n="36-218" rend="ti-1">In a lull of the fires of thy life, </l>
+                            <l n="36-219">Of the days without name, without number, </l>
+                            <l n="36-220" rend="ti-1">When thy will stung the world into strife; </l>
+                            <l n="36-221">When, a goddess, the pulse of thy passion </l>
+                            <l n="36-222" rend="ti-1">Smote kings as they revelled in Rome; </l>
+                            <l n="36-223">And they hailed thee re-risen, O Thalassian, </l>
+                            <l n="36-224" rend="ti-1">Foam-white, from the foam?</l>
                         </lg>
                         <lg>
-                            <l n="225">When thy lips had such lovers to flatter; </l>
-                            <l n="226" rend="ti-1">When the city lay red from thy rods, </l>
+                            <l n="36-225">When thy lips had such lovers to flatter; </l>
+                            <l n="36-226" rend="ti-1">When the city lay red from thy rods, </l>
                         </lg>
                     </div>
                     <div type="recto">
                         <pb n="[187]" type="recto"/>
                         <lg>
-                            <l n="227">And thine hands were as arrows to scatter </l>
-                            <l n="228" rend="ti-1">The children of change and their gods; </l>
-                            <l n="229">When the blood of thy foemen made fervent </l>
-                            <l n="230" rend="ti-1">A sand never moist from the main, </l>
-                            <l n="231">As one smote them, their lord and thy servant, </l>
-                            <l n="232" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-227">And thine hands were as arrows to scatter </l>
+                            <l n="36-228" rend="ti-1">The children of change and their gods; </l>
+                            <l n="36-229">When the blood of thy foemen made fervent </l>
+                            <l n="36-230" rend="ti-1">A sand never moist from the main, </l>
+                            <l n="36-231">As one smote them, their lord and thy servant, </l>
+                            <l n="36-232" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="233">On sands by the storm never shaken, </l>
-                            <l n="234" rend="ti-1">Nor wet from the washing of tides; </l>
-                            <l n="235">Nor by foam of the waves overtaken, </l>
-                            <l n="236" rend="ti-1">Nor winds that the thunder bestrides; </l>
-                            <l n="237">But red from the print of thy paces, </l>
-                            <l n="238" rend="ti-1">Made smooth for the world and its lords, </l>
-                            <l n="239">Ringed round with a flame of fair faces, </l>
-                            <l n="240" rend="ti-1">And splendid with swords.</l>
+                            <l n="36-233">On sands by the storm never <app><lem wit="#mc #ny #cw">shaken</lem>
+                                <rdgGrp type="a"><rdg wit="#hr">skaken</rdg></rdgGrp></app> </l>
+                            <l n="36-234" rend="ti-1">Nor wet from the washing of tides; </l>
+                            <l n="36-235">Nor by foam of the waves overtaken, </l>
+                            <l n="36-236" rend="ti-1">Nor winds that the thunder bestrides; </l>
+                            <l n="36-237">But red from the print of thy paces, </l>
+                            <l n="36-238" rend="ti-1">Made smooth for the world and its lords, </l>
+                            <l n="36-239">Ringed round with a flame of fair faces, </l>
+                            <l n="36-240" rend="ti-1">And splendid with swords.</l>
                         </lg>
                         <lg>
-                            <l n="241">There the gladiator, pale for thy pleasure, </l>
-                            <l n="242" rend="ti-1">Drew bitter and perilous breath; </l>
-                            <l n="243">There torments laid hold on the treasure </l>
-                            <l n="244" rend="ti-1">Of limbs too delicious for death; </l>
-                            <l n="245">When thy gardens were lit with live torches; </l>
-                            <l n="246" rend="ti-1">When the world was a steed for thy rein; </l>
-                            <l n="247">When the nations lay prone in thy porches, </l>
-                            <l n="248" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-241">There the gladiator, pale for thy pleasure, </l>
+                            <l n="36-242" rend="ti-1">Drew bitter and perilous breath; </l>
+                            <l n="36-243">There torments laid hold on the treasure </l>
+                            <l n="36-244" rend="ti-1">Of limbs too delicious for death; </l>
+                            <l n="36-245">When thy gardens were lit with live torches; </l>
+                            <l n="36-246" rend="ti-1">When the world was a steed for thy rein; </l>
+                            <l n="36-247">When the nations lay prone in thy porches, </l>
+                            <l n="36-248" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="249">When, with flame all around him aspirant, </l>
-                            <l n="250" rend="ti-1">Stood flushed, as a harp-player stands, </l>
-                            <l n="251">The implacable beautiful tyrant, </l>
-                            <l n="252" rend="ti-1">Rose-crowned, having death in his hands; </l>
+                            <l n="36-249">When, with flame all around him aspirant, </l>
+                            <l n="36-250" rend="ti-1">Stood flushed, as a harp-player stands, </l>
+                            <l n="36-251">The implacable beautiful tyrant, </l>
+                            <l n="36-252" rend="ti-1">Rose-crowned, having death in his hands; </l>
                         </lg>
                     </div>
                 </div>
@@ -6509,75 +6512,78 @@
                     <div type="verso">
                         <pb n="[188]" type="verso"/>
                         <lg>
-                            <l n="253">And a sound as the sound of loud water </l>
-                            <l n="254" rend="ti-1">Smote far through the flight of the fires, </l>
-                            <l n="255">And mixed with the lightning of slaughter </l>
-                            <l n="256" rend="ti-1">A thunder of lyres.</l>
+                            <l n="36-253">And a sound as the sound of loud water </l>
+                            <l n="36-254" rend="ti-1">Smote far through the flight of the fires, </l>
+                            <l n="36-255">And mixed with the lightning of slaughter </l>
+                            <l n="36-256" rend="ti-1">A thunder of lyres.</l>
                         </lg>
                         <lg>
-                            <l n="257">Dost thou dream of what was and no more is, </l>
-                            <l n="258" rend="ti-1">The old kingdoms of earth and the kings? </l>
-                            <l n="259">Dost thou hunger for these things, Dolores, </l>
-                            <l n="260" rend="ti-1">For these, in a world of new things? </l>
-                            <l n="261">But thy bosom no fasts could emaciate, </l>
-                            <l n="262" rend="ti-1">No hunger compel to complain </l>
-                            <l n="263">Those lips that no bloodshed could satiate, </l>
-                            <l n="264" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-257">Dost thou dream of what was and no more <app><lem wit="#mc #hr #cw">more is,</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">more is—</rdg></rdgGrp></app> </l>
+                            <l n="36-258" rend="ti-1">The old kingdoms of earth and the kings? </l>
+                            <l n="36-259">Dost thou hunger for these things, <app><lem wit="#mc #hr #cw">Dolores,</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">Dolores—</rdg></rdgGrp></app>, </l>
+                            <l n="36-260" rend="ti-1">For these, in a world of new things? </l>
+                            <l n="36-261">But thy bosom no fasts could emaciate, </l>
+                            <l n="36-262" rend="ti-1">No hunger compel to complain </l>
+                            <l n="36-263">Those lips that no bloodshed could satiate, </l>
+                            <l n="36-264" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="265">As of old when the world's heart was lighter, </l>
-                            <l n="266" rend="ti-1">Through thy garments the grace of thee glows, </l>
-                            <l n="267">The white wealth of thy body made whiter </l>
-                            <l n="268" rend="ti-1">By the blushes of amorous blows, </l>
-                            <l n="269">And seamed with sharp lips and fierce fingers, </l>
-                            <l n="270" rend="ti-1">And branded by kisses that bruise; </l>
-                            <l n="271">When all shall be gone that now lingers, </l>
-                            <l n="272" rend="ti-1">Ah, what shall we lose?</l>
+                            <l n="36-265">As of old when the world's heart was lighter, </l>
+                            <l n="36-266" rend="ti-1">Through thy garments the grace of thee glows, </l>
+                            <l n="36-267">The white wealth of thy body made whiter </l>
+                            <l n="36-268" rend="ti-1">By the blushes of amorous blows, </l>
+                            <l n="36-269">And seamed with sharp lips and fierce fingers, </l>
+                            <l n="36-270" rend="ti-1">And branded by kisses that bruise; </l>
+                            <l n="36-271">When all shall be gone that now lingers, </l>
+                            <l n="36-272" rend="ti-1">Ah, what shall we lose?</l>
                         </lg>
                         <lg>
-                            <l n="273">Thou wert fair in the fearless old fashion, </l>
-                            <l n="274" rend="ti-1">And thy limbs are as melodies yet, </l>
-                            <l n="275">And move to the music of passion </l>
-                            <l n="276" rend="ti-1">With lithe and lascivious regret. </l>
-                            <l n="277">What ailed us, O gods, to desert you </l>
-                            <l n="278" rend="ti-1">For creeds that refuse and restrain? </l>
+                            <l n="36-273">Thou wert fair in the fearless old fashion, </l>
+                            <l n="36-274" rend="ti-1">And thy limbs are as melodies yet, </l>
+                            <l n="36-275">And move to the music of passion </l>
+                            <l n="36-276" rend="ti-1">With lithe and lascivious regret. </l>
+                            <l n="36-277">What ailed us, O gods, to desert you </l>
+                            <l n="36-278" rend="ti-1">For creeds that refuse and restrain? </l>
                         </lg>
                     </div>
                     <div type="recto">
                         <pb n="[189]" type="recto"/>
                         <lg>
-                            <l n="279">Come down and redeem us from virtue, </l>
-                            <l n="280" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-279">Come down and redeem us from virtue, </l>
+                            <l n="36-280" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="281">All shrines that were Vestal are flameless, </l>
-                            <l n="282" rend="ti-1">But the flame has not fallen from this; </l>
-                            <l n="283">Though obscure be the god, and though nameless </l>
-                            <l n="284" rend="ti-1">The eyes and the hair that we kiss; </l>
-                            <l n="285">Low fires that love sits by and forges </l>
-                            <l n="286" rend="ti-1">Fresh heads for his arrows and thine; </l>
-                            <l n="287">Hair loosened and soiled in mid orgies </l>
-                            <l n="288" rend="ti-1">With kisses and wine.</l>
+                            <l n="36-281">All shrines that were Vestal are <app><lem wit="#mc #ny">flameless,</lem>
+                            <rdgGrp type="a"><rdg wit="#hr #cw">flameless;</rdg></rdgGrp></app> </l>
+                            <l n="36-282" rend="ti-1">But the flame has not fallen from this; </l>
+                            <l n="36-283">Though obscure be the god, and though nameless </l>
+                            <l n="36-284" rend="ti-1">The eyes and the hair that we kiss; </l>
+                            <l n="36-285">Low fires that love sits by and forges </l>
+                            <l n="36-286" rend="ti-1">Fresh heads for his arrows and thine; </l>
+                            <l n="36-287">Hair loosened and soiled in mid orgies </l>
+                            <l n="36-288" rend="ti-1">With kisses and wine.</l>
                         </lg>
                         <lg>
-                            <l n="289">Thy skin changes country and colour, </l>
-                            <l n="290" rend="ti-1">And shrivels or swells to a snake's. </l>
-                            <l n="291">Let it brighten and bloat and grow duller, </l>
-                            <l n="292" rend="ti-1">We know it, the flames and the flakes, </l>
-                            <l n="293">Red brands on it smitten and bitten, </l>
-                            <l n="294" rend="ti-1">Round skies where a star is a stain, </l>
-                            <l n="295">And the leaves with thy litanies written, </l>
-                            <l n="296" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-289">Thy skin changes country and colour, </l>
+                            <l n="36-290" rend="ti-1">And shrivels or swells to a snake's. </l>
+                            <l n="36-291">Let it brighten and bloat and grow duller, </l>
+                            <l n="36-292" rend="ti-1">We know it, the flames and the flakes, </l>
+                            <l n="36-293">Red brands on it smitten and bitten, </l>
+                            <l n="36-294" rend="ti-1">Round skies where a star is a stain, </l>
+                            <l n="36-295">And the leaves with thy litanies written, </l>
+                            <l n="36-296" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="297">On thy bosom though many a kiss be, </l>
-                            <l n="298" rend="ti-1">There are none such as knew it of old. </l>
-                            <l n="299">Was it Alciphron once or Arisbe, </l>
-                            <l n="300" rend="ti-1">Male ringlets or feminine gold, </l>
-                            <l n="301">That thy lips met with under the statue, </l>
-                            <l n="302" rend="ti-1">Whence a look shot out sharp after thieves </l>
-                            <l n="303">From the eyes of the garden-god at you </l>
-                            <l n="304" rend="ti-1">Across the fig-leaves?</l>
+                            <l n="36-297">On thy bosom though many a kiss be, </l>
+                            <l n="36-298" rend="ti-1">There are none such as knew it of old. </l>
+                            <l n="36-299">Was it Alciphron once or Arisbe, </l>
+                            <l n="36-300" rend="ti-1">Male ringlets or feminine gold, </l>
+                            <l n="36-301">That thy lips met with under the statue, </l>
+                            <l n="36-302" rend="ti-1">Whence a look shot out sharp after thieves </l>
+                            <l n="36-303">From the eyes of the garden-god at you </l>
+                            <l n="36-304" rend="ti-1">Across the fig-leaves?</l>
                         </lg>
                     </div>
                 </div>
@@ -6585,74 +6591,74 @@
                     <div type="verso">
                         <pb n="[190]" type="verso"/>
                         <lg>
-                            <l n="305">Then still, through dry seasons and moister, </l>
-                            <l n="306" rend="ti-1">One god had a wreath to his shrine; </l>
-                            <l n="307">Then love was the pearl of his oyster, <ref
+                            <l n="36-305">Then still, through dry seasons and moister, </l>
+                            <l n="36-306" rend="ti-1">One god had a wreath to his shrine; </l>
+                            <l n="36-307">Then love was the pearl of his oyster, <ref
                                 xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="ref_11" rend="super"
                                 target="note_01">*</ref>
                             </l>
-                            <l n="308" rend="ti-1">And Venus rose red out of wine. </l>
-                            <l n="309">We have all done amiss, choosing rather </l>
-                            <l n="310" rend="ti-1">Such loves as the wise gods disdain; </l>
-                            <l n="311">Intercede for us thou with thy father, </l>
-                            <l n="312" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-308" rend="ti-1">And Venus rose red out of wine. </l>
+                            <l n="36-309">We have all done amiss, choosing rather </l>
+                            <l n="36-310" rend="ti-1">Such loves as the wise gods disdain; </l>
+                            <l n="36-311">Intercede for us thou with thy father, </l>
+                            <l n="36-312" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="313">In spring he had crowns of his garden, </l>
-                            <l n="314" rend="ti-1">Red corn in the heat of the year, </l>
-                            <l n="315">Then hoary green olives that harden </l>
-                            <l n="316" rend="ti-1">When the grape-blossom freezes with fear; </l>
-                            <l n="317">And milk-budded myrtles with Venus </l>
-                            <l n="318" rend="ti-1">And vine-leaves with Bacchus he trod; </l>
-                            <l n="319">And ye said, “We have seen, he hath seen us, </l>
-                            <l n="320" rend="ti-1">A visible God.”</l>
+                            <l n="36-313">In spring he had crowns of his garden, </l>
+                            <l n="36-314" rend="ti-1">Red corn in the heat of the year, </l>
+                            <l n="36-315">Then hoary green olives that harden </l>
+                            <l n="36-316" rend="ti-1">When the grape-blossom freezes with fear; </l>
+                            <l n="36-317">And milk-budded myrtles with Venus </l>
+                            <l n="36-318" rend="ti-1">And vine-leaves with Bacchus he trod; </l>
+                            <l n="36-319">And ye said, “We have seen, he hath seen us, </l>
+                            <l n="36-320" rend="ti-1">A visible God.”</l>
                         </lg>
                         <lg>
-                            <l n="321">What broke off the garlands that girt you? </l>
-                            <l n="322" rend="ti-1">What sundered you spirit and clay? </l>
-                            <l n="323">Weak sins yet alive are as virtue </l>
-                            <l n="324" rend="ti-1">To the strength of the sins of that day. </l>
-                            <l n="325">For dried is the blood of thy lover, </l>
-                            <l n="326" rend="ti-1">Ipsithilla, contracted the vein; </l>
-                            <l n="327">Cry aloud, “Will he rise and recover, </l>
-                            <l n="328" rend="ti-1">Our Lady of Pain?”</l>
+                            <l n="36-321">What broke off the garlands that girt you? </l>
+                            <l n="36-322" rend="ti-1">What sundered you spirit and clay? </l>
+                            <l n="36-323">Weak sins yet alive are as virtue </l>
+                            <l n="36-324" rend="ti-1">To the strength of the sins of that day. </l>
+                            <l n="36-325">For dried is the blood of thy lover, </l>
+                            <l n="36-326" rend="ti-1">Ipsithilla, contracted the vein; </l>
+                            <l n="36-327">Cry aloud, “Will he rise and recover, </l>
+                            <l n="36-328" rend="ti-1">Our Lady of Pain?”</l>
                         </lg>
                     </div>
                     <div type="recto">
                         <pb n="[191]" type="recto"/>
                         <lg>
-                            <l n="329">Cry aloud; for the old world is broken: </l>
-                            <l n="330" rend="ti-1">Cry out; for the Phrygian is priest, </l>
-                            <l n="331">And rears not the bountiful token </l>
-                            <l n="332" rend="ti-1">And spreads not the fatherly feast.</l>
-                            <l n="333">From the midmost of Ida, from shady </l>
-                            <l n="334" rend="ti-1">Recesses that murmur at morn, </l>
-                            <l n="335">They have brought and baptized her, Our Lady, </l>
-                            <l n="336" rend="ti-1">A goddess new-born.</l>
+                            <l n="36-329">Cry aloud; for the old world is broken: </l>
+                            <l n="36-330" rend="ti-1">Cry out; for the Phrygian is priest, </l>
+                            <l n="36-331">And rears not the bountiful token </l>
+                            <l n="36-332" rend="ti-1">And spreads not the fatherly feast.</l>
+                            <l n="36-333">From the midmost of Ida, from shady </l>
+                            <l n="36-334" rend="ti-1">Recesses that murmur at morn, </l>
+                            <l n="36-335">They have brought and baptized her, Our Lady, </l>
+                            <l n="36-336" rend="ti-1">A goddess new-born.</l>
                         </lg>
                         <lg>
-                            <l n="337">And the chaplets of old are above us, </l>
-                            <l n="338" rend="ti-1">And the oyster-bed teems out of reach; </l>
-                            <l n="339">Old poets outsing and outlove us, </l>
-                            <l n="340" rend="ti-1">And Catullus makes mouths at our speech. </l>
-                            <l n="341">Who shall kiss, in thy father's own city, </l>
-                            <l n="342" rend="ti-1">With such lips as he sang with, again? </l>
-                            <l n="343">Intercede for us all of thy pity, </l>
-                            <l n="344" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-337">And the chaplets of old are above us, </l>
+                            <l n="36-338" rend="ti-1">And the oyster-bed teems out of reach; </l>
+                            <l n="36-339">Old poets outsing and outlove us, </l>
+                            <l n="36-340" rend="ti-1">And Catullus makes mouths at our speech. </l>
+                            <l n="36-341">Who shall kiss, in thy father's own city, </l>
+                            <l n="36-342" rend="ti-1">With such lips as he sang with, again? </l>
+                            <l n="36-343">Intercede for us all of thy pity, </l>
+                            <l n="36-344" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="345">Out of Dindymus heavily laden </l>
-                            <l n="346" rend="ti-1">Her lions draw bound and unfed </l>
-                            <l n="347">A mother, a mortal, a maiden, </l>
-                            <l n="348" rend="ti-1">A queen over death and the dead. </l>
-                            <l n="349">She is cold, and her habit is lowly, </l>
-                            <l n="350" rend="ti-1">Her temple of branches and sods; </l>
-                            <l n="351">Most fruitful and virginal, holy, </l>
-                            <l n="352" rend="ti-1">A mother of gods.</l>
+                            <l n="36-345">Out of Dindymus heavily laden </l>
+                            <l n="36-346" rend="ti-1">Her lions draw bound and unfed </l>
+                            <l n="36-347">A mother, a mortal, a maiden, </l>
+                            <l n="36-348" rend="ti-1">A queen over death and the dead. </l>
+                            <l n="36-349">She is cold, and her habit is lowly, </l>
+                            <l n="36-350" rend="ti-1">Her temple of branches and sods; </l>
+                            <l n="36-351">Most fruitful and virginal, holy, </l>
+                            <l n="36-352" rend="ti-1">A mother of gods.</l>
                         </lg>
                         <lg>
-                            <l n="353">She hath wasted with fire thine high places, </l>
-                            <l n="354" rend="ti-1">She hath hidden and marred and made sad </l>
+                            <l n="36-353">She hath wasted with fire thine high places, </l>
+                            <l n="36-354" rend="ti-1">She hath hidden and marred and made sad </l>
                         </lg>
                     </div>
                 </div>
@@ -6660,75 +6666,75 @@
                     <div type="verso">
                         <pb n="[192]" type="verso"/>
                         <lg>
-                            <l n="355">The fair limbs of the Loves, the fair faces </l>
-                            <l n="356" rend="ti-1">Of gods that were goodly and glad. </l>
-                            <l n="357">She slays, and her hands are not bloody; </l>
-                            <l n="358" rend="ti-1">She moves as a moon in the wane, </l>
-                            <l n="359">White-robed, and thy raiment is ruddy, </l>
-                            <l n="360" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-355">The fair limbs of the Loves, the fair faces </l>
+                            <l n="36-356" rend="ti-1">Of gods that were goodly and glad. </l>
+                            <l n="36-357">She slays, and her hands are not bloody; </l>
+                            <l n="36-358" rend="ti-1">She moves as a moon in the wane, </l>
+                            <l n="36-359">White-robed, and thy raiment is ruddy, </l>
+                            <l n="36-360" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="361">They shall pass and their places be taken, </l>
-                            <l n="362" rend="ti-1">The gods and the priests that are pure.</l>
-                            <l n="363">They shall pass, and shalt thou not be shaken? </l>
-                            <l n="364" rend="ti-1">They shall perish, and shalt thou endure? </l>
-                            <l n="365">Death laughs, breathing close and relentless </l>
-                            <l n="366" rend="ti-1">In the nostrils and eyelids of lust, </l>
-                            <l n="367">With a pinch in his fingers of scentless </l>
-                            <l n="368" rend="ti-1">And delicate dust.</l>
+                            <l n="36-361">They shall pass and their places be taken, </l>
+                            <l n="36-362" rend="ti-1">The gods and the priests that are pure.</l>
+                            <l n="36-363">They shall pass, and shalt thou not be shaken? </l>
+                            <l n="36-364" rend="ti-1">They shall perish, and shalt thou endure? </l>
+                            <l n="36-365">Death laughs, breathing close and relentless </l>
+                            <l n="36-366" rend="ti-1">In the nostrils and eyelids of lust, </l>
+                            <l n="36-367">With a pinch in his fingers of scentless </l>
+                            <l n="36-368" rend="ti-1">And delicate dust.</l>
                         </lg>
                         <lg>
-                            <l n="369">But the worm shall revive thee with kisses; </l>
-                            <l n="370" rend="ti-1">Thou shalt change and transmute as a god, </l>
-                            <l n="371">As the rod to a serpent that hisses, </l>
-                            <l n="372" rend="ti-1">As the serpent again to a rod. </l>
-                            <l n="373">Thy life shall not cease though thou doff it; </l>
-                            <l n="374" rend="ti-1">Thou shalt live until evil be slain, </l>
-                            <l n="375">And good shall die first, said thy prophet, </l>
-                            <l n="376" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-369">But the worm shall revive thee with kisses; </l>
+                            <l n="36-370" rend="ti-1">Thou shalt change and transmute as a god, </l>
+                            <l n="36-371">As the rod to a serpent that hisses, </l>
+                            <l n="36-372" rend="ti-1">As the serpent again to a rod. </l>
+                            <l n="36-373">Thy life shall not cease though thou doff it; </l>
+                            <l n="36-374" rend="ti-1">Thou shalt live until evil be slain, </l>
+                            <l n="36-375">And good shall die first, said thy prophet, </l>
+                            <l n="36-376" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="377">Did he lie? did he laugh? does he know it, </l>
-                            <l n="378" rend="ti-1">Now he lies out of reach, out of breath, </l>
-                            <l n="379">Thy prophet, thy preacher, thy poet, </l>
-                            <l n="380" rend="ti-1">Sin's child by incestuous Death? </l>
+                            <l n="36-377">Did he lie? did he laugh? does he know it, </l>
+                            <l n="36-378" rend="ti-1">Now he lies out of reach, out of breath, </l>
+                            <l n="36-379">Thy prophet, thy preacher, thy poet, </l>
+                            <l n="36-380" rend="ti-1">Sin's child by incestuous Death? </l>
                         </lg>
                     </div>
                     <div type="recto">
                         <pb n="[193]" type="recto"/>
                         <lg>
-                            <l n="381">Did he find out in fire at his waking, </l>
-                            <l n="382" rend="ti-1">Or discern as his eyelids lost light, </l>
-                            <l n="383">When the bands of the body were breaking </l>
-                            <l n="384" rend="ti-1">And all came in sight?</l>
+                            <l n="36-381">Did he find out in fire at his waking, </l>
+                            <l n="36-382" rend="ti-1">Or discern as his eyelids lost light, </l>
+                            <l n="36-383">When the bands of the body were breaking </l>
+                            <l n="36-384" rend="ti-1">And all came in sight?</l>
                         </lg>
                         <lg>
-                            <l n="385">Who has known all the evil before us, </l>
-                            <l n="386" rend="ti-1">Or the tyrannous secrets of time? </l>
-                            <l n="387">Though we match not the dead men that bore us </l>
-                            <l n="388" rend="ti-1">At a song, at a kiss, at a crime&#x2014; </l>
-                            <l n="389">Though the heathen outface and outlive us, </l>
-                            <l n="390" rend="ti-1">And our lives and our longings are twain&#x2014; </l>
-                            <l n="391">Ah, forgive us our virtues, forgive us, </l>
-                            <l n="392" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-385">Who has known all the evil before us, </l>
+                            <l n="36-386" rend="ti-1">Or the tyrannous secrets of time? </l>
+                            <l n="36-387">Though we match not the dead men that bore us </l>
+                            <l n="36-388" rend="ti-1">At a song, at a kiss, at a crime&#x2014; </l>
+                            <l n="36-389">Though the heathen outface and outlive us, </l>
+                            <l n="36-390" rend="ti-1">And our lives and our longings are twain&#x2014; </l>
+                            <l n="36-391">Ah, forgive us our virtues, forgive us, </l>
+                            <l n="36-392" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="393">Who are we that embalm and embrace thee </l>
-                            <l n="394" rend="ti-1">With spices and savours of song? </l>
-                            <l n="395">What is time, that his children should face thee? </l>
-                            <l n="396" rend="ti-1">What am I, that my lips do thee wrong? </l>
-                            <l n="397">I could hurt thee&#x2014;but pain would delight thee; </l>
-                            <l n="398" rend="ti-1">Or caress thee&#x2014;but love would repel; </l>
-                            <l n="399">And the lovers whose lips would excite thee </l>
-                            <l n="400" rend="ti-1">Are serpents in hell.</l>
+                            <l n="36-393">Who are we that embalm and embrace thee </l>
+                            <l n="36-394" rend="ti-1">With spices and savours of song? </l>
+                            <l n="36-395">What is time, that his children should face thee? </l>
+                            <l n="36-396" rend="ti-1">What am I, that my lips do thee wrong? </l>
+                            <l n="36-397">I could hurt thee&#x2014;but pain would delight thee; </l>
+                            <l n="36-398" rend="ti-1">Or caress thee&#x2014;but love would repel; </l>
+                            <l n="36-399">And the lovers whose lips would excite thee </l>
+                            <l n="36-400" rend="ti-1">Are serpents in hell.</l>
                         </lg>
                         <lg>
-                            <l n="401">Who now shall content thee as they did, </l>
-                            <l n="402" rend="ti-1">Thy lovers, when temples were built </l>
-                            <l n="403">And the hair of the sacrifice braided </l>
-                            <l n="404" rend="ti-1">And the blood of the sacrifice spilt, </l>
-                            <l n="405">In Lampsacus fervent with faces, </l>
-                            <l n="406" rend="ti-1">In Aphaca red from thy reign, </l>
+                            <l n="36-401">Who now shall content thee as they did, </l>
+                            <l n="36-402" rend="ti-1">Thy lovers, when temples were built </l>
+                            <l n="36-403">And the hair of the sacrifice braided </l>
+                            <l n="36-404" rend="ti-1">And the blood of the sacrifice spilt, </l>
+                            <l n="36-405">In Lampsacus fervent with faces, </l>
+                            <l n="36-406" rend="ti-1">In Aphaca red from thy reign, </l>
                         </lg>
                     </div>
                 </div>
@@ -6736,51 +6742,51 @@
                     <div type="verso">
                         <pb n="[194]" type="verso"/>
                         <lg>
-                            <l n="407">Who embraced thee with awful embraces, </l>
-                            <l n="408" rend="ti-1">Our Lady of Pain?</l>
+                            <l n="36-407">Who embraced thee with awful embraces, </l>
+                            <l n="36-408" rend="ti-1">Our Lady of Pain?</l>
                         </lg>
                         <lg>
-                            <l n="409">Where are they, Cotytto or Venus, </l>
-                            <l n="410" rend="ti-1">Astarte or Ashtaroth, where? </l>
-                            <l n="411">Do their hands as we touch come between us? </l>
-                            <l n="412" rend="ti-1">Is the breath of them hot in thy hair? </l>
-                            <l n="413">From their lips have thy lips taken fever, </l>
-                            <l n="414" rend="ti-1">With the blood of their bodies grown red? </l>
-                            <l n="415">Hast thou left upon earth a believer </l>
-                            <l n="416" rend="ti-1">If these men are dead?</l>
+                            <l n="36-409">Where are they, Cotytto or Venus, </l>
+                            <l n="36-410" rend="ti-1">Astarte or Ashtaroth, where? </l>
+                            <l n="36-411">Do their hands as we touch come between us? </l>
+                            <l n="36-412" rend="ti-1">Is the breath of them hot in thy hair? </l>
+                            <l n="36-413">From their lips have thy lips taken fever, </l>
+                            <l n="36-414" rend="ti-1">With the blood of their bodies grown red? </l>
+                            <l n="36-415">Hast thou left upon earth a believer </l>
+                            <l n="36-416" rend="ti-1">If these men are dead?</l>
                         </lg>
                         <lg>
-                            <l n="417">They were purple of raiment and golden, </l>
-                            <l n="418" rend="ti-1">Filled full of thee, fiery with wine, </l>
-                            <l n="419">Thy lovers, in haunts unbeholden, </l>
-                            <l n="420" rend="ti-1">In marvellous chambers of thine. </l>
-                            <l n="421">They are fled, and their footprints escape us, </l>
-                            <l n="422" rend="ti-1">Who appraise thee, adore, and abstain, </l>
-                            <l n="423">O daughter of Death and Priapus, </l>
-                            <l n="424" rend="ti-1">Our Lady of Pain.</l>
+                            <l n="36-417">They were purple of raiment and golden, </l>
+                            <l n="36-418" rend="ti-1">Filled full of thee, fiery with wine, </l>
+                            <l n="36-419">Thy lovers, in haunts unbeholden, </l>
+                            <l n="36-420" rend="ti-1">In marvellous chambers of thine. </l>
+                            <l n="36-421">They are fled, and their footprints escape us, </l>
+                            <l n="36-422" rend="ti-1">Who appraise thee, adore, and abstain, </l>
+                            <l n="36-423">O daughter of Death and Priapus, </l>
+                            <l n="36-424" rend="ti-1">Our Lady of Pain.</l>
                         </lg>
                         <lg>
-                            <l n="425">What ails us to fear overmeasure, </l>
-                            <l n="426" rend="ti-1">To praise thee with timorous breath, </l>
-                            <l n="427">O mistress and mother of pleasure, </l>
-                            <l n="428" rend="ti-1">The one thing as certain as death? </l>
-                            <l n="429">We shall change as the things that we cherish, </l>
-                            <l n="430" rend="ti-1">Shall fade as they faded before, </l>
-                            <l n="431">As foam upon water shall perish, </l>
-                            <l n="432" rend="ti-1">As sand upon shore.</l>
+                            <l n="36-425">What ails us to fear overmeasure, </l>
+                            <l n="36-426" rend="ti-1">To praise thee with timorous breath, </l>
+                            <l n="36-427">O mistress and mother of pleasure, </l>
+                            <l n="36-428" rend="ti-1">The one thing as certain as death? </l>
+                            <l n="36-429">We shall change as the things that we cherish, </l>
+                            <l n="36-430" rend="ti-1">Shall fade as they faded before, </l>
+                            <l n="36-431">As foam upon water shall perish, </l>
+                            <l n="36-432" rend="ti-1">As sand upon shore.</l>
                         </lg>
                     </div>
                     <div type="recto">
                         <pb n="[195]" type="recto"/>
                         <lg>
-                            <l n="433">We shall know what the darkness discovers, </l>
-                            <l n="434" rend="ti-1">If the grave-pit be shallow or deep; </l>
-                            <l n="435">And our fathers of old, and our lovers, </l>
-                            <l n="436" rend="ti-1">We shall know if they sleep not or sleep. </l>
-                            <l n="437">We shall see whether hell be not heaven, </l>
-                            <l n="438" rend="ti-1">Find out whether tares be not grain, </l>
-                            <l n="439">And the joys of thee seventy times seven, </l>
-                            <l n="440" rend="ti-1">Our Lady of Pain. </l>
+                            <l n="36-433">We shall know what the darkness discovers, </l>
+                            <l n="36-434" rend="ti-1">If the grave-pit be shallow or deep; </l>
+                            <l n="36-435">And our fathers of old, and our lovers, </l>
+                            <l n="36-436" rend="ti-1">We shall know if they sleep not or sleep. </l>
+                            <l n="36-437">We shall see whether hell be not heaven, </l>
+                            <l n="36-438" rend="ti-1">Find out whether tares be not grain, </l>
+                            <l n="36-439">And the joys of thee seventy times seven, </l>
+                            <l n="36-440" rend="ti-1">Our Lady of Pain. </l>
                         </lg>
                         <div n="[NOTES]" type="notes"><!-- if individual poems are not given their own <div> levels,
                         should subdivisions like this section have their own div levels? tm -->
