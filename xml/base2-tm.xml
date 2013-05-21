@@ -15,7 +15,7 @@
             <editionStmt>
                 <edition n="0.9">
                     <title>work-in-progress</title>
-                    <date when="2012-05-27">27 May 2012</date>
+                    <date when="2012-05-27">21 May 2013</date>
                 </edition>
                 <respStmt><resp>additional annotations provided by </resp><name xml:id="JJM">Jerome J. McGann and Charles Sligh</name></respStmt>
             </editionStmt>
@@ -110,9 +110,7 @@
                                 <rdgGrp type="substantive">
                                     <rdg wit="#mu #hr">bowers.</rdg>
                                     <rdg wit="#e" type="accidental">bowers,</rdg>
-                                </rdgGrp>
-                            </app>
-                            </l>
+                                </rdgGrp></app></l>
                             <l n="1-5"> Her beauty, fervent as a fiery moon, </l>
                             <l n="1-6" rend="ti-1"> Made my blood burn and swoon </l>
                             <l n="1-7" rend="ti-2"> Like a flame rained upon. </l>
@@ -146,9 +144,7 @@
                             <l n="1-24"> The first man's hair was wound upon his <app>
                                 <lem wit="#mc #ny #e">head.</lem>
                                 <rdgGrp type="accidental">
-                                <rdg wit="#hr #cw" type="accidental">head:</rdg></rdgGrp>
-                            </app>
-                            </l>
+                                <rdg wit="#hr #cw" type="accidental">head:</rdg></rdgGrp></app></l>
                             <l n="1-25"> His face was red, and his mouth curled and sad; </l>
                             <l n="1-26" rend="ti-1"> All his gold <app>
                                 <lem wit="#mc #mu #ny #e">raiment</lem>
@@ -234,9 +230,7 @@
                             <l n="1-74" rend="ti-1"> And girdled in thy golden singing-coat, </l>
                             <l n="1-75"> Come thou before my lady and say <app>
                                 <lem wit="#mc #hr #cw #e">this;</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">this:</rdg></rdgGrp>
-                            </app>
-                            </l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">this:</rdg></rdgGrp></app></l>
                             <l n="1-76" rend="ti-1"> Borgia, thy gold hair's colour burns in me, </l>
                             <l n="1-77" rend="ti-2"> Thy mouth makes beat my blood in feverish rhymes; </l>
                             <l n="1-78" rend="ti-1"> Therefore so many as these roses be, </l>
@@ -261,9 +255,7 @@
                             <l n="2-6"> Make thee soft raiment out of woven sighs </l>
                             <l n="2-7"> Upon the flesh to <app>
                                 <lem wit="#mc #hr #cw #e">cleave,</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">cleave;</rdg></rdgGrp>
-                            </app>
-                            </l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">cleave;</rdg></rdgGrp></app></l>
                             <l n="2-8"> Set pains therein and many a grievous thing, </l>
                             <l n="2-9"> And many sorrows after each his wise </l>
                             <l n="2-10"> For armlet and for gorget and for sleeve. </l>
@@ -374,9 +366,7 @@
                             <l n="2-75"> And sweet, but emptied of the blood's blue shade, </l>
                             <l n="2-76"> The great curled eyelids that withheld her <app>
                                 <lem wit="#mc #hr #cw #e">eyes.</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">eyes</rdg></rdgGrp>
-                            </app>
-                            </l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">eyes</rdg></rdgGrp></app></l>
                             <l n="2-77"> And sweet, but like spoilt gold, </l>
                             <l n="2-78"> The weight of colour in her tresses weighed. </l>
                             <l n="2-79"> And sweet, but as a vesture with new dyes, </l>
