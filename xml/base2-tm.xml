@@ -420,10 +420,10 @@
                             <l n="2-106"> And when thy bosom is filled full thereof </l>
                             <l n="2-107"> Seek out Death's face ere the light altereth, </l>
                             <l n="2-108"> And <app>
-                                <lem wit="#mc #hr #cw #e">say "My </lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">say: "My</rdg></rdgGrp>
+                                <lem wit="#mc #hr #cw #e">say &#x201F;My </lem>
+                                <rdgGrp type="accidental"><rdg wit="#ny">say: &#x201F;My</rdg></rdgGrp>
                             </app> master that was thrall to Love </l>
-                            <l n="2-109"> Is become thrall to Death." </l>
+                            <l n="2-109"> Is become thrall to Death.&#x201D;</l>
                             <l n="2-110"> Bow down before him, ballad, sigh and groan, </l>
                             <l n="2-111"> But make no sojourn in <app>
                                 <lem wit="#mc #hr #cw #e">thine</lem>
@@ -591,7 +591,7 @@
                     </lg>
                     <lg>
                         <l n="3-53"> Ah yet would God this flesh of mine might be </l>
-                        <l n="3-54"> Where air might wash and long leaves cover <app><lem wit="mc #hr #cw #e">me,</lem>
+                        <l n="3-54"> Where air might wash and long leaves cover <app><lem wit="#mc #hr #cw #e">me,</lem>
                         <rdgGrp type="accidental"><rdg wit="#ny">me;</rdg></rdgGrp></app> </l>
                         <l n="3-55" rend="ti-1"> Where tides of grass break into foam of flowers, </l>
                         <l n="3-56"> Or where the wind's feet shine along the sea. </l>
@@ -986,33 +986,33 @@
                         <l n="3-281">I sang of <app><lem wit="#cw #e #mc #ny">love too</lem>
                         <rdgGrp type="accidental"><rdg wit="#hr">love, too</rdg></rdgGrp></app>, knowing <app><lem wit="#hr #mc #e #cw">nought</lem>
                         <rdgGrp type="accidental"><rdg wit="#ny">naught</rdg></rdgGrp></app> thereof; </l>
-                        <l n="3-282">"Sweeter," I said, "the little laugh of love </l>
+                        <l n="3-282" >&#x201F;Sweeter,&#x201D;I said, &#x201F;the little laugh of love </l>
                         <l n="3-283" rend="ti-1">Than tears out of the eyes of Magdalen, </l>
                         <l n="3-284">Or any fallen feather of the Dove.</l>
                     </lg>
                     <lg>
-                        <l n="3-285">"The broken little laugh that spoils a kiss, </l>
+                        <l n="3-285" >&#x201F;The broken little laugh that spoils a kiss, </l>
                         <l n="3-286">The ache of purple pulses, and the bliss </l>
                         <l n="3-287" rend="ti-1">Of blinded eyelids that expand again&#x2014;</l>
                         <l n="3-288">Love draws them open with those lips of his,</l>
                     </lg>
                     <lg>
-                        <l n="3-289">"Lips that cling hard till the kissed face has grown </l>
+                        <l n="3-289" >&#x201F;Lips that cling hard till the kissed face has grown </l>
                         <l n="3-290">Of one same fire and colour with their own; </l>
                         <l n="3-291" rend="ti-1">Then ere one sleep, appeased with sacrifice, </l>
-                        <l n="3-292">Where his lips wounded, there his lips atone."</l>
+                        <l n="3-292">Where his lips wounded, there his lips atone.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="3-293">I sang these things long since and knew them not; </l>
-                        <l n="3-294">"Lo, here is love, or there is love, God wot, </l>
-                        <l n="3-295" rend="ti-1">This man and that finds favour in his eyes," </l>
-                        <l n="3-296">I said, "but I, what guerdon have I got?</l>
+                        <l n="3-294" >&#x201F;Lo, here is love, or there is love, God wot, </l>
+                        <l n="3-295" rend="ti-1">This man and that finds favour in his eyes,&#x201D;</l>
+                        <l n="3-296">I said, &#x201F;but I, what guerdon have I got?</l>
                     </lg>
                     <lg>
-                        <l n="3-297">"The dust of praise that is blown everywhere </l>
+                        <l n="3-297" >&#x201F;The dust of praise that is blown everywhere </l>
                         <l n="3-298">In all men's faces with the common air; </l>
                         <l n="3-299" rend="ti-1">The bay-leaf that wants chafing to be sweet </l>
-                        <l n="3-300">Before they wind it in a singer's hair."</l>
+                        <l n="3-300">Before they wind it in a singer's hair.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="3-301">So that one dawn I rode forth sorrowing; </l>
@@ -1111,21 +1111,21 @@
                     <pb n="[28]" type="verso"/>
                     <lg>
                         <l n="3-353">But when I came I fell down at his feet, </l>
-                        <l n="3-354">Saying, "Father, though the Lord's blood be right sweet, </l>
+                        <l n="3-354">Saying, &#x201F;Father, though the Lord's blood be right sweet, </l>
                         <l n="3-355" rend="ti-1">The spot it takes not off the panther's skin, </l>
                         <l n="3-356">Nor shall an Ethiop's stain be bleached with it.</l>
                     </lg>
                     <lg>
-                        <l n="3-357">"Lo, I have sinned and have spat out at God, </l>
+                        <l n="3-357" >&#x201F;Lo, I have sinned and have spat out at God, </l>
                         <l n="3-358">Wherefore his hand is heavier and his rod </l>
                         <l n="3-359" rend="ti-1">More sharp because of mine exceeding sin, </l>
                         <l n="3-360">And all his raiment redder than bright <app><lem wit="#hr #cw #e #mc">blood</lem>
                         <rdgGrp type="accidental"><rdg wit="#ny">blood.</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
-                        <l n="3-361">"Before mine eyes; yea, for my sake I wot </l>
+                        <l n="3-361" >&#x201F;Before mine eyes; yea, for my sake I wot </l>
                         <l n="3-362">The heat of hell is waxen seven times hot </l>
-                        <l n="3-363" rend="ti-1">Through my great sin." Then spake he some sweet word, </l>
+                        <l n="3-363" rend="ti-1">Through my great sin.&#x201D;Then spake he some sweet word, </l>
                         <l n="3-364">Giving me cheer; which thing availed me not;</l>
                     </lg>
                     <lg>
@@ -1135,10 +1135,10 @@
                         <l n="3-368">The crying of his voice across my head.</l>
                     </lg>
                     <lg>
-                        <l n="3-369">"Until this dry shred staff, that hath no whit </l>
+                        <l n="3-369" >&#x201F;Until this dry shred staff, that hath no whit </l>
                         <l n="3-370">Of leaf nor bark, bear blossom and smell sweet, </l>
                         <l n="3-371" rend="ti-1">Seek thou not any mercy in God's sight, </l>
-                        <l n="3-372">For so long shalt thou be cast out from it."</l>
+                        <l n="3-372">For so long shalt thou be cast out from it.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="3-373">Yea, what if dried-up stems wax red and green, </l>
@@ -1903,7 +1903,7 @@
                     </lg>
                     <lg>
                         <l n="5-209">I have hidden my soul out of sight, and said </l>
-                        <l n="5-210" rend="ti-1">"Let none take pity upon thee, none </l>
+                        <l n="5-210" rend="ti-1" >&#x201F;Let none take pity upon thee, none </l>
                         <l n="5-211">Comfort thy crying: for lo, thou art dead, </l>
                         <l n="5-212" rend="ti-1">Lie still now, safe out of sight of the sun. </l>
                         <l n="5-213">Have I not built thee a grave, and wrought </l>
@@ -1912,14 +1912,14 @@
                         <l n="5-216" rend="ti-1">And sweet light visions of things undone?</l>
                     </lg>
                     <lg>
-                        <l n="5-217">"I have given thee garments and balm and myrrh, </l>
+                        <l n="5-217" >&#x201F;I have given thee garments and balm and myrrh, </l>
                         <l n="5-218" rend="ti-1">And gold, and beautiful burial things. </l>
                         <l n="5-219">But thou, be at peace now, make no stir; </l>
                         <l n="5-220" rend="ti-1">Is not thy grave as a royal king's? </l>
                         <l n="5-221">Fret not thyself though the end were sore; </l>
                         <l n="5-222">Sleep, be patient, vex me no more. </l>
                         <l n="5-223">Sleep; what hast thou to do with her? </l>
-                        <l n="5-224" rend="ti-1">The eyes that weep, with the mouth that sings?"</l>
+                        <l n="5-224" rend="ti-1">The eyes that weep, with the mouth that sings?&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="5-225">Where the dead red leaves of the years lie rotten, </l>
@@ -1940,7 +1940,7 @@
                         <l n="5-234" rend="ti-1">I am swift to follow you, keen to see; </l>
                         <l n="5-235">But love lacks might to redeem or undo me; </l>
                         <l n="5-236" rend="ti-1">As I have been, I know I shall surely be; </l>
-                        <l n="5-237">"What should such fellows as I do?" Nay, </l>
+                        <l n="5-237" >&#x201F;What should such fellows as I do?&#x201D;Nay, </l>
                         <l n="5-238">My part were worse if I chose to play;</l>
                         <l n="5-239">For the worst is this after all; if they knew me, </l>
                         <l n="5-240" rend="ti-1">Not a soul upon earth would pity me.</l>
@@ -2081,8 +2081,8 @@
                 <div type="recto">
                     <pb n="[53]" type="recto"/>
                     <lg>
-                        <l n="5-331"><app><lem wit="#mc #cw #e">"Live"</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny #hr">"Live;"</rdg></rdgGrp></app> and her tears were shed on his face </l>
+                        <l n="5-331"><app><lem wit="#mc #cw #e" >&#x201F;Live&#x201D;</lem>
+                            <rdgGrp type="accidental"><rdg wit="#ny #hr" >&#x201F;Live;&#x201D;</rdg></rdgGrp></app> and her tears were shed on his face </l>
                         <l n="5-332" rend="ti-1">Or ever the life in his face was shed. </l>
                         <l n="5-333">The sharp tears fell through her hair, and stung </l>
                         <l n="5-334">Once, and her close lips touched him and clung </l>
@@ -2217,24 +2217,24 @@
                     </lg>
                     <lg>
                         <l n="6-25">Twice his lips quailed with delight, then said, </l>
-                        <l n="6-26" rend="ti-1">"I have but a word to you all, one word; </l>
-                        <l n="6-27">Bear with me; surely I am but dead;" </l>
+                        <l n="6-26" rend="ti-1" >&#x201F;I have but a word to you all, one word; </l>
+                        <l n="6-27">Bear with me; surely I am but dead;&#x201D;</l>
                         <l n="6-28" rend="ti-1">And all they laughed and mocked him and heard.</l>
                     </lg>
                     <lg>
-                        <l n="6-29">"Judge, when they open the judgment-roll, </l>
+                        <l n="6-29" >&#x201F;Judge, when they open the judgment-roll, </l>
                         <l n="6-30" rend="ti-1">I will stand upright before God and pray: </l>
                         <l n="6-31">'Lord God, have mercy on one man's soul, </l>
                         <l n="6-32" rend="ti-1">For his mercy was great upon earth, I say.</l>
                     </lg>
                     <lg>
-                        <l n="6-33">"'Lord, if I loved thee&#x2014;Lord, if I served&#x2014; </l>
+                        <l n="6-33" >&#x201F;'Lord, if I loved thee&#x2014;Lord, if I served&#x2014; </l>
                         <l n="6-34" rend="ti-1">If these who darkened thy fair Son's face </l>
                         <l n="6-35">I fought with, sparing not one, nor swerved </l>
                         <l n="6-36" rend="ti-1">A hand's-breadth, Lord, in the perilous place&#x2014; </l>
                     </lg>
                     <lg>
-                        <l n="6-37">"'I pray thee say to this man, O Lord, </l>
+                        <l n="6-37" >&#x201F;'I pray thee say to this man, O Lord, </l>
                         <l n="6-38" rend="ti-1">
                             <hi rend="i">Sit thou for him at my feet on a throne.</hi>
                         </l>
@@ -2247,35 +2247,35 @@
                 <div type="verso">
                     <pb n="[58]" type="verso"/>
                     <lg>
-                        <l n="6-41">"'For, Lord, thou knowest, O God most wise, </l>
+                        <l n="6-41" >&#x201F;'For, Lord, thou knowest, O God most wise, </l>
                         <l n="6-42" rend="ti-1">How gracious on earth were his deeds towards me. </l>
                         <l n="6-43">Shall this be a small thing in thine eyes, </l>
                         <l n="6-44" rend="ti-1">That is greater in mine than the whole great sea?'</l>
                     </lg>
                     <lg>
-                        <l n="6-45">"I have loved this woman my whole life long, </l>
+                        <l n="6-45" >&#x201F;I have loved this woman my whole life long, </l>
                         <l n="6-46" rend="ti-1">And even for love's sake when have I said </l>
                         <l n="6-47">'I love you'? when have I done you wrong, </l>
                         <l n="6-48" rend="ti-1">Living? but now I shall have you dead.</l>
                     </lg>
                     <lg>
-                        <l n="6-49">"Yea, now, do I bid you love me, love? </l>
+                        <l n="6-49" >&#x201F;Yea, now, do I bid you love me, love? </l>
                         <l n="6-50" rend="ti-1">Love me or loathe, we are one not twain. </l>
                         <l n="6-51">But God be praised in his heaven above </l>
                         <l n="6-52" rend="ti-1">For this my pleasure and that my pain!</l>
                     </lg>
                     <lg>
-                        <l n="6-53">"For never a man, being mean like me, </l>
+                        <l n="6-53" >&#x201F;For never a man, being mean like me, </l>
                         <l n="6-54" rend="ti-1">Shall die like me till the whole world dies. </l>
                         <l n="6-55">I shall drown with her, laughing for love; and she </l>
                         <l n="6-56" rend="ti-1">Mix with me, touching me, lips and eyes.</l>
                     </lg>
                     <lg>
-                        <l n="6-57">"Shall she not know me and see me all <app><lem wit="#hr #mc #cw">through,</lem>
+                        <l n="6-57" >&#x201F;Shall she not know me and see me all <app><lem wit="#hr #mc #cw">through,</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">through,—</rdg></rdgGrp></app> </l>
                         <l n="6-58" rend="ti-1">Me, on whose heart as a worm she trod? </l>
                         <l n="6-59">You have given me, God requite it you, </l>
-                        <l n="6-60" rend="ti-1">What man yet never was given of God."</l>
+                        <l n="6-60" rend="ti-1">What man yet never was given of God.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="6-61">O sweet one love, O my life's delight, </l>
@@ -2340,7 +2340,7 @@
                         <l n="7-16">We gave love many dreams and days to keep, </l>
                         <l n="7-17">Flowers without scent, and fruits that would not grow, </l>
                         <l n="7-18">Saying <app><lem wit="#mc #hr #cw">'If thou wilt, thrust in thy sickle and reap.'</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">"If thou wilt, thrust in thy sickle and reap.."</rdg></rdgGrp></app> </l></lg>
+                            <rdgGrp type="accidental"><rdg wit="#ny" >&#x201F;If thou wilt, thrust in thy sickle and reap..&#x201D;</rdg></rdgGrp></app> </l></lg>
                 </div>
                 <div type="recto">
                     <pb n="[61]" type="recto"/>
@@ -3143,7 +3143,7 @@
                         <l n="11-37">No soul shall tell nor lip shall number </l>
                         <l n="11-38">The names and tribes of you that slumber; </l>
                         <l n="11-39" rend="ti-1">No memory, no memorial. </l>
-                        <l n="11-40">"Thou knowest"&#x2014;who shall say thou knowest? </l>
+                        <l n="11-40" >&#x201F;Thou knowest&#x201D;&#x2014;who shall say thou knowest? </l>
                         <l n="11-41">There is none highest and none lowest: </l>
                         <l n="11-42" rend="ti-1">An end, an end, an end of all.</l>
                     </lg>
@@ -4345,9 +4345,9 @@
                         <lg>
                             <l n="21-21">Your naked new-born soul, their stake, </l>
                             <l n="21-22" rend="ti-1">Stood blind between; </l>
-                            <l n="21-23">God <app><lem wit="#hr #mc #cw">said "let</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">said, "Let</rdg></rdgGrp></app> him that wins her take </l>
-                            <l n="21-24" rend="ti-1">And keep Faustine."</l>
+                            <l n="21-23">God <app><lem wit="#hr #mc #cw">said &#x201F;let</lem>
+                            <rdgGrp type="accidental"><rdg wit="#ny">said, &#x201F;Let</rdg></rdgGrp></app> him that wins her take </l>
+                            <l n="21-24" rend="ti-1">And keep Faustine.&#x201D;</l>
                         </lg>
                         <lg>
                             <l n="21-25">But this time Satan throve, no <app><lem wit="#ny #mc #hr">doubt:</lem>
@@ -4860,11 +4860,11 @@
                             <l n="26-36" rend="ti-1">Her upright body could so stand.)</l>
                         </lg>
                         <lg>
-                            <l n="26-37">"Sweet friend, God give you thank and <app><lem wit="#mc #hr #cw">grace;</lem>
+                            <l n="26-37" >&#x201F;Sweet friend, God give you thank and <app><lem wit="#mc #hr #cw">grace;</lem>
                                 <rdgGrp type="accidental"><rdg wit="#ny">grace,</rdg></rdgGrp></app> </l>
                             <l n="26-38" rend="ti-1">Now am I clean and whole of shame, </l>
                             <l n="26-39">Nor shall men burn me in the face </l>
-                            <l n="26-40" rend="ti-1">For my sweet fault that scandals them."</l>
+                            <l n="26-40" rend="ti-1">For my sweet fault that scandals them.&#x201D;</l>
                         </lg>
                     </div>
                     <div type="recto">
@@ -4936,16 +4936,16 @@
                             <l n="26-80" rend="ti-1">To do the service God forbids.</l>
                         </lg>
                         <lg>
-                            <l n="26-81">"I pray you let me be at peace, </l>
-                            <l n="26-82" rend="ti-1">Get hence, make room for me to die." </l>
+                            <l n="26-81" >&#x201F;I pray you let me be at peace, </l>
+                            <l n="26-82" rend="ti-1">Get hence, make room for me to die.&#x201D;</l>
                             <l n="26-83">She said that: her poor lip would cease, </l>
                             <l n="26-84" rend="ti-1">Put up to mine, and turn to cry.</l>
                         </lg>
                         <lg>
-                            <l n="26-85">I said, "Bethink yourself how love </l>
+                            <l n="26-85">I said, &#x201F;Bethink yourself how love </l>
                             <l n="26-86" rend="ti-1">Fared in us twain, what either did; </l>
                             <l n="26-87">Shall I unclothe my soul thereof? </l>
-                            <l n="26-88" rend="ti-1">That I should do this, God forbid."</l>
+                            <l n="26-88" rend="ti-1">That I should do this, God forbid.&#x201D;</l>
                         </lg>
                     </div>
                     <div type="recto">
@@ -4982,9 +4982,9 @@
                             <l n="26-108" rend="ti-1">That were shot through with purple once.</l>
                         </lg>
                         <lg>
-                            <l n="26-109">She said, "Be good with me; I grow </l>
+                            <l n="26-109">She said, &#x201F;Be good with me; I grow </l>
                             <l n="26-110" rend="ti-1">So tired for shame's sake, I shall die </l>
-                            <l n="26-111">If you say nothing:" even so. </l>
+                            <l n="26-111">If you say nothing:&#x201D;even so. </l>
                             <l n="26-112" rend="ti-1">And she is dead now, and shame put by.</l>
                         </lg>
                     </div>
@@ -5125,10 +5125,10 @@
                         <lg>
                             <l n="27-25">The burden of long living. Thou shalt fear</l>
                             <l n="27-26" rend="ti-1">Waking, and sleeping mourn upon thy bed;</l>
-                            <l n="27-27">And say at <app><lem wit="#hr #mc #cw">night "Would</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">night, "Would</rdg></rdgGrp></app> God the day were here,"</l>
-                            <l n="27-28" rend="ti-1">And say at <app><lem wit="#hr #mc #cw">dawn "Would</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">dawn, "Would</rdg></rdgGrp></app> God the day were dead."</l>
+                            <l n="27-27">And say at <app><lem wit="#hr #mc #cw">night &#x201F;Would</lem>
+                                <rdgGrp type="accidental"><rdg wit="#ny">night, &#x201F;Would</rdg></rdgGrp></app> God the day were here,&#x201D;</l>
+                            <l n="27-28" rend="ti-1">And say at <app><lem wit="#hr #mc #cw">dawn &#x201F;Would</lem>
+                                <rdgGrp type="accidental"><rdg wit="#ny">dawn, &#x201F;Would</rdg></rdgGrp></app> God the day were dead.&#x201D;</l>
                             <l n="27-29" rend="ti-1">With weary days thou shalt be clothed and fed,</l>
                             <l n="27-30">And wear remorse of heart for thine attire,</l>
                             <l n="27-31" rend="ti-1">Pain for thy girdle and sorrow upon thine head;</l>
@@ -5139,8 +5139,8 @@
                             <l n="27-34" rend="ti-1">Gold tarnished, and the grey above the green;</l>
                             <l n="27-35">And as the thing thou seest thy face shall be,</l>
                             <l n="27-36" rend="ti-1">And no more as the thing beforetime seen.</l>
-                            <l n="27-37" rend="ti-1">And thou shalt say of <app><lem wit="#hr #mc #cw">mercy "It</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">mercy, "It</rdg></rdgGrp></app> hath been,"</l>
+                            <l n="27-37" rend="ti-1">And thou shalt say of <app><lem wit="#hr #mc #cw">mercy &#x201F;It</lem>
+                                <rdgGrp type="accidental"><rdg wit="#ny">mercy, &#x201F;It</rdg></rdgGrp></app> hath been,&#x201D;</l>
                             <l n="27-38">And living, watch the old lips and loves expire,</l>
                             <l n="27-39" rend="ti-1">And talking, tears shall take thy breath between;</l>
                             <l n="27-40">This is the end of every man's desire.</l>
@@ -5275,8 +5275,8 @@
                         </lg>
                         <lg>
                         <l rend="center"><hi rend="bold">I.</hi></l>
-                            <l n="29-22">"<app><lem wit="#hr #mc #cw">"Come snow, come wind</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">"Come, snow, come, wind</rdg></rdgGrp></app> or thunder</l>
+                            <l n="29-22" >&#x201F;<app><lem wit="#hr #mc #cw" >&#x201F;Come snow, come wind</lem>
+                                <rdgGrp type="accidental"><rdg wit="#ny" >&#x201F;Come, snow, come, wind</rdg></rdgGrp></app> or thunder</l>
                             <l n="29-23" rend="ti-1">High up in air,</l>
                             <l n="29-24">I watch my face, and wonder</l>
                             <l n="29-25" rend="ti-1">At my bright hair;</l>
@@ -5285,7 +5285,7 @@
                             <l n="29-28" rend="ti-1">With love of her own leaves and lips that pair.</l>
                         </lg>
                         <lg>
-                            <l n="29-29">"She knows not loves that kissed her</l>
+                            <l n="29-29" >&#x201F;She knows not loves that kissed her</l>
                             <l n="29-30" rend="ti-1">She knows not where.</l>
                             <l n="29-31">Art thou the ghost, my <app><lem wit="#hr #mc #cw">sister,</lem>
                                 <rdgGrp type="accidental"><rdg wit="#ny">sister,—</rdg></rdgGrp></app></l>
@@ -5296,7 +5296,7 @@
                             <l n="29-35" rend="ti-1">Lies snow-white on white snows, and takes no care.</l>
                         </lg>
                         <lg>
-                            <l n="29-36">"I cannot see what pleasures</l>
+                            <l n="29-36" >&#x201F;I cannot see what pleasures</l>
                             <l n="29-37" rend="ti-1">Or what pains were;</l></lg>
                     </div>
                     <div type="recto">
@@ -5307,7 +5307,7 @@
                             <l n="29-40">What beam will fall, what shower,</l>
                             <l n="29-41">What grief or joy for dower;</l>
                             <l n="29-42" rend="ti-1">But one thing knows the <app><lem wit="#hr #mc #cw">flower; the</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">flower,— the</rdg></rdgGrp></app> flower is fair."</l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">flower,— the</rdg></rdgGrp></app> flower is fair.&#x201D;</l>
                         </lg>
                         <lg>
                             <l rend="center"><hi rend="bold">III.</hi></l>
@@ -5657,7 +5657,7 @@
                         <lg>
                             <l n="33-21">Set a word in thy lips, to stand before God with a word in thy <app><lem wit="#mc #ny #hr">mouth;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">mouth:</rdg></rdgGrp></app> </l>
-                            <l n="33-22">That "the rain shall return in the land, and the tender dew after drouth."</l>
+                            <l n="33-22">That &#x201F;the rain shall return in the land, and the tender dew after drouth.&#x201D;</l>
                         </lg>
                         <lg>
                             <l n="33-23">But the arm of the elders is broken, their strength is unbound and undone: </l>
@@ -5871,8 +5871,8 @@
                         <lg>
                             <l n="34-97" rend="ti-2">She, killed with noisome air, </l>
                             <l n="34-98" rend="ti-2">Even she! and still so fair, </l>
-                            <l n="34-99">Who <app><lem wit="#mc #hr #cw">said "Let</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">said, "Let</rdg></rdgGrp></app> there be freedom," and there was </l>
+                            <l n="34-99">Who <app><lem wit="#mc #hr #cw">said &#x201F;Let</lem>
+                                <rdgGrp type="accidental"><rdg wit="#ny">said, &#x201F;Let</rdg></rdgGrp></app> there be freedom,&#x201D;and there was </l>
                             <l n="34-100" rend="ti-2">Freedom; and as a lance </l>
                             <l n="34-101" rend="ti-2">The fiery eyes of France </l>
                             <l n="34-102">Touched the world's sleep and as a sleep made pass </l>
@@ -6102,7 +6102,7 @@
                             <l n="35-57">As, when late larks give warning </l>
                             <l n="35-58">Of dying lights and dawning, </l>
                             <l n="35-59">Night murmurs to the morning, </l>
-                            <l n="35-60" rend="ti-1">"Lie still, O love, lie still;" </l>
+                            <l n="35-60" rend="ti-1" >&#x201F;Lie still, O love, lie still;&#x201D;</l>
                             <l n="35-61">And half her dark limbs cover </l>
                             <l n="35-62">The white limbs of her lover, </l>
                             <l n="35-63">With amorous plumes that hover </l>
@@ -8017,7 +8017,7 @@
                         <l n="45-16">Winds not born in the north nor any quarter, </l>
                         <l n="45-17">Winds not warm with the south nor any sunshine; </l>
                         <l n="45-18">Heard between them a voice of exultation, </l>
-                        <l n="45-19">"Lo, the summer is dead, the sun is faded, </l>
+                        <l n="45-19" >&#x201F;Lo, the summer is dead, the sun is faded, </l>
                         <l n="45-20">Even like as a leaf the year is withered, </l></lg>
                 </div>
             </div>
@@ -8044,7 +8044,7 @@
                         <l n="45-35">And green fields of the sea that make no pasture: </l>
                         <l n="45-36">Since the winter begins, the weeping winter, </l>
                         <l n="45-37">All whose flowers are tears, and round his temples </l>
-                        <l n="45-38">Iron blossom of frost is bound for ever." </l>
+                        <l n="45-38">Iron blossom of frost is bound for ever.&#x201D;</l>
                     </lg>
                 </div>
                 <div type="recto">
@@ -8637,18 +8637,18 @@
                 <div type="recto">
                     <pb n="[253]" type="recto"/>
                     <lg>
-                        <l n="49-43">"If your child be none other man's, </l>
+                        <l n="49-43" >&#x201F;If your child be none other man's, </l>
                         <l n="49-44" rend="ti-2">But if it be very mine, </l>
                         <l n="49-45">The bedstead shall be gold two spans, </l>
-                        <l n="49-46" rend="ti-2">The bedfoot silver fine." </l>
+                        <l n="49-46" rend="ti-2">The bedfoot silver fine.&#x201D;</l>
                         <l n="49-47" rend="ti-4">Mary that made God mirth, </l>
                         <l n="49-48" rend="ti-4">Bring us to thy Son's birth.</l>
                     </lg>
                     <lg>
-                        <l n="49-49">"If the child be some other man's, </l>
+                        <l n="49-49" >&#x201F;If the child be some other man's, </l>
                         <l n="49-50" rend="ti-2">And if it be none of mine, </l>
                         <l n="49-51">The manger shall be straw two spans, </l>
-                        <l n="49-52" rend="ti-2">Betwixen kine and kine." </l>
+                        <l n="49-52" rend="ti-2">Betwixen kine and kine.&#x201D;</l>
                         <l n="49-53" rend="ti-4">Mary that made sin cease, </l>
                         <l n="49-54" rend="ti-4">Bring us to thy Son's peace.</l>
                     </lg>
@@ -8894,7 +8894,7 @@
                             <l n="50-103" rend="ti-2">That then was but cold. </l>
                             <l n="50-104">No scarlet then her kirtle had </l>
                             <l n="50-105">And little gold about it sprad; </l>
-                            <l n="50-106">But her red mouth was <app><lem wit="mc">alway</lem>
+                            <l n="50-106">But her red mouth was <app><lem wit="#mc">alway</lem>
                                 <rdgGrp type="accidental"><rdg wit="#ny #hr #cw">always</rdg></rdgGrp></app> glad </l>
                             <l n="50-107">To kiss, albeit the eyes were sad </l>
                             <l n="50-108" rend="ti-2">With love they had to hold.</l>
@@ -10228,7 +10228,7 @@
                     <lg>
                         <l n="52-77">If love of his might move that face at all, </l>
                         <l n="52-78">Tuned evenwise with colours musical; </l>
-                        <l n="52-79">Then after length of days he said thus: "Love, </l>
+                        <l n="52-79">Then after length of days he said thus: &#x201F;Love, </l>
                         <l n="52-80">For love's own sake and for the love thereof </l>
                         <l n="52-81">Let no harsh words untune your gracious mood; </l>
                         <l n="52-82">For good it were, if anything be good, </l>
@@ -10239,16 +10239,16 @@
                             <rdgGrp type="substantive"><rdg wit="#mu #ny #hr #cw #e">this,</rdg></rdgGrp></app> </l>
                         <l n="52-87">Love's ways are sharp for palms of piteous feet </l>
                         <l n="52-88">To travel, but the end of such is sweet:</l>
-                        <l n="52-89">Now do with me as seemeth you the best." </l>
+                        <l n="52-89">Now do with me as seemeth you the best.&#x201D;</l>
                         <l n="52-90">She mused a little, as one holds his guest </l>
                         <l n="52-91">By the hand musing, with her face borne <app><lem wit="#mc #hr #cw">down,</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">down: </rdg></rdgGrp></app> </l>
-                        <l n="52-92">Then said: "Yea, though such bitter seed be sown, </l>
+                        <l n="52-92">Then said: &#x201F;Yea, though such bitter seed be sown, </l>
                         <l n="52-93">Have no more care of all that you have said; </l>
                         <l n="52-94">Since if there is no sleep will bind your head, </l>
                         <l n="52-95">Lo, I am fain to help you certainly; </l>
                         <l n="52-96">Christ knoweth, sir, if I would have you die; </l>
-                        <l n="52-97">There is no pleasure when a man is dead." </l>
+                        <l n="52-97">There is no pleasure when a man is dead.&#x201D;</l>
                         <l n="52-98">Thereat he kissed her hands and yellow head </l>
                         <l n="52-99">And clipped her fair long body many times; </l>
                         <l n="52-100">I have no wit to shape in written rhymes </l>
@@ -10364,13 +10364,13 @@
                     </lg>
                     <lg>
                         <l n="52-181" rend="ti-1">Then with lids gathered as who late had wept </l>
-                        <l n="52-182">She began saying: "I have so little slept </l>
+                        <l n="52-182">She began saying: &#x201F;I have so little slept </l>
                         <l n="52-183">My lids drowse now against the very sun; </l>
                         <l n="52-184">Yea, the brain aching with a dream begun </l>
                         <l n="52-185">Beats like a fitful blood; kiss but both brows, </l>
                         <l n="52-186">And you shall pluck my thoughts grown dangerous </l>
-                        <l n="52-187">Almost away." He said thus, kissing them: </l>
-                        <l n="52-188">"O sole sweet thing that God is glad to name, </l>
+                        <l n="52-187">Almost away.&#x201D;He said thus, kissing them: </l>
+                        <l n="52-188" >&#x201F;O sole sweet thing that God is glad to name, </l>
                     </lg>
                 </div>
                 <div type="recto">
@@ -10382,7 +10382,7 @@
                         <l n="52-192">Has any heat too hard and insolent </l>
                         <l n="52-193">Burnt bare the tender married leaves, undone </l>
                         <l n="52-194">The maiden grass shut under from the sun? </l>
-                        <l n="52-195">Where in this world is room enough for pain?"</l>
+                        <l n="52-195">Where in this world is room enough for pain?&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="52-196" rend="ti-1">The feverish finger of love had touched again </l>
@@ -10397,7 +10397,7 @@
                         <l n="52-205">The old record out of old things done and dead, </l>
                         <l n="52-206">She rose, she heaved her hands up, and waxed red </l>
                         <l n="52-207">For wilful heart and blameless fear of blame; </l>
-                        <l n="52-208">Saying "Though my wits be weak, this is no shame </l>
+                        <l n="52-208">Saying &#x201F;Though my wits be weak, this is no shame </l>
                         <l n="52-209">For a poor maid whom love so punisheth </l>
                         <l n="52-210">With heats of hesitation and stopped breath </l>
                         <l n="52-211">That with my dreams I live yet heavily </l>
@@ -10406,7 +10406,7 @@
                             <rdgGrp type="accidental"><rdg wit="#ny">show</rdg></rdgGrp></app> you this.</l>
                     </lg>
                     <lg>
-                        <l n="52-214" rend="ti-1">"Methought our lips upon their second kiss </l>
+                        <l n="52-214" rend="ti-1" >&#x201F;Methought our lips upon their second kiss </l>
                         <l n="52-215">Met in this place, and a fair day we had </l>
                         <l n="52-216">And fair soft leaves that waxed and were not sad </l>
                     </lg>
@@ -10430,7 +10430,7 @@
                         <l n="52-228">Pant with close pulse of such a plague-struck heat, </l>
                         <l n="52-229">As if the palpitating dawn drew breath </l>
                         <l n="52-230">For horror, breathing between life and death, </l>
-                        <l n="52-231">Till the sun sprang blood-bright and violent."</l>
+                        <l n="52-231">Till the sun sprang blood-bright and violent.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="52-232" rend="ti-1">So finishing, her soft strength wholly spent, </l>
@@ -10463,7 +10463,7 @@
                         <l n="52-252">Breathed in her tender hair and temples wan </l>
                         <l n="52-253">Like one prolonged kiss while the lips had <app><lem wit="#mc #ny #hr">breath:</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">breath.</rdg></rdgGrp></app> </l>
-                        <l n="52-254">"Sleep, that abides in vassalage of death </l>
+                        <l n="52-254" >&#x201F;Sleep, that abides in vassalage of death </l>
                         <l n="52-255">And in death's service wears out half his age, </l>
                         <l n="52-256">Hath his dreams full of deadly vassalage,</l>
                         <l n="52-257">Shadow and sound of things ungracious; </l>
@@ -10472,7 +10472,7 @@
                         <l n="52-260">As harsh a dream as holds your eyelids sad.</l>
                     </lg>
                     <lg>
-                        <l n="52-261" rend="ti-1">"This dream I tell you came three nights <app><lem wit="#mc #ny #hr">ago:</lem>
+                        <l n="52-261" rend="ti-1" >&#x201F;This dream I tell you came three nights <app><lem wit="#mc #ny #hr">ago:</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">ago;</rdg></rdgGrp></app> </l>
                         <l n="52-262">In full mid sleep I took a whim to know </l>
                         <l n="52-263">How sweet things might be; so I turned and thought; </l>
@@ -10599,7 +10599,7 @@
                     <pb n="[305]" type="recto"/>
                     <lg>
                         <l n="52-357">And knew not what this dream was nor had wit; </l>
-                        <l n="52-358">But now God knows if I have skill of it."</l>
+                        <l n="52-358">But now God knows if I have skill of it.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="52-359" rend="ti-1">Hereat she laid one palm against her lips </l>
@@ -10628,8 +10628,8 @@
                         <l n="52-380">She turned her throat and spake, her voice being thin </l>
                         <l n="52-381">As a sick man's, sudden and <app><lem wit="#mc #hr #ny">tremulous;</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">tremulous</rdg></rdgGrp></app> </l>
-                        <l n="52-382">"Sweet, if this end be come indeed on us, </l>
-                        <l n="52-383">Let us love more;" and held his mouth with hers. </l>
+                        <l n="52-382" >&#x201F;Sweet, if this end be come indeed on us, </l>
+                        <l n="52-383">Let us love more;&#x201D;and held his mouth with hers. </l>
                         <l n="52-384">As the first sound of flooded hill-waters </l>
                     </lg>
                 </div>
@@ -10651,7 +10651,7 @@
                         <l n="52-395">Fed in the other's face: till suddenly </l>
                         <l n="52-396">He cried out with a little broken cry </l>
                         <l n="52-397">This <app><lem wit="#mc #hr #ny">word &#x2014;O help</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">word, &#x2014;O help</rdg></rdgGrp></app> me, sweet, I am but dead." </l>
+                            <rdgGrp type="accidental"><rdg wit="#ny">word, &#x2014;O help</rdg></rdgGrp></app> me, sweet, I am but dead.&#x201D;</l>
                         <l n="52-398">And even so saying, the colour of fair red </l>
                         <l n="52-399">Was gone out of his face, and his blood's beat </l>
                         <l n="52-400">Fell, and stark death made sharp his upward feet </l>
@@ -10714,7 +10714,7 @@
                         <l n="52-440">And for love's honour in her love's distress </l>
                         <l n="52-441">This word was written over her tomb's <app><lem wit="#mc #hr #ny">head;</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">head</rdg></rdgGrp></app> </l>
-                        <l n="52-442">"Here dead she lieth, for whose sake Love is dead."</l>
+                        <l n="52-442" >&#x201F;Here dead she lieth, for whose sake Love is dead.&#x201D;</l>
                     </lg>
                 </div>
                 <div type="recto">
@@ -11166,11 +11166,11 @@
                         <l n="56-29">By there comes the king's young son, </l>
                         <l n="56-30" rend="ti-1">A little wind in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
-                        <l n="56-31">"Out of ten maidens ye'll grant me one," </l>
+                        <l n="56-31" >&#x201F;Out of ten maidens ye'll grant me one,&#x201D;</l>
                         <l n="56-32" rend="ti-1">A crown of red for the king's daughter.</l>
                     </lg>
                     <lg>
-                        <l n="56-33">"Out of ten mays ye'll give me the best," </l>
+                        <l n="56-33" >&#x201F;Out of ten mays ye'll give me the best,&#x201D;</l>
                         <l n="56-34" rend="ti-1">A little rain in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-35">A bed of yellow straw for all the rest, </l>
@@ -11209,10 +11209,10 @@
                         <l n="56-52" rend="ti-1">Sorrow of heart for the king's daughter.</l>
                     </lg>
                     <lg>
-                        <l n="56-53">"Ye'll make a grave for my fair body," </l>
+                        <l n="56-53" >&#x201F;Ye'll make a grave for my fair body,&#x201D;</l>
                         <l n="56-54" rend="ti-1">Running rain in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
-                        <l n="56-55">"And ye'll streek my brother at the side of me," </l>
+                        <l n="56-55" >&#x201F;And ye'll streek my brother at the side of me,&#x201D;</l>
                         <l n="56-56" rend="ti-1">The pains of hell for the king's daughter. </l>
                     </lg>
                 </div>
@@ -11243,7 +11243,7 @@
                         <l n="57-10">Made out of a grave-sheet.</l>
                     </lg>
                     <lg>
-                        <l n="57-11">"I had fair coins red and white, </l>
+                        <l n="57-11" >&#x201F;I had fair coins red and white, </l>
                         <l n="57-12">And my name was as great light;</l>
                     </lg>
                     <lg>
@@ -11272,27 +11272,27 @@
                     <lg>
                         <l n="57-21"><app><lem wit="#mc #hr #cw">My</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">&#x201F;My</rdg></rdgGrp></app> live sides were full of lust, </l>
-                        <l n="57-22">Now are they dried with dust."</l>
+                        <l n="57-22">Now are they dried with dust.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="57-23">The first board spake and said: </l>
-                        <l n="57-24">"Is it best eating flesh or bread?"</l>
+                        <l n="57-24" >&#x201F;Is it best eating flesh or bread?&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="57-25">The second answered it: </l>
-                        <l n="57-26">"Is wine or honey the more sweet?"</l>
+                        <l n="57-26" >&#x201F;Is wine or honey the more sweet?&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="57-27">The third board spake and said: </l>
-                        <l n="57-28">"Is red gold worth a girl's gold head?"</l>
+                        <l n="57-28" >&#x201F;Is red gold worth a girl's gold head?&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="57-29">The fourth made answer thus: </l>
-                        <l n="57-30">"All these things are as one with us."</l>
+                        <l n="57-30" >&#x201F;All these things are as one with us.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="57-31">The dead man asked of them: </l>
-                        <l n="57-32">"Is the green land stained brown with flame?</l>
+                        <l n="57-32" >&#x201F;Is the green land stained brown with flame?</l>
                     </lg>
                     <lg>
                         <l n="57-33"><app><lem wit="#mc #hr #cw">Have</lem>
@@ -11312,7 +11312,7 @@
                     </lg>
                     <lg>
                         <l n="57-37">The boards said to him: </l>
-                        <l n="57-38">"This is a lewd thing that ye deem.</l>
+                        <l n="57-38" >&#x201F;This is a lewd thing that ye deem.</l>
                     </lg>
                     <lg>
                         <l n="57-39"><app><lem wit="#mc #hr #cw">Your</lem>
@@ -11332,15 +11332,15 @@
                     <lg>
                         <l n="57-45"><app><lem wit="#mc #hr #cw">Your</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">&#x201F;Your</rdg></rdgGrp></app> man has gotten both ring and glove, </l>
-                        <l n="57-46">Wrought well for eyes to love."</l>
+                        <l n="57-46">Wrought well for eyes to love.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="57-47">The dead man answered thus: </l>
-                        <l n="57-48">"What good gift shall God give us?"</l>
+                        <l n="57-48" >&#x201F;What good gift shall God give us?&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="57-49">The boards answered him anon: </l>
-                        <l n="57-50">"Flesh to feed hell's worm upon." </l>
+                        <l n="57-50" >&#x201F;Flesh to feed hell's worm upon.&#x201D;</l>
                     </lg>
                 </div>
                 <div type="recto">
@@ -11350,27 +11350,27 @@
                     <lg>
                         <l n="58-1"><hi rend="sc"><app><lem wit="#mc #hr #cw">&#x201F;Stand</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">Stand</rdg></rdgGrp></app></hi> up, stand up, thou May Janet, </l>
-                        <l n="58-2" rend="ti-1">And go to the wars with me." </l>
+                        <l n="58-2" rend="ti-1">And go to the wars with me.&#x201D;</l>
                         <l n="58-3">He's drawn her by both hands </l>
                         <l n="58-4" rend="ti-1">With her face against the sea.</l>
                     </lg>
                     <lg>
-                        <l n="58-5">"He that strews red shall gather white, </l>
+                        <l n="58-5" >&#x201F;He that strews red shall gather white, </l>
                         <l n="58-6" rend="ti-1">He that sows white reap red, </l>
                         <l n="58-7">Before your face and my daughter's </l>
                         <l n="58-8" rend="ti-1">Meet in a marriage-bed.</l>
                     </lg>
                     <lg>
-                        <l n="58-9">"Gold coin shall grow in the yellow field, </l>
+                        <l n="58-9" >&#x201F;Gold coin shall grow in the yellow field, </l>
                         <l n="58-10" rend="ti-1">Green corn in the green sea-water, </l>
                         <l n="58-11">And red fruit grow of the rose's red, </l>
-                        <l n="58-12" rend="ti-1">Ere your fruit grow in her."</l>
+                        <l n="58-12" rend="ti-1">Ere your fruit grow in her.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="58-13">"But I shall have her by land," he said, </l>
-                        <l n="58-14" rend="ti-1">"Or I shall have her by sea, </l>
+                        <l n="58-13" >&#x201F;But I shall have her by land,&#x201D;he said, </l>
+                        <l n="58-14" rend="ti-1" >&#x201F;Or I shall have her by sea, </l>
                         <l n="58-15">Or I shall have her by strong treason </l>
-                        <l n="58-16" rend="ti-1">And no grace go with me."</l>
+                        <l n="58-16" rend="ti-1">And no grace go with me.&#x201D;</l>
                     </lg>
                 </div>
             </div>
@@ -11386,8 +11386,8 @@
                     <lg>
                         <l n="58-21">The captain's drawn her by both sides </l>
                         <l n="58-22" rend="ti-1">Out of the fair green sea; </l>
-                        <l n="58-23">"Stand up, stand up, thou May Janet, </l>
-                        <l n="58-24" rend="ti-1">And come to the war with me."</l>
+                        <l n="58-23" >&#x201F;Stand up, stand up, thou May Janet, </l>
+                        <l n="58-24" rend="ti-1">And come to the war with me.&#x201D;</l>
                     </lg>
                     <lg>
                         <l n="58-25">The first town they came to </l>
@@ -11420,26 +11420,26 @@
                     <head rend="center x-small">(FINNISH.)</head>
                     <lg>
                         <l n="59-1">
-                            <hi rend="sc">"O where </hi><app><lem wit="#mc #hr #cw">hae</lem>
+                            <hi rend="sc" >&#x201F;O where </hi><app><lem wit="#mc #hr #cw">hae</lem>
                                 <rdgGrp type="accidental"><rdg wit="#ny">have</rdg></rdgGrp></app> ye been the morn sae late, </l>
                         <l n="59-2" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-3">O where <app><lem wit="#mc #hr #cw">hae</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">have</rdg></rdgGrp></app> ye been the morn sae late? </l>
-                        <l n="59-4" rend="ti-1">And I wot I hae but anither." </l>
-                        <l n="59-5">"By the water-gate, by the water-gate, </l>
-                        <l n="59-6" rend="ti-1">O dear mither."</l>
+                        <l n="59-4" rend="ti-1">And I wot I hae but anither.&#x201D;</l>
+                        <l n="59-5" >&#x201F;By the water-gate, by the water-gate, </l>
+                        <l n="59-6" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-7">"And whatten kin' o' wark had ye there to make, </l>
+                        <l n="59-7" >&#x201F;And whatten kin' o' wark had ye there to make, </l>
                         <l n="59-8" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-9">And whatten kin' o' wark had ye there to make? </l>
                         <l n="59-10" rend="ti-1">And I wot I hae <app><lem wit="#mc #hr #cw">but</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">not</rdg></rdgGrp></app> anither." </l>
-                        <l n="59-11">"I watered my steeds with water frae the lake, </l>
-                        <l n="59-12" rend="ti-1">O dear mither."</l>
+                            <rdgGrp type="accidental"><rdg wit="#ny">not</rdg></rdgGrp></app> anither.&#x201D;</l>
+                        <l n="59-11" >&#x201F;I watered my steeds with water frae the lake, </l>
+                        <l n="59-12" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-13">"Why is your coat sae fouled the day, </l>
+                        <l n="59-13" >&#x201F;Why is your coat sae fouled the day, </l>
                         <l n="59-14" rend="ti-1">My merry son, come tell me hither? </l></lg>
                 </div>
             </div>
@@ -11449,118 +11449,118 @@
                     <lg>
                         <l n="59-15">Why is your coat sae fouled the day? </l>
                         <l n="59-16" rend="ti-1">And I wot I hae <app><lem wit="#mc #hr #cw">but</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">not</rdg></rdgGrp></app> anither." </l>
-                        <l n="59-17">"The steeds were stamping sair by the weary banks of clay, </l>
-                        <l n="59-18" rend="ti-1">O dear mither."</l>
+                            <rdgGrp type="accidental"><rdg wit="#ny">not</rdg></rdgGrp></app> anither.&#x201D;</l>
+                        <l n="59-17" >&#x201F;The steeds were stamping sair by the weary banks of clay, </l>
+                        <l n="59-18" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-19">"And where gat ye thae sleeves of red, </l>
+                        <l n="59-19" >&#x201F;And where gat ye thae sleeves of red, </l>
                         <l n="59-20" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-21">And where gat ye thae sleeves of red? </l>
                         <l n="59-22" rend="ti-1">And I wot I hae <app><lem wit="#mc #hr #cw">but</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">not</rdg></rdgGrp></app> anither." </l>
-                        <l n="59-23">"I <app><lem wit="#mc #hr #cw">have</lem>
+                            <rdgGrp type="accidental"><rdg wit="#ny">not</rdg></rdgGrp></app> anither.&#x201D;</l>
+                        <l n="59-23" >&#x201F;I <app><lem wit="#mc #hr #cw">have</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">hae</rdg></rdgGrp></app> slain my ae brither by the weary water-head, </l>
-                        <l n="59-24" rend="ti-1">O dear mither."</l>
+                        <l n="59-24" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-25">"And where will ye gang to mak your mend, </l>
+                        <l n="59-25" >&#x201F;And where will ye gang to mak your mend, </l>
                         <l n="59-26" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-27">And where will ye gang to mak your mend? </l>
-                        <l n="59-28" rend="ti-1">And I wot I hae not anither." </l>
-                        <l n="59-29">"The warldis way, to the warldis end, </l>
-                        <l n="59-30" rend="ti-1">O dear mither."</l>
+                        <l n="59-28" rend="ti-1">And I wot I hae not anither.&#x201D;</l>
+                        <l n="59-29" >&#x201F;The warldis way, to the warldis end, </l>
+                        <l n="59-30" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-31">"And what will ye leave your father dear, </l>
+                        <l n="59-31" >&#x201F;And what will ye leave your father dear, </l>
                         <l n="59-32" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-33">And what will ye leave your father dear? </l>
-                        <l n="59-34" rend="ti-1">And I wot I hae not anither." </l>
-                        <l n="59-35">"The wood to fell and the logs to bear, </l>
+                        <l n="59-34" rend="ti-1">And I wot I hae not anither.&#x201D;</l>
+                        <l n="59-35" >&#x201F;The wood to fell and the logs to bear, </l>
                         <l n="59-36">For he'll never see my body <app><lem wit="#cw #mc #ny">mair,</lem>
                         <rdgGrp type="accidental"><rdg wit="#hr">mair</rdg></rdgGrp></app> </l>
-                        <l n="59-37" rend="ti-1">O dear mither."</l>
+                        <l n="59-37" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                 </div>
                 <div type="recto">
                     <pb n="[331]" type="recto"/>
                     <lg>
-                        <l n="59-38">"And what will ye leave your mither dear, </l>
+                        <l n="59-38" >&#x201F;And what will ye leave your mither dear, </l>
                         <l n="59-39" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-40">And what will ye leave your mither dear? </l>
-                        <l n="59-41" rend="ti-1">And I wot I hae not anither." </l>
-                        <l n="59-42">"The wool to card and the wool to wear, </l>
+                        <l n="59-41" rend="ti-1">And I wot I hae not anither.&#x201D;</l>
+                        <l n="59-42" >&#x201F;The wool to card and the wool to wear, </l>
                         <l n="59-43">For ye'll never see my body mair, </l>
-                        <l n="59-44" rend="ti-1">O dear mither."</l>
+                        <l n="59-44" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-45">"And what will ye leave for your wife to take, </l>
+                        <l n="59-45" >&#x201F;And what will ye leave for your wife to take, </l>
                         <l n="59-46" rend="ti-1">My merry son, come tell me hither?</l>
                         <l n="59-47">And what will ye leave for your wife to take? </l>
-                        <l n="59-48" rend="ti-1">And I wot I hae not anither." </l>
-                        <l n="59-49">"A goodly gown and a fair new make, </l>
+                        <l n="59-48" rend="ti-1">And I wot I hae not anither.&#x201D;</l>
+                        <l n="59-49" >&#x201F;A goodly gown and a fair new make, </l>
                         <l n="59-50">For she'll do nae mair for my body's sake, </l>
-                        <l n="59-51" rend="ti-1">O dear mither."</l>
+                        <l n="59-51" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-52">"And what will ye leave your young son fair, </l>
+                        <l n="59-52" >&#x201F;And what will ye leave your young son fair, </l>
                         <l n="59-53" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-54">And what will ye leave your young son fair? </l>
-                        <l n="59-55" rend="ti-1">And I wot ye hae not anither." </l>
-                        <l n="59-56">"A twiggen school-rod for his body to bear, </l>
+                        <l n="59-55" rend="ti-1">And I wot ye hae not anither.&#x201D;</l>
+                        <l n="59-56" >&#x201F;A twiggen school-rod for his body to bear, </l>
                         <l n="59-57">Though it garred him greet he'll get nae mair, </l>
-                        <l n="59-58" rend="ti-1">O dear mither."</l>
+                        <l n="59-58" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-59">"And what will ye leave your little daughter sweet, </l>
+                        <l n="59-59" >&#x201F;And what will ye leave your little daughter sweet, </l>
                         <l n="59-60" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-61">And what will ye leave your little daughter sweet? </l>
-                        <l n="59-62" rend="ti-1">And I wot ye hae not anither." </l></lg>
+                        <l n="59-62" rend="ti-1">And I wot ye hae not anither.&#x201D;</l></lg>
                 </div>
             </div>
             <div type="opening">
                 <div type="verso">
                     <pb n="[332]" type="verso"/>
                     <lg>
-                        <l n="59-63">"Wild mulberries for her mouth to eat, </l>
+                        <l n="59-63" >&#x201F;Wild mulberries for her mouth to eat, </l>
                         <l n="59-64">She'll get nae mair though it garred her greet, </l>
-                        <l n="59-65" rend="ti-1">O dear mither."</l>
+                        <l n="59-65" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-66">"And when will ye come back frae roamin', </l>
+                        <l n="59-66" >&#x201F;And when will ye come back frae roamin', </l>
                         <l n="59-67" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-68">And when will ye come back frae roamin'? </l>
-                        <l n="59-69" rend="ti-1">And I wot I hae not anither." </l>
-                        <l n="59-70">"When the sunrise out of the north is comen, </l>
-                        <l n="59-71" rend="ti-1">O dear mither."</l>
+                        <l n="59-69" rend="ti-1">And I wot I hae not anither.&#x201D;</l>
+                        <l n="59-70" >&#x201F;When the sunrise out of the north is comen, </l>
+                        <l n="59-71" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-72">"When shall the sunrise on the north side be, </l>
+                        <l n="59-72" >&#x201F;When shall the sunrise on the north side be, </l>
                         <l n="59-73" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-74">When shall the sunrise on the north side be? </l>
-                        <l n="59-75" rend="ti-1">And I wot I hae not anither." </l>
-                        <l n="59-76">"When chuckie-stanes shall swim in the sea, </l>
-                        <l n="59-77" rend="ti-1">O dear mither."</l>
+                        <l n="59-75" rend="ti-1">And I wot I hae not anither.&#x201D;</l>
+                        <l n="59-76" >&#x201F;When chuckie-stanes shall swim in the sea, </l>
+                        <l n="59-77" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-78">"When shall stanes in the sea swim, </l>
+                        <l n="59-78" >&#x201F;When shall stanes in the sea swim, </l>
                         <l n="59-79" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-80">When shall stanes in the sea swim? </l>
-                        <l n="59-81" rend="ti-1">And I wot I hae not anither." </l>
-                        <l n="59-82">"When birdies' feathers are as lead therein, </l>
-                        <l n="59-83" rend="ti-1">O dear mither."</l>
+                        <l n="59-81" rend="ti-1">And I wot I hae not anither.&#x201D;</l>
+                        <l n="59-82" >&#x201F;When birdies' feathers are as lead therein, </l>
+                        <l n="59-83" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="59-84">"When shall feathers be as lead, </l>
+                        <l n="59-84" >&#x201F;When shall feathers be as lead, </l>
                         <l n="59-85" rend="ti-1">My merry son, come tell me hither? </l></lg>
                 </div>
                 <div type="recto">
                     <pb n="333" type="recto"/>
                     <lg>
                         <l n="59-86">When shall feathers be as lead? </l>
-                        <l n="59-87" rend="ti-1">And I wot I hae not anither." </l>
-                        <l n="59-88">"When God shall judge between the quick and dead, </l>
-                        <l n="59-89" rend="ti-1">O dear mither." </l>
+                        <l n="59-87" rend="ti-1">And I wot I hae not anither.&#x201D;</l>
+                        <l n="59-88" >&#x201F;When God shall judge between the quick and dead, </l>
+                        <l n="59-89" rend="ti-1">O dear mither.&#x201D;</l>
                     </lg>    
                     </div>
                 <div type="verso">
@@ -11587,9 +11587,9 @@
                         <l n="60-12" rend="ti-1">That was full white in the fields by Tyne.</l>
                     </lg>
                     <lg>
-                        <l n="60-13">"O what is this thing ye have on, </l>
-                        <l n="60-14" rend="ti-1">Show me now, sweet daughter of mine?" </l>
-                        <l n="60-15">"O father, this is my little son </l>
+                        <l n="60-13" >&#x201F;O what is this thing ye have on, </l>
+                        <l n="60-14" rend="ti-1">Show me now, sweet daughter of mine?&#x201D;</l>
+                        <l n="60-15" >&#x201F;O father, this is my little son </l>
                         <l n="60-16" rend="ti-1">That I found hid in the sides of Tyne.</l>
                     </lg>
                 </div>
@@ -11598,97 +11598,97 @@
                 <div type="recto">
                     <pb n="[335]" type="recto"/>
                     <lg>
-                        <l n="60-17">"O what will ye give my son to eat, </l>
-                        <l n="60-18" rend="ti-1">Red rose leaves will never make wine?" </l>
-                        <l n="60-19">"Fen-water and adder's <app><lem wit="#mc #hr #ny">meat,</lem>
+                        <l n="60-17" >&#x201F;O what will ye give my son to eat, </l>
+                        <l n="60-18" rend="ti-1">Red rose leaves will never make wine?&#x201D;</l>
+                        <l n="60-19" >&#x201F;Fen-water and adder's <app><lem wit="#mc #hr #ny">meat,</lem>
                         <rdgGrp type="accidental"><rdg wit="#cw">meat.&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-20" rend="ti-1">The ways are sair fra' the Till to the <app><lem wit="#mc #hr #ny">Tyne.&#x201D;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">Tyne.</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
-                        <l n="60-21">"Or what will ye get my son to <app><lem wit="#mc #hr #ny">wear,</lem>
+                        <l n="60-21" >&#x201F;Or what will ye get my son to <app><lem wit="#mc #hr #ny">wear,</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">wear?&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-22" rend="ti-1"><app><lem wit="#mc #hr #ny">Red rose leaves will never make wine?&#x201D;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">(Red rose leaves will never make wine.)</rdg></rdgGrp></app></l>
-                        <l n="60-23">"A weed and a web of nettle's <app><lem wit="#mc #hr #ny">hair,</lem>
+                        <l n="60-23" >&#x201F;A weed and a web of nettle's <app><lem wit="#mc #hr #ny">hair,</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">hair.&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-24" rend="ti-1">The ways are sair fra' the Till to the <app><lem wit="#mc #hr #ny">Tyne.&#x201D;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">Tyne.</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
-                        <l n="60-25">"Or what will ye take to line his <app><lem wit="#mc #hr #ny">bed,</lem>
+                        <l n="60-25" >&#x201F;Or what will ye take to line his <app><lem wit="#mc #hr #ny">bed,</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">bed?&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-26" rend="ti-1"><app><lem wit="#mc #hr #ny">Red rose leaves will never make wine?&#x201D;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">(Red rose leaves will never make wine.)</rdg></rdgGrp></app> </l>
-                        <l n="60-27">"Two black stones at the kirkwall's <app><lem wit="#mc #hr #ny">head,</lem>
+                        <l n="60-27" >&#x201F;Two black stones at the kirkwall's <app><lem wit="#mc #hr #ny">head,</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">head.&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-28" rend="ti-1">The ways are sair fra' the Till to the <app><lem wit="#mc #hr #ny">Tyne.&#x201D;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">Tyne.</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
-                        <l n="60-29">"Or what will ye give my son for <app><lem wit="#mc #hr #ny">land,</lem>
+                        <l n="60-29" >&#x201F;Or what will ye give my son for <app><lem wit="#mc #hr #ny">land,</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">land?&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-30" rend="ti-1"><app><lem wit="#mc #hr #ny">Red rose leaves will never make wine?&#x201D;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">(Red rose leaves will never make wine.)</rdg></rdgGrp></app></l>
-                        <l n="60-31">"Three girl's paces of red <app><lem wit="#mc #hr #ny">sand</lem>
+                        <l n="60-31" >&#x201F;Three girl's paces of red <app><lem wit="#mc #hr #ny">sand</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">sand.&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-32" rend="ti-1">The ways are sair fra' the Till to the <app><lem wit="#mc #hr #ny">Tyne.&#x201D;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">Tyne.</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
-                        <l n="60-33">"Or what will ye give me for my <app><lem wit="#mc #hr #ny">son,</lem>
+                        <l n="60-33" >&#x201F;Or what will ye give me for my <app><lem wit="#mc #hr #ny">son,</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">son?&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-34" rend="ti-1"><app><lem wit="#mc #hr #ny">Red rose leaves will never make wine?&#x201D;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">(Red rose leaves will never make wine.)</rdg></rdgGrp></app> </l>
-                        <l n="60-35">"Six times to kiss his young mouth on, </l>
-                        <l n="60-36" rend="ti-1">The ways are sair fra' the Till to the Tyne."</l>
+                        <l n="60-35" >&#x201F;Six times to kiss his young mouth on, </l>
+                        <l n="60-36" rend="ti-1">The ways are sair fra' the Till to the Tyne.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="60-37">"But what have ye done with the bearing-bread, </l>
+                        <l n="60-37" >&#x201F;But what have ye done with the bearing-bread, </l>
                         <l n="60-38" rend="ti-1">And what have ye made of the washing-wine? </l>
                         <l n="60-39">Or where have ye made your bearing-bed, </l>
-                        <l n="60-40" rend="ti-1">To bear a son in the sides of Tyne?"</l>
+                        <l n="60-40" rend="ti-1">To bear a son in the sides of Tyne?&#x201D;</l>
                     </lg>
                 </div>
                 <div type="verso">
                     <pb n="[336]" type="verso"/>
                     <lg>
-                        <l n="60-41">"The bearing-bread is soft and new, </l>
+                        <l n="60-41" >&#x201F;The bearing-bread is soft and new, </l>
                         <l n="60-42" rend="ti-1">There is no soil in the straining <app><lem wit="#mc #ny">wine:</lem>
                             <rdgGrp type="accidental"><rdg wit="#hr #cw">wine;</rdg></rdgGrp></app> </l>
                         <l n="60-43">The bed was made between green and blue, </l>
                         <l n="60-44" rend="ti-1">It stands full soft by the sides of Tyne.</l>
                     </lg>
                     <lg>
-                        <l n="60-45">"The fair grass was my bearing-bread, </l>
+                        <l n="60-45" >&#x201F;The fair grass was my bearing-bread, </l>
                         <l n="60-46" rend="ti-1">The well-water my washing-wine; </l>
                         <l n="60-47">The low leaves were my bearing-bed, </l>
-                        <l n="60-48" rend="ti-1">And that was best in the sides of Tyne."</l>
+                        <l n="60-48" rend="ti-1">And that was best in the sides of Tyne.&#x201D;</l>
                     </lg>
                     <lg>
-                        <l n="60-49">"O daughter, if ye have done this thing, </l>
+                        <l n="60-49" >&#x201F;O daughter, if ye have done this thing, </l>
                         <l n="60-50" rend="ti-1">I wot the greater grief is mine; </l>
                         <l n="60-51">This was a bitter child-bearing, </l>
                         <l n="60-52" rend="ti-1">When ye were got by the sides of Tyne.</l>
                     </lg>
                     <lg>
-                        <l n="60-53">"About the time of sea-swallows </l>
+                        <l n="60-53" >&#x201F;About the time of sea-swallows </l>
                         <l n="60-54" rend="ti-1">That fly full thick by six and nine, </l>
                         <l n="60-55">Ye'll have my body out of the house, </l>
                         <l n="60-56" rend="ti-1">To bury me by the sides of Tyne.</l>
                     </lg>
                     <lg>
-                        <l n="60-57">"Set nine stones by the wall for <app><lem wit="#mc #hr #ny">twain,</lem>
+                        <l n="60-57" >&#x201F;Set nine stones by the wall for <app><lem wit="#mc #hr #ny">twain,</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">twain,&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-58" rend="ti-1"><app><lem wit="#mc #hr">Red rose leaves will never make wine;</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">Red rose leaves will never make wine:</rdg>
                                 <rdg wit="#cw">(Red rose leaves will never make wine)</rdg></rdgGrp></app>; </l>
-                        <l n="60-59">"For the bed I take will measure <app><lem wit="#mc #hr #ny">ten,</lem>
+                        <l n="60-59" >&#x201F;For the bed I take will measure <app><lem wit="#mc #hr #ny">ten,</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">ten.&#x201D;</rdg></rdgGrp></app>, </l>
                         <l n="60-60" rend="ti-1">The ways are sair fra' the Till to the Tyne.</l>
                     </lg>
                     <lg>
-                        <l n="60-61">"Tread twelve girl's paces out for <app><lem wit="#mc #hr #ny">three,</lem>
+                        <l n="60-61" >&#x201F;Tread twelve girl's paces out for <app><lem wit="#mc #hr #ny">three,</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw">three,&#x201D;</rdg></rdgGrp></app> </l>
                         <l n="60-62" rend="ti-1"><app><lem wit="#mc #hr">Red rose leaves will never make wine;</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">Red rose leaves will never make wine:</rdg>
