@@ -10777,7 +10777,8 @@
                     </lg>
                     <lg>
                         <l n="53-36">God gave thee gracious ministers </l>
-                        <l n="53-37" rend="ti-2">And all their work who plait and weave: </l>
+                        <l n="53-37" rend="ti-2">And all their work who plait and <app><lem wit="#mc #hr #cw">weave: </lem>
+                            <rdgGrp type="a"><rdg wit="#ny">weave </rdg></rdgGrp></app></l>
                         <l n="53-38">The cunning of embroiderers </l>
                         <l n="53-39" rend="ti-2">That sew the pillow to the sleeve, </l>
                         <l n="53-40" rend="ti-2">And likeness of all things that live.</l>
@@ -10856,7 +10857,8 @@
                     <lg>
                         <l n="53-86">Thou saidest: I am sick of love: </l>
                         <l n="53-87" rend="ti-2">Stay me with flagons, comfort me </l>
-                        <l n="53-88">With apples for my pain thereof </l>
+                        <l n="53-88">With apples for my pain <app><lem wit="#mc #hr #cw">thereof </lem>
+                            <rdgGrp type="a"><rdg wit="#ny">thereof, </rdg></rdgGrp></app></l>
                         <l n="53-89" rend="ti-2">Till my hands gather in his tree </l>
                         <l n="53-90" rend="ti-2">That fruit wherein my lips would be.</l>
                     </lg>
@@ -10896,7 +10898,8 @@
                         <l n="53-112" rend="ti-2">To thy smooth body, as was said, </l>
                         <l n="53-113">Who hath a girdle on his loins </l>
                         <l n="53-114" rend="ti-2">And dyed attire upon his head&#x2014; </l>
-                        <l n="53-115" rend="ti-2">The same who, seeing, worshipped,</l>
+                        <l n="53-115" rend="ti-2">The same who, seeing, <app><lem wit="#mc #hr #cw">worshipped</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">worship&#x00E8;d </rdg></rdgGrp></app>,</l>
                     </lg>
                 </div>
             </div>
@@ -10906,8 +10909,10 @@
                     <lg>
                         <l n="53-116">Because thy face was like the face </l>
                         <l n="53-117" rend="ti-2">Of a clean maiden that smells sweet, </l>
-                        <l n="53-118">Because thy gait was as the pace </l>
-                        <l n="53-119" rend="ti-2">Of one that opens not her feet </l>
+                        <l n="53-118">Because thy gait was as the <app><lem wit="#mc #cw">pace</lem>
+                            <rdgGrp type="s"><rdg wit="#mu #ny #hr #e">face</rdg></rdgGrp></app> </l>
+                        <l n="53-119" rend="ti-2">Of one that opens not her <app><lem wit="#mc #hr #cw">feet </lem>
+                            <rdgGrp type="a"><rdg wit="#ny">feet, </rdg></rdgGrp></app></l>
                         <l n="53-120" rend="ti-2">And is not heard within the street&#x2014; </l>
                     </lg>
                     <lg>
@@ -10919,7 +10924,8 @@
                     </lg>
                     <lg>
                         <l n="53-126">Then shall the heathen people say, </l>
-                        <l n="53-127" rend="ti-2">The multitude being at ease; </l>
+                        <l n="53-127" rend="ti-2">The multitude being at <app><lem wit="#mc #hr #cw">ease;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">ease:</rdg></rdgGrp></app> </l>
                         <l n="53-128">Lo, this is that Aholibah </l>
                         <l n="53-129" rend="ti-2">Whose name was blown among strange seas, </l>
                         <l n="53-130" rend="ti-2">Grown old with soft adulteries.</l>
@@ -11117,13 +11123,16 @@
                     </lg>
                     <lg>
                         <l n="56-9">The first to spin, the second to sing, </l>
-                        <l n="56-10" rend="ti-1">Seeds of wheat in the mill-water; </l>
+                        <l n="56-10" rend="ti-1">Seeds of wheat in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-11">The third may was a goodly thing, </l>
-                        <l n="56-12" rend="ti-1">White bread and brown for the king's daughter.</l>
+                        <l n="56-12" rend="ti-1">White bread and brown for the king's <app><lem wit="#mc #hr #cw">daughter.</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">daughter</rdg></rdgGrp></app> </l>
                     </lg>
                     <lg>
                         <l n="56-13">The fourth to sew and the fifth to play, </l>
-                        <l n="56-14" rend="ti-1">Fair green weed in the mill-water; </l>
+                        <l n="56-14" rend="ti-1">Fair green weed in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-15">The sixth may was a goodly may, </l>
                         <l n="56-16" rend="ti-1">White wine and red for the king's daughter.</l>
                     </lg>
@@ -11134,38 +11143,45 @@
                     <pb n="[322]" type="verso"/>
                     <lg>
                         <l n="56-17">The seventh to woo, the eighth to wed, </l>
-                        <l n="56-18" rend="ti-1">Fair thin reeds in the mill-water; </l>
+                        <l n="56-18" rend="ti-1">Fair thin reeds in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-19">The ninth had gold work on her head, </l>
                         <l n="56-20" rend="ti-1">Honey in the comb for the king's daughter.</l>
                     </lg>
                     <lg>
                         <l n="56-21">The ninth had gold work round her hair, </l>
-                        <l n="56-22" rend="ti-1">Fallen flowers in the mill-water; </l>
+                        <l n="56-22" rend="ti-1">Fallen flowers in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-23">The tenth may was goodly and fair, </l>
                         <l n="56-24" rend="ti-1">Golden gloves for the king's daughter.</l>
                     </lg>
                     <lg>
                         <l n="56-25">We were ten maidens in a field green, </l>
-                        <l n="56-26" rend="ti-1">Fallen fruit in the mill-water; </l>
+                        <l n="56-26" rend="ti-1">Fallen fruit in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-27">Fairer maidens never have been, </l>
                         <l n="56-28" rend="ti-1">Golden sleeves for the king's daughter.</l>
                     </lg>
                     <lg>
                         <l n="56-29">By there comes the king's young son, </l>
-                        <l n="56-30" rend="ti-1">A little wind in the mill-water; </l>
+                        <l n="56-30" rend="ti-1">A little wind in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-31">"Out of ten maidens ye'll grant me one," </l>
                         <l n="56-32" rend="ti-1">A crown of red for the king's daughter.</l>
                     </lg>
                     <lg>
                         <l n="56-33">"Out of ten mays ye'll give me the best," </l>
-                        <l n="56-34" rend="ti-1">A little rain in the mill-water; </l>
+                        <l n="56-34" rend="ti-1">A little rain in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-35">A bed of yellow straw for all the rest, </l>
                         <l n="56-36" rend="ti-1">A bed of gold for the king's daughter.</l>
                     </lg>
                     <lg>
                         <l n="56-37">He's ta'en out the goodliest, </l>
-                        <l n="56-38" rend="ti-1">Rain that rains in the mill-water; </l>
-                        <l n="56-39">A comb of yellow shell for all the rest, </l>
+                        <l n="56-38" rend="ti-1">Rain that rains in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
+                        <l n="56-39">A comb of yellow shell for all the <app><lem wit="#mc #ny #cw">rest,</lem>
+                        <rdgGrp type="a"><rdg wit="#hr">rest</rdg></rdgGrp></app> </l>
                         <l n="56-40" rend="ti-1">A comb of gold for the king's daughter.</l>
                     </lg>
                 </div>
@@ -11173,25 +11189,29 @@
                     <pb n="[323]" type="recto"/>
                     <lg>
                         <l n="56-41">He's made her bed to the goodliest, </l>
-                        <l n="56-42" rend="ti-1">Wind and hail in the mill-water; </l>
+                        <l n="56-42" rend="ti-1">Wind and hail in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-43">A grass girdle for all the rest, </l>
                         <l n="56-44" rend="ti-1">A girdle of arms for the king's daughter.</l>
                     </lg>
                     <lg>
                         <l n="56-45">He's set his heart to the goodliest, </l>
-                        <l n="56-46" rend="ti-1">Snow that snows in the mill-water; </l>
+                        <l n="56-46" rend="ti-1">Snow that snows in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-47">Nine little kisses for all the rest, </l>
                         <l n="56-48" rend="ti-1">An hundredfold for the king's daughter.</l>
                     </lg>
                     <lg>
                         <l n="56-49">He's ta'en his leave at the goodliest, </l>
-                        <l n="56-50" rend="ti-1">Broken boats in the mill-water; </l>
+                        <l n="56-50" rend="ti-1">Broken boats in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-51">Golden gifts for all the rest, </l>
                         <l n="56-52" rend="ti-1">Sorrow of heart for the king's daughter.</l>
                     </lg>
                     <lg>
                         <l n="56-53">"Ye'll make a grave for my fair body," </l>
-                        <l n="56-54" rend="ti-1">Running rain in the mill-water; </l>
+                        <l n="56-54" rend="ti-1">Running rain in the <app><lem wit="#mc #hr #cw">mill-water;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mill-water:</rdg></rdgGrp></app> </l>
                         <l n="56-55">"And ye'll streek my brother at the side of me," </l>
                         <l n="56-56" rend="ti-1">The pains of hell for the king's daughter. </l>
                     </lg>
@@ -11227,26 +11247,31 @@
                         <l n="57-12">And my name was as great light;</l>
                     </lg>
                     <lg>
-                        <l n="57-13">I had fair clothes green and red, </l>
+                        <l n="57-13"><app><lem wit="#mc #hr #cw">I</lem>
+                        <rdgGrp type="a"><rdg wit="#ny">&#x201F;I</rdg></rdgGrp></app> had fair clothes green and red, </l>
                         <l n="57-14">And strong gold bound round my head.</l>
                     </lg>
                 </div>
                 <div type="recto">
                     <pb n="[325]" type="recto"/>
                     <lg>
-                        <l n="57-15">But no meat comes in my mouth, </l>
+                        <l n="57-15"><app><lem wit="#mc #hr #cw">But</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;But</rdg></rdgGrp></app> no meat comes in my mouth, </l>
                         <l n="57-16">Now I fare as the worm doth;</l>
                     </lg>
                     <lg>
-                        <l n="57-17">And no gold binds in my hair, </l>
+                        <l n="57-17"><app><lem wit="#mc #hr #cw">And</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;And</rdg></rdgGrp></app> no gold binds in my hair, </l>
                         <l n="57-18">Now I fare as the blind fare.</l>
                     </lg>
                     <lg>
-                        <l n="57-19">My live thews were of great strength, </l>
+                        <l n="57-19"><app><lem wit="#mc #hr #cw">My</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;My</rdg></rdgGrp></app> live thews were of great strength, </l>
                         <l n="57-20">Now am I waxen a span's length;</l>
                     </lg>
                     <lg>
-                        <l n="57-21">My live sides were full of lust, </l>
+                        <l n="57-21"><app><lem wit="#mc #hr #cw">My</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;My</rdg></rdgGrp></app> live sides were full of lust, </l>
                         <l n="57-22">Now are they dried with dust."</l>
                     </lg>
                     <lg>
@@ -11270,7 +11295,8 @@
                         <l n="57-32">"Is the green land stained brown with flame?</l>
                     </lg>
                     <lg>
-                        <l n="57-33">Have they hewn my son for beasts to eat, </l>
+                        <l n="57-33"><app><lem wit="#mc #hr #cw">Have</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;Have</rdg></rdgGrp></app> they hewn my son for beasts to eat, </l>
                         <l n="57-34">And my wife's body for beasts' meat?</l>
                     </lg>
                 </div>
@@ -11279,27 +11305,33 @@
                 <div type="verso">
                     <pb n="[326]" type="verso"/>
                     <lg>
-                        <l n="57-35">Have they boiled my maid in a brass pan, </l>
-                        <l n="57-36">And built a gallows to hang my man?"</l>
+                        <l n="57-35"><app><lem wit="#mc #hr #cw">Have</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;Have</rdg></rdgGrp></app> they boiled my maid in a brass pan, </l>
+                        <l n="57-36">And built a gallows to hang my <app><lem wit="#mc #hr #cw">man?&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">man &#x201F;</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
                         <l n="57-37">The boards said to him: </l>
                         <l n="57-38">"This is a lewd thing that ye deem.</l>
                     </lg>
                     <lg>
-                        <l n="57-39">Your wife has gotten a golden bed, </l>
+                        <l n="57-39"><app><lem wit="#mc #hr #cw">Your</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;Your</rdg></rdgGrp></app> wife has gotten a golden bed, </l>
                         <l n="57-40">All the sheets are sewn with red.</l>
                     </lg>
                     <lg>
-                        <l n="57-41">Your son has gotten a coat of silk, </l>
+                        <l n="57-41"><app><lem wit="#mc #hr #cw">Your</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;Your</rdg></rdgGrp></app> son has gotten a coat of silk, </l>
                         <l n="57-42">The sleeves are soft as curded milk.</l>
                     </lg>
                     <lg>
-                        <l n="57-43">Your maid has gotten a kirtle new, </l>
+                        <l n="57-43"><app><lem wit="#mc #hr #cw">Your</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;Your</rdg></rdgGrp></app> maid has gotten a kirtle new, </l>
                         <l n="57-44">All the skirt has braids of blue.</l>
                     </lg>
                     <lg>
-                        <l n="57-45">Your man has gotten both ring and glove, </l>
+                        <l n="57-45"><app><lem wit="#mc #hr #cw">Your</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">&#x201F;Your</rdg></rdgGrp></app> man has gotten both ring and glove, </l>
                         <l n="57-46">Wrought well for eyes to love."</l>
                     </lg>
                     <lg>
@@ -11316,7 +11348,8 @@
                     <head rend="center">MAY JANET.</head><!-- <l n="58-x"> -->
                     <head rend="center x-small">(BRETON.)</head>
                     <lg>
-                        <l n="58-1">"<hi rend="sc">Stand</hi> up, stand up, thou May Janet, </l>
+                        <l n="58-1"><hi rend="sc"><app><lem wit="#mc #hr #cw">&#x201F;Stand</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Stand</rdg></rdgGrp></app></hi> up, stand up, thou May Janet, </l>
                         <l n="58-2" rend="ti-1">And go to the wars with me." </l>
                         <l n="58-3">He's drawn her by both hands </l>
                         <l n="58-4" rend="ti-1">With her face against the sea.</l>
@@ -11387,9 +11420,11 @@
                     <head rend="center x-small">(FINNISH.)</head>
                     <lg>
                         <l n="59-1">
-                            <hi rend="sc">"O where </hi>have ye been the morn sae late, </l>
+                            <hi rend="sc">"O where </hi><app><lem wit="#mc #hr #cw">hae</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">have</rdg></rdgGrp></app> ye been the morn sae late, </l>
                         <l n="59-2" rend="ti-1">My merry son, come tell me hither? </l>
-                        <l n="59-3">O where hae ye been the morn sae late? </l>
+                        <l n="59-3">O where <app><lem wit="#mc #hr #cw">hae</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">have</rdg></rdgGrp></app> ye been the morn sae late? </l>
                         <l n="59-4" rend="ti-1">And I wot I hae but anither." </l>
                         <l n="59-5">"By the water-gate, by the water-gate, </l>
                         <l n="59-6" rend="ti-1">O dear mither."</l>
@@ -11398,7 +11433,8 @@
                         <l n="59-7">"And whatten kin' o' wark had ye there to make, </l>
                         <l n="59-8" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-9">And whatten kin' o' wark had ye there to make? </l>
-                        <l n="59-10" rend="ti-1">And I wot I hae but anither." </l>
+                        <l n="59-10" rend="ti-1">And I wot I hae <app><lem wit="#mc #hr #cw">but</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">not</rdg></rdgGrp></app> anither." </l>
                         <l n="59-11">"I watered my steeds with water frae the lake, </l>
                         <l n="59-12" rend="ti-1">O dear mither."</l>
                     </lg>
@@ -11412,7 +11448,8 @@
                     <pb n="[330]" type="verso"/>
                     <lg>
                         <l n="59-15">Why is your coat sae fouled the day? </l>
-                        <l n="59-16" rend="ti-1">And I wot I hae but anither." </l>
+                        <l n="59-16" rend="ti-1">And I wot I hae <app><lem wit="#mc #hr #cw">but</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">not</rdg></rdgGrp></app> anither." </l>
                         <l n="59-17">"The steeds were stamping sair by the weary banks of clay, </l>
                         <l n="59-18" rend="ti-1">O dear mither."</l>
                     </lg>
@@ -11420,8 +11457,10 @@
                         <l n="59-19">"And where gat ye thae sleeves of red, </l>
                         <l n="59-20" rend="ti-1">My merry son, come tell me hither? </l>
                         <l n="59-21">And where gat ye thae sleeves of red? </l>
-                        <l n="59-22" rend="ti-1">And I wot I hae but anither." </l>
-                        <l n="59-23">"I have slain my ae brither by the weary water-head, </l>
+                        <l n="59-22" rend="ti-1">And I wot I hae <app><lem wit="#mc #hr #cw">but</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">not</rdg></rdgGrp></app> anither." </l>
+                        <l n="59-23">"I <app><lem wit="#mc #hr #cw">have</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">hae</rdg></rdgGrp></app> slain my ae brither by the weary water-head, </l>
                         <l n="59-24" rend="ti-1">O dear mither."</l>
                     </lg>
                     <lg>
@@ -11438,7 +11477,8 @@
                         <l n="59-33">And what will ye leave your father dear? </l>
                         <l n="59-34" rend="ti-1">And I wot I hae not anither." </l>
                         <l n="59-35">"The wood to fell and the logs to bear, </l>
-                        <l n="59-36">For he'll never see my body mair, </l>
+                        <l n="59-36">For he'll never see my body <app><lem wit="#cw #mc #ny">mair,</lem>
+                        <rdgGrp type="a"><rdg wit="#hr">mair</rdg></rdgGrp></app> </l>
                         <l n="59-37" rend="ti-1">O dear mither."</l>
                     </lg>
                 </div>
@@ -11529,7 +11569,8 @@
                     <lg>
                         <l n="60-1">
                             <hi rend="sc">This</hi> fell when Christmas lights were done, </l>
-                        <l n="60-2" rend="ti-1">Red rose leaves will never make wine; </l>
+                        <l n="60-2" rend="ti-1"><app><lem wit="#mc #ny #hr"></lem>
+                            <rdgGrp type="a"><rdg wit="#cw">*Red rose leaves will never make wine;)</rdg></rdgGrp></app></l>
                         <l n="60-3">But before the Easter lights begun; </l>
                         <l n="60-4" rend="ti-1">The ways are sair fra' the Till to the Tyne.</l>
                     </lg>
@@ -11559,30 +11600,46 @@
                     <lg>
                         <l n="60-17">"O what will ye give my son to eat, </l>
                         <l n="60-18" rend="ti-1">Red rose leaves will never make wine?" </l>
-                        <l n="60-19">"Fen-water and adder's meat, </l>
-                        <l n="60-20" rend="ti-1">The ways are sair fra' the Till to the Tyne."</l>
+                        <l n="60-19">"Fen-water and adder's <app><lem wit="#mc #hr #ny">meat,</lem>
+                        <rdgGrp type="a"><rdg wit="#cw">meat.&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-20" rend="ti-1">The ways are sair fra' the Till to the <app><lem wit="#mc #hr #ny">Tyne.&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">Tyne.</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
-                        <l n="60-21">"Or what will ye get my son to wear, </l>
-                        <l n="60-22" rend="ti-1">Red rose leaves will never make wine?" </l>
-                        <l n="60-23">"A weed and a web of nettle's hair, </l>
-                        <l n="60-24" rend="ti-1">The ways are sair fra' the Till to the Tyne."</l>
+                        <l n="60-21">"Or what will ye get my son to <app><lem wit="#mc #hr #ny">wear,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">wear?&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-22" rend="ti-1"><app><lem wit="#mc #hr #ny">Red rose leaves will never make wine?&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">(Red rose leaves will never make wine.)</rdg></rdgGrp></app></l>
+                        <l n="60-23">"A weed and a web of nettle's <app><lem wit="#mc #hr #ny">hair,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">hair.&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-24" rend="ti-1">The ways are sair fra' the Till to the <app><lem wit="#mc #hr #ny">Tyne.&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">Tyne.</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
-                        <l n="60-25">"Or what will ye take to line his bed, </l>
-                        <l n="60-26" rend="ti-1">Red rose leaves will never make wine?" </l>
-                        <l n="60-27">"Two black stones at the kirkwall's head, </l>
-                        <l n="60-28" rend="ti-1">The ways are sair fra' the Till to the Tyne."</l>
+                        <l n="60-25">"Or what will ye take to line his <app><lem wit="#mc #hr #ny">bed,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">bed?&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-26" rend="ti-1"><app><lem wit="#mc #hr #ny">Red rose leaves will never make wine?&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">(Red rose leaves will never make wine.)</rdg></rdgGrp></app> </l>
+                        <l n="60-27">"Two black stones at the kirkwall's <app><lem wit="#mc #hr #ny">head,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">head.&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-28" rend="ti-1">The ways are sair fra' the Till to the <app><lem wit="#mc #hr #ny">Tyne.&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">Tyne.</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
-                        <l n="60-29">"Or what will ye give my son for land, </l>
-                        <l n="60-30" rend="ti-1">Red rose leaves will never make wine?" </l>
-                        <l n="60-31">"Three girl's paces of red sand, </l>
-                        <l n="60-32" rend="ti-1">The ways are sair fra' the Till to the Tyne.</l>
+                        <l n="60-29">"Or what will ye give my son for <app><lem wit="#mc #hr #ny">land,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">land?&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-30" rend="ti-1"><app><lem wit="#mc #hr #ny">Red rose leaves will never make wine?&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">(Red rose leaves will never make wine.)</rdg></rdgGrp></app></l>
+                        <l n="60-31">"Three girl's paces of red <app><lem wit="#mc #hr #ny">sand</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">sand.&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-32" rend="ti-1">The ways are sair fra' the Till to the <app><lem wit="#mc #hr #ny">Tyne.&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">Tyne.</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
-                        <l n="60-33">"Or what will ye give me for my son, </l>
-                        <l n="60-34" rend="ti-1">Red rose leaves will never make wine?" </l>
+                        <l n="60-33">"Or what will ye give me for my <app><lem wit="#mc #hr #ny">son,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">son?&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-34" rend="ti-1"><app><lem wit="#mc #hr #ny">Red rose leaves will never make wine?&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">(Red rose leaves will never make wine.)</rdg></rdgGrp></app> </l>
                         <l n="60-35">"Six times to kiss his young mouth on, </l>
                         <l n="60-36" rend="ti-1">The ways are sair fra' the Till to the Tyne."</l>
                     </lg>
@@ -11597,7 +11654,8 @@
                     <pb n="[336]" type="verso"/>
                     <lg>
                         <l n="60-41">"The bearing-bread is soft and new, </l>
-                        <l n="60-42" rend="ti-1">There is no soil in the straining wine: </l>
+                        <l n="60-42" rend="ti-1">There is no soil in the straining <app><lem wit="#mc #ny">wine:</lem>
+                            <rdgGrp type="a"><rdg wit="#hr #cw">wine;</rdg></rdgGrp></app> </l>
                         <l n="60-43">The bed was made between green and blue, </l>
                         <l n="60-44" rend="ti-1">It stands full soft by the sides of Tyne.</l>
                     </lg>
@@ -11620,16 +11678,25 @@
                         <l n="60-56" rend="ti-1">To bury me by the sides of Tyne.</l>
                     </lg>
                     <lg>
-                        <l n="60-57">"Set nine stones by the wall for twain, </l>
-                        <l n="60-58" rend="ti-1">Red rose leaves will never make wine; </l>
-                        <l n="60-59">"For the bed I take will measure ten, </l>
+                        <l n="60-57">"Set nine stones by the wall for <app><lem wit="#mc #hr #ny">twain,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">twain,&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-58" rend="ti-1"><app><lem wit="#mc #hr">Red rose leaves will never make wine;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Red rose leaves will never make wine:</rdg>
+                                <rdg wit="#cw">(Red rose leaves will never make wine)</rdg></rdgGrp></app>; </l>
+                        <l n="60-59">"For the bed I take will measure <app><lem wit="#mc #hr #ny">ten,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">ten.&#x201D;</rdg></rdgGrp></app>, </l>
                         <l n="60-60" rend="ti-1">The ways are sair fra' the Till to the Tyne.</l>
                     </lg>
                     <lg>
-                        <l n="60-61">"Tread twelve girl's paces out for three, </l>
-                        <l n="60-62" rend="ti-1">Red rose leaves will never make wine; </l>
-                        <l n="60-63">For the pit I made has taken me, </l>
-                        <l n="60-64" rend="ti-1">The ways are sair fra' the Till to the Tyne." </l>
+                        <l n="60-61">"Tread twelve girl's paces out for <app><lem wit="#mc #hr #ny">three,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">three,&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-62" rend="ti-1"><app><lem wit="#mc #hr">Red rose leaves will never make wine;</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Red rose leaves will never make wine:</rdg>
+                                <rdg wit="#cw">(Red rose leaves will never make wine)</rdg></rdgGrp></app> </l>
+                        <l n="60-63"><app><lem wit="#mc #hr #ny">For the pit I made has taken me,</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">&#x201F;For the pit I made has taken me,&#x201D;</rdg></rdgGrp></app> </l>
+                        <l n="60-64" rend="ti-1">The ways are sair fra' the Till to the <app><lem wit="#mc #hr #ny">Tyne.&#x201D;</lem>
+                            <rdgGrp type="a"><rdg wit="#cw">Tyne.</rdg></rdgGrp></app> </l>
                     </lg>
                 </div>
             </div>
@@ -11686,7 +11753,8 @@
                     <lg>
                         <l n="61-29">The fourth, with lips whereon has bled </l>
                         <l n="61-30">Some great pale fruit's slow colour, shed </l>
-                        <l n="61-31">From the rank bitten husk whence drips </l>
+                        <l n="61-31">From the rank <app><lem wit="#mc">bitten</lem>
+                        <rdgGrp type="s"><rdg wit="#mu #ny #hr #cw #e">bitten</rdg></rdgGrp></app> husk whence drips </l>
                         <l n="61-32">Faint blood between her lips&#x2014; </l>
                     </lg>
                     <lg>
@@ -11722,7 +11790,8 @@
                             <hi rend="sc">The </hi>sea gives her shells to the shingle, </l>
                         <l n="62-2" rend="ti-1">The earth gives her streams to the sea; </l>
                         <l n="62-3">They are many, but my gift is single, </l>
-                        <l n="62-4" rend="ti-1">My verses, the firstfruits of me. </l>
+                        <l n="62-4" rend="ti-1">My verses, the <app><lem wit="#mc #hr #cw #e">firstfruits</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">first-fruits</rdg></rdgGrp></app> of me. </l>
                         <l n="62-5">Let the wind take the green and the grey leaf, </l>
                         <l n="62-6" rend="ti-1">Cast forth without fruit upon air; </l>
                         <l n="62-7">Take rose-leaf and vine-leaf and bay-leaf </l>
@@ -11799,7 +11868,8 @@
                     </lg>
                     <lg>
                         <l n="62-57">In their wings though the sea-wind yet quivers, </l>
-                        <l n="62-58" rend="ti-1">Will you spare not a space for them there </l>
+                        <l n="62-58" rend="ti-1">Will you spare not a space for them <app><lem wit="#mc #hr #cw">there</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">there,</rdg></rdgGrp></app> </l>
                         <l n="62-59">Made green with the running of rivers </l>
                         <l n="62-60" rend="ti-1">And gracious with temperate air; </l>
                         <l n="62-61">In the fields and the turreted cities, </l>
