@@ -149,7 +149,6 @@
                             <l n="1-26" rend="ti-1"> All his gold <app>
                                 <lem wit="#mc #mu #ny #e">raiment</lem>
                                 <rdgGrp type="substantive"><rdg wit="#hr #cw">garment</rdg>
-                                <!-- TODO: in the app, e is raiment, same as mu, ny -->
                                 </rdgGrp></app> had </l>
                             <l n="1-27" rend="ti-2"> Pale stains of dust and rust. </l>
                             <l n="1-28"> A riven hood was pulled across his eyes; </l>
@@ -521,9 +520,7 @@
                     <pb n="[14]" type="verso"/>
                     <lg>
                         <l n="3-17"> Alas, Lord, surely thou art great and fair. </l>
-                        <!-- Is line 18 a complete sentence? -->
-                        <!-- Answer: yes, it is. -->
-                        <l n="3-18"> </l>
+                        <l n="3-18"> But lo her wonderfully woven hair! </l>
                         <l n="3-19" rend="ti-1"> And thou didst heal us with thy piteous kiss; </l>
                         <l n="3-20"> But see now, Lord; her mouth is lovelier. </l>
                     </lg>
@@ -717,7 +714,7 @@
                         <l n="3-129"> Her beds are full of perfume and sad sound, </l>
                         <l n="3-130"> Her doors are made with music, and barred round </l>
                         <l n="3-131" rend="ti-1"> With sighing and with laughter and with <app><lem wit="#cw #hr #ny #mc">tears,</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">tears,—</rdg></rdgGrp></app> </l>
+                            <rdgGrp type="accidental"><rdg wit="#ny">tears,&#x2014;</rdg></rdgGrp></app> </l>
                         <l n="3-132"> With tears whereby strong souls of men are bound. </l>
                     </lg>
                     <lg>
@@ -2262,7 +2259,7 @@
                     </lg>
                     <lg>
                         <l n="6-57" >&#x201F;Shall she not know me and see me all <app><lem wit="#hr #mc #cw">through,</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">through,—</rdg></rdgGrp></app> </l>
+                            <rdgGrp type="accidental"><rdg wit="#ny">through,&#x2014;</rdg></rdgGrp></app> </l>
                         <l n="6-58" rend="ti-1">Me, on whose heart as a worm she trod? </l>
                         <l n="6-59">You have given me, God requite it you, </l>
                         <l n="6-60" rend="ti-1">What man yet never was given of God.&#x201D;</l>
@@ -2642,7 +2639,7 @@
                         <l n="9-128">Quivering; and pain made perfect in thy lips </l>
                         <l n="9-129">For my sake when I hurt thee; O that I </l>
                         <l n="9-130">Durst crush thee out of life with love, and <app><lem wit="#mc #hr #cw">die,</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">die,—</rdg></rdgGrp></app> </l></lg>
+                            <rdgGrp type="accidental"><rdg wit="#ny">die,&#x2014;</rdg></rdgGrp></app> </l></lg>
                 </div>
             </div>
             <div type="opening">
@@ -3001,7 +2998,7 @@
                         <l n="10-76">Thou art throned where another was king; where another was queen she is crowned. </l>
                         <l n="10-77">Yea, once we had sight of another: but now she is queen, say these. </l>
                         <l n="10-78">Not as thine, not as thine was our <app><lem wit="#hr #mc #cw">mother, a</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">mother,—a</rdg></rdgGrp></app> blossom of flowering seas, </l>
+                            <rdgGrp type="accidental"><rdg wit="#ny">mother,&#x2014;a</rdg></rdgGrp></app> blossom of flowering seas, </l>
                         <l n="10-79">Clothed round with the world's desire as with raiment, and fair as the foam, </l>
                         <l n="10-80">And fleeter than kindled fire, and a goddess, and mother of Rome. </l>
                         <l n="10-81">For thine came pale and a maiden, and sister to sorrow; but ours, </l>
@@ -3010,7 +3007,7 @@
                         <l n="10-84">Bent down unto us that besought her, and earth grew sweet with her name. </l>
                         <l n="10-85">For thine came weeping, a slave among slaves, and rejected; but she </l>
                         <l n="10-86">Came flushed from the full-flushed wave, and imperial, her foot on the sea. </l>
-                        <!-- print apparatus mentions "82.6 mother, a MC, HR, CW ] mother,—a NY", but there are only 14 lines on 82. I am assuming you meant 82.6 and have inserted apparatus accordingly - tm -->
+                        <!-- print apparatus mentions "82.6 mother, a MC, HR, CW ] mother,&#x2014;a NY", but there are only 14 lines on 82. I am assuming you meant 82.6 and have inserted apparatus accordingly - tm -->
                         </lg>
                 </div>
                 <div type="recto">
@@ -3080,7 +3077,7 @@
                         <l n="11-4">The end is come of pleasant places, </l>
                         <l n="11-5">The end of tender words and faces, </l>
                         <l n="11-6" rend="ti-1">The end of <app><lem wit="#cw #hr #mc">all, the</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">all,—the</rdg></rdgGrp></app> poppied sleep.</l>
+                            <rdgGrp type="accidental"><rdg wit="#ny">all,&#x2014;the</rdg></rdgGrp></app> poppied sleep.</l>
                     </lg>
                     <lg>
                         <l n="11-7">No place for sound within their hearing, </l>
@@ -3571,7 +3568,7 @@
                         <l n="15-22" rend="ti-1">Do they go for a torture? where</l>
                         <l n="15-23">Plant thorns, set pain like a jewel?</l>
                         <l n="15-24" rend="ti-1">Ah, not in the <app><lem wit="#cw #hr #mc">flesh, not</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">flesh,—not</rdg></rdgGrp></app> there!</l>
+                            <rdgGrp type="accidental"><rdg wit="#ny">flesh,&#x2014;not</rdg></rdgGrp></app> there!</l>
                     </lg>
                     <lg>
                         <l n="15-25">The racks of earth and the rods</l>
@@ -3705,7 +3702,7 @@
                         <l n="16-17">As the tresses and wings of the wind</l>
                             <l n="16-18" rend="ti-2">Are scattered and shaken,</l>
                             <l n="16-19">I will scatter all them that have <app><lem wit="#mc #hr #cw">sinned,</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">sinned,—</rdg></rdgGrp></app></l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">sinned,&#x2014;</rdg></rdgGrp></app></l>
                             <l n="16-20" rend="ti-2">There shall none be taken;</l>
                             <l n="16-21">As a sower that scattereth seed,</l>
                             <l n="16-22" rend="ti-2">So will I scatter them;</l>
@@ -3716,7 +3713,7 @@
                         <l n="16-25">As the wings and the locks of the wind</l>
                         <l n="16-26" rend="ti-2">Are scattered and shaken,</l>
                             <l n="16-27">Thou hast scattered all them that have <app><lem wit="#mc #hr #cw">sinned,</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">sinned,—</rdg></rdgGrp></app></l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">sinned,&#x2014;</rdg></rdgGrp></app></l>
                         <l n="16-28" rend="ti-2">There was no man <app><lem wit="#ny #cw #e #mc">taken;</lem>
                         <rdgGrp type="accidental"><rdg wit="#hr">taken,</rdg></rdgGrp></app></l>
                         <l n="16-29">As a sower that scattereth seed,</l>
@@ -4833,7 +4830,7 @@
                         <lg>
                             <l n="26-25">Three thoughts I make my pleasure of: </l>
                             <l n="26-26" rend="ti-1">First I take heart and think of <app><lem wit="#mc #hr #cw">this:</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">this,—</rdg></rdgGrp></app> </l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">this,&#x2014;</rdg></rdgGrp></app> </l>
                             <l n="26-27">That knight's gold hair she chose to love, </l>
                             <l n="26-28" rend="ti-1">His mouth she had such will to kiss.</l>
                         </lg>
@@ -4894,7 +4891,7 @@
                             <l n="26-62" rend="ti-1">And body broken up with love, </l>
                             <l n="26-63">With sweet hot tears his lips were loth </l>
                             <l n="26-64" rend="ti-1">Her own should taste the savour <app><lem wit="#mc #hr #cw">of,</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">of,—</rdg></rdgGrp></app></l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">of,&#x2014;</rdg></rdgGrp></app></l>
                         </lg>
                     </div>
                 </div>
@@ -4974,7 +4971,7 @@
                         <lg>
                             <l n="26-109">She said, &#x201F;Be good with me; I grow </l>
                             <l n="26-110" rend="ti-1">So tired for shame's sake, I shall die </l>
-                            <l n="26-111">If you say nothing:&#x201D;even so. </l>
+                            <l n="26-111">If you say nothing:&#x201D; even so. </l>
                             <l n="26-112" rend="ti-1">And she is dead now, and shame put by.</l>
                         </lg>
                     </div>
@@ -5009,8 +5006,8 @@
                         <lg>
                             <l n="26-129">It may be all my love went wrong&#x2014; </l>
                             <l n="26-130" rend="ti-1">A scribe's work writ awry and blurred, </l>
-                            <l n="26-131">Scrawled after the blind <app><lem wit="#mc #hr #cw">evensong—</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">even-song—</rdg></rdgGrp></app> </l>
+                            <l n="26-131">Scrawled after the blind <app><lem wit="#mc #hr #cw">evensong&#x2014;</lem>
+                                <rdgGrp type="accidental"><rdg wit="#ny">even-song&#x2014;</rdg></rdgGrp></app> </l>
                             <l n="26-132" rend="ti-1">Spoilt music with no perfect word.</l>
                         </lg>
                         <lg>
@@ -5027,7 +5024,7 @@
                             <l n="26-138" rend="ti-1">It may be now she hath in sight </l>
                             <l n="26-139">Some better knowledge; still there clings </l>
                             <l n="26-140" rend="ti-1">The old <app><lem wit="#mc #hr #cw">question. Will</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">question,— Will</rdg></rdgGrp></app> not God do right? 
+                                <rdgGrp type="accidental"><rdg wit="#ny">question,&#x2014; Will</rdg></rdgGrp></app> not God do right? 
                                 <!-- TODO: check this <xref
               xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#note_01" id="ref_01"
               rend="super">*</xref> -->
@@ -5264,7 +5261,7 @@
                                 <rdgGrp type="accidental"><rdg wit="#ny">day, night</rdg></rdgGrp></app>.</l>
                         </lg>
                         <lg>
-                        <l rend="center"><hi rend="bold">I.</hi></l>
+                        <l rend="center"><hi rend="bold">II.</hi></l>
                             <l n="29-22" >&#x201F;<app><lem wit="#hr #mc #cw" >&#x201F;Come snow, come wind</lem>
                                 <rdgGrp type="accidental"><rdg wit="#ny" >&#x201F;Come, snow, come, wind</rdg></rdgGrp></app> or thunder</l>
                             <l n="29-23" rend="ti-1">High up in air,</l>
@@ -5278,10 +5275,10 @@
                             <l n="29-29" >&#x201F;She knows not loves that kissed her</l>
                             <l n="29-30" rend="ti-1">She knows not where.</l>
                             <l n="29-31">Art thou the ghost, my <app><lem wit="#hr #mc #cw">sister,</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">sister,—</rdg></rdgGrp></app></l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">sister,&#x2014;</rdg></rdgGrp></app></l>
                             <l n="29-32" rend="ti-1">White sister there,</l>
                             <l n="29-33">Am I the <app><lem wit="#hr #mc #cw">ghost, who</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">ghost,— who</rdg></rdgGrp></app> knows?</l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">ghost,&#x2014; who</rdg></rdgGrp></app> knows?</l>
                             <l n="29-34">My hand, a fallen rose,</l>
                             <l n="29-35" rend="ti-1">Lies snow-white on white snows, and takes no care.</l>
                         </lg>
@@ -5297,17 +5294,17 @@
                             <l n="29-40">What beam will fall, what shower,</l>
                             <l n="29-41">What grief or joy for dower;</l>
                             <l n="29-42" rend="ti-1">But one thing knows the <app><lem wit="#hr #mc #cw">flower; the</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">flower,— the</rdg></rdgGrp></app> flower is fair.&#x201D;</l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">flower,&#x2014; the</rdg></rdgGrp></app> flower is fair.&#x201D;</l>
                         </lg>
                         <lg>
                             <l rend="center"><hi rend="bold">III.</hi></l>
                             <l n="29-43">Glad, but not flushed with gladness,</l>
-                            <l n="29-44">Since joys go by;</l>
+                            <l n="29-44" rend="ti-1">Since joys go by;</l>
                             <l n="29-45">Sad, but not bent with sadness,</l>
-                            <l n="29-46">Since sorrows die;</l>
+                            <l n="29-46" rend="ti-1">Since sorrows die;</l>
                             <l n="29-47">Deep in the gleaming glass</l>
                             <l n="29-48">She sees all past things pass,</l>
-                            <l n="29-49">And all sweet life that was lie down and lie.</l>
+                            <l n="29-49" rend="ti-1">And all sweet life that was lie down and lie.</l>
                         </lg>
                         <lg>
                             <l n="29-50">There glowing ghosts of flowers</l>
@@ -5331,7 +5328,7 @@
                         <lg>
                             <l n="29-59">She sees old loves that drifted,</l>
                             <l n="29-60" rend="ti-1">She knew not <app><lem wit="#hr #mc #cw">why,</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">why,—</rdg></rdgGrp></app></l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">why,&#x2014;</rdg></rdgGrp></app></l>
                             <l n="29-61">Old loves and faded fears</l>
                             <l n="29-62">Float down a stream that hears</l>
                             <l n="29-63" rend="ti-1">The flowing of all men's tears beneath the sky.</l>
@@ -5899,7 +5896,7 @@
                             <l n="34-124" rend="ti-2">Thou art lord and king; but we </l>
                             <l n="34-125" rend="ti-2">Lift younger eyes, and see </l>
                             <l n="34-126">Less of high hope, less light on wandering <app><lem wit="#mc #hr #cw">hours;</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">hours;—</rdg></rdgGrp></app> </l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">hours;&#x2014;</rdg></rdgGrp></app> </l>
                             <l n="34-127" rend="ti-2">Hours that have borne men down so long, </l>
                             <l n="34-128">Seen the right fail, and watched uplift the wrong.</l>
                         </lg>
@@ -6510,10 +6507,10 @@
                         </lg>
                         <lg>
                             <l n="36-257">Dost thou dream of what was and no more <app><lem wit="#mc #hr #cw">more is,</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">more is—</rdg></rdgGrp></app> </l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">more is&#x2014;</rdg></rdgGrp></app> </l>
                             <l n="36-258" rend="ti-1">The old kingdoms of earth and the kings? </l>
                             <l n="36-259">Dost thou hunger for these things, <app><lem wit="#mc #hr #cw">Dolores,</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">Dolores—</rdg></rdgGrp></app>, </l>
+                                <rdgGrp type="accidental"><rdg wit="#ny">Dolores&#x2014;</rdg></rdgGrp></app>, </l>
                             <l n="36-260" rend="ti-1">For these, in a world of new things? </l>
                             <l n="36-261">But thy bosom no fasts could emaciate, </l>
                             <l n="36-262" rend="ti-1">No hunger compel to complain </l>
@@ -6782,7 +6779,8 @@
                             <l n="36-440" rend="ti-1">Our Lady of Pain. </l>
                         </lg>
                         <div n="[NOTES]" type="notes"><!-- if individual poems are not given their own <div> levels,
-                        should subdivisions like this section have their own div levels? tm -->
+                        should subdivisions like this section have their own div levels? or should they go in a <div>
+                        with the notes from JJM? tm -->
                             <head rend="center">[NOTES]</head>
                             <note xml:id="note_04" n="1 [page 190]" place="foot" resp="author">
                                 <cit>
@@ -7595,7 +7593,7 @@
                                 <rdgGrp type="substantive"><rdg wit="#hr #cw">O fervent eyelids letting through</rdg></rdgGrp></app></l>
                             <l n="43-119"><app><lem wit="#mc #ny"><hi rend="x-small">Those eyes the greenest of things blue,</hi></lem>
                                 <rdgGrp type="substantive"><rdg wit="#hr #cw">Those eyes the greenest of things blue,</rdg></rdgGrp></app></l>
-                            <l n="43-120"><app><lem wit="#mc #ny"><hi rend="x-small">The bluest of things grey,</hi></lem>
+                            <l n="43-120" rend="ti-1"><app><lem wit="#mc #ny"><hi rend="x-small">The bluest of things grey,</hi></lem>
                                 <rdgGrp type="substantive"><rdg wit="#hr #cw">The bluest of things grey,</rdg></rdgGrp></app></l>
                         </lg>
                         <lg>
@@ -8783,7 +8781,8 @@
                             <l n="50-45">Who saith words of my lady's bed </l>
                             <l n="50-46" rend="ti-2">For any thief to hear. </l>
                         </lg>
-                    </sp>
+                    </sp><!-- is this ("And strike him in the head") a stage direction or is this part of the verse?
+                    if latter, then <l n="50-46a" rend="ti-1"> tm -->
                     <stage xml:lang="lat" rend="i">Et percutiat eum in capite.</stage>
                     <sp>
                         <speaker rend="center x-small">QUEEN BERSABE. </speaker>
@@ -9469,7 +9468,8 @@
                         <l n="51-12">The strength of ten has been the strength of one, </l>
                         <l n="51-13">And lowliness has waxed imperious.</l>
                     </lg>
-                    <lg>
+                    <lg><!-- should there be <lg>s at the indents, and do those format with line breaks?
+                    there are no line breaks the printed version - tm -->
                         <l n="51-14" rend="ti-1">There was in Rome a man Theophilus </l>
                         <l n="51-15">Of right great blood and gracious ways, that had </l>
                         <l n="51-16">All noble fashions to make people glad </l>
@@ -9711,8 +9711,7 @@
                         <l n="51-191">And said as thus: <hi rend="i">Beau sire, Dieu vous aide</hi>. </l>
                         <l n="51-192">And afterward sat under him, and said</l>
                         <l n="51-193">All this thing through as ye have wholly heard.</l>
-                    </lg>
-                    <lg>
+
                         <l n="51-194" rend="ti-1">This Gabalus laughed thickly in his beard. </l>
                         <l n="51-195">Yea, this is righteousness and maiden rule. </l>
                         <l n="51-196">Truly, he said, a maid is but a fool. </l>
