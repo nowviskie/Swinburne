@@ -15,6 +15,7 @@
                 <title><xsl:apply-templates select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title" /></title>
                 <meta name="description" content="" />
                 <meta name="viewport" content="width=device-width" />
+                <link rel="stylesheet" href="../css/screen.css" />
             </head>
             <body>
                 <div id="container">
@@ -36,7 +37,7 @@
     </xsl:template>
     
     <xsl:template match="tei:head" mode="toc">
-        <li><xsl:apply-templates />(<xsl:value-of select="generate-id()"/>)</li>
+        <li><a href="#{concat('mc', @n)}"><xsl:apply-templates /></a></li>
     </xsl:template>
     
     <xsl:template match="tei:div">
@@ -45,10 +46,30 @@
         </div>
     </xsl:template>
     
+    <xsl:template match="tei:head[1]">
+        <h1 id="{concat('mc', @n)}" class="{@rend}"><xsl:apply-templates /></h1>
+    </xsl:template>
+    
     <xsl:template match="tei:lg">
         <div class="linegroup">
             <xsl:apply-templates />
         </div>
+    </xsl:template>
+    
+    <xsl:template match="tei:l">
+        <p id="#{@n}" class="{@rend}"><xsl:apply-templates /></p>
+    </xsl:template>
+    
+    <xsl:template match="lb">
+        <br/>
+    </xsl:template>
+    
+    <xsl:template match="tei:hi">
+        <span class="{@rend}"><xsl:apply-templates /></span>
+    </xsl:template>
+    
+    <xsl:template match="tei:app">
+        <xsl:value-of select="tei:lem"/>
     </xsl:template>
     
 </xsl:stylesheet>

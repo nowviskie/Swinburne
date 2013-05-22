@@ -1,19 +1,11 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem "growl"
-gem "livereload"
-gem "compass", "~> 0.12.1"
-gem "compass-validator"
-gem 'compass-bootstrap'
-gem "oily_png"
-gem "css_parser"
-gem "compass-susy-plugin", "~> 0.9"
-gem "compass-validator"
+gem "compass"
+gem "susy"
 
-gem "rake", "~> 0.9.2"
+gem "rake"
 
 gem "guard"
 gem "guard-shell"
 gem "guard-compass"
-gem "guard-livereload"
-gem "yajl-ruby"

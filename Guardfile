@@ -13,7 +13,5 @@ guard 'shell' do
 
 end
 
-guard 'livereload' do
-  watch(%r{.+\.(css|js|html?|php|inc)$})
-end
+
 
