@@ -97,7 +97,7 @@
                 <div type="opening">
                     <div type="recto">
                         <pb n="[1]" type="recto"/>
-                        <head rend="center">A BALLAD OF LIFE</head><!-- n="1-x" -->
+                        <head rend="center" n="1">A BALLAD OF LIFE</head><!-- n="1-x" -->
                         <lg>
                             <l n="1-1"><hi rend="sc">I found</hi> in dreams a place of wind and flowers, </l>
                             <l n="1-2" rend="ti-1"> Full of sweet trees and colour of glad grass, </l>
