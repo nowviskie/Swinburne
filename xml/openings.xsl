@@ -50,6 +50,10 @@
         <h1 id="{concat('mc', @n)}" class="{@rend}"><xsl:apply-templates /></h1>
     </xsl:template>
     
+    <xsl:template match="tei:head[2]">
+        <h2 class="{@rend}"><xsl:apply-templates /></h2>
+    </xsl:template>
+    
     <xsl:template match="tei:lg">
         <div class="linegroup">
             <xsl:apply-templates />
@@ -57,7 +61,7 @@
     </xsl:template>
     
     <xsl:template match="tei:l">
-        <p id="#{@n}" class="{@rend}"><xsl:apply-templates /></p>
+        <p id="{@n}" class="{@rend}"><xsl:apply-templates /></p>
     </xsl:template>
     
     <xsl:template match="lb">
@@ -70,6 +74,22 @@
     
     <xsl:template match="tei:app">
         <xsl:value-of select="tei:lem"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:p">
+        <p class="{@rend}"><xsl:apply-templates /></p>
+    </xsl:template>
+    
+    <xsl:template match="tei:quote">
+        <blockquote><xsl:apply-templates /></blockquote>
+    </xsl:template>
+    
+    <xsl:template match="tei:bibl">
+        <div class="bibl"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    <xsl:template match="tei:speaker">
+        <div class="speaker"><xsl:apply-templates /></div>
     </xsl:template>
     
 </xsl:stylesheet>

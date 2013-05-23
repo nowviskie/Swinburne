@@ -14,6 +14,8 @@
 
 #container {
 
+  /*font-size: 0.9em;*/
+
   @include container;
 
   .opening {
@@ -30,6 +32,16 @@
       padding-bottom: 2em;
     }
 
+    blockquote {
+      font-size: 0.8em;
+    }
+
+    .bibl {
+      font-size: 0.8em;
+      text-align: center;
+      padding-top: 2em;
+    }
+
     .verso { @include span-columns(6, 12); }
     .recto { @include span-columns(6 omega, 12); }
 
@@ -38,13 +50,19 @@
     .ti-3 { margin-left: 6em; }
     .ti-4 { margin-left: 8em; }
 
-    .linegroup { padding-bottom: 2em; }
+    .linegroup { padding-bottom: 1.6em; }
+    .speaker { font-weight: bold; padding-bottom: 1.2em; }
 
+    .bold { font-weight: bold; }
     .center { text-align: center; }
-    .sc { font-variant: small-caps }
-    .justify { text-align: justify; text-justify: inter-word; }
     .i { font-style: italic }
-    
+
+    .justify { text-align: justify; text-justify: inter-word; }
+    .sc { font-variant: small-caps }
+    .x-small { font-size: 0.8em }
+
+
+
   }
 }
 
