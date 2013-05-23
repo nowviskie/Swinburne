@@ -1,0 +1,117 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" 
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poems and Ballads, 1866</title>
+                <author xml:id="ACS">Algernon Charles Swinburne</author>
+                <editor role="general" xml:id="BN">Bethany Nowviskie</editor>
+                <editor role="technical" xml:id="WG">Wayne Graham</editor>
+                <sponsor>Scholars' Lab, University of Virginia Library</sponsor>
+                <principal>Bethany Nowviskie</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.9">
+                    <title>work-in-progress</title>
+                    <date when="2012-05-27">21 May 2013</date>
+                </edition>
+                <respStmt><resp>additional annotations provided by </resp><name xml:id="JJM">Jerome J. McGann and Charles Sligh</name></respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Bethany Nowviskie</authority>
+                <availability status="free">
+                    <p>Made freely available under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0</ref> license.</p>
+                </availability>
+                <date when="2012">2012</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Algernon Charles Swinburne</author>
+                        <title>Poems and Ballads.</title>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <publisher>Edward Moxon and Co.</publisher>
+                            <date when="1866">1866</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>University of Virginia</institution>
+                        <repository>Albert and Shirley Small Special Collections Library</repository>
+                        <idno>PR5506 .P6 1866b (Copy 1; Robert and Virginia Tunstall Trust Fund.)</idno>
+                        <msName>Moxon Corrected Edition (MC)</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <collation>
+                                    <formula>8, [2], vii, [1], 344 p. ; 18 cm. (8vo)</formula>
+                                </collation>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc><p>Original green cloth, stamped in gold and blind.</p></bindingDesc>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness xml:id="mu">Initial printing, Moxon 1866 with printer’s errors (Not yet collated.
+                        Any information re: this volume comes from collations by T. J. Wise and my examination of E). 
+                        True MUs reported in libraries of Mark Samuels Lasner and Cecil Lang.</witness>
+                    <witness xml:id="mc">Same edition as MU with errors detected by ACS corrected, 1866. Examined: UVA
+                        Special Collections and library of Jerome J. McGann. </witness>
+                    <witness xml:id="hm">Moxon remainders with Hotten title-page inserted. Initially found no variants between
+                        UVA Special Collections copy and MC (therefore HMC), but Nowviskie HM copy varies. To disentangle.</witness>
+                    <witness xml:id="e">Emory copy, a potential HMU (Moxon Uncorrected with Hotten’s title page tipped in), later re-bound. 
+                        NB variants 1.4 and 146.5 – my only witness so far to those readings.</witness>
+                    <witness xml:id="hr">First Hotten reprint set from MU 1866, with additional errors. Examined: Library of Jerome J. McGann.</witness>
+                    <witness xml:id="ny">Carleton/Moxon “Author’s Edition” 1866 (set from MU with spelling
+                        Americanized, punctuation regularized, and additional errors). Examined: Alderman Library and
+                        Special Collections, UVA. (Americanized spellings in a separate listing.)</witness>
+                    <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
+                        and Chadwyck-Healey electronic edition.</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Work toward a critical edition, tracing the re-introduction of errors identified and corrected by Swinburne in the 1866 Moxon Corrected edition, into subsequent Hotten, Carleton, and Chatto &amp; Windus texts.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>Page signatures and running headers have not been reproduced.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>All variants, accidental and substantive, are encoded here&#x2014;with the exception of Americanized spellings in the New York (Carleton) edition, noted separately.</p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <gap>
+                <desc>All front matter (including advertisements, half title, title, dedication, and table of contents) has been temporarily omitted.</desc>
+            </gap>
+        </front>
+        <body>
+            <pb n='475'/>
+            <!-- [[[PAGE 475]]] -->
+            <p><hi rend="italic">A Ballad of Life</hi>. Written in 1862, published in PBi. The poem is another pastiche work, in this case a kind of dramatic monologue in that we are to imagine it as having been written by —and perhaps, then, here &#x201F;translated&#x201D; from —a court poet of Lucrezia Borgia, someone like the Tabaldeo Tebaldei ACS invented as the author of his remarkable &#x201F;Chronicle&#x201D; (see excerpts below)   
+            <pb n='475'/>
+            <!-- [[[PAGE 476]]] -->
+            written at the same time as this work. The poem is an Italian canzone and was clearly inspired by ACS's reading of D. G. Rossetti's volume <hi rend="italic">The Early Italian Poets</hi> (1861), one of the great works of English verse translation. ACS's fascination with Lucrezia Borgia was fed by his reading of Landor ("On Seeing a Hair of Lucretia Borgia"), Hugo (<hi rend="italic">Lucrèce Borgia</hi>), and Dumas (<hi rend="italic">Crimes Célèbres</hi>).</p>
+            <p>Laus Veneris. Written 1863, published in PBi. Given ACS's explication of his poem in the Notes on Poems and Reviews, the title, "praise of Venus" would have to be ironical. Based on the medieval German legend of Venus and Tannh&#x00E4;user, the dramatic monologue is spoken by Tannh&#x00E4;user after he has returned to Venus's H&#x00F6;rselberg following his pilgrimage to Rome to seek absolution from Pope Urban IV (1216-64). The poem is composed in the stanza of Fitzgerald's Rubaiyat, which Rossetti had been enthusiastically promoting since 1860, when he found a copy by accident. Walder (chapter 9) regards the poem as thoroughly Baudelairean and specifically in debt to Baudelaire's pamphlet <hi rend="italic">Richard Wagner et Tannh&#x00E4;user in Paris</hi> (1861), although ACS asserted in his <hi rend="italic">Notes on Poems and Reviews</hi> that the poem was finished before he received a copy of the pamphlet from Baudelaire.</p>
+            <p>133 Adonis: beloved of Venus, he was slain by a boar. See Ovid's Metamorphoses X. 298ff. for the story.
+                195 for her sake: Helen of Troy
+                198 The queen: Cleopatra
+                200 Semiramis: semilegendary queen of ancient Assyria, infamous for her sexual appetites
+                253 bitter love: the love of Christ
+                284 the Dove: the Christian Holy Ghost
+                299 bay-leaf: the laurel, traditional crown for the poet
+                355-56 See Jeremiah 13:23.
+                357-68 Compare Baudelaire, "Correspondances," 5-14.
+                391 Venus was born from sea-foam, according to legend.
+                417 referring to the legend of the Christian Last Judgment
+                425 A pastiche of a medieval formula for closing a text, it means "The Praise of Venus is finished." ACS is clearly using it here ironically, as a satirical comment on social orders dominated by the "bitter love" of Christianity.</p>
+        </body>
+    </text>
+</TEI>
