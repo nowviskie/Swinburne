@@ -243,7 +243,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[5]" type="recto"/>
-                        <head rend="center">A BALLAD OF DEATH</head><!-- <l n="2-x"> -->
+                        <head rend="center" n="2">A BALLAD OF DEATH</head><!-- <l n="2-x"> -->
                         <lg>
                             <l n="2-1">
                                 <hi rend="sc">Kneel</hi> down, fair Love, and fill thyself with tears, </l>
@@ -431,7 +431,7 @@
                     <div type="recto">
                         <pb n="[11]" type="recto"/>
                         <div type="half-title">
-                            <head rend="center">LAUS VENERIS</head><!-- <l n="3-x"> -->
+                            <head rend="center" n="3">LAUS VENERIS</head><!-- <l n="3-x"> -->
                         </div>
                     </div>
                 </div>
@@ -1221,7 +1221,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[31]" type="recto"/>
-                    <head rend="center">PHÆDRA</head><!-- <l n="4-x"> -->
+                    <head rend="center" n="4">PHÆDRA</head><!-- <l n="4-x"> -->
                     <head rend="center x-small">HIPPOLYTUS; PHÆDRA; CHORUS OF TRŒZENIAN WOMEN</head>
                     <sp>
                         <speaker rend="center">HIPPOLYTUS.</speaker>
@@ -1582,7 +1582,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[40]" type="verso"/>
-                    <head rend="center">THE TRIUMPH OF TIME</head><!-- <l n="5-x"> -->
+                    <head rend="center" n="5">THE TRIUMPH OF TIME</head><!-- <l n="5-x"> -->
                     <lg>
                         <l n="5-1">
                             <hi rend="sc">Before</hi> our lives divide <app><lem wit="#hr #mc #cw">for ever</lem>
@@ -2161,7 +2161,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[56]" type="verso"/>
-                    <head rend="center">LES NOYADES</head><!-- <l n="6-x"> -->
+                    <head rend="center" n="6">LES NOYADES</head><!-- <l n="6-x"> -->
                     <lg>
                         <l n="6-1">
                             <hi rend="sc">Whatever</hi> a man of the sons of men </l>
@@ -2302,7 +2302,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[60]" type="verso"/>
-                    <head rend="center">A LEAVE-TAKING</head><!-- <l n="7-x"> -->
+                    <head rend="center" n="7">A LEAVE-TAKING</head><!-- <l n="7-x"> -->
                     <lg>
                         <l n="7-1">
                             <hi rend="sc">Let</hi> us go hence, my songs; she will not hear. </l>
@@ -2369,7 +2369,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[62]" type="verso"/>
-                    <head rend="center">ITYLUS</head><!-- <l n="8-x"> -->
+                    <head rend="center" n="8">ITYLUS</head><!-- <l n="8-x"> -->
                     <lg>
                         <l n="8-1">
                             <hi rend="sc">Swallow</hi>, my sister, O sister swallow, </l>
@@ -2464,7 +2464,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[65]" type="recto"/>
-                    <head rend="center">ANACTORIA</head><!-- <l n="9-x">-->
+                    <head rend="center" n="9">ANACTORIA</head><!-- <l n="9-x">-->
                     <epigraph>
                         <cit>
                             <quote xml:lang="grc" rend="block">
@@ -2867,7 +2867,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[77]" type="recto"/>
-                    <head rend="center">HYMN TO PROSERPINE</head><!-- <l n="10-x"> -->
+                    <head rend="center" n="10">HYMN TO PROSERPINE</head><!-- <l n="10-x"> -->
                     <head rend="center x-small">(AFTER THE PROCLAMATION IN ROME OF THE CHRISTIAN <app><lem wit="#mc #hr #ny">FAITH.)</lem>
                         <rdgGrp type="accidental"><rdg wit="#e #mu">FAITH.</rdg><rdg wit="cw">FAITH)</rdg></rdgGrp></app></head>
                     <epigraph>
@@ -3068,7 +3068,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[85]" type="recto"/>
-                    <head rend="center">ILICET.</head><!-- <l n="11-x"> -->
+                    <head rend="center" n="11">ILICET.</head><!-- <l n="11-x"> -->
                     <lg>
                         <l n="11-1">
                             <hi rend="sc">There</hi> is an end of joy and sorrow; </l>
@@ -3294,7 +3294,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[91]" type="recto"/>
-                    <head rend="center">HERMAPHRODITUS.</head><!-- <l n="12-x"> -->
+                    <head rend="center" n="12">HERMAPHRODITUS.</head><!-- <l n="12-x"> -->
                     <lg>
                         <head rend="center">I.</head>
                         <l n="12-1">
@@ -3381,7 +3381,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[94]" type="verso"/>
-                    <head rend="center">FRAGOLETTA.</head><!-- <l n="13-x"> -->
+                    <head rend="center" n="13">FRAGOLETTA.</head><!-- <l n="13-x"> -->
                     <lg>
                         <l n="13-1">
                             <hi rend="sc">O love</hi>! what shall be said of thee?</l>
@@ -3493,7 +3493,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[97]" type="recto"/>
-                    <head rend="center">RONDEL.</head><!-- <l n="14-x"> -->
+                    <head rend="center" n="14">RONDEL.</head><!-- <l n="14-x"> -->
                     <!-- 'rhyme', 'met', 'org' and sample attributes still desired? tm -->
                     <lg rhyme="aababb ccbcbb ddbdbb"
                         met="iambic pentameter; final (sixth) line of each stanza is dimeter" org="uniform"
@@ -3527,7 +3527,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[98]" type="verso"/>
-                    <head rend="center">SATIA TE SANGUINE.</head><!-- <l n="15-x"> -->
+                    <head rend="center" n="15">SATIA TE SANGUINE.</head><!-- <l n="15-x"> -->
                     <lg>
                         <l n="15-1">
                             <hi rend="sc">If </hi>you loved me ever so little,</l>
@@ -3655,7 +3655,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[102]" type="verso"/>
-                    <head rend="center">A LITANY</head><!-- <l n="16-x"> -->
+                    <head rend="center" n="16">A LITANY</head><!-- <l n="16-x"> -->
                     <epigraph>
                         <cit>
                             <quote xml:lang="grc">
@@ -3865,7 +3865,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[108]"/>
-                    <head rend="center">A LAMENTATION.</head><!-- <l n="17-x">
+                    <head rend="center" n="17">A LAMENTATION.</head><!-- <l n="17-x">
                     div <head>s for sections I, II, III removed and replaced by centered bolded text;
                     as major unit of hierarchy is the opening, poems and sections of poems as originally
                     marked create overlapping hierarchies - tm-->
@@ -4060,7 +4060,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[114]" type="verso"/>
-                        <head rend="center">ANIMA ANCEPS.</head><!-- <l n="18-x"> -->
+                        <head rend="center" n="18">ANIMA ANCEPS.</head><!-- <l n="18-x"> -->
                         <lg>
                             <l n="18-1">
                                 <hi rend="sc">Till</hi> death have broken </l>
@@ -4125,7 +4125,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[116]" type="verso"/>
-                        <head rend="center">IN THE ORCHARD.</head><!-- <l n="19-x"> -->
+                        <head rend="center" n="19">IN THE ORCHARD.</head><!-- <l n="19-x"> -->
                         <head rend="center x-small">(PROVENÇAL BURDEN).</head>
                         <lg>
                             <l n="19-1">
@@ -4210,7 +4210,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[119]" type="recto"/>
-                        <head rend="center">A MATCH.</head><!-- <l n="20-x" -->
+                        <head rend="center" n="20">A MATCH.</head><!-- <l n="20-x" -->
                         <lg>
                             <l n="20-1">
                                 <hi rend="sc">If </hi>love were what the rose is, </l>
@@ -4288,7 +4288,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[122]" type="verso"/>
-                        <head rend="center">FAUSTINE.</head><!-- <l n="21-x"> -->
+                        <head rend="center" n="21">FAUSTINE.</head><!-- <l n="21-x"> -->
                         <epigraph>
                             <p rend="center i">
                                 <foreign xml:lang="lat" rend="i"> Ave Faustina Imperatrix, morituri te
@@ -4578,7 +4578,7 @@
                 <div type="opening">
                     <div type="verso"><!-- 12:51 5/16/13 -->
                         <pb n="[130]" type="verso"/>
-                        <head rend="center">A CAMEO.</head><!-- <l n="22-x"> -->
+                        <head rend="center" n="22">A CAMEO.</head><!-- <l n="22-x"> -->
                         <lg type="sonnet">
                             <l n="22-1">
                                 <hi rend="sc">There</hi> was a graven image of Desire </l>
@@ -4601,7 +4601,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[131]" type="recto"/>
-                        <head rend="center">SONG BEFORE DEATH.</head><!-- <l n="23-x"> -->
+                        <head rend="center" n="23">SONG BEFORE DEATH.</head><!-- <l n="23-x"> -->
                         <head rend="center x-small">(FROM THE FRENCH.)</head>
                         <head rend="center">1795.</head>
                         <lg>
@@ -4634,7 +4634,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[132]" type="verso"/>
-                        <head rend="center">ROCOCO.</head><!-- <l n="24-x"> -->
+                        <head rend="center" n="24">ROCOCO.</head><!-- <l n="24-x"> -->
                         <lg>
                             <l n="24-1">
                                 <hi rend="sc">Take</hi> hands and part with laughter; </l>
@@ -4783,7 +4783,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[137]" type="recto"/>
-                        <head rend="center">THE LEPER.</head><!-- <l n="26-x"> -->
+                        <head rend="center" n="26">THE LEPER.</head><!-- <l n="26-x"> -->
                         <lg>
                             <l n="26-1">
                                 <hi rend="sc">Nothing</hi> is better, I well think, </l>
@@ -5072,7 +5072,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[144]" type="verso"/>
-                        <head rend="center">A BALLAD OF BURDENS.</head><!-- <l n="27-x" -->
+                        <head rend="center" n="27">A BALLAD OF BURDENS.</head><!-- <l n="27-x" -->
                         <lg>
                             <l n="27-1">
                                 <hi rend="sc">The</hi> burden of fair women. Vain delight,</l>
@@ -5221,7 +5221,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[149]" type="recto"/>
-                        <head rend="center">BEFORE THE MIRROR</head><!-- <l n="29-x"> -->
+                        <head rend="center" n="29">BEFORE THE MIRROR</head><!-- <l n="29-x"> -->
                         <head rend="center x-small">(VERSES WRITTEN UNDER A PICTURE)</head>
                         <head rend="center xx-small">INSCRIBED TO J. A. WHISTLER</head>
                         <lg><l rend="center"><hi rend="bold">I.</hi></l>
@@ -5336,7 +5336,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[153]" type="recto"/>
-                        <head rend="center">EROTION.</head><!-- <l n="30-x"> -->
+                        <head rend="center" n="30">EROTION.</head><!-- <l n="30-x"> -->
                         <lg>
                             <l n="30-1">
                                 <hi rend="sc">Sweet</hi> for a little even to fear, and sweet,</l>
@@ -5394,7 +5394,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[155]" type="recto"/>
-                        <head rend="center">IN MEMORY OF WALTER SAVAGE LANDOR</head><!-- <l n="31-x" -->
+                        <head rend="center" n="31">IN MEMORY OF WALTER SAVAGE LANDOR</head><!-- <l n="31-x" -->
                         <lg>
                             <l n="31-1">
                                 <hi rend="sc">Back</hi> to the flower-town, side by side,</l>
@@ -5487,7 +5487,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[158]" type="verso"/>
-                        <head rend="center">A SONG IN TIME OF ORDER. 1852.</head><!-- <l n="32-x"> -->
+                        <head rend="center" n="32">A SONG IN TIME OF ORDER. 1852.</head><!-- <l n="32-x"> -->
                         <lg>
                             <l n="32-1">
                                 <hi rend="sc">Push</hi> hard across the sand, </l>
@@ -5586,7 +5586,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[161]" type="recto"/>
-                        <head rend="center">A SONG IN TIME OF REVOLUTION. 1860.</head><!-- <l n="33-x"> -->
+                        <head rend="center" n="33">A SONG IN TIME OF REVOLUTION. 1860.</head><!-- <l n="33-x"> -->
                         <lg>
                             <l n="33-1">
                                 <hi rend="sc">The</hi> heart of the rulers is sick, and the high-priest covers his head: </l>
@@ -5711,7 +5711,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[166]" type="verso"/>
-                        <head rend="center">TO VICTOR HUGO</head><!-- <l n="34-x"> -->
+                        <head rend="center" n="34">TO VICTOR HUGO</head><!-- <l n="34-x"> -->
                         <lg>
                             <l n="34-1" rend="ti-2">
                                 <hi rend="sc">In</hi> the fair days when God </l>
@@ -6000,7 +6000,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[174]" type="verso"/><!-- <l n="35-x"> -->
-                        <head rend="center">BEFORE DAWN</head><!-- <l n="35-x"> -->
+                        <head rend="center" n="35">BEFORE DAWN</head><!-- <l n="35-x"> -->
                         <lg>
                             <l n="35-1">
                                 <hi rend="sc">Sweet</hi> life, if life were stronger, </l>
@@ -6125,7 +6125,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[178]" type="verso"/>
-                        <head rend="center">DOLORES</head><!-- <l n="36-x"> -->
+                        <head rend="center" n="36">DOLORES</head><!-- <l n="36-x"> -->
                         <head rend="center x-small">(NOTRE-DAME DES SEPT DOULEURS.)</head>
                         <lg>
                             <l n="36-1">Cold eyelids that hide like a jewel </l>
@@ -6804,7 +6804,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[196]" type="verso"/>
-                        <head rend="center">THE GARDEN OF PROSERPINE.</head><!-- <l n="37-n"> -->
+                        <head rend="center" n="37">THE GARDEN OF PROSERPINE.</head><!-- <l n="37-n"> -->
                         <lg>
                             <l n="37-1">
                                 <hi rend="sc">Here</hi>, where the world is quiet; </l>
@@ -6942,7 +6942,7 @@
                 <div type="opening">
                     <div type="verso">
                         <pb n="[200]" type="verso"/>
-                        <head rend="center">HESPERIA</head><!-- <l n="38-x"> -->
+                        <head rend="center" n="38">HESPERIA</head><!-- <l n="38-x"> -->
                         <lg>
                             <l n="38-1">
                                 <hi rend="sc">Out</hi> of the golden remote wild west where the sea without shore is, </l>
@@ -7099,7 +7099,7 @@
                     </div>
                     <div type="recto">
                         <pb n="[207]" type="recto"/>
-                        <head rend="center">LOVE AT SEA</head><!-- <l n="39-x"> -->
+                        <head rend="center" n="39">LOVE AT SEA</head><!-- <l n="39-x"> -->
                         <lg>
                             <l n="39-1">
                                 <hi rend="sc">We</hi> are in love's land to-day; </l>
@@ -7160,7 +7160,7 @@
                     </div>
                 <div type="recto">
                     <pb n="[209]" type="recto"/>
-                    <head rend="center">APRIL.</head><!-- <l n="40-x"> -->
+                    <head rend="center" n="40">APRIL.</head><!-- <l n="40-x"> -->
                     <head rend="center x-small">FROM THE FRENCH OF THE VIDAME DE CHARTES.</head>
                     <head rend="center x-small">12&#x2014;?</head>
                     <lg>
@@ -7255,7 +7255,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[212]" type="verso"/>
-                    <head rend="center">BEFORE PARTING</head><!-- <l n="41-x"> -->
+                    <head rend="center" n="41">BEFORE PARTING</head><!-- <l n="41-x"> -->
                     <lg>
                         <l n="41-1">
                             <hi rend="sc">A month</hi> or twain to live on honeycomb </l>
@@ -7314,7 +7314,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[214]" type="verso"/>
-                    <head rend="center">THE SUNDEW.</head><!-- <l n="42-x"> -->
+                    <head rend="center" n="42">THE SUNDEW.</head><!-- <l n="42-x"> -->
                     <lg>
                         <l n="42-1">
                             <hi rend="sc">A little</hi> marsh-plant, yellow green, </l>
@@ -7391,7 +7391,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[217]" type="recto"/>
-                    <head rend="center">FÉLISE</head><!-- <l n="43-n"> -->
+                    <head rend="center" n="43">FÉLISE</head><!-- <l n="43-n"> -->
                     <epigraph>
                         <p xml:lang="fr" rend="center">
                             <hi rend="i">Mais où sont les neiges d'antan?</hi>
@@ -7887,7 +7887,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[230]" type="verso"/>
-                    <head rend="center">AN INTERLUDE.</head><!-- <l n="44-x">-->
+                    <head rend="center" n="44">AN INTERLUDE.</head><!-- <l n="44-x">-->
                     <lg>
                         <l n="44-1"> In the greenest growth of the Maytime, </l>
                         <l n="44-2" rend="ti-1"> I rode where the woods were wet, </l>
@@ -7984,7 +7984,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[233]" type="recto"/>
-                    <head rend="center">HENDECASYLLABICS.</head><!-- <l n="45-x"> -->
+                    <head rend="center" n="45">HENDECASYLLABICS.</head><!-- <l n="45-x"> -->
                     <lg>
                         <l n="45-1">
                             <hi rend="sc">In </hi>the month of the long decline of roses </l>
@@ -8037,7 +8037,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[235]" type="recto"/>
-                    <head rend="center">SAPPHICS.</head><!-- <l n="46-x"> -->
+                    <head rend="center" n="46">SAPPHICS.</head><!-- <l n="46-x"> -->
                     <lg>
                         <l n="46-1">
                             <hi rend="sc">All</hi> the night sleep came not upon my eyelids, </l>
@@ -8175,7 +8175,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[239]" type="recto"/>
-                    <head rend="center"> AT ELEUSIS. </head><!-- <l n="47-x"> -->
+                    <head rend="center" n="47"> AT ELEUSIS. </head><!-- <l n="47-x"> -->
                     <lg>
                         <l n="47-1">
                             <hi rend="sc"> Men </hi> of Eleusis, ye that with long staves </l>
@@ -8458,7 +8458,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[248]" type="verso"/>
-                    <head rend="center">AUGUST</head><!-- <l n="48-x"> -->
+                    <head rend="center" n="48">AUGUST</head><!-- <l n="48-x"> -->
                     <lg>
                         <l n="48-1">
                             <hi rend="sc">There</hi> were four apples on the bough, </l>
@@ -9451,7 +9451,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[274]" type="verso"/>
-                    <head rend="center">ST. DOROTHY</head><!-- <l n="51-x"> -->
+                    <head rend="center" n="51">ST. DOROTHY</head><!-- <l n="51-x"> -->
                     <lg>
                         <l n="51-1">
                             <hi rend="sc">It </hi>hath been seen and yet it shall be seen </l>
@@ -10107,7 +10107,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[292]" type="verso"/>
-                    <head rend="center">THE TWO DREAMS.</head><!-- <l n="52-x"> -->
+                    <head rend="center" n="52">THE TWO DREAMS.</head><!-- <l n="52-x"> -->
                     <head rend="center x-small">(FROM BOCCACCIO).</head>
                     <lg>
                         <l n="52-1">
@@ -10708,7 +10708,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[309]" type="recto"/>
-                    <head rend="center">AHOLIBAH.</head><!-- <l n="53-x"> -->
+                    <head rend="center" n="53">AHOLIBAH.</head><!-- <l n="53-x"> -->
                     <lg met="-+-+-+-+" rhyme="ababb"><!-- met+rhyme attributes still necessary? - tm -->
                         <l n="53-1">
                             <hi rend="sc">In </hi>the beginning God made thee </l>
@@ -10955,7 +10955,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[316]" type="verso"/>
-                    <head rend="center">LOVE AND SLEEP.</head><!-- <l n="54-x"> -->
+                    <head rend="center" n="54">LOVE AND SLEEP.</head><!-- <l n="54-x"> -->
                     <lg type="sonnet"><!-- still necessary? -tm -->
                         <l n="54-1">
                             <hi rend="sc">Lying</hi> asleep between the strokes of night </l>
@@ -10976,7 +10976,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[317]" type="recto"/>
-                    <head rend="center">MADONNA MIA.</head><!-- <l n="55-x"> -->
+                    <head rend="center" n="55">MADONNA MIA.</head><!-- <l n="55-x"> -->
                     <lg>
                         <l n="55-1">
                             <hi rend="sc">Under</hi> green apple-boughs </l>
@@ -11096,7 +11096,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[321]" type="recto"/>
-                    <head rend="center">THE KING'S DAUGHTER.</head><!-- <l n="56-x"> -->
+                    <head rend="center" n="56">THE KING'S DAUGHTER.</head><!-- <l n="56-x"> -->
                     <lg>
                         <l n="56-1">
                             <hi rend="sc">We </hi>were ten maidens in the green corn, </l>
@@ -11209,7 +11209,7 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[324]" type="verso"/>
-                    <head rend="center">AFTER DEATH.</head><!-- <l n="57-x"> -->
+                    <head rend="center" n="57">AFTER DEATH.</head><!-- <l n="57-x"> -->
                     <lg>
                         <l n="57-1">
                             <hi rend="sc">The</hi> four boards of the coffin lid </l>
@@ -11334,7 +11334,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[327]" type="recto"/>
-                    <head rend="center">MAY JANET.</head><!-- <l n="58-x"> -->
+                    <head rend="center" n="58">MAY JANET.</head><!-- <l n="58-x"> -->
                     <head rend="center x-small">(BRETON.)</head>
                     <lg>
                         <l n="58-1"><hi rend="sc"><app><lem wit="#mc #hr #cw">&#x201F;Stand</lem>
@@ -11405,7 +11405,7 @@
                 </div>
                 <div type="recto">
                     <pb n="[329]" type="recto"/>
-                    <head rend="center">THE BLOODY SON.</head><!-- <l n="59-x"> -->
+                    <head rend="center" n="59">THE BLOODY SON.</head><!-- <l n="59-x"> -->
                     <head rend="center x-small">(FINNISH.)</head>
                     <lg>
                         <l n="59-1">
@@ -11554,7 +11554,7 @@
                     </div>
                 <div type="verso">
                     <pb n="[334]" type="verso"/>
-                    <head rend="center">THE SEA-SWALLOWS.</head><!-- <l n="60-x"> -->
+                    <head rend="center" n="60">THE SEA-SWALLOWS.</head><!-- <l n="60-x"> -->
                     <lg>
                         <l n="60-1">
                             <hi rend="sc">This</hi> fell when Christmas lights were done, </l>
@@ -11692,7 +11692,7 @@
             <div type="opening">
                 <div type="recto">
                     <pb n="[337]" type="recto"/>
-                    <head rend="center">THE YEAR OF LOVE.</head><!-- <l n="61-x"> -->
+                    <head rend="center" n="61">THE YEAR OF LOVE.</head><!-- <l n="61-x"> -->
                     <lg>
                         <l n="61-1">
                             <hi rend="sc">There </hi>were four loves that one by one, </l>
@@ -11772,7 +11772,7 @@
                 </div>
                 <div type="verso">
                     <pb n="[340]" type="verso"/>
-                    <head rend="center">DEDICATION.</head><!-- <l n="62-x"> -->
+                    <head rend="center" n="62">DEDICATION.</head><!-- <l n="62-x"> -->
                     <head rend="center">1865.</head>
                     <lg>
                         <l n="62-1">
