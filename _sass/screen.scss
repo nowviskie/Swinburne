@@ -53,14 +53,16 @@
     .linegroup { padding-bottom: 1.6em; }
     .speaker { font-weight: bold; padding-bottom: 1.2em; }
 
+    /*rend instructions*/
+    .block {  }
     .bold { font-weight: bold; }
     .center { text-align: center; }
-    .i { font-style: italic }
-
+    .i { font-style: italic; }
     .justify { text-align: justify; text-justify: inter-word; }
+    .right { text-align: right; }
     .sc { font-variant: small-caps }
+    .super, .n { vertical-align: super; font-size: 0.8em; }
     .x-small { font-size: 0.8em }
-
 
 
   }
