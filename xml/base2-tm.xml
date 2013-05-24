@@ -4294,8 +4294,9 @@
                         <head rend="center" n="21">FAUSTINE.</head><!-- <l n="21-x"> -->
                         <epigraph>
                             <p rend="center i">
-                                <foreign xml:lang="lat" rend="i"> Ave Faustina Imperatrix, morituri te
-                                    salutant.</foreign>
+                                <app><lem wit="#mc"></lem>
+                                    <rdgGrp type="s"><rdg wit="#sp"><foreign xml:lang="lat" rend="i"> Ave Faustina Imperatrix, morituri te
+                                        salutant.</foreign></rdg></rdgGrp></app>
                             </p>
                         </epigraph>
                         <lg>
@@ -4313,7 +4314,8 @@
                         </lg>
                         <lg>
                             <l n="21-9">Let me go over your good gifts </l>
-                            <l n="21-10" rend="ti-1">That crown you queen; </l>
+                            <l n="21-10" rend="ti-1">That crown you <app><lem wit="#mc">queen;</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">queen &#x2014;</rdg></rdgGrp></app> </l>
                             <l n="21-11">A queen whose kingdom ebbs and shifts </l>
                             <l n="21-12" rend="ti-1">Each week, Faustine.</l>
                         </lg>
@@ -4497,7 +4499,8 @@
                         </lg>
                         <lg>
                             <l n="21-117">Stray breaths of Sapphic song that blew </l>
-                            <l n="21-118" rend="ti-1">Through Mitylene </l>
+                            <l n="21-118" rend="ti-1">Through <app><lem wit="#mc">Mitylene</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">Mitylene,</rdg></rdgGrp></app> </l>
                             <l n="21-119">Shook the fierce quivering blood in you </l>
                             <l n="21-120" rend="ti-1">By night, Faustine.</l>
                         </lg>
@@ -4514,10 +4517,14 @@
                             <l n="21-128" rend="ti-1">That hid Faustine?</l>
                         </lg>
                         <lg>
-                            <l n="21-129">What sterile growths of sexless root </l>
-                            <l n="21-130" rend="ti-1">Or epicene? </l>
-                            <l n="21-131">What flower of kisses without fruit </l>
-                            <l n="21-132" rend="ti-1">Of love, Faustine?</l>
+                            <l n="21-129"><app><lem wit="#mc">What sterile growths of sexless root</lem>
+                                <rdgGrp type="s"><rdg wit="#sp"></rdg></rdgGrp></app> </l>
+                            <l n="21-130" rend="ti-1"><app><lem wit="#mc">Or epicene?</lem>
+                                <rdgGrp type="s"><rdg wit="#sp"></rdg></rdgGrp></app> </l>
+                            <l n="21-131"><app><lem wit="#mc">What flower of kisses without fruit</lem>
+                                <rdgGrp type="s"><rdg wit="#sp"></rdg></rdgGrp></app> </l>
+                            <l n="21-132" rend="ti-1"><app><lem wit="#mc">Of love, Faustine?</lem>
+                                <rdgGrp type="s"><rdg wit="#sp"></rdg></rdgGrp></app></l>
                         </lg>
                         <lg>
                             <l n="21-133">What adders came to shed their coats? </l>
@@ -5619,7 +5626,8 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[161]" type="recto"/>
+                        <pb n="[161]" type="recto"/><!-- Note: After the first two stanzas, this poem is printed in a single block of verse - not
+divided into stanzas of 2 lines each, as in all later printings. -->
                         <head rend="center" n="33">A SONG IN TIME OF REVOLUTION. 1860.</head><!-- <l n="33-x"> -->
                         <lg>
                             <l n="33-1">
@@ -5639,7 +5647,7 @@
                             <l n="33-7">The high-priest sick from qualms, with his raiment bloodily dashed; </l>
                             <l n="33-8">The thief with branded palms, and the liar with cheeks abashed.</l>
                         </lg>
-                    </div>
+                     </div>
                 </div>
                 <div type="opening">
                     <div type="verso">
@@ -7327,7 +7335,8 @@
                         <l n="41-24">Seeing that all was his.</l>
                     </lg>
                     <lg>
-                        <l n="41-25">Love's likeness there endures upon all these: </l>
+                        <l n="41-25">Love's likeness there endures upon all <app><lem wit="#mc">these:</lem>
+                        <rdgGrp type="a"><rdg wit="#sp">these;</rdg></rdgGrp></app> </l>
                         <l n="41-26">But out of these one shall not gather love. </l>
                         <l n="41-27">Day hath not strength nor the night shade enough </l>
                         <l n="41-28">To make love whole and fill his lips with ease, </l>
@@ -7351,9 +7360,11 @@
                     <head rend="center" n="42">THE SUNDEW.</head><!-- <l n="42-x"> -->
                     <lg>
                         <l n="42-1">
-                            <hi rend="sc">A little</hi> marsh-plant, yellow green, </l>
+                            <hi rend="sc">A little</hi> <app><lem wit="#mc">marsh-plant</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">marsh plant</rdg></rdgGrp></app>, yellow green, </l>
                         <l n="42-2">And pricked at lip with tender red. </l>
-                        <l n="42-3">Tread close, and either way you tread </l>
+                        <l n="42-3"><app><lem wit="#mc">Tread close, and either</lem>
+                            <rdgGrp type="s"><rdg wit="#sp">Tread closer; either</rdg></rdgGrp></app> way you tread </l>
                         <l n="42-4">Some faint black water jets between </l>
                         <l n="42-5">Lest you should bruise the curious head.</l>
                     </lg>
@@ -7365,6 +7376,13 @@
                         <l n="42-9">Each side, and saves the blossom so </l>
                         <l n="42-10">That it lives out the long June heat.</l>
                     </lg>
+                    <!-- Note: Stanzas 3 and 4 of the 1866 printings (lines 11-20) are here omitted, and replaced
+with the following:
+    Stoop with drawn brows against the sun,
+    Crawl close and peer across bowed knees,
+    The weak growth ripens and gets ease
+    Till August weathers leave undone
+    The apple-coloured cranberries. -->
                     <lg>
                         <l n="42-11">The deep scent of the heather burns </l>
                         <l n="42-12">About it; breathless though it be, </l>
@@ -8540,7 +8558,8 @@
                     </lg>
                     <lg>
                         <l n="48-31">That August time it was delight </l>
-                        <l n="48-32">To watch the red moons wane to white </l>
+                        <l n="48-32">To watch the red moons wane to <app><lem wit="#mc">white</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">white.</rdg></rdgGrp></app> </l>
                         <l n="48-33">'Twixt grey seamed stems of apple-trees; </l>
                         <l n="48-34">A sense of heavy harmonies </l>
                         <l n="48-35">Grew <app><lem wit="#mc #hr #cw">on the growth</lem>
@@ -8565,21 +8584,24 @@
                     <pb n="[250]" type="verso"/>
                     <lg>
                         <l n="48-45">Between the round ripe leaves had blurred </l>
-                        <l n="48-46">The rind with stain and wet; I heard </l>
+                        <l n="48-46">The rind with stain and <app><lem wit="#mc">wet; I</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">wet: I</rdg></rdgGrp></app> heard </l>
                         <l n="48-47">A wind that blew and breathed and blew, </l>
                         <l n="48-48">Too weak to alter its one word.</l>
                     </lg>
                     <lg>
                         <l n="48-49">The wet leaves next the gentle fruit </l>
                         <l n="48-50">Felt smoother, and the brown tree-root </l>
-                        <l n="48-51">Felt the mould warmer: I too felt </l>
+                        <l n="48-51">Felt the mould <app><lem wit="#mc">warmer: I</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">warmer; I</rdg></rdgGrp></app> too felt </l>
                         <l n="48-52">(As water feels the slow gold melt </l>
                         <l n="48-53">Right through it when the day burns mute) </l>
                         <l n="48-54">The peace of time wherein love dwelt.</l>
                     </lg>
                     <lg>
                         <l n="48-55">There were four apples on the tree, </l>
-                        <l n="48-56">Gold stained on red that all might see </l>
+                        <l n="48-56">Gold stained on <app><lem wit="#mc">red that</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">red, that</rdg></rdgGrp></app> all might see </l>
                         <l n="48-57">The sweet blood filled them to the core: </l>
                         <l n="48-58">The colour of her hair is more </l>
                         <l n="48-59">Like stems of fair faint gold, that be </l>
@@ -11243,23 +11265,38 @@
             <div type="opening">
                 <div type="verso">
                     <pb n="[324]" type="verso"/>
-                    <head rend="center" n="57">AFTER DEATH.</head><!-- <l n="57-x"> -->
+                    <head rend="center" n="57"><app><lem wit="mc">AFTER DEATH.</lem>
+                    <rdgGrp type="a"><rdg wit="#sp" xml:id="after-death">After Death (<hi rend="sc">Breton</hi>)*
+                        <!--<note xml:id="after-death" n="1 [page 30]">
+                            !!!!!!!!!
+                                <ref xmlns:xlink="http://www.w3.org/1999/xlink" n="1 [page 30]" rend="super"
+                                    target="ref_01">*</ref> &#x00c6;sch. Fr. Niobe:&#x2014;<quote rend="block">
+                                        <lg>
+                                            <l>μόνoς θεῶν γὰρ Θάνατος οὐ δώρων ἐρᾷ, κ.τ.λ.</l>
+                                        </lg>
+                                    </quote>
+                            
+                        </note>--></rdg></rdgGrp></app></head><!-- <l n="57-x"> -->
                     <lg>
                         <l n="57-1">
                             <hi rend="sc">The</hi> four boards of the coffin lid </l>
-                        <l n="57-2">Heard all the dead man did.</l>
+                        <l n="57-2">Heard all the dead man <app><lem wit="#mc">did.</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">did,</rdg></rdgGrp></app> </l>
                     </lg>
                     <lg>
                         <l n="57-3">The first curse was in his mouth, </l>
-                        <l n="57-4">Made of grave's mould and deadly drouth.</l>
+                        <l n="57-4">Made of grave's mould and deadly <app><lem wit="#mc">drouth.</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">drouth;</rdg></rdgGrp></app> </l>
                     </lg>
                     <lg>
                         <l n="57-5">The next curse was in his head, </l>
-                        <l n="57-6">Made of God's work discomfited.</l>
+                        <l n="57-6">Made of God's work <app><lem wit="#mc">discomfited.</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">discomfited;</rdg></rdgGrp></app> </l>
                     </lg>
                     <lg>
                         <l n="57-7">The next curse was in his hands, </l>
-                        <l n="57-8">Made out of two grave-bands.</l>
+                        <l n="57-8">Made out of two <app><lem wit="#mc">grave-bands.</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">grave-bands;</rdg></rdgGrp></app> </l>
                     </lg>
                     <lg>
                         <l n="57-9">The next curse was in his feet, </l>
@@ -11285,7 +11322,8 @@
                     <lg>
                         <l n="57-17"><app><lem wit="#mc #hr #cw">And</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">&#x201F;And</rdg></rdgGrp></app> no gold binds in my hair, </l>
-                        <l n="57-18">Now I fare as the blind fare.</l>
+                        <l n="57-18">Now I fare as the blind <app><lem wit="#mc">fare.</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">fare;</rdg></rdgGrp></app> </l>
                     </lg>
                     <lg>
                         <l n="57-19"><app><lem wit="#mc #hr #cw">My</lem>
@@ -11299,7 +11337,8 @@
                     </lg>
                     <lg>
                         <l n="57-23">The first board spake and said: </l>
-                        <l n="57-24" >&#x201F;Is it best eating flesh or bread?&#x201D;</l>
+                        <l n="57-24" ><app><lem wit="#mc">&#x201F;Is it best eating flesh or bread?&#x201D;</lem>
+                            <rdgGrp type="s"><rdg wit="#sp">&#x201F;Is red gold worth a girl's gold head?&#x201D;</rdg></rdgGrp></app> </l>
                     </lg>
                     <lg>
                         <l n="57-25">The second answered it: </l>
@@ -11307,7 +11346,8 @@
                     </lg>
                     <lg>
                         <l n="57-27">The third board spake and said: </l>
-                        <l n="57-28" >&#x201F;Is red gold worth a girl's gold head?&#x201D;</l>
+                        <l n="57-28" ><app><lem wit="#mc">&#x201F;Is red gold worth a girl's gold head?&#x201D;</lem>
+                            <rdgGrp type="s"><rdg wit="#sp">&#x201F;Is it best eating flesh or bread?&#x201D;</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
                         <l n="57-29">The fourth made answer thus: </l>
@@ -11340,17 +11380,20 @@
                     <lg>
                         <l n="57-39"><app><lem wit="#mc #hr #cw">Your</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">&#x201F;Your</rdg></rdgGrp></app> wife has gotten a golden bed, </l>
-                        <l n="57-40">All the sheets are sewn with red.</l>
+                        <l n="57-40">All the sheets are sewn with <app><lem wit="#mc">red.</lem>
+                        <rdgGrp type="a"><rdg wit="#sp">red;</rdg></rdgGrp></app> </l>
                     </lg>
                     <lg>
                         <l n="57-41"><app><lem wit="#mc #hr #cw">Your</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">&#x201F;Your</rdg></rdgGrp></app> son has gotten a coat of silk, </l>
-                        <l n="57-42">The sleeves are soft as curded milk.</l>
+                        <l n="57-42">The sleeves are soft as curded <app><lem wit="#mc">milk.</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">milk;</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
                         <l n="57-43"><app><lem wit="#mc #hr #cw">Your</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">&#x201F;Your</rdg></rdgGrp></app> maid has gotten a kirtle new, </l>
-                        <l n="57-44">All the skirt has braids of blue.</l>
+                        <l n="57-44">All the skirt has braids of <app><lem wit="#mc">blue.</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">blue;</rdg></rdgGrp></app></l>
                     </lg>
                     <lg>
                         <l n="57-45"><app><lem wit="#mc #hr #cw">Your</lem>
