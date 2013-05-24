@@ -103,7 +103,8 @@
                         <head rend="center" n="1">A BALLAD OF LIFE</head><!-- n="1-x" -->
                         <lg>
                             <l n="1-1"><hi rend="sc">I found</hi> in dreams a place of wind and flowers, </l>
-                            <l n="1-2" rend="ti-1"> Full of sweet trees and colour of glad grass, </l>
+                            <l n="1-2" rend="ti-1"> Full of sweet trees and <app><lem wit="#mc">colour</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of glad grass, </l>
                             <l n="1-3" rend="ti-1"> In midst whereof there was </l>
                             <l n="1-4"> A lady clothed like summer with sweet <app>
                                 <lem wit="#mc #cw">hours.</lem>
@@ -123,7 +124,8 @@
                         </lg>
                         <lg>
                             <l n="1-11"> She held a little cithern by the strings, </l>
-                            <l n="1-12" rend="ti-1"> Shaped heartwise, strung with subtle-coloured hair </l>
+                            <l n="1-12" rend="ti-1"> Shaped heartwise, strung with subtle-<app><lem wit="#mc">coloured</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> hair </l>
                             <l n="1-13" rend="ti-1"> Of some dead lute-player </l>
                             <l n="1-14"> That in dead years had done delicious things. </l>
                         </lg>
@@ -160,7 +162,8 @@
                         </lg>
                         <lg>
                             <l n="1-31"> The next was Shame, with hollow heavy face </l>
-                            <l n="1-32" rend="ti-1"> Coloured like green wood when flame kindles it. </l>
+                            <l n="1-32" rend="ti-1"> <app><lem wit="#mc">Coloured</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">Colored</rdg></rdgGrp></app> like green wood when flame kindles it. </l>
                             <l n="1-33" rend="ti-1"> He hath such feeble feet </l>
                             <l n="1-34"> They may not well endure in any place. </l>
                             <l n="1-35"> His face was full of grey old miseries, </l>
@@ -177,7 +180,8 @@
                             <l n="1-41"> My soul said in <app>
                                 <lem wit="#mc #hr #cw #e">me;</lem>
                                 <rdgGrp type="accidental"><rdg wit="#ny">me:</rdg></rdgGrp>
-                            </app> This is marvellous, </l>
+                            </app> This is <app><lem wit="#mc">marvellous</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">marvelous</rdg></rdgGrp></app>, </l>
                             <l n="1-42" rend="ti-1"> Seeing the air's face is not so delicate </l>
                             <l n="1-43" rend="ti-1"> Nor the sun's grace so great, </l>
                             <l n="1-44"> If sin and she be kin or amorous. </l>
@@ -233,7 +237,8 @@
                             <l n="1-75"> Come thou before my lady and say <app>
                                 <lem wit="#mc #hr #cw #e">this;</lem>
                                 <rdgGrp type="accidental"><rdg wit="#ny">this:</rdg></rdgGrp></app></l>
-                            <l n="1-76" rend="ti-1"> Borgia, thy gold hair's colour burns in me, </l>
+                            <l n="1-76" rend="ti-1"> Borgia, thy gold hair's <app><lem wit="#mc">colour</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> burns in me, </l>
                             <l n="1-77" rend="ti-2"> Thy mouth makes beat my blood in feverish rhymes; </l>
                             <l n="1-78" rend="ti-1"> Therefore so many as these roses be, </l>
                             <l n="1-79" rend="ti-2"> Kiss me so many times. </l>
@@ -253,7 +258,8 @@
                             <l n="2-2"> Girdle thyself with sighing for a girth </l>
                             <l n="2-3"> Upon the sides of mirth, </l>
                             <l n="2-4"> Cover thy lips and eyelids, let thine ears </l>
-                            <l n="2-5"> Be filled with rumour of people sorrowing; </l>
+                            <l n="2-5"> Be filled with <app><lem wit="#mc">rumour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">rumor</rdg></rdgGrp></app> of people sorrowing; </l>
                             <l n="2-6"> Make thee soft raiment out of woven sighs </l>
                             <l n="2-7"> Upon the flesh to <app>
                                 <lem wit="#mc #hr #cw #e">cleave,</lem>
@@ -556,7 +562,8 @@
                         <l n="3-37"> Hot as the brackish waifs of yellow spume </l>
                         <l n="3-38"> That shift and steam&#x2014;loose clots of arid fume </l>
                         <l n="3-39" rend="ti-1"> From the sea's panting mouth of dry desire; </l>
-                        <l n="3-40"> There stands he, like one labouring at a loom. </l>
+                        <l n="3-40"> There stands he, like one <app><lem wit="#mc">labouring</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">laboring</rdg></rdgGrp></app> at a loom. </l>
                     </lg>
                 </div>
                 <div type="recto">
@@ -569,7 +576,9 @@
                     </lg>
                     <lg>
                         <l n="3-45"> Love is not glad nor sorry, as I deem; </l>
-                        <l n="3-46"> Labouring he dreams, and labours in the dream, </l>
+                        <l n="3-46"> <app><lem wit="#mc">Labouring</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Laboring</rdg></rdgGrp></app> he dreams, and <app><lem wit="#mc">labours</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">labors</rdg></rdgGrp></app> in the dream, </l>
                         <l n="3-47" rend="ti-1"> Till when the spool is finished, lo I see </l>
                         <l n="3-48"> His web, reeled off, curls and goes out like steam. </l>
                     </lg>
@@ -626,7 +635,8 @@
                     <lg>
                         <l n="3-77"> Ah God, that I were as all souls that be, </l>
                         <l n="3-78"> As any herb or leaf of any tree, </l>
-                        <l n="3-79" rend="ti-1"> As men that toil through hours of labouring <app><lem wit="#mc #ny #e">light</lem>
+                        <l n="3-79" rend="ti-1"> As men that toil through hours of <app><lem wit="#mc">labouring</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">laboring</rdg></rdgGrp></app> <app><lem wit="#mc #ny #e">light</lem>
                         <rdgGrp type="substantive"><rdg wit="#cw #hr">night</rdg></rdgGrp></app>, </l>
                         <l n="3-80"> As bones of men under the deep sharp sea. </l>
                     </lg>
@@ -823,7 +833,8 @@
                         <l n="3-192">Trampled and trodden by the fiery feet.</l>
                     </lg>
                     <lg>
-                        <l n="3-193">I see the marvellous mouth whereby there fell </l>
+                        <l n="3-193">I see the <app><lem wit="#mc">marvellous</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">marvelous</rdg></rdgGrp></app> mouth whereby there fell </l>
                         <l n="3-194">Cities and people whom the gods loved well, </l>
                         <l n="3-195" rend="ti-1">Yet for her sake on them the fire gat hold, </l>
                         <l n="3-196">And for their sakes on her the fire of hell.</l>
@@ -872,7 +883,8 @@
                     <lg>
                         <l n="3-221">That curl in touching you; right in this wise </l>
                         <l n="3-222">My sword doth, seeming fire in mine own eyes, </l>
-                        <l n="3-223" rend="ti-1">Leaving all colours in them brown and red </l>
+                        <l n="3-223" rend="ti-1">Leaving all <app><lem wit="#mc">colours</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colors</rdg></rdgGrp></app> in them brown and red </l>
                         <l n="3-224">And flecked with death; then the keen breaths like sighs,</l>
                     </lg>
                     <lg>
@@ -988,7 +1000,8 @@
                     </lg>
                     <lg>
                         <l n="3-289" >&#x201F;Lips that cling hard till the kissed face has grown </l>
-                        <l n="3-290">Of one same fire and colour with their own; </l>
+                        <l n="3-290">Of one same fire and <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> with their own; </l>
                         <l n="3-291" rend="ti-1">Then ere one sleep, appeased with sacrifice, </l>
                         <l n="3-292">Where his lips wounded, there his lips atone.&#x201D;</l>
                     </lg>
@@ -1077,7 +1090,8 @@
                         <l n="3-340">So rode I, hearing all these chant and pray,</l>
                     </lg>
                     <lg>
-                        <l n="3-341">And marvelled; till before us rose and fell </l>
+                        <l n="3-341">And <app><lem wit="#mc">marvelled</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">marveled</rdg></rdgGrp></app>; till before us rose and fell </l>
                         <l n="3-342">White cursed hills, like outer skirts of hell </l>
                         <l n="3-343" rend="ti-1">Seen where men's eyes look through the day to night, </l>
                         <l n="3-344">Like a jagged shell's lips, harsh, untunable,</l>
@@ -1270,7 +1284,8 @@
                             <l n="4-16">And a great heart. Come, take thy sword and slay;</l>
                             <l n="4-17">Let me not starve between desire and death, </l>
                             <l n="4-18">But send me on my way with glad wet lips; </l>
-                            <l n="4-19">For in the vein-drawn ashen-coloured palm </l>
+                            <l n="4-19">For in the vein-drawn ashen-<app><lem wit="#mc">coloured</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> palm </l>
                             <l n="4-20">Death's hollow hand holds water of sweet draught </l>
                             <l n="4-21">To dip and slake dried mouths at, as a deer </l>
                             <l n="4-22">Specked red from thorns laps deep and loses pain. </l>
@@ -1636,7 +1651,9 @@
                     </lg>
                     <lg>
                         <l n="5-33">In the change of years, in the coil of things, </l>
-                        <l n="5-34" rend="ti-1">In the clamour and rumour of life to be, </l>
+                        <l n="5-34" rend="ti-1">In the <app><lem wit="#mc">clamour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">clamor</rdg></rdgGrp></app> and <app><lem wit="#mc">rumour</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">rumor</rdg></rdgGrp></app> of life to be, </l>
                         <l n="5-35">We, drinking love at the furthest springs, </l>
                         <l n="5-36" rend="ti-1">Covered with love as a covering tree, </l>
                         <l n="5-37">We had grown as gods, as the gods above, </l>
@@ -1782,7 +1799,8 @@
                         <l n="5-133">Let come what will, there is one thing worth, </l>
                         <l n="5-134">To have had fair love in the life upon earth: </l>
                         <l n="5-135">To have held love safe till the day grew night, </l>
-                        <l n="5-136" rend="ti-1">While skies had colour and lips were red.</l>
+                        <l n="5-136" rend="ti-1">While skies had <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> and lips were red.</l>
                     </lg>
                     <lg>
                         <l n="5-137">Would I lose you now? would I take you then, </l>
@@ -1888,7 +1906,8 @@
                         <rdgGrp type="accidental"><rdg wit="#ny">tears</rdg></rdgGrp></app> </l>
                         <l n="5-205">I have found a way for the failing feet, </l>
                         <l n="5-206">A place for slumber and sorrow to meet; </l>
-                        <l n="5-207">There is no rumour about the place, </l>
+                        <l n="5-207">There is no <app><lem wit="#mc">rumour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">rumor</rdg></rdgGrp></app> about the place, </l>
                         <l n="5-208" rend="ti-1">Nor light, nor any that sees or hears.</l>
                     </lg>
                     <lg>
@@ -2545,7 +2564,8 @@
                     <l n="9-50">That Love was born of burns and foams like wine, </l>
                     <l n="9-51">And eyes insatiable of amorous hours, </l>
                     <l n="9-52">Fervent as fire and delicate as flowers, </l>
-                    <l n="9-53">Coloured like night at heart, but cloven through </l>
+                        <l n="9-53"><app><lem wit="#mc">Coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Colored</rdg></rdgGrp></app> like night at heart, but cloven through </l>
                     <l n="9-54">Like night with flame, dyed round like night with blue,</l>
                     <l n="9-55">Clothed with deep eyelids under and above&#x2014; </l>
                     <l n="9-56">Yea, all thy beauty sickens me with love; </l>
@@ -2562,7 +2582,8 @@
                     <l n="9-67">Saw Love, as burning flame from crown to feet, </l>
                     <l n="9-68">Imperishable, upon her storied seat; </l>
                     <l n="9-69">Clear eyelids lifted toward the north and south, </l>
-                    <l n="9-70">A mind of many colours, and a mouth </l>
+                        <l n="9-70">A mind of many <app><lem wit="#mc">colours</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colors</rdg></rdgGrp></app>, and a mouth </l>
                     <l n="9-71">Of many tunes and kisses; and she bowed, </l>
                     <l n="9-72">With all her subtle face laughing aloud, </l>
                     <l n="9-73">Bowed down upon me, <app><lem wit="#mc #hr #e">saying &#x2018;Who</lem>
@@ -2690,7 +2711,8 @@
                         <l n="9-164">And fierce reluctance of disastrous stars, </l>
                         <l n="9-165">Eclipse, and sound of shaken hills, and wings </l>
                         <l n="9-166">Darkening, and blind inexpiable things&#x2014; </l>
-                        <l n="9-167">With sorrow of labouring moons, and altering light </l>
+                        <l n="9-167">With sorrow of <app><lem wit="#mc">labouring</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">laboring</rdg></rdgGrp></app> moons, and altering light </l>
                         <l n="9-168">And travail of the planets of the night, </l>
                         <l n="9-169">And weeping of the weary Pleiads seven, </l>
                         <l n="9-170">Feeds the mute melancholy lust of heaven? </l>
@@ -2728,7 +2750,8 @@
                         <l n="9-195">The high Pierian <app><lem wit="#ny #cw #mc #e">flower</lem>
                         <rdgGrp type="accidental"><rdg wit="#hr">flowers</rdg></rdgGrp></app> whose graft outgrows </l>
                         <l n="9-196">All summer kinship of the mortal rose </l>
-                        <l n="9-197">And colour of deciduous days, nor shed </l>
+                        <l n="9-197">And <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of deciduous days, nor shed </l>
                         <l n="9-198">Reflex and flush of heaven about thine head, </l>
                         <l n="9-199">Nor reddened brows made pale by floral grief </l>
                         <l n="9-200">With splendid shadow from that lordlier leaf. </l>
@@ -2792,7 +2815,8 @@
                         <l n="9-245">Song, and hath lit it at my lips; and me </l>
                         <l n="9-246">Earth shall not gather though she feed on thee.</l>
                         <l n="9-247">As a shed tear shalt thou be shed; but I&#x2014; </l>
-                        <l n="9-248">Lo, earth may labour, men live long and die, </l>
+                        <l n="9-248">Lo, earth may <app><lem wit="#mc">labour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">labor</rdg></rdgGrp></app>, men live long and die, </l>
                         <l n="9-249">Years change and stars, and the high God devise </l>
                         <l n="9-250">New things, and old things wane before his eyes </l>
                         <l n="9-251">Who wields and wrecks them, being more strong than they&#x2014; </l>
@@ -2931,7 +2955,8 @@
                         <l n="10-31">A little while and we die; shall life not thrive as it may? </l>
                         <l n="10-32">For no man under the sky lives twice, outliving his day. </l>
                         <l n="10-33">And grief is a grievous thing, and a man hath enough of his tears: </l>
-                        <l n="10-34">Why should he labour, and bring fresh grief to blacken his years? </l>
+                        <l n="10-34">Why should he <app><lem wit="#mc">labour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">labor</rdg></rdgGrp></app>, and bring fresh grief to blacken his years? </l>
                         <l n="10-35">Thou hast conquered, O pale Galilean; the world has grown grey from thy breath; </l>
                         <l n="10-36">We have drunken of things Lethean, and fed on the <app><lem wit="#mc #hr">fulness</lem>
                         <rdgGrp type="accidental"><rdg wit="#ny #cw">fullness</rdg></rdgGrp></app> of death. </l>
@@ -3005,7 +3030,9 @@
                         <l n="10-79">Clothed round with the world's desire as with raiment, and fair as the foam, </l>
                         <l n="10-80">And fleeter than kindled fire, and a goddess, and mother of Rome. </l>
                         <l n="10-81">For thine came pale and a maiden, and sister to sorrow; but ours, </l>
-                        <l n="10-82">Her deep hair heavily laden with odour and colour of flowers,</l>
+                        <l n="10-82">Her deep hair heavily laden with <app><lem wit="#mc">odour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">odor</rdg></rdgGrp></app> and <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of flowers,</l>
                         <l n="10-83">White rose of the rose-white water, a silver splendour, a flame, </l>
                         <l n="10-84">Bent down unto us that besought her, and earth grew sweet with her name. </l>
                         <l n="10-85">For thine came weeping, a slave among slaves, and rejected; but she </l>
@@ -3041,7 +3068,8 @@
                         <l n="10-102">Let my soul with their souls find place, and forget what is done and undone. </l>
                         <l n="10-103">Thou art more than the <app><lem wit="#hr #cw #mc">Gods</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">gods</rdg></rdgGrp></app> who number the days of our temporal breath; </l>
-                        <l n="10-104">For these give labour and slumber; but thou, Proserpina, death. </l>
+                        <l n="10-104">For these give <app><lem wit="#mc">labour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">labor</rdg></rdgGrp></app> and slumber; but thou, Proserpina, death. </l>
                         <l n="10-105">Therefore now at thy feet I abide for a season in silence. I know </l>
                         <l n="10-106">I shall die as my fathers died, and sleep as they sleep; even so. </l>
                         <l n="10-107">For the glass of the years is brittle wherein we gaze for a span; </l>
@@ -3170,11 +3198,13 @@
                         <l n="11-62">The breathing flame's mouth curls and kisses </l>
                         <l n="11-63" rend="ti-1">The small dried rows of frankincense; </l>
                         <l n="11-64">All round the sad red blossoms smoulder, </l>
-                        <l n="11-65">Flowers coloured like the fire, but colder, </l>
+                        <l n="11-65">Flowers <app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> like the fire, but colder, </l>
                         <l n="11-66" rend="ti-1">In sign of sweet things taken hence;</l>
                     </lg>
                     <lg>
-                        <l n="11-67">Yea, for their sake and in death's favour </l>
+                        <l n="11-67">Yea, for their sake and in death's <app><lem wit="#mc">favour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">favor</rdg></rdgGrp></app> </l>
                         <l n="11-68">Things of sweet shape and of sweet savour </l>
                         <l n="11-69" rend="ti-1">We yield them, spice and flower and wine; </l>
                         <l n="11-70">Yea, costlier things than wine or spices, </l>
@@ -3272,7 +3302,9 @@
                     <lg>
                         <l n="11-127">Though the iron sides of the old world falter </l>
                         <l n="11-128">The likeness of them shall not alter </l>
-                        <l n="11-129" rend="ti-1">For all the rumour of periods, </l>
+                        <l n="11-129" rend="ti-1">For all the <app><lem wit="#mc">rumour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">rumor</rdg></rdgGrp></app> of periods, </l>
+                        <!-- end of day, "savor", ny spelling apparatus -->
                         <l n="11-130">The stars and seasons that come after, </l>
                         <l n="11-131">The tears of latter men, the laughter </l>
                         <l n="11-132" rend="ti-1">Of the old unalterable gods.</l>
@@ -3608,7 +3640,8 @@
                         <l n="15-44" rend="ti-1">If it were not a stone or a snake.</l>
                     </lg>
                     <lg>
-                        <l n="15-45">You are crueller, you that we love,</l>
+                        <l n="15-45">You are <app><lem wit="#mc">crueller</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">crueler</rdg></rdgGrp></app>, you that we love,</l>
                         <l n="15-46" rend="ti-1">Than hatred, hunger, or death;</l>
                         <l n="15-47">You have eyes and breasts like a dove,</l>
                         <l n="15-48" rend="ti-1">And you kill men's hearts with a <app><lem wit="#ny #mc #hr">breath.</lem>
@@ -3943,7 +3976,8 @@
                         <l n="17-47">Who hath known the pain, the old pain of earth,</l>
                         <l n="17-48" rend="ti-1">Or all the travail of the sea,</l>
                         <l n="17-49">The many ways and waves, the birth</l>
-                        <l n="17-50">Fruitless, the labour nothing worth?</l>
+                        <l n="17-50">Fruitless, the <app><lem wit="#mc">labour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">labor</rdg></rdgGrp></app> nothing worth?</l>
                         <l n="17-51" rend="ti-1">Who hath known, who knoweth, O gods? <app><lem wit="#cw #mc #hr">not we.</lem>
                         <rdgGrp type="accidental"><rdg wit="#ny">not we</rdg></rdgGrp></app>
                             <app><lem wit="#e #mc #ny #hr"><lb/></lem>
@@ -5089,7 +5123,8 @@
                             <l n="27-2" rend="ti-1">And love self-slain in some sweet shameful way,</l>
                             <l n="27-3">And sorrowful old age that comes by night</l>
                             <l n="27-4" rend="ti-1">As a thief comes that has no heart by day,</l>
-                            <l n="27-5" rend="ti-1">And change that finds fair cheeks and leaves them grey,</l>
+                            <l n="27-5" rend="ti-1">And change that finds fair cheeks and leaves them <app><lem wit="#mc">grey</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app>,</l>
                             <l n="27-6">And weariness that keeps awake for hire,</l>
                             <l n="27-7" rend="ti-1">And grief that says what pleasure used to say;</l>
                             <l n="27-8">This is the end of every man's desire.</l>
@@ -5132,8 +5167,10 @@
                             <l n="27-32">This is the end of every man's desire.</l>
                         </lg>
                         <lg>
-                            <l n="27-33">The burden of bright colours. Thou shalt see</l>
-                            <l n="27-34" rend="ti-1">Gold tarnished, and the grey above the green;</l>
+                            <l n="27-33">The burden of bright <app><lem wit="#mc">colours</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">colors</rdg></rdgGrp></app>. Thou shalt see</l>
+                            <l n="27-34" rend="ti-1">Gold tarnished, and the <app><lem wit="#mc">grey</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> above the green;</l>
                             <l n="27-35">And as the thing thou seest thy face shall be,</l>
                             <l n="27-36" rend="ti-1">And no more as the thing beforetime seen.</l>
                             <l n="27-37" rend="ti-1">And thou shalt say of <app><lem wit="#hr #mc #cw">mercy &#x201F;It</lem>
@@ -5699,7 +5736,8 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                         <lg>
                             <l n="33-27">They are girdled about the reins with a curse for the girdle thereon: </l>
-                            <l n="33-28">For the noise of the rending of chains the face of their colour is gone.</l>
+                            <l n="33-28">For the noise of the rending of chains the face of their <app><lem wit="#mc">colour</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> is gone.</l>
                         </lg>
                         <lg>
                             <l n="33-29">For the sound of the shouting of men they are grievously stricken at heart: </l>
@@ -5860,7 +5898,8 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         <pb n="[169]" type="recto"/>
                         <lg>
                             <l n="34-71" rend="ti-2">Sad faith that cannot hope or fear, </l>
-                            <l n="34-72">And memory grey with many a flowerless year.</l>
+                            <l n="34-72">And memory <app><lem wit="#mc">grey</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> with many a flowerless year.</l>
                         </lg>
                         <lg>
                             <l n="34-73" rend="ti-2">Not that in stranger's wise </l>
@@ -6020,7 +6059,8 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                             <l n="34-177" rend="ti-2">Yea, one thing more than this, </l>
                             <l n="34-178" rend="ti-2">We know that one thing is, </l>
                             <l n="34-179">The splendour of a spirit without blame, </l>
-                            <l n="34-180" rend="ti-2">That not the labouring years </l>
+                            <l n="34-180" rend="ti-2">That not the <app><lem wit="#mc">labouring</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">laboring</rdg></rdgGrp></app> years </l>
                             <l n="34-181" rend="ti-2">Blind-born, nor any fears, </l>
                             <l n="34-182">Nor men nor any gods can tire or tame; </l>
                             <l n="34-183" rend="ti-2">But purer power with fiery breath </l>
@@ -6351,11 +6391,13 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         <lg>
                             <l n="36-123">But he comes to thee sad, without feigning, </l>
                             <l n="36-124" rend="ti-1">Who has wearied of sorrow and joy; </l>
-                            <l n="36-125">Less careful of labour and glory </l>
+                            <l n="36-125">Less careful of <app><lem wit="#mc">labour</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">labor</rdg></rdgGrp></app> and glory </l>
                             <l n="36-126" rend="ti-1">Than the elders whose hair has <app><lem wit="#mc #ny #hr">uncurled;</lem>
                                 <rdgGrp type="accidental"><rdg wit="#cw">uncurled:</rdg></rdgGrp></app> </l>
                             <l n="36-127">And young, but with fancies as hoary </l>
-                            <l n="36-128" rend="ti-1">And grey as the world.</l>
+                            <l n="36-128" rend="ti-1">And <app><lem wit="#mc">grey</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> as the world.</l>
                         </lg>
                         <lg>
                             <l n="36-129">I have passed from the outermost portal </l>
@@ -6869,11 +6911,13 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                             <l n="37-16" rend="ti-1">And everything but sleep.</l>
                         </lg>
                         <lg>
-                            <l n="37-17">Here life has death for neighbour, </l>
+                            <l n="37-17">Here life has death for <app><lem wit="#mc">neighbour</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">neighbor</rdg></rdgGrp></app>, </l>
                             <l n="37-18" rend="ti-1">And far from eye or ear </l></lg>
                             <pb n="197" type="recto"/>
                             <lg>
-                                <l n="37-19">Wan waves and wet winds labour, </l>
+                                <l n="37-19">Wan waves and wet winds <app><lem wit="#mc">labour</lem>
+                                    <rdgGrp type="a"><rdg wit="#ny">labor</rdg></rdgGrp></app>, </l>
                             <l n="37-20" rend="ti-1">Weak ships and spirits steer; </l>
                             <l n="37-21">They drive adrift, and whither </l>
                             <l n="37-22">They wot not who make thither; </l>
@@ -6988,7 +7032,8 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         <lg>
                             <l n="38-1">
                                 <hi rend="sc">Out</hi> of the golden remote wild west where the sea without shore is, </l>
-                            <l n="38-2" rend="ti-1">Full of the sunset, and sad, if at all, with the fulness of joy, </l>
+                            <l n="38-2" rend="ti-1">Full of the sunset, and sad, if at all, with the <app><lem wit="#mc">fulness</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">fullness</rdg></rdgGrp></app> of joy, </l>
                             <l n="38-3">As a wind sets in with the autumn that blows from the region of stories, </l>
                             <l n="38-4" rend="ti-1">Blows with a perfume of songs and of memories beloved from a boy, </l>
                             <l n="38-5">Blows from the capes of the past <app><lem wit="#mc #hr #cw">oversea</lem>
@@ -7015,7 +7060,8 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                             <l n="38-19">The delight of thy face, and the sound of thy feet, and the wind of thy tresses, </l>
                             <l n="38-20" rend="ti-1">And all of a man that regrets, and all of a maid that allures. </l>
                             <l n="38-21">But thy bosom is warm for my face and profound as a manifold flower, </l>
-                            <l n="38-22" rend="ti-1">Thy silence as music, thy voice as an odour that fades in a flame; </l>
+                            <l n="38-22" rend="ti-1">Thy silence as music, thy voice as an <app><lem wit="#mc">odour</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">odor</rdg></rdgGrp></app> that fades in a flame; </l>
                             <l n="38-23">Not a dream, not a dream is the kiss of thy mouth, and the bountiful hour </l>
                             <l n="38-24" rend="ti-1">That makes me forget what was sin, and would make me forget were it
                                 shame. </l>
@@ -7125,7 +7171,8 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         <l n="38-82" rend="ti-1">By the thundering reef and the low sea-wall and the channel of
                             years, </l>
                         <l n="38-83">Our wild steeds press on the night, strain hard through pleasure and peril, </l>
-                        <l n="38-84" rend="ti-1">Labour and listen and pant not or pause for the peril that nears; </l>
+                        <l n="38-84" rend="ti-1"><app><lem wit="#mc">Labour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Labor</rdg></rdgGrp></app> and listen and pant not or pause for the peril that nears; </l>
                         <l n="38-85">And the sound of them trampling the way cleaves night as an arrow asunder, </l>
                         <l n="38-86" rend="ti-1">And slow by the sand-hill and swift by the down with its glimpses of
                             grass, </l>
@@ -7330,7 +7377,8 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         <l n="41-19">I know each shadow of your lips by rote, </l>
                         <l n="41-20">Each change of love in eyelids and eyebrows; </l>
                         <l n="41-21">The fashion of fair temples tremulous</l>
-                        <l n="41-22">With tender blood, and colour of your throat; </l>
+                        <l n="41-22">With tender blood, and <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of your throat; </l>
                         <l n="41-23">I know not how love is gone out of this, </l>
                         <l n="41-24">Seeing that all was his.</l>
                     </lg>
@@ -7346,7 +7394,8 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                     </lg>
                     <lg>
                         <l n="41-31">I know not how this last month leaves your hair </l>
-                        <l n="41-32">Less full of purple colour and hid spice, </l>
+                        <l n="41-32">Less full of purple <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> and hid spice, </l>
                         <l n="41-33">And that luxurious trouble of closed eyes </l>
                         <l n="41-34">Is mixed with meaner shadow and waste care; </l>
                         <l n="41-35">And love, kissed out by pleasure, seems not yet </l>
@@ -7398,7 +7447,8 @@ with the following:
                         <l n="42-17">With wants, with many memories; </l>
                         <l n="42-18">These see their mother what she is, </l>
                         <l n="42-19">Glad-growing, till August leave more bright </l>
-                        <l n="42-20">The apple-coloured cranberries.</l>
+                        <l n="42-20">The apple-<app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> cranberries.</l>
                     </lg>
                     <lg>
                         <l n="42-21">Wind blows and bleaches the strong grass, </l>
@@ -7435,7 +7485,8 @@ with the following:
                     <pb n="[216]" type="verso"/>
                     <lg>
                         <l n="42-41">The hard sun, as thy petals knew, </l>
-                        <l n="42-42">Coloured the heavy moss-water: </l>
+                        <l n="42-42"><app><lem wit="#mc">Coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Colored</rdg></rdgGrp></app> the heavy moss-water: </l>
                         <l n="42-43">Thou wert not worth green midsummer </l>
                         <l n="42-44">Nor fit to live to August blue, </l>
                         <l n="42-45">O sundew, not remembering her. </l>
@@ -7500,7 +7551,8 @@ with the following:
                     <lg>
                         <l n="43-31">We played at bondsman and at queen;</l>
                         <l n="43-32" rend="ti-1">But as the days change men change too;</l>
-                        <l n="43-33">I find the grey sea's notes of green,</l>
+                        <l n="43-33">I find the <app><lem wit="#mc">grey</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> sea's notes of green,</l>
                         <l n="43-34" rend="ti-1">The green sea's fervent flakes of blue,</l>
                         <l n="43-35" rend="ti-1">More fair than you.</l>
                     </lg>
@@ -7594,10 +7646,12 @@ with the following:
                 <div type="recto">
                     <pb n="[221]" type="recto"/>
                     <lg>
-                        <l n="43-91">Like colours in the sea, like flowers,</l>
+                        <l n="43-91">Like <app><lem wit="#mc">colours</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colors</rdg></rdgGrp></app> in the sea, like flowers,</l>
                         <l n="43-92" rend="ti-1">Like a cat's splendid circled eyes</l>
                         <l n="43-93">That wax and wane with love for hours,</l>
-                        <l n="43-94" rend="ti-1">Green as green flame, blue-grey like skies,</l>
+                        <l n="43-94" rend="ti-1">Green as green flame, blue-<app><lem wit="#mc">grey</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> like skies,</l>
                         <l n="43-95" rend="ti-1">And soft like sighs&#x2014;</l>
                     </lg>
                     <lg>
@@ -7743,7 +7797,8 @@ with the following:
                         <l n="43-175" rend="ti-1">And laughs, and lies.</l>
                     </lg>
                     <lg>
-                        <l n="43-176">Eyes coloured like a water-flower,</l>
+                        <l n="43-176">Eyes <app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> like a water-flower,</l>
                         <l n="43-177" rend="ti-1">And deeper than the green sea's glass;</l>
                         <l n="43-178">Eyes that remember one sweet hour&#x2014;</l>
                         <l n="43-179" rend="ti-1">In vain we swore it should not pass;</l>
@@ -7770,7 +7825,8 @@ with the following:
                         <l n="43-191">Immortal are they, clothed with powers,</l>
                         <l n="43-192" rend="ti-1">Not to be comforted at all;</l>
                         <l n="43-193">Lords over all the fruitless hours;</l>
-                        <l n="43-194" rend="ti-1">Too great to appease, too high to appal,</l>
+                        <l n="43-194" rend="ti-1">Too great to appease, too high to <app><lem wit="#mc">appal</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">appall</rdg></rdgGrp></app>,</l>
                         <l n="43-195" rend="ti-1">Too far to call.</l>
                     </lg>
                     <lg>
@@ -7869,7 +7925,8 @@ with the following:
                     <lg>
                         <l n="43-256">No memory more of love or hate,</l>
                         <l n="43-257" rend="ti-1">No trouble, nothing that aspires,</l>
-                        <l n="43-258">No sleepless labour thwarting fate,</l>
+                        <l n="43-258">No sleepless <app><lem wit="#mc">labour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">labor</rdg></rdgGrp></app> thwarting fate,</l>
                         <l n="43-259" rend="ti-1">And thwarted; where no travail tires,</l>
                         <l n="43-260" rend="ti-1">Where no faith fires.</l>
                     </lg>
@@ -7916,7 +7973,8 @@ with the following:
                     </lg>
                     <lg>
                         <l n="43-286">Let this be said between us here,</l>
-                        <l n="43-287" rend="ti-1">One love grows green when one turns grey;</l>
+                        <l n="43-287" rend="ti-1">One love grows green when one turns <app><lem wit="#mc">grey</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app>;</l>
                         <l n="43-288">This year knows nothing of last year;</l>
                         <l n="43-289" rend="ti-1">To-morrow has no more to say</l>
                         <l n="43-290" rend="ti-1">To yesterday.</l>
@@ -8213,7 +8271,8 @@ with the following:
                         <l n="46-72" rend="ti-1">Lulled at the dewfall,</l>
                     </lg>
                     <lg>
-                        <l n="46-73">By the grey sea-side, unassuaged, unheard of, </l>
+                        <l n="46-73">By the <app><lem wit="#mc">grey</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> sea-side, unassuaged, unheard of, </l>
                         <l n="46-74">Unbeloved, unseen in the ebb of twilight, </l>
                         <l n="46-75">Ghosts of outcast women return lamenting, </l>
                         <l n="46-76" rend="ti-1">Purged not in Lethe,</l>
@@ -8299,7 +8358,8 @@ with the following:
                         <l n="47-56"> Soberly colours and completes the face, </l>
                         <l n="47-57"> Mouth, chin and all, of some sweet work in stone, </l>
                         <l n="47-58"> I carve the shapes of grass and tender corn </l>
-                        <l n="47-59"> And colour the ripe edges and long spikes </l>
+                        <l n="47-59"> And <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> the ripe edges and long spikes </l>
                         <l n="47-60"> With the red increase and the grace of gold. </l>
                         <l n="47-61"> No tradesman in soft wools is cunninger </l>
                         <l n="47-62"> To kill the secret of the fat white fleece </l>
@@ -8327,7 +8387,8 @@ with the following:
                         <l n="47-77"> Forced the bright body of Persephone: </l>
                         <l n="47-78"> Out of pure grass, where she lying down, red flowers </l>
                         <l n="47-79"> Made their sharp little shadows on her sides, </l>
-                        <l n="47-80"> Pale heat, pale colour on pale maiden flesh&#x2014; </l>
+                        <l n="47-80"> Pale heat, pale <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> on pale maiden flesh&#x2014; </l>
                         <l n="47-81"> And chill water slid over her reddening feet, </l>
                         <l n="47-82"> Killing the throbs in their soft blood; and birds, </l>
                         <l n="47-83"> Perched next her elbow and pecking at her hair, </l>
@@ -8419,7 +8480,8 @@ with the following:
                         <l n="47-156"> Therefore my breast made common to his mouth </l>
                         <l n="47-157"> Immortal <app><lem wit="#mc #hr #cw">savours,</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">savors</rdg></rdgGrp></app>, and the taste whereat </l>
-                        <l n="47-158"> Twice their hard life strains out the coloured veins </l>
+                        <l n="47-158"> Twice their hard life strains out the <app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> veins </l>
                         <l n="47-159"> And twice its brain confirms the narrow shell. </l>
                         <l n="47-160"> Also at night, unwinding cloth from cloth </l>
                     </lg>
@@ -8471,7 +8533,8 @@ with the following:
                         <l n="47-193"> Tears fell from mine on the child's weeping eyes, </l>
                         <l n="47-194"> Eyes dispossessed of strong inheritance </l>
                         <l n="47-195"> And mortal fallen anew. Who not the less </l>
-                        <l n="47-196"> From bud of beard to pale-grey flower of hair </l>
+                        <l n="47-196"> From bud of beard to pale-<app><lem wit="#mc">grey</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> flower of hair </l>
                         <l n="47-197"> Shall wax vinewise to a lordly vine, whose grapes </l>
                         <l n="47-198"> Bleed the red heavy blood of swoln soft wine, </l>
                         <l n="47-199"> Subtle with sharp leaves' intricacy, until </l>
@@ -8516,7 +8579,8 @@ with the following:
                             <hi rend="sc">There</hi> were four apples on the bough, </l>
                         <l n="48-2">Half gold half red, that one might know </l>
                         <l n="48-3">The blood was ripe inside the core; </l>
-                        <l n="48-4">The colour of the leaves was more </l>
+                        <l n="48-4">The <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of the leaves was more </l>
                         <l n="48-5">Like stems of yellow corn that grow </l>
                         <l n="48-6">Through all the gold June meadow's floor.</l>
                     </lg>
@@ -8554,13 +8618,15 @@ with the following:
                         <l n="48-27">Of music in the silver air; </l>
                         <l n="48-28">Great pleasure was it to be there </l>
                         <l n="48-29">Till green turned duskier and the moon </l>
-                        <l n="48-30">Coloured the corn-sheaves like gold hair.</l>
+                        <l n="48-30"><app><lem wit="#mc">Coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Colored</rdg></rdgGrp></app> the corn-sheaves like gold hair.</l>
                     </lg>
                     <lg>
                         <l n="48-31">That August time it was delight </l>
                         <l n="48-32">To watch the red moons wane to <app><lem wit="#mc">white</lem>
                             <rdgGrp type="a"><rdg wit="#sp">white.</rdg></rdgGrp></app> </l>
-                        <l n="48-33">'Twixt grey seamed stems of apple-trees; </l>
+                        <l n="48-33">'Twixt <app><lem wit="#mc">grey</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> seamed stems of apple-trees; </l>
                         <l n="48-34">A sense of heavy harmonies </l>
                         <l n="48-35">Grew <app><lem wit="#mc #hr #cw">on the growth</lem>
                             <rdgGrp type="substantive"><rdg wit="#ny">on a growth</rdg></rdgGrp></app> of patient night, </l>
@@ -8571,7 +8637,8 @@ with the following:
                         <l n="48-38">The air, still eager from the noon, </l>
                         <l n="48-39">Flagged after heat, not wholly dead; </l>
                         <l n="48-40">Against the stem I leant my head; </l>
-                        <l n="48-41">The colour soothed me like a tune, </l>
+                        <l n="48-41">The <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> soothed me like a tune, </l>
                         <l n="48-42">Green leaves all round the gold and red.</l>
                     </lg>
                     <lg>
@@ -8592,7 +8659,8 @@ with the following:
                     <lg>
                         <l n="48-49">The wet leaves next the gentle fruit </l>
                         <l n="48-50">Felt smoother, and the brown tree-root </l>
-                        <l n="48-51">Felt the mould <app><lem wit="#mc">warmer: I</lem>
+                        <l n="48-51">Felt the <app><lem wit="#mc">mould</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mold</rdg></rdgGrp></app> <app><lem wit="#mc">warmer: I</lem>
                             <rdgGrp type="a"><rdg wit="#sp">warmer; I</rdg></rdgGrp></app> too felt </l>
                         <l n="48-52">(As water feels the slow gold melt </l>
                         <l n="48-53">Right through it when the day burns mute) </l>
@@ -8603,7 +8671,8 @@ with the following:
                         <l n="48-56">Gold stained on <app><lem wit="#mc">red that</lem>
                             <rdgGrp type="a"><rdg wit="#sp">red, that</rdg></rdgGrp></app> all might see </l>
                         <l n="48-57">The sweet blood filled them to the core: </l>
-                        <l n="48-58">The colour of her hair is more </l>
+                        <l n="48-58">The <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of her hair is more </l>
                         <l n="48-59">Like stems of fair faint gold, that be </l>
                         <l n="48-60">Mown from the harvest's <app><lem wit="#mc #cw">middle floor.</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">middle floor</rdg>
@@ -8756,7 +8825,8 @@ with the following:
                             <l n="50-11">Long time he sat and nothing said, </l>
                             <l n="50-12">Put softly down his neck and fed </l>
                             <l n="50-13" rend="ti-2">From the gilt patens fine: </l>
-                            <l n="50-14">And as I marvelled, at the last </l>
+                            <l n="50-14">And as I <app><lem wit="#mc">marvelled</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">marveled</rdg></rdgGrp></app>, at the last </l>
                             <l n="50-15">He shut his two keen eyën fast </l>
                             <l n="50-16">And suddenly woxe big and brast </l>
                             <l n="50-17" rend="ti-2">Ere one should tell to nine.</l>
@@ -9075,7 +9145,8 @@ with the following:
                             <l n="50-170" rend="ti-2">With multitudes at festival. </l>
                             <l n="50-171">The glory of my gracious brows </l>
                             <l n="50-172">Was like God's house made glorious </l>
-                            <l n="50-173" rend="ti-2">With colours upon either wall.</l>
+                            <l n="50-173" rend="ti-2">With <app><lem wit="#mc">colours</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">colors</rdg></rdgGrp></app> upon either wall.</l>
                             <l n="50-174">Between my brows and hair there was </l>
                         </lg>
                     </sp>
@@ -9134,7 +9205,8 @@ with the following:
                             <l n="50-197" rend="ti-2">And strength was bound between my brows. </l>
                             <l n="50-198">Spikenard was hidden in my ships, </l>
                             <l n="50-199">Honey and wheat and myrrh in strips, </l>
-                            <l n="50-200" rend="ti-2">White wools that shine as colour does,</l>
+                            <l n="50-200" rend="ti-2">White wools that shine as <app><lem wit="#mc">colour</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> does,</l>
                             <l n="50-201">Soft linen dyed upon the fold, </l>
                             <l n="50-202">Split spice and cores of scented gold, </l>
                             <l n="50-203" rend="ti-2">Cedar and broken calamus.</l>
@@ -9146,7 +9218,8 @@ with the following:
                             <l n="50-204">I am the queen Semiramis. </l>
                             <l n="50-205">The whole world and the sea that is </l>
                             <l n="50-206" rend="ti-2">In fashion like a chrysopras, </l>
-                            <l n="50-207">The noise of all men labouring, </l>
+                            <l n="50-207">The noise of all men <app><lem wit="#mc">labouring</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">laboring</rdg></rdgGrp></app>, </l>
                             <l n="50-208">The priest's mouth tired through thanksgiving, </l>
                             <l n="50-209" rend="ti-2">The sound of love in the blood's pause, </l>
                             <l n="50-210">The strength of love in the blood's beat, </l>
@@ -9239,7 +9312,8 @@ with the following:
                         <speaker rend="center x-small">PASIPHAE. </speaker>
                         <lg>
                             <l n="50-258">I am the queen Pasiphae. </l>
-                            <l n="50-259">Not all the pure clean-coloured sea </l>
+                            <l n="50-259">Not all the pure clean-<app><lem wit="#mc">coloured</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> sea </l>
                             <l n="50-260" rend="ti-2">Could cleanse or cool my yearning veins; </l>
                             <l n="50-261">Nor any root nor herb that grew, </l>
                             <l n="50-262">Flag-leaves that let green water through, </l>
@@ -9319,7 +9393,8 @@ with the following:
                         <speaker rend="center x-small">PASITHEA. </speaker>
                         <lg>
                             <l n="50-303">I am the queen of Cypriotes. </l>
-                            <l n="50-304">Mine oarsmen, labouring with brown throats, </l>
+                            <l n="50-304">Mine oarsmen, <app><lem wit="#mc">labouring</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">laboring</rdg></rdgGrp></app> with brown throats, </l>
                             <l n="50-305" rend="ti-2">Sang of me many a tender thing. </l>
                             <l n="50-306">My maidens, girdled loose and braced </l>
                             <l n="50-307">With gold from bosom to white waist, </l>
@@ -9339,7 +9414,8 @@ with the following:
                             <l n="50-312">I am the queen Alaciel. </l>
                             <l n="50-313">My mouth was like that moist gold cell </l>
                             <l n="50-314" rend="ti-2">Whereout the thickest honey drips. </l>
-                            <l n="50-315">Mine eyes were as a grey-green sea; </l>
+                            <l n="50-315">Mine eyes were as a <app><lem wit="#mc">grey</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app>-green sea; </l>
                             <l n="50-316">The amorous blood that smote on me </l>
                             <l n="50-317" rend="ti-2">Smote to my feet and finger-tips. </l>
                             <l n="50-318">My throat was whiter than the dove, </l>
@@ -9403,7 +9479,8 @@ with the following:
                             <l n="50-356" rend="ti-2">Both the land and the long sea; </l>
                             <l n="50-357">Both the green sea and the land, </l>
                             <l n="50-358">Lord God, thou hast in hand, </l>
-                            <l n="50-359">Both white water and grey sand; </l>
+                            <l n="50-359">Both white water and <app><lem wit="#mc">grey</lem>
+                                <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> sand; </l>
                             <l n="50-360">Upon thy right or thy left hand </l>
                             <l n="50-361">There is no man that may stand; </l></lg></sp>
                 </div>
@@ -9561,7 +9638,8 @@ with the following:
                         <l n="51-40">And other some ground perfume out of roots </l>
                         <l n="51-41">Gathered by marvellous moons in Asia; </l>
                         <l n="51-42">Saffron and aloes and wild cassia, </l>
-                        <l n="51-43">Coloured all through and smelling of the sun; </l>
+                        <l n="51-43"><app><lem wit="#mc">Coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Colored</rdg></rdgGrp></app> all through and smelling of the sun; </l>
                         <l n="51-44">And over all these was a certain one </l>
                         <l n="51-45">Clothed softly, with sweet herbs about her hair </l>
                         <l n="51-46">And bosom flowerful; her face more fair </l>
@@ -9613,7 +9691,8 @@ with the following:
                     <lg>
                         <l n="51-77">Tender of speech, and had no hardihood </l>
                         <l n="51-78">But was nigh feeble of her fearful blood; </l>
-                        <l n="51-79">Her mercy in her was so marvellous </l>
+                        <l n="51-79">Her mercy in her was so <app><lem wit="#mc">marvellous</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">marvelous</rdg></rdgGrp></app> </l>
                         <l n="51-80">From her least years, that seeing her school-fellows </l>
                         <l n="51-81">That read beside her stricken with a rod, </l>
                         <l n="51-82">She would cry sore and say some word to God </l>
@@ -9627,7 +9706,8 @@ with the following:
                         <l n="51-88">The chapels of it were some two or three, </l>
                         <l n="51-89">In each of them her tabernacle was </l>
                         <l n="51-90">And a wide window of six feet in glass </l>
-                        <l n="51-91">Coloured with all her works in red and gold. </l>
+                        <l n="51-91"><app><lem wit="#mc">Coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">Colored</rdg></rdgGrp></app> with all her works in red and gold. </l>
                         <l n="51-92">The altars had bright cloths and cups to hold</l>
                         <l n="51-93">The wine of Venus for the services, </l>
                         <l n="51-94">Made out of honey and crushed wood-berries </l>
@@ -9708,7 +9788,8 @@ with the following:
                         <l n="51-148">And with this came a savour of shed wine </l>
                         <l n="51-149">And plucked-out petals from a rose's head: </l>
                         <l n="51-150">And softly with slow laughs of lip she said, </l>
-                        <l n="51-151">Thou shalt have favour all thy days of me.</l>
+                        <l n="51-151">Thou shalt have <app><lem wit="#mc">favour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">favor</rdg></rdgGrp></app> all thy days of me.</l>
                     </lg>
                     <lg>
                         <l n="51-152" rend="ti-1">Then came Theophilus to Dorothy, </l>
@@ -9829,7 +9910,8 @@ with the following:
                         <l n="51-238">But my soul in some measure understands </l>
                         <l n="51-239">God's grace laid like a garment over me. </l>
                         <l n="51-240">For this fair God that out of strong sharp sea </l>
-                        <l n="51-241">Lifted the shapely and green-coloured land, </l>
+                        <l n="51-241">Lifted the shapely and green-<app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> land, </l>
                         <l n="51-242">And hath the weight of heaven in his hand </l>
                         <l n="51-243">As one might hold a bird, and under him </l>
                         <l n="51-244">The heavy golden planets beam by beam </l>
@@ -9846,7 +9928,8 @@ with the following:
                         <l n="51-249">And motion of the north wind and the south, </l>
                         <l n="51-250">And is the sound within his angel's mouth </l>
                         <l n="51-251">Of singing words and words of thanksgiving, </l>
-                        <l n="51-252">And is the colour of the latter spring </l>
+                        <l n="51-252">And is the <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of the latter spring </l>
                         <l n="51-253">And heat upon the summer and the sun, </l>
                         <l n="51-254">And is beginning of all things begun </l>
                         <l n="51-255">And gathers in him all things to their end, </l>
@@ -9959,7 +10042,8 @@ with the following:
                         <l n="51-332">But all the evil wrought upon this maid, </l>
                         <l n="51-333">It were full hard for one to handle it. </l>
                         <l n="51-334">For her soft blood was shed upon her feet, </l>
-                        <l n="51-335">And all her body's colour bruised and faint. </l>
+                        <l n="51-335">And all her body's <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> bruised and faint. </l>
                         <l n="51-336">But she, as one abiding God's great saint, </l>
                         <l n="51-337">Spake not nor wept for all this travail hard. </l>
                         <l n="51-338">Wherefore the king commanded afterward </l>
@@ -9980,7 +10064,8 @@ with the following:
                     <lg>
                         <l n="51-352" rend="ti-1">There is no word of comfort with men <app><lem wit="#mc #hr #cw">dead</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">dead,</rdg></rdgGrp></app> </l>
-                        <l n="51-353">Nor any face and colour of things sweet; </l>
+                        <l n="51-353">Nor any face and <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of things sweet; </l>
                         <l n="51-354">But always with lean cheeks and lifted feet </l>
                         <l n="51-355">These dead men lie all aching to the blood </l>
                         <l n="51-356">With bitter cold, their brows withouten hood </l>
@@ -10004,11 +10089,13 @@ with the following:
                         <l n="51-366">For on one side death is full poor of bliss </l>
                         <l n="51-367">And as ye say full sharp of bone and lean: </l>
                         <l n="51-368">But on the other side is good and green </l>
-                        <l n="51-369">And hath soft flower of tender-coloured hair </l>
+                        <l n="51-369">And hath soft flower of tender-<app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> hair </l>
                         <l n="51-370">Grown on his head, and a red mouth as fair </l>
                         <l n="51-371">As may be kissed with lips; thereto his face </l>
                         <l n="51-372">Is as God's face, and in a perfect place </l>
-                        <l n="51-373">Full of all sun and colour of straight boughs </l>
+                        <l n="51-373">Full of all sun and <app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> of straight boughs </l>
                         <l n="51-374">And waterheads about a painted house </l>
                         <l n="51-375">That hath a mile of flowers either way </l>
                         <l n="51-376">Outward from it, and blossom-grass of May </l>
@@ -10050,7 +10137,8 @@ with the following:
                     </lg>
                     <lg>
                         <l n="51-404" rend="ti-1">And Theophile burnt in the cheek, and said: </l>
-                        <l n="51-405">Yea, could one see it, this were marvellous. </l>
+                        <l n="51-405">Yea, could one see it, this were <app><lem wit="#mc">marvellous</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">marvelous</rdg></rdgGrp></app>. </l>
                         <l n="51-406">I pray you, at your coming to this house, </l>
                         <l n="51-407">Give me some leaf of all those tree-branches; </l>
                         <l n="51-408">Seeing how so sharp and white our weather is, </l>
@@ -10072,7 +10160,8 @@ with the following:
                         <l n="51-417">Each man departed to his house again.</l>
                     </lg>
                     <lg>
-                        <l n="51-418" rend="ti-1">Lo, as fair colour in the face of men </l>
+                        <l n="51-418" rend="ti-1">Lo, as fair <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> in the face of men </l>
                         <l n="51-419">At seed-time of their blood, or in such wise </l>
                         <l n="51-420">As a thing seen increaseth in men's eyes, </l>
                         <l n="51-421">Caught first far off by sickly fits of <app><lem wit="#mc #ny #hr">sight&#x2014;</lem>
@@ -10108,7 +10197,8 @@ with the following:
                     <pb n="[290]" type="verso"/>
                     <lg><l n="51-441">That sends you gifts; and with this he was gone. </l>
                         <l n="51-442">In all this earth there is not such an one </l>
-                        <l n="51-443">For colour and straight stature made so fair. </l>
+                        <l n="51-443">For <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> and straight stature made so fair. </l>
                         <l n="51-444">The tender growing gold of his pure hair </l>
                         <l n="51-445">Was as wheat growing, and his mouth as flame. </l>
                         <l n="51-446">God called him Holy after his own name; </l>
@@ -10117,10 +10207,12 @@ with the following:
                         <l n="51-449">It was filled up with heavy white and red; </l>
                         <l n="51-450">Great roses stained still where the first rose bled, </l>
                         <l n="51-451">Burning at heart for shame their heart withholds: </l>
-                        <l n="51-452">And the sad colour of strong marigolds </l>
+                        <l n="51-452">And the sad <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of strong marigolds </l>
                         <l n="51-453">That have the sun to kiss their lips for love; </l>
                         <l n="51-454">The flower that Venus' hair is woven of, </l>
-                        <l n="51-455">The colour of fair apples in the sun, </l>
+                        <l n="51-455">The <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of fair apples in the sun, </l>
                         <l n="51-456">Late peaches gathered when the heat was done </l>
                         <l n="51-457">And the slain air got breath; and after these </l>
                         <l n="51-458">The fair faint-headed poppies drunk with ease, </l>
@@ -10205,7 +10297,8 @@ with the following:
                         <l n="52-29">The ways were clean to walk and delicate; </l>
                         <l n="52-30">And when the windy white of March grew late, </l>
                         <l n="52-31">Before the trees took heart to face the sun </l>
-                        <l n="52-32">With ravelled raiment of lean winter on, </l>
+                        <l n="52-32">With <app><lem wit="#mc">ravelled</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">raveled</rdg></rdgGrp></app> raiment of lean winter on, </l>
                         <l n="52-33">The roots were thick and hot with hollow grass.</l>
                     </lg>
                     <lg>
@@ -10242,7 +10335,8 @@ with the following:
                         <l n="52-55">Such long locks had she, that with knee to chin </l>
                         <l n="52-56">She might have wrapped and warmed her feet therein.</l>
                         <l n="52-57">Right seldom fell her face on weeping wise; </l>
-                        <l n="52-58">Gold hair she had, and golden-coloured eyes, </l>
+                        <l n="52-58">Gold hair she had, and golden-<app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> eyes, </l>
                         <l n="52-59">Filled with clear light and fire and large repose </l>
                         <l n="52-60">Like a fair hound's; no man there is but knows </l>
                         <l n="52-61">Her face was white, and thereto she was tall; </l>
@@ -10272,7 +10366,8 @@ with the following:
                     <pb n="[295]" type="recto"/>
                     <lg>
                         <l n="52-77">If love of his might move that face at all, </l>
-                        <l n="52-78">Tuned evenwise with colours musical; </l>
+                        <l n="52-78">Tuned evenwise with <app><lem wit="#mc">colours</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colors</rdg></rdgGrp></app> musical; </l>
                         <l n="52-79">Then after length of days he said thus: &#x201F;Love, </l>
                         <l n="52-80">For love's own sake and for the love thereof </l>
                         <l n="52-81">Let no harsh words untune your gracious mood; </l>
@@ -10326,7 +10421,8 @@ with the following:
                         <l n="52-118">Too keen the breathèd honey of the rose, </l>
                         <l n="52-119">Its red too harsh a weight on feasted eyes; </l>
                         <l n="52-120">They were so far gone in love's histories, </l>
-                        <l n="52-121">Beyond all shape and colour and mere breath, </l>
+                        <l n="52-121">Beyond all shape and <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> and mere breath, </l>
                         <l n="52-122">Where pleasure has for kinsfolk sleep and death,</l>
                         <l n="52-123">And strength of soul and body waxen blind </l>
                         <l n="52-124">For weariness, and flesh entoiled with mind, </l>
@@ -10339,7 +10435,8 @@ with the following:
                         <l n="52-129">Burnt out to make the sun's love-offering, </l>
                         <l n="52-130">The midnoon's prayer, the rose's thanksgiving, </l>
                         <l n="52-131">The trees' weight burdening the strengthless air, </l>
-                        <l n="52-132">The shape of her stilled eyes, her coloured hair, </l>
+                        <l n="52-132">The shape of her stilled eyes, her <app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> hair, </l>
                     </lg>
                 </div>
                 <div type="recto">
@@ -10363,9 +10460,11 @@ with the following:
                         <l n="52-145">Heard last midwinter, taste the heart in it, </l>
                         <l n="52-146">Mould the smooth semitones afresh, refit </l>
                         <l n="52-147">The fair limbs ruined, flush the dead blood through </l>
-                        <l n="52-148">With colour, make all broken beauties new </l>
+                        <l n="52-148">With <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app>, make all broken beauties new </l>
                         <l n="52-149">For love's new lesson&#x2014;shall not such find pain </l>
-                        <l n="52-150">When the marred music labouring in his brain </l>
+                        <l n="52-150">When the marred music <app><lem wit="#mc">labouring</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">laboring</rdg></rdgGrp></app> in his brain </l>
                         <l n="52-151">Frets him with sweet sharp fragments, and lets slip </l>
                         <l n="52-152">One word that might leave satisfied his lip&#x2014; </l>
                         <l n="52-153">One touch that might put fire in all the chords? </l>
@@ -10398,7 +10497,8 @@ with the following:
                         <l n="52-171">Made violet of the throat, abashed with shade </l>
                         <l n="52-172">The breast's bright plaited work: but nothing frayed </l>
                         <l n="52-173">The sun's large kiss on the luxurious hair. </l>
-                        <l n="52-174">Her beauty was new colour to the air </l>
+                        <l n="52-174">Her beauty was new <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> to the air </l>
                         <l n="52-175">And music to the silent many birds. </l>
                         <l n="52-176">Love was an-hungred for some perfect words </l>
                         <l n="52-177">To praise her with; but only her low name </l>
@@ -10490,7 +10590,8 @@ with the following:
                         <l n="52-241">And soft disaster of a painèd face? </l>
                         <l n="52-242">What pain, established in so sweet a place, </l>
                         <l n="52-243">But the plucked leaf of it smells fragrantly? </l>
-                        <l n="52-244">What colour burning man's wide-open eye </l>
+                        <l n="52-244">What <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> burning man's wide-open eye </l>
                     </lg>
                 </div>
                 <div type="recto">
@@ -10561,7 +10662,8 @@ with the following:
                             <rdgGrp type="accidental"><rdg wit="#ny">thus:</rdg></rdgGrp></app> Let me catch a secret here </l>
                         <l n="52-294">So sweet, it sharpens the sweet taste of fear </l>
                         <l n="52-295">And takes the mouth with edge of wine; I would </l>
-                        <l n="52-296">Have here some colour and smooth shape as good </l>
+                        <l n="52-296">Have here some <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> and smooth shape as good </l>
                         <l n="52-297">As those in heaven whom the chief garden hides </l>
                         <l n="52-298">With low grape-blossom veiling their white <app><lem wit="#mc #hr #cw">sides, </lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">sides </rdg></rdgGrp></app></l>
@@ -10582,7 +10684,8 @@ with the following:
                         <l n="52-308">Maids mix to bathe: one sets her small warm chin </l>
                         <l n="52-309">Against a ripple, that the angry pearl </l>
                         <l n="52-310">May flow like flame about her: the next curl </l>
-                        <l n="52-311">Dips in some eddy coloured of the sun </l>
+                        <l n="52-311">Dips in some eddy <app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> of the sun </l>
                         <l n="52-312">To wash the dust well out; another one </l>
                         <l n="52-313">Holds a straight ankle in her hand and swings </l>
                         <l n="52-314">With lavish body sidelong, so that rings </l>
@@ -10697,7 +10800,8 @@ with the following:
                         <l n="52-396">He cried out with a little broken cry </l>
                         <l n="52-397">This <app><lem wit="#mc #hr #ny">word &#x2014;O help</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">word, &#x2014;O help</rdg></rdgGrp></app> me, sweet, I am but dead.&#x201D;</l>
-                        <l n="52-398">And even so saying, the colour of fair red </l>
+                        <l n="52-398">And even so saying, the <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> of fair red </l>
                         <l n="52-399">Was gone out of his face, and his blood's beat </l>
                         <l n="52-400">Fell, and stark death made sharp his upward feet </l>
                         <l n="52-401">And pointed hands: and without moan he died. </l>
@@ -10734,7 +10838,8 @@ with the following:
                         <l n="52-424">There under all the little branches sweet </l>
                         <l n="52-425">The place was shapen of his burial; </l>
                         <l n="52-426">They shed thereon no thing funereal, </l>
-                        <l n="52-427">But coloured leaves of latter rose-blossom, </l>
+                        <l n="52-427">But <app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> leaves of latter rose-blossom, </l>
                         <l n="52-428">Stems of soft grass, some withered red and some </l>
                         <l n="52-429">Fair and fresh-blooded; and spoil splendider </l>
                         <l n="52-430">Of marigold and great spent sunflower.</l>
@@ -10756,7 +10861,8 @@ with the following:
                     <pb n="[308]" type="verso"/>
                     <lg>
                         <l n="52-439">She died of pure waste heart and weariness. </l>
-                        <l n="52-440">And for love's honour in her love's distress </l>
+                        <l n="52-440">And for love's <app><lem wit="#mc">honour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">honor</rdg></rdgGrp></app> in her love's distress </l>
                         <l n="52-441">This word was written over her tomb's <app><lem wit="#mc #hr #ny">head;</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">head</rdg></rdgGrp></app> </l>
                         <l n="52-442" >&#x201F;Here dead she lieth, for whose sake Love is dead.&#x201D;</l>
@@ -10795,7 +10901,8 @@ with the following:
                     <lg>
                         <l n="53-16">And fishers in the middle sea </l>
                         <l n="53-17" rend="ti-2">Did get thee sea-fish and sea-weeds </l>
-                        <l n="53-18">In colour like the robes on thee; </l>
+                        <l n="53-18">In <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app> like the robes on thee; </l>
                         <l n="53-19" rend="ti-2">And curious work of plaited reeds, </l>
                         <l n="53-20" rend="ti-2">And wools wherein live purple bleeds.</l>
                     </lg>
@@ -10818,7 +10925,8 @@ with the following:
                         <l n="53-32" rend="ti-2">His tabernacle being in thee, </l>
                         <l n="53-33">A witness through waste Asia; </l>
                         <l n="53-34" rend="ti-2">Thou wert a tent sewn cunningly </l>
-                        <l n="53-35" rend="ti-2">With gold and colours of the sea.</l>
+                        <l n="53-35" rend="ti-2">With gold and <app><lem wit="#mc">colours</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colors</rdg></rdgGrp></app> of the sea.</l>
                     </lg>
                     <lg>
                         <l n="53-36">God gave thee gracious ministers </l>
@@ -10894,7 +11002,8 @@ with the following:
                     </lg>
                     <lg>
                         <l n="53-81">Because of shapes on either wall </l>
-                        <l n="53-82" rend="ti-2">Sea-coloured from some rare blue shell </l>
+                        <l n="53-82" rend="ti-2">Sea-<app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> from some rare blue shell </l>
                         <l n="53-83">At many a Tyrian interval, </l>
                         <l n="53-84" rend="ti-2">Horsemen on horses, girdled well, </l>
                         <l n="53-85" rend="ti-2">Delicate and desirable,</l>
@@ -10980,7 +11089,8 @@ with the following:
                         <l n="53-132" rend="ti-2">Her windows beautiful for glass </l>
                         <l n="53-133">That she had made her bed between: </l>
                         <l n="53-134" rend="ti-2">Yea, for pure lust her body was </l>
-                        <l n="53-135" rend="ti-2">Made like white summer-coloured grass.</l>
+                        <l n="53-135" rend="ti-2">Made like white summer-<app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> grass.</l>
                     </lg>
                     <lg>
                         <l n="53-136">Her raiment was a strong man's spoil; </l>
@@ -11019,7 +11129,8 @@ with the following:
                         <l n="54-3" rend="ti-1">Pale as the duskiest lily's leaf or head, </l>
                         <l n="54-4">Smooth-skinned and dark, with bare throat made to bite, </l>
                         <l n="54-5">Too wan for blushing and too warm for white, </l>
-                        <l n="54-6" rend="ti-1">But perfect-coloured without white or red. </l>
+                        <l n="54-6" rend="ti-1">But perfect-<app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> without white or red. </l>
                         <l n="54-7" rend="ti-1">And her lips opened amorously, and said&#x2014; </l>
                         <l n="54-8">I wist not what, saving one word&#x2014;Delight. </l>
                         <l n="54-9">And all her face was honey to my mouth, </l>
@@ -11285,7 +11396,8 @@ with the following:
                     </lg>
                     <lg>
                         <l n="57-3">The first curse was in his mouth, </l>
-                        <l n="57-4">Made of grave's mould and deadly <app><lem wit="#mc">drouth.</lem>
+                        <l n="57-4">Made of grave's <app><lem wit="#mc">mould</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">mold</rdg></rdgGrp></app> and deadly <app><lem wit="#mc">drouth.</lem>
                             <rdgGrp type="a"><rdg wit="#sp">drouth;</rdg></rdgGrp></app> </l>
                     </lg>
                     <lg>
@@ -11801,7 +11913,8 @@ with the following:
                     <pb n="[338]" type="verso"/>
                     <lg>
                         <l n="61-17">The second, with low patient brows </l>
-                        <l n="61-18">Bound under aspen-coloured boughs </l>
+                        <l n="61-18">Bound under aspen-<app><lem wit="#mc">coloured</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colored</rdg></rdgGrp></app> boughs </l>
                         <l n="61-19">And eyes made strong and grave with sleep </l>
                         <l n="61-20">And yet too weak to weep&#x2014; </l>
                     </lg>
@@ -11819,7 +11932,8 @@ with the following:
                     </lg>
                     <lg>
                         <l n="61-29">The fourth, with lips whereon has bled </l>
-                        <l n="61-30">Some great pale fruit's slow colour, shed </l>
+                        <l n="61-30">Some great pale fruit's slow <app><lem wit="#mc">colour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">color</rdg></rdgGrp></app>, shed </l>
                         <l n="61-31">From the rank <app><lem wit="#mc">bitten</lem>
                         <rdgGrp type="substantive"><rdg wit="#mu #ny #hr #cw #e">bitten</rdg></rdgGrp></app> husk whence drips </l>
                         <l n="61-32">Faint blood between her lips&#x2014; </l>
@@ -11859,7 +11973,8 @@ with the following:
                         <l n="62-3">They are many, but my gift is single, </l>
                         <l n="62-4" rend="ti-1">My verses, the <app><lem wit="#mc #hr #cw #e">firstfruits</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny">first-fruits</rdg></rdgGrp></app> of me. </l>
-                        <l n="62-5">Let the wind take the green and the grey leaf, </l>
+                        <l n="62-5">Let the wind take the green and the <app><lem wit="#mc">grey</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">gray</rdg></rdgGrp></app> leaf, </l>
                         <l n="62-6" rend="ti-1">Cast forth without fruit upon air; </l>
                         <l n="62-7">Take rose-leaf and vine-leaf and bay-leaf </l>
                         <l n="62-8" rend="ti-1">Blown loose from the hair.</l>
@@ -11928,9 +12043,11 @@ with the following:
                         <l n="62-50" rend="ti-1">Is there hearing for songs that recede,</l>
                         <l n="62-51">Tunes touched from a harp with man's fingers </l>
                         <l n="62-52" rend="ti-1">Or blown with boy's mouth in a reed? </l>
-                        <l n="62-53">Is there place in the land of your labour, </l>
+                        <l n="62-53">Is there place in the land of your <app><lem wit="#mc">labour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">labor</rdg></rdgGrp></app>, </l>
                         <l n="62-54" rend="ti-1">Is there room in your world of delight, </l>
-                        <l n="62-55">Where change has not sorrow for neighbour </l>
+                        <l n="62-55">Where change has not sorrow for <app><lem wit="#mc">neighbour</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">neighbor</rdg></rdgGrp></app> </l>
                         <l n="62-56" rend="ti-1">And day has not night?</l>
                     </lg>
                     <lg>
@@ -11945,7 +12062,8 @@ with the following:
                         <l n="62-64" rend="ti-1">And loves without stain?</l>
                     </lg>
                     <lg>
-                        <l n="62-65">In a land of clear colours and stories, </l>
+                        <l n="62-65">In a land of clear <app><lem wit="#mc">colours</lem>
+                            <rdgGrp type="a"><rdg wit="#ny">colors</rdg></rdgGrp></app> and stories, </l>
                         <l n="62-66" rend="ti-1">In a region of shadowless hours, </l>
                         <l n="62-67">Where earth has a garment of glories </l>
                         <l n="62-68" rend="ti-1">And a murmur of musical flowers; </l>
