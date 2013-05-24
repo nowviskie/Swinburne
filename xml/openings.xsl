@@ -73,7 +73,8 @@
     </xsl:template>
     
     <xsl:template match="tei:app">
-        <xsl:value-of select="tei:lem"/>
+        <!-- TODO: handle full apparatus; currently only shows 'winner' -->
+        <xsl:apply-templates select="tei:lem"/>
     </xsl:template>
     
     <xsl:template match="tei:p">
@@ -84,12 +85,20 @@
         <blockquote><xsl:apply-templates /></blockquote>
     </xsl:template>
     
+    <xsl:template match="tei:epigraph">
+        <div class="epigraph"><xsl:apply-templates /></div>
+    </xsl:template>
+    
     <xsl:template match="tei:bibl">
         <div class="bibl"><xsl:apply-templates/></div>
     </xsl:template>
     
     <xsl:template match="tei:speaker">
         <div class="speaker"><xsl:apply-templates /></div>
+    </xsl:template>
+    
+    <xsl:template match="tei:dateline">
+        <div class="dateline"><xsl:apply-templates /></div>
     </xsl:template>
     
 </xsl:stylesheet>
