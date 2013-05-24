@@ -72,6 +72,9 @@
                         Special Collections, UVA. (Americanized spellings in a separate listing.)</witness>
                     <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
                         and Chadwyck-Healey electronic edition.</witness>
+                    <witness xml:id="sp"><hi>The Spectator</hi></witness>
+                    <witness xml:id="ow"><hi>Once A Week</hi></witness>
+                    <witness xml:id="cr"><hi>Catalogue of the Royal Academy Exhibition</hi></witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
