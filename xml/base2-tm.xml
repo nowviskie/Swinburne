@@ -72,6 +72,9 @@
                         Special Collections, UVA. (Americanized spellings in a separate listing.)</witness>
                     <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
                         and Chadwyck-Healey electronic edition.</witness>
+                    <witness xml:id="sp"><hi>The Spectator</hi></witness>
+                    <witness xml:id="ow"><hi>Once A Week</hi></witness>
+                    <witness xml:id="cr"><hi>Catalogue of the Royal Academy Exhibition</hi></witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
@@ -5491,20 +5494,25 @@
                         <lg>
                             <l n="32-1">
                                 <hi rend="sc">Push</hi> hard across the sand, </l>
-                            <l n="32-2" rend="ti-2">For the salt wind gathers breath; </l>
+                            <l n="32-2" rend="ti-2">For the salt wind gathers <app><lem wit="#mc">breath;</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">breath:</rdg></rdgGrp></app> </l>
                             <l n="32-3">Shoulder and wrist and hand, </l>
                             <l n="32-4" rend="ti-2">Push hard as the push of death.</l>
                         </lg>
                         <lg>
                             <l n="32-5">The wind is as iron that rings, </l>
-                            <l n="32-6" rend="ti-2">The foam-heads loosen and flee; </l>
-                            <l n="32-7">It swells and welters and swings, </l>
+                            <l n="32-6" rend="ti-2">The <app><lem wit="mc">foam-heads loosen and flee</lem>
+                            <rdgGrp type="s"><rdg wit="#sp">foam-beads loossen and flee:</rdg></rdgGrp></app> </l>
+                            <l n="32-7">It swells and welters and <app><lem wit="#mc">swings,</lem>
+                            <rdgGrp type="a"><rdg wit="#sp">swings</rdg></rdgGrp></app> </l>
                             <l n="32-8" rend="ti-2">The pulse of the tide of the sea.</l>
                         </lg>
                         <lg>
                             <l n="32-9">And up on the yellow cliff </l>
-                            <l n="32-10" rend="ti-2">The long corn flickers and shakes; </l>
-                            <l n="32-11">Push, for the wind holds stiff, </l>
+                            <l n="32-10" rend="ti-2">The long corn flickers and <app><lem wit="#mc">shakes;</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">shakes:</rdg></rdgGrp></app> </l>
+                            <l n="32-11"><app><lem wit="#mc">Push, for</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">Push! for</rdg></rdgGrp></app> the wind holds stiff, </l>
                             <l n="32-12" rend="ti-2">And the gunwale dips and rakes.</l>
                         </lg>
                         <lg>
@@ -5519,21 +5527,27 @@
                         <lg>
                             <l n="32-17">Out to the sea with her there, </l>
                             <l n="32-18" rend="ti-2">Out with her over the sand; </l>
-                            <l n="32-19">Let the kings keep the earth for their share! </l>
+                            <l n="32-19">Let the <app><lem wit="#mc">Kings</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">kings</rdg></rdgGrp></app> keep the earth for their share! </l>
                             <l n="32-20" rend="ti-2">We have done with the sharers of land.</l>
                         </lg>
                         <lg>
                             <l n="32-21">They have tied the world in a tether, </l>
-                            <l n="32-22" rend="ti-2">They have bought over God with a fee; </l>
+                            <l n="32-22" rend="ti-2"><app><lem wit="#mc">They have bought over God with a fee;</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">&#x2014;Have they bought over God with a fee?&#x2014;</rdg></rdgGrp></app> </l>
                             <l n="32-23">While three men hold together, </l>
                             <l n="32-24" rend="ti-2">The kingdoms are less by three.</l>
                         </lg>
                         <lg>
-                            <l n="32-25">We have done with the kisses that sting, </l>
-                            <l n="32-26" rend="ti-2">The thief's mouth red from the feast, </l>
+                            <l n="32-25">We have done with the kisses that <app><lem wit="#mc">sting,</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">sting;</rdg></rdgGrp></app> </l>
+                            <l n="32-26" rend="ti-2">The thief's mouth red from the <app><lem wit="#mc">feast,</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">feast;</rdg></rdgGrp></app> </l>
                             <l n="32-27">The blood on the hands of the <app><lem wit="#hr #mc #cw">king</lem>
-                            <rdgGrp type="accidental"><rdg wit="#ny">king,</rdg></rdgGrp></app> </l>
-                            <l n="32-28" rend="ti-2">And the lie at the lips of the priest.</l>
+                            <rdgGrp type="accidental"><rdg wit="#ny">king,</rdg>
+                            <rdg wit="#sp">King;</rdg></rdgGrp></app> </l>
+                            <l n="32-28" rend="ti-2"><app><lem wit="#mc">And the lie at</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">With the lie on</rdg></rdgGrp></app> the lips of the priest.</l>
                         </lg>
                         <lg>
                             <l n="32-29">Will they tie the winds in a tether, </l>
@@ -5542,16 +5556,24 @@
                             <l n="32-32" rend="ti-2">The kingdoms are less by three.</l>
                         </lg>
                         <lg>
-                            <l n="32-33">Let our flag run out straight in the wind! </l>
-                            <l n="32-34" rend="ti-2">The old red shall be floated again </l>
-                            <l n="32-35">When the ranks that are thin shall be thinned, </l>
-                            <l n="32-36" rend="ti-2">When the names that were twenty are ten;</l>
+                            <l n="32-33"><app><lem wit="#mc">Let our flag run out straight in the wind!</lem>
+                            <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 33-40 omitted</hi>]]</rdg></rdgGrp></app> </l>
+                            <l n="32-34" rend="ti-2"><app><lem wit="#mc">The old red shall be floated again</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 33-40 omitted</hi>]]</rdg></rdgGrp></app> </l>
+                            <l n="32-35"><app><lem wit="#mc">When the ranks that are thin shall be thinned,</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 33-40 omitted</hi>]]</rdg></rdgGrp></app> </l>
+                            <l n="32-36" rend="ti-2"><app><lem wit="#mc">When the names that were twenty are ten;</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 33-40 omitted</hi>]]</rdg></rdgGrp></app> </l>
                         </lg>
                         <lg>
-                            <l n="32-37">When the devil's riddle is mastered </l>
-                            <l n="32-38" rend="ti-2">And the galley-bench creaks with a Pope, </l>
-                            <l n="32-39">We shall see Buonaparte the bastard </l>
-                            <l n="32-40" rend="ti-2">Kick heels with his throat in a rope.</l>
+                            <l n="32-37"><app><lem wit="#mc">When the devil's riddle is mastered</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 33-40 omitted</hi>]]</rdg></rdgGrp></app> </l>
+                            <l n="32-38" rend="ti-2"><app><lem wit="#mc">And the galley-bench creaks with a Pope,</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 33-40 omitted</hi>]]</rdg></rdgGrp></app> </l>
+                            <l n="32-39"><app><lem wit="#mc">We shall see Buonaparte the bastard</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 33-40 omitted</hi>]]</rdg></rdgGrp></app> </l>
+                            <l n="32-40" rend="ti-2"><app><lem wit="#mc">Kick heels with his throat in a rope.</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 33-40 omitted</hi>]]</rdg></rdgGrp></app> </l>
                         </lg>
                     </div>
                 </div>
@@ -5559,23 +5581,35 @@
                     <div type="verso">
                         <pb n="[160]" type="verso"/>
                         <lg>
-                            <l n="32-41">While the shepherd sets wolves on his sheep </l>
-                            <l n="32-42" rend="ti-2">And the emperor halters his kine, </l>
-                            <l n="32-43">While Shame is a watchman asleep </l>
+                            <l n="32-41">While the <app><lem wit="#mc">shepherd</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">Shepherd</rdg></rdgGrp></app> sets wolves on his <app><lem wit="#mc">sheep</lem>
+                                    <rdgGrp type="a"><rdg wit="#sp">sheep,</rdg></rdgGrp></app> </l>
+                            <l n="32-42" rend="ti-2">And the <app><lem wit="#mc">emperor</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">Emperor</rdg></rdgGrp></app> halters his <app><lem wit="#mc">kine</lem>
+                                    <rdgGrp type="a"><rdg wit="#sp">kine;</rdg></rdgGrp></app> </l>
+                            <l n="32-43">While Shame is a watchman <app><lem wit="#mc">asleep</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">asleep,</rdg></rdgGrp></app> </l>
                             <l n="32-44" rend="ti-2">And Faith is a keeper of swine,</l>
                         </lg>
                         <lg>
                             <l n="32-45">Let the wind shake our flag like a feather, </l>
-                            <l n="32-46" rend="ti-2">Like the plumes of the foam of the sea! </l>
+                            <l n="32-46" rend="ti-2">Like the plumes of the foam of the <app><lem wit="#mc">sea!</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">sea;</rdg></rdgGrp></app> </l>
                             <l n="32-47">While three men hold together, </l>
-                            <l n="32-48" rend="ti-2">The kingdoms are less by three.</l>
+                            <l n="32-48" rend="ti-2">The kingdoms are less by <app><lem wit="#mc">three.</lem>
+                                <rdgGrp type="a"><rdg wit="#sp">three!</rdg></rdgGrp></app></l>
                         </lg>
                         <lg>
-                            <l n="32-49">All the world has its burdens to bear, </l>
-                            <l n="32-50" rend="ti-2">From Cayenne to the Austrian whips; </l>
-                            <l n="32-51">Forth, with the rain in our hair </l>
-                            <l n="32-52" rend="ti-2">And the salt sweet foam in our <app><lem wit="#hr #mc #cw">lips;</lem>
-                                <rdgGrp type="accidental"><rdg wit="#ny">lips</rdg></rdgGrp></app></l>
+                            <l n="32-49"><app><lem wit="#mc">All the world has its burdens to bear,</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 49-52 omitted</hi>]]</rdg></rdgGrp></app> </l>
+                            <l n="32-50" rend="ti-2"><app><lem wit="#mc">From Cayenne to the Austrian whips;</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 49-52 omitted</hi>]]</rdg></rdgGrp></app> </l>
+                            <l n="32-51"><app><lem wit="#mc">Forth, with the rain in our hair</lem>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 49-52 omitted</hi>]]</rdg></rdgGrp></app> </l>
+                            <l n="32-52" rend="ti-2"><app><lem wit="#hr #mc #cw">And the salt sweet foam from our lips;</lem>
+                                <rdgGrp type="accidental"><rdg wit="#ny">And the salt sweet foam from our lips</rdg></rdgGrp>
+                                <rdgGrp type="s"><rdg wit="#sp">[[<hi>lines 49-52 omitted</hi>]]</rdg></rdgGrp></app>
+                                </l>
                         </lg>
                         <lg>
                             <l n="32-53">In the teeth of the hard glad weather, </l>
@@ -11405,7 +11439,8 @@
                 </div>
                 <div type="recto">
                     <pb n="[329]" type="recto"/>
-                    <head rend="center" n="59">THE BLOODY SON.</head><!-- <l n="59-x"> -->
+                    <head rend="center" n="59"><app><lem wit="#mc">THE BLOODY SON.</lem>
+                    <rdgGrp type="s"><rdg wit="ow">THE FRATRICIDE</rdg></rdgGrp></app></head><!-- <l n="59-x"> -->
                     <head rend="center x-small">(FINNISH.)</head>
                     <lg>
                         <l n="59-1">
