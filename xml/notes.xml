@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI
+  xmlns:xi="http://www.w3.org/2001/XInclude"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML"
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <note target="#1">
+          <p>
+          A Ballad of Life. Written in 1862, published in PBi. The poem is another pastiche work, in this
+          case a kind of dramatic monologue in that we are to imagine it as having been written by —and
+          perhaps, then, here "translated" from —a court poet of Lucrezia Borgia, someone like the Ta-
+          baldeo Tebaldei ACS invented as the author of his remarkable "Chronicle" (see excerpts below)
+          written at the same time as this work. The poem is an Italian canzone and was clearly inspired
+          by ACS's reading of D. G. Rossetti's volume The Early Italian Poets (1861), one of the great works
+          of English verse translation. ACS's fascination with Lucrezia Borgia was fed by his reading of
+          Landor ("On Seeing a Hair of Lucretia Borgia"), Hugo (Lucrèce Borgia), and Dumas (Crimes
+          Célèbres).
+          </p>
+        </note>
+        
+        <note target="#3">
+          <p>
+            Laus Veneris. Written 1863, published in PBi. Given ACS's explication of his poem in the Notes
+            on Poems and Reviews, the title, "praise of Venus" would have to be ironical. Based on the me-
+            dieval German legend of Venus and Tannhauser, the dramatic monologue is spoken by
+            Tannhauser after he has returned to Venus's Horselberg following his pilgrimage to Rome to
+            seek absolution from Pope Urban IV (1216-64). The poem is composed in the stanza of Fitzger-
+            ald's Rubaiyat, which Rossetti had been enthusiastically promoting since i860, when he found
+            a copy by accident. Walder (chapter 9) regards the poem as thoroughly Baudelaircan and speci-
+            fically in debt to Baudelaire's pamphlet Richard Wagner et Tannhauser in Paris (1861), although
+            ACS asserted in his Notes on Poems and Reviews that the poem was finished before he received a
+            copy of the pamphlet from Baudelaire.
+          </p>
+          <list>
+            <item n="3-133">133 Adonis: beloved of Venus, he was slain by a boar. See Ovid's Metamorphoses X. 298ff. for the story</item>
+            <item n="3-195">195 for her sake: Helen of Troy</item>
+            <item n="3-198">198 The queen: Cleopatra</item>
+            <item n="3-200">200 Semiramis: semilegendary queen of ancient Assyria, infamous for her sexual appetites</item>
+            <item n="3-253">253 bitter love: the love of Christ</item>
+            <item n="3-198">284 the Dove: the Christian Holy Ghost</item>
+            <item n="3-299">299 bay-leaf: the laurel, traditional crown for the poet</item>
+            <item n="3-355:3-356">355-56 See Jeremiah 13:23.</item>
+            <item n="3-357:3-368">357 - 68 Compare Baudelaire, "Correspondances," 5-14.</item>
+            <item n="3-391">391 Venus was born from sea-foam, according to legend.</item>
+            <item n="3-417">417 referring to the legend of the Christian Last Judgment</item>
+            <item n="3-425">425 A pastiche of a medieval formula for closing a text, it means "The Praise of Venus is
+              finished." ACS is clearly using it here ironically, as a satirical comment on social orders domi-
+              nated by the "bitter love" of Christianity.</item>
+          </list>
+        </note>
+      </div>
+    </body>
+  </text>
+</TEI>

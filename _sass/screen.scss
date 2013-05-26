@@ -4,9 +4,68 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
 @import "compass/reset";
+@import "susy";
 
-@import url(http://fonts.googleapis.com/css?family=Prata);
+@import "base";
 
 
+
+@import url(http://fonts.googleapis.com/css?family=Prata|Adamina);
+
+#container {
+
+  /*font-size: 0.9em;*/
+
+  @include container;
+
+  .opening {
+
+    margin-bottom: 2em;
+
+    line-height: 2em;
+    font-family: 'Adamina', serif;
+    clear: both;
+    border-bottom: 1px solid #ccc;
+
+    h1 {
+      padding-top: 7em;
+      padding-bottom: 2em;
+    }
+
+    blockquote {
+      font-size: 0.8em;
+    }
+
+    .bibl {
+      font-size: 0.8em;
+      text-align: center;
+      padding-top: 2em;
+    }
+
+    .verso { @include span-columns(6, 12); }
+    .recto { @include span-columns(6 omega, 12); }
+
+    .ti-1 { margin-left: 2em; }
+    .ti-2 { margin-left: 4em; }
+    .ti-3 { margin-left: 6em; }
+    .ti-4 { margin-left: 8em; }
+
+    .linegroup { padding-bottom: 1.6em; }
+    .speaker { font-weight: bold; padding-bottom: 1.2em; }
+
+    /*rend instructions*/
+    .block {  }
+    .bold { font-weight: bold; }
+    .center { text-align: center; }
+    .i { font-style: italic; }
+    .justify { text-align: justify; text-justify: inter-word; }
+    .right { text-align: right; }
+    .sc { font-variant: small-caps }
+    .super, .n { vertical-align: super; font-size: 0.8em; }
+    .x-small { font-size: 0.8em }
+
+
+  }
+}
 
 
