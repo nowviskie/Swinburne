@@ -72,7 +72,7 @@
                         Special Collections, UVA. (Americanized spellings in a separate listing.)</witness>
                     <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
                         and Chadwyck-Healey electronic edition.</witness>
-                    <witness xml:id="sp"><hi>The Spectator</hi></witness>
+                    <witness xml:id="sp"><hi>The <emph>Spectator</emph></hi></witness>
                     <witness xml:id="ow"><hi>Once A Week</hi></witness>
                     <witness xml:id="cr"><hi>Catalogue of the Royal Academy Exhibition</hi></witness>
                 </listWit>
@@ -111,6 +111,66 @@
                     “The Bloody Son”published as “The Fratricide,” in <hi>Once a Week</hi></p>
                 <p><date when="18620426">Apr. 26</date><lb/>
                     “A Song in Time of Order” published in the <hi>Spectator</hi></p>
-            </div></div>
+                    <p><date when="18620517">May 17</date><lb/>
+                        “Before Parting” published in the <emph>Spectator</emph></p>
+                    <p><date when="18620524">May 24</date><lb/>
+                        “After Death” published in the <emph>Spectator</emph></p>
+                    <p><date when="18620531">May 31</date><lb/>
+                        “Faustine” published in the <emph>Spectator</emph></p>
+                    <p><date when="18620621">June 21</date><lb/>
+                        “<emph>Les Miserables</emph>. Part II and III” published in the <emph>Spectator</emph></p>
+                    <p><date when="18620628">June 28</date><lb/>
+                        “A Song in time of Revolution — 1860” published in the <emph>Spectator</emph></p>
+                    <p><date when="18620726">July 26</date><lb/>
+                        “The Sundew” published in the <emph>Spectator</emph></p>
+                    <p><date when="18620816">Aug. 16</date><lb/>
+                        “<emph>Les Miserables</emph>. Part IV and IV” published in the <emph>Spectator</emph></p>
+                    <p><date when="18620906">Sept. 6</date><lb/>
+                        “August” and a review of Baudelaire’s <emph>Les Fleurs du Mal</emph> published in the
+                        <emph>Spectator</emph></p>
+            </div>
+                <div><head><date when="18640000">1864</date></head>
+                    <p><emph>The Pilgrimage of Pleasure</emph>, a verse morality-play, published anonymously in Mary
+                        Gordon’s novel, <emph>The Children of the Chapel</emph></p></div>
+                <div><head>1865</head>
+                    <p><date when="18650000">1865</date><lb/>
+                        “Gentle Spring” and “Before the Mirror” (accompanying Whistler’s picture, “The Little
+                        White Girl”) published in the <emph>Catalogue of the Royal Academy Exhibition</emph></p>
+                    <p><date when="18650300">March</date><lb/>
+                        publication of <emph>Atalanta in Calydon</emph> by Edward Moxon and Co.</p>
+                    <p><date when="18650700">July</date><lb/>
+                        great success of <emph>Atalanta</emph> requires second edition</p>
+                    <p><date when="18651100">November</date><lb/>
+                        publication of <emph>Chastelard</emph>, the first in the Mary Stuart Trilogy,
+                        by Edward Moxon and Co.</p>
+            </div>
+                <div><head>1866</head>
+                <p><date when="18660200">February</date><lb/>
+                    <emph>A Selection from the Works of Lord Byron</emph>, with a preface, published by
+                    Edward Moxon and Co.</p>
+                    <p><date when="18660000">Spring</date><lb/>
+                        <emph>Poems and Ballads</emph> printed by Moxon and Co. (<emph>MU</emph>) Swinburne orders
+                        several corrections, made by hand and with the use of cancel leaves (<emph>MC</emph>). <emph>Laus Veneris: and Other Poems and Ballads</emph> (<emph>NY</emph>) published in America by Carleton and Co. This partly-pirated edition set from uncorrected Moxon proofs (<emph>MU</emph>).</p>
+                    <p><date when="18660725">July 25</date><lb/>
+                        <emph>Poems and Ballads</emph> (<emph>MC</emph>) published by Edward Moxon and Co. The
+                        volume immediately begins to receive negative reviews.</p>
+                    <p><date when="18660810">August 10</date><lb/>
+                        <emph>Poems and Ballads</emph> withdrawn from publication by Moxon.</p>
+                    <p><date when="18660900">September</date><lb/>
+                        John Hotten re-issues <emph>Poems and Ballads</emph> using Moxon’s remaining stock
+                        (<emph>HM</emph>). “Cleopatra” published in the <emph>Cornhill Magazine</emph></p>
+                    <p><date when="18661000">October</date><lb/>
+                        William Michael Rossetti’s defense, <emph>Swinburne’s Poems and Ballads: A
+                            Criticism</emph>, published by Hotten. Swinburne’s <emph>Notes on Poems and Reviews</emph> published by
+                        Hotten</p>
+                    <p><date when="18661103">November 3</date><lb/>
+                        Carleton publishes an American edition (<emph>NY</emph>) set from faulty Moxon
+                        Uncorrected (<emph>MU</emph>) proofs.</p>
+                    <p><date when="18661124">November 24</date><lb/>
+                        Hotten runs out of Moxon remainders and issues a reprint of Poems and
+                        Ballads (<emph>HR</emph>). Further editions in 1868, 1871, and 1873 (both by Hotten and Chatto. Chatto and Windus’ <emph>Complete Swinburne</emph> appears in 1904.)</p>
+                    </div>
+            </div>
         </body>
+        
     </text></TEI>
