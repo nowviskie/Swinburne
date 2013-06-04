@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" 
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poems and Ballads, 1866</title>
+                <author xml:id="ACS">Algernon Charles Swinburne</author>
+                <editor role="general" xml:id="BN">Bethany Nowviskie</editor>
+                <editor role="technical" xml:id="WG">Wayne Graham</editor>
+                <sponsor>Scholars' Lab, University of Virginia Library</sponsor>
+                <principal>Bethany Nowviskie</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.9">
+                    <title>work-in-progress</title>
+                    <date when="2012-05-27">21 May 2013</date>
+                </edition>
+                <respStmt><resp>additional annotations provided by </resp><name xml:id="JJM">Jerome J. McGann and Charles Sligh</name></respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Bethany Nowviskie</authority>
+                <availability status="free">
+                    <p>Made freely available under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0</ref> license.</p>
+                </availability>
+                <date when="2012">2012</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Algernon Charles Swinburne</author>
+                        <title>Poems and Ballads.</title>
+                        <imprint>
+                            <pubPlace>London</pubPlace>
+                            <publisher>Edward Moxon and Co.</publisher>
+                            <date when="1866">1866</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>University of Virginia</institution>
+                        <repository>Albert and Shirley Small Special Collections Library</repository>
+                        <idno>PR5506 .P6 1866b (Copy 1; Robert and Virginia Tunstall Trust Fund.)</idno>
+                        <msName>Moxon Corrected Edition (MC)</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <collation>
+                                    <formula>8, [2], vii, [1], 344 p. ; 18 cm. (8vo)</formula>
+                                </collation>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc><p>Original green cloth, stamped in gold and blind.</p></bindingDesc>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness xml:id="mu">Initial printing, Moxon 1866 with printer’s errors (Not yet collated.
+                        Any information re: this volume comes from collations by T. J. Wise and my examination of E). 
+                        True MUs reported in libraries of Mark Samuels Lasner and Cecil Lang.</witness>
+                    <witness xml:id="mc">Same edition as MU with errors detected by ACS corrected, 1866. Examined: UVA
+                        Special Collections and library of Jerome J. McGann. </witness>
+                    <witness xml:id="hm">Moxon remainders with Hotten title-page inserted. Initially found no variants between
+                        UVA Special Collections copy and MC (therefore HMC), but Nowviskie HM copy varies. To disentangle.</witness>
+                    <witness xml:id="e">Emory copy, a potential HMU (Moxon Uncorrected with Hotten’s title page tipped in), later re-bound. 
+                        NB variants 1.4 and 146.5 – my only witness so far to those readings.</witness>
+                    <witness xml:id="hr">First Hotten reprint set from MU 1866, with additional errors. Examined: Library of Jerome J. McGann.</witness>
+                    <witness xml:id="ny">Carleton/Moxon “Author’s Edition” 1866 (set from MU with spelling
+                        Americanized, punctuation regularized, and additional errors). Examined: Alderman Library and
+                        Special Collections, UVA. (Americanized spellings in a separate listing.)</witness>
+                    <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
+                        and Chadwyck-Healey electronic edition.</witness>
+                    <witness xml:id="sp"><hi>The Spectator</hi></witness>
+                    <witness xml:id="ow"><hi>Once A Week</hi></witness>
+                    <witness xml:id="cr"><hi>Catalogue of the Royal Academy Exhibition</hi></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Work toward a critical edition, tracing the re-introduction of errors identified and corrected by Swinburne in the 1866 Moxon Corrected edition, into subsequent Hotten, Carleton, and Chatto &amp; Windus texts.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>Page signatures and running headers have not been reproduced.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <p>All variants, accidental and substantive, are encoded here&#x2014;with the exception of Americanized spellings in the New York (Carleton) edition, noted separately.</p>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <gap>
+                <desc>All front matter (including advertisements, half title, title, dedication, and table of contents) has been temporarily omitted.</desc>
+            </gap>
+        </front>
+        <body>
+            <!-- notes:
+                    - do we want links from works mentioned in the timeline to the relevant text?-->
+            <div><head>Publication History</head>
+                <p><date when="18601200">Dec. 1860</date><lb/>
+                    Publication of two verse-plays, <hi>The Queen Mother</hi> and <hi>Rosamond</hi>, by Basil Montague Pickering. Immediately withdrawn and re-issued by Edward Moxon and Co.</p>
+                <p><date when="18620412">Apr. 12 1862</date><lb/><!-- double-check this date? - tm -->
+                    “Victor Hugo’s New Novel” [review of <hi>Les Miserables</hi>] published in the
+                    <hi>Spectator</hi></p>
+                <p><date when="18620215">Feb. 15 1862</date><!-- double-check this date? - tm -->
+                    “The Bloody Son”published as “The Fratricide,” in <hi>Once a Week</hi></p>
+            </div>
+        </body>
+    </text></TEI>
