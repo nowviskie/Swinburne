@@ -2494,9 +2494,9 @@
                         <cit>
                             <quote xml:lang="grc" rend="block">
                                 <lg>
-                                    <!-- Fix this!!! -->
-                                    <l n="9-1" rend="ti-1">τίνος αὖ τὺ πειθοῖ</l>
-                                    <l n="9-2">μάψ σαγηνεύσας φιλότατα;</l>
+                                    <!-- Fix this!!! --><!-- changed epigraph n numbers to 01, 02 -tm -->
+                                    <l n="9-01" rend="ti-1">τίνος αὖ τὺ πειθοῖ</l>
+                                    <l n="9-02">μάψ σαγηνεύσας φιλότατα;</l>
                                 </lg>
                             </quote>
                             <bibl rend="sc">Sappho.</bibl>
@@ -4338,11 +4338,11 @@
                         <pb n="[122]" type="verso"/>
                         <head rend="center" n="21">FAUSTINE.</head><!-- <l n="21-x"> -->
                         <epigraph>
-                            <p rend="center i">
+                            <l rend="center i" n="21-">
                                 <app><lem wit="#mc"></lem>
                                     <rdgGrp type="substantive"><rdg wit="#sp"><foreign xml:lang="lat" rend="i"> Ave Faustina Imperatrix, morituri te
                                         salutant.</foreign></rdg></rdgGrp></app>
-                            </p>
+                            </l>
                         </epigraph>
                         <lg>
                             <l n="21-1">
