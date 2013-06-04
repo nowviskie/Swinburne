@@ -100,13 +100,17 @@
             <!-- notes:
                     - do we want links from works mentioned in the timeline to the relevant text?-->
             <div><head>Publication History</head>
-                <p><date when="18601200">Dec. 1860</date><lb/>
-                    Publication of two verse-plays, <hi>The Queen Mother</hi> and <hi>Rosamond</hi>, by Basil Montague Pickering. Immediately withdrawn and re-issued by Edward Moxon and Co.</p>
-                <p><date when="18620412">Apr. 12 1862</date><lb/><!-- double-check this date? - tm -->
+                <div><head>1860</head>
+                <p><date when="18601200">Dec.</date><lb/>
+                    Publication of two verse-plays, <hi>The Queen Mother</hi> and <hi>Rosamond</hi>, by Basil Montague Pickering. Immediately withdrawn and re-issued by Edward Moxon and Co.</p></div>
+                <div><head>1862</head>
+                <p><date when="18620412">Apr. 12</date><lb/><!-- double-check this date? - tm -->
                     “Victor Hugo’s New Novel” [review of <hi>Les Miserables</hi>] published in the
                     <hi>Spectator</hi></p>
-                <p><date when="18620215">Feb. 15 1862</date><!-- double-check this date? - tm -->
+                <p><date when="18620215">Feb. 15</date><lb/><!-- double-check this date? - tm -->
                     “The Bloody Son”published as “The Fratricide,” in <hi>Once a Week</hi></p>
-            </div>
+                <p><date when="18620426">Apr. 26</date><lb/>
+                    “A Song in Time of Order” published in the <hi>Spectator</hi></p>
+            </div></div>
         </body>
     </text></TEI>
