@@ -98,7 +98,7 @@
         </front>
         <body>
             <!-- notes:
-                    - do we want links from works mentioned in the timeline to the relevant text?-->
+                    - do we want links from works mentioned in the timeline to the relevant texts?-->
             <div><head>Publication History</head>
                 <div><head>1860</head>
                 <p><date when="18601200">Dec.</date><lb/>
@@ -108,7 +108,7 @@
                     “Victor Hugo’s New Novel” [review of <hi>Les Miserables</hi>] published in the
                     <hi>Spectator</hi></p>
                 <p><date when="18620215">Feb. 15</date><lb/><!-- double-check this date? - tm -->
-                    “The Bloody Son”published as “The Fratricide,” in <hi>Once a Week</hi></p>
+                    “The Bloody Son” published as “The Fratricide,” in <hi>Once a Week</hi></p>
                 <p><date when="18620426">Apr. 26</date><lb/>
                     “A Song in Time of Order” published in the <hi>Spectator</hi></p>
                     <p><date when="18620517">May 17</date><lb/>
