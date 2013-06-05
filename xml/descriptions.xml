@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" 
+    xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poems and Ballads, 1866</title>
+                <author xml:id="ACS">Algernon Charles Swinburne</author>
+                <editor role="general" xml:id="BN">Bethany Nowviskie</editor>
+                <editor role="technical" xml:id="WG">Wayne Graham</editor>
+                <sponsor>Scholars' Lab, University of Virginia Library</sponsor>
+                <principal>Bethany Nowviskie</principal> 
+            </titleStmt>
+            <editionStmt>
+                <edition n="0.9">
+    <title>work-in-progress</title>
+    <date when="2012-05-27">21 May 2013</date>
+                </edition>
+                <respStmt><resp>additional annotations provided by </resp><name xml:id="JJM">Jerome J. McGann and Charles Sligh</name></respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Bethany Nowviskie</authority>
+                <availability status="free">
+    <p>Made freely available under a <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0</ref> license.</p>
+                </availability>
+                <date when="2012">2012</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+    <monogr>
+        <author>Algernon Charles Swinburne</author>
+        <title>Poems and Ballads.</title>
+        <imprint>
+            <pubPlace>London</pubPlace>
+            <publisher>Edward Moxon and Co.</publisher>
+            <date when="1866">1866</date>
+        </imprint>
+    </monogr>
+                </biblStruct>
+<msDesc>
+    <msIdentifier>
+        <institution>University of Virginia</institution>
+        <repository>Albert and Shirley Small Special Collections Library</repository>
+        <idno>PR5506 .P6 1866b (Copy 1; Robert and Virginia Tunstall Trust Fund.)</idno>
+        <msName>Moxon Corrected Edition (MC)</msName>
+    </msIdentifier>
+    <physDesc>
+        <objectDesc>
+            <supportDesc>
+                <collation>
+                    <p>POEMS AND BALLADS. / BY / ALGERNON CHARLES SWINBURNE. / LONDON: / EDWARD MOXON &#x0026; CO., DOVER STREET. / 1866.</p>
+                    <p>Identical to MU in all respects except for the insertion of cancel-leaves (B1, B2, B3, B6,             E7, I2, N7, P3, Q3, T3, T7, U3, X5, Y4, and Z1) and the appearance of hand-corrections             to punctuation within the text (see Historical Collation).</p>
+                </collation>
+            </supportDesc>
+        </objectDesc>
+        <bindingDesc><p>***DUMMY TEXT UNTIL FURTHER NOTICE</p></bindingDesc>
+    </physDesc>
+</msDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>University of Virginia</institution>
+                        <repository>Albert and Shirley Small Special Collections Library</repository>
+                        <idno></idno>
+                        <msName>Moxon Uncorrected Edition (MU)</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <collation>
+                                    <p>POEMS AND BALLADS. / BY / ALGERNON CHARLES SWINBURNE. / LONDON: / EDWARD MOXON &#x0026; CO., DOVER STREET. / 1866.</p>
+                                    <p>Foolscap ocatvo, pp.vii + 344; consisting of title-page with imprint “London: / Bradbury, Evans, and Co., Printers, Whitefriars” on center of verso, pp i-ii; dedication-page (“TO / MY FRIEND / EDWARD BURNE JONES / THESE POEMS / ARE AFFECTIONATELY AND ADMIRINGLY / DEDICATED.”) with blank verso, pp. iii-iv; table of contents, pp. v-vii; blank verso of vii; text of the poems, pp. 1-344, including a separate fly-title to “Laus Veneris” with its french epigraph on the verso. Head-lines throughout with poem titles. Page 10 is blank. Printer’s imprint repeated at foot of page 344. Signatures at bottom right: A (4 leaves), B-Y (21 sheets, each 8 leaves) and Z (4 leaves). No half-title page. Leaf N3 cancelled in press. Smaller type employed for two stanzas on page 222. Eight pages of Moxon’s advertisements for Swinburne publications bound in a separate quire before title-page: “ATALANTA. / BY ALGERNON C. SWINBURNE. / Fcap. 8vo, cloth, 6s. / EDWARD MOXON &#x0026; CO. / [single rule] / OPINIONS OF THE PRESS.” followed by 13 excerpted reviews and “CHASTELARD. / BY ALGERNON C. SWINBURNE. / Fcap. 8vo, cloth, 6s. / EDWARD MOXON &#x0026; CO. / [single rule] / OPINIONS OF THE PRESS.” followed by 18 excerpted reviews. Green, straight-grained cloth boards. Stamped ornament (publisher’s monogram) on front and gilt lettering on spine: POEMS / &#x0026; / BALLADS / SWINBURNE / LONDON / MOXON. Leaves measure 6 e x 4c inches.
+                                    </p>
+                                    <formula>8, [2], vii, [1], 344 p. ; 18 cm. (8vo)</formula><!-- is this still necessary? - tm -->
+                                </collation>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc><p>***DUMMY TEXT UNTIL FURTHER NOTICE</p></bindingDesc><!-- is this still necessary? - tm -->
+                    </physDesc>
+                </msDesc>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <institution>University of Virginia</institution>
+                        <repository>Albert and Shirley Small Special Collections Library</repository>
+                        <idno></idno>
+                        <msName>Moxon remainders with Hotten title-page inserted. HM</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <collation>
+                                    <p>POEMS AND BALLADS. / BY / ALGERNON CHARLES SWINBURNE. / LONDON: / JOHN CAMDEN HOTTEN, PICADILLY. / 1866.</p>
+                                    <p>Identical to MC in all respects except for the removal of the Moxon title-page and advertisements and the insertion of Hotten’s half-title (POEMS AND BALLADS.) and title page as above. (Wise records that some states of this issue contain faulty sheets cancelled at the time of the MC corrections.)</p>
+                                </collation>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc><p>***DUMMY TEXT UNTIL FURTHER NOTICE</p></bindingDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <institution>University of Virginia</institution>
+                        <repository>Albert and Shirley Small Special Collections Library</repository>
+                        <idno></idno>
+                        <msName>Emory copy.</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <collation>
+                                    
+                                </collation>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc><p>***DUMMY TEXT UNTIL FURTHER NOTICE</p></bindingDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <institution>University of Virginia</institution>
+                        <repository>Albert and Shirley Small Special Collections Library</repository>
+                        <idno></idno>
+                        <msName>Hotten Reprint. HR</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <collation>
+                                    <p>POEMS AND BALLADS. / BY / ALGERNON CHARLES SWINBURNE. / LONDON: / JOHN CAMDEN HOTTEN, PICADILLY. / 1866.</p>
+                                    <p>Crown octavo, viii + 344. Half-title with blank verso pp. i-ii; title-page with imprint “London: / Savill and Edwards, Printers, Chandos Street, / Covent Garden” at center of verso, pp. iii-iv; dedication (as in MC) with blank verso, pp. v-vi; table of contents, pp. vii-viii. No printer’s imprint (as in MC) at foot of page 344. Signatures appear at center of leaves. Type on page 222 all of a uniform size. This edition appears to have been set from the faulty MU text, with errors re-introduced. Green, straight-grained cloth boards with gilt lettering on binding: POEMS / &#x0026; / BALLADS / SWINBURNE. </p>
+                                    <p>First Hotten reprint set from MU 1866, with additional errors. Examined: Library of Jerome J. McGann</p>
+                                </collation>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc><p>Original green cloth, stamped in gold and blind.</p></bindingDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <institution>University of Virginia</institution>
+                        <repository>Albert and Shirley Small Special Collections Library</repository>
+                        <idno></idno>
+                        <msName>Carleton/Moxon “Author’s Edition” 1866. NY</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <collation>
+                                    <p>LAUS VENERIS, / AND OTHER / POEMS AND BALLADS. / BY / ALGERNON CHARLES SWINBURNE. / [publisher’s monogram] / NEW YORK / Carleton, Publisher, 413 Broadway. / LONDON: MOXON &#x0026; CO. / MDCCCLXVI.</p>             
+                                    <p>Crown octavo, pp. viii + 328. Title-page as above with “AUTHOR’S EDITION” at center of verso, i-ii; dedication-page as in MC but with type-face elaboration and wood-cut of a book in chains on verso; “Laus Veneris” re-positioned as first poem in volume with separate fly-title and wood-cut of a lyre on verso; wood-cut of a nesting bird facing page 31. Signatures (2-21) positioned at center. Headlines with poem-titles throughout; error in head-line for “Rococo,” page 131. Maroon cloth boards, indigo edging, gilt lettering (“LAUS VENERIS” [in swirl scrolls]) on face and spine: “LAUS VENERIS [in swirl scrolls] / SWINBURNE / CARLETON / NEW YORK.”</p>
+                                    <p>(set from MU with spelling
+                                        Americanized, punctuation regularized, and additional errors). Examined: Alderman Library and
+                                        Special Collections, UVA. (Americanized spellings in a separate listing.)</p>
+                                </collation>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc><p>Original green cloth, stamped in gold and blind.</p></bindingDesc><!-- is this still necessary? - tm -->
+                    </physDesc>
+                </msDesc>
+                
+                <msDesc>
+                    <msIdentifier>
+                        <institution>University of Virginia</institution>
+                        <repository>Albert and Shirley Small Special Collections Library</repository>
+                        <idno></idno>
+                        <msName>Chatto &amp; Windus (Harper’s) edition, 1904. CW</msName>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <collation>
+                                    <p>LAUS VENERIS, / AND OTHER / POEMS AND BALLADS. / BY / ALGERNON CHARLES SWINBURNE. / [publisher’s monogram] / NEW YORK / Carleton, Publisher, 413 Broadway. / LONDON: MOXON &#x0026; CO. / MDCCCLXVI.</p>             
+                                    <p>Crown octavo, pp. viii + 328. Title-page as above with “AUTHOR’S EDITION” at center of verso, i-ii; dedication-page as in MC but with type-face elaboration and wood-cut of a book in chains on verso; “Laus Veneris” re-positioned as first poem in volume with separate fly-title and wood-cut of a lyre on verso; wood-cut of a nesting bird facing page 31. Signatures (2-21) positioned at center. Headlines with poem-titles throughout; error in head-line for “Rococo,” page 131. Maroon cloth boards, indigo edging, gilt lettering (“LAUS VENERIS” [in swirl scrolls]) on face and spine: “LAUS VENERIS [in swirl scrolls] / SWINBURNE / CARLETON / NEW YORK.”</p>
+                                    <p>(set from MU with spelling
+                                        Americanized, punctuation regularized, and additional errors). Examined: Alderman Library and
+                                        Special Collections, UVA. (Americanized spellings in a separate listing.)</p>
+                                </collation>
+                            </supportDesc>
+                        </objectDesc>
+                        <bindingDesc><p>Original green cloth, stamped in gold and blind.</p></bindingDesc><!-- is this still necessary? - tm -->
+                    </physDesc>
+                </msDesc>
+                <listWit>
+    <witness xml:id="mu">Initial printing, Moxon 1866 with printer’s errors (Not yet collated.
+        Any information re: this volume comes from collations by T. J. Wise and my examination of E). 
+        True MUs reported in libraries of Mark Samuels Lasner and Cecil Lang.</witness>
+    <witness xml:id="mc">Same edition as MU with errors detected by ACS corrected, 1866. Examined: UVA
+        Special Collections and library of Jerome J. McGann. </witness>
+    <witness xml:id="hm">Moxon remainders with Hotten title-page inserted. Initially found no variants between
+        UVA Special Collections copy and MC (therefore HMC), but Nowviskie HM copy varies. To disentangle.</witness>
+    <witness xml:id="e">Emory copy, a potential HMU (Moxon Uncorrected with Hotten’s title page tipped in), later re-bound. 
+        NB variants 1.4 and 146.5 – my only witness so far to those readings.</witness>
+    <witness xml:id="hr">First Hotten reprint set from MU 1866, with additional errors. Examined: Library of Jerome J. McGann.</witness>
+    <witness xml:id="ny">Carleton/Moxon “Author’s Edition” 1866 (set from MU with spelling
+        Americanized, punctuation regularized, and additional errors). Examined: Alderman Library and
+        Special Collections, UVA. (Americanized spellings in a separate listing.)</witness>
+    <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
+        and Chadwyck-Healey electronic edition.</witness>
+    <witness xml:id="sp"><hi>The Spectator</hi></witness>
+    <witness xml:id="ow"><hi>Once A Week</hi></witness>
+    <witness xml:id="cr"><hi>Catalogue of the Royal Academy Exhibition</hi></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text><body>
+        <div><p></p></div>
+    </body></text>
+    </TEI>
+
+
+
+ 
