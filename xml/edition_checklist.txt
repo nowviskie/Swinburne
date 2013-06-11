@@ -1,0 +1,56 @@
+MU
+    12.12   eust MU, NY, E ] eut MC, HR, CW
+    40.12   forborne? MC, NY, HR, CW ] forborne MU, E
+    77.2    FAITH. MU, E ] FAITH.) MC, NY, HR ] FAITH) CW
+    229.5   Goodnight, goodbye. MC ] Good-night, good-bye. MU, HR, E ] Good-night,
+            good-by. NY ] Good night, good bye. CW
+    285.4   Yea now, MC, CW ] Yea, now, MU, HR, E ] Yea, now NY
+                    
+                    
+    
+
+MC
+    3.15        faces waxen MC ] faces, waxen MU, NY, HR, CW, E
+    50.2        Should MC ] Would MU, NY, HR, CW, E
+    115.12-13   {break between stanzas} MC  ] {no break between stanzas} MU, NY, HR, CW, E
+    229.5       Goodnight, goodbye. MC ] Good-night, good-bye. MU, HR, E ] Good-night,
+                good-by. NY ] Good night, good bye. CW
+    294.19      Hushed MC ] Flushed MU, NY, HR, CW, E                
+
+HM
+    1.4     hours. MC, CW ] hours, HM? ] bowers. MU, HR ] bowers; NY ] bowers, E
+
+HR
+    37.17   Ate MC, NY, CW, E ] Atè HR
+    25.1    love too MC, NY, CW, E ] love, too HR
+    30.15   {line indented} MC, NY, CW, E ] {not indented} HR
+    260.19  me; MC, NY, CW, E ] me HR
+    266.4   {line indented} MC, NY, CW, E ] {no indentation} HR
+
+CW
+    9.13    thine MC, NY, HR, E ] thy CW
+    110.7   {break between stanzas} MC, NY, HR, E ] {no break between stanzas} CW
+    112.1   {no break between stanzas MC, NY, HR, E ] {break between stanzas} CW
+    276.2   said; MC, HR, E ] said, CW ] said: NY
+    334.2   Red . . . wine; MC, NY, HR, E ] (Red . . . wine) CW
+
+NY
+    12.epi  Gaget. 1530. MC, HR, CW, E ] Gaget, 1530. NY
+    67.27   saying ‘Who MC, HR, E ] saying, “Who NY ] saying “Who CW
+    213.12  the heavy honey MC, HR, CW, E ] the honey NY
+    276.2   said; MC, HR, E ] said, CW ] said: NY
+    Americanized spellings (see apparatus)
+    
+
+E
+    1.4     hours. MC, CW ] hours, HM? ] bowers. MU, HR ] bowers; NY ] bowers, E
+    40.12   forborne? MC, NY, HR, CW ] forborne MU, E {Note: ?s are noticeably
+            mangled in MC and HMC – type impression added by hand?}
+    84.f    φ MC, E ] ψ NY, HR, CW
+    146.5   hell; MC, NY, CW ] hell. HR ] hell E
+    277.26  Love’s MC, CW ] love’s MU, NY, HR, E
+    295.15  down, MC, HR, CW, NMC ] down: NY, E    
+    
+NMC
+    90.17   Nor MC ] Not ???
+    295.15     
