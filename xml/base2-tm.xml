@@ -9,7 +9,7 @@
                 <author xml:id="ACS">Algernon Charles Swinburne</author>
                 <editor role="general" xml:id="BN">Bethany Nowviskie</editor>
                 <editor role="technical" xml:id="WG">Wayne Graham</editor>
-                <sponsor>Scholars' Lab, University of Virginia Library</sponsor>
+                <sponsor>Scholars &#x2019;Lab, University of Virginia Library</sponsor>
                 <principal>Bethany Nowviskie</principal>
             </titleStmt>
             <editionStmt>
@@ -57,24 +57,32 @@
                     </physDesc>
                 </msDesc>
                 <listWit>
-                    <witness xml:id="mu">Initial printing, Moxon 1866 with printer’s errors (Not yet collated.
+                    <witness xml:id="mu.04">Initial printing, Moxon 1866 with printer’s errors (Not yet collated.
                         Any information re: this volume comes from collations by T. J. Wise and my examination of E). 
                         True MUs reported in libraries of Mark Samuels Lasner and Cecil Lang.</witness>
-                    <witness xml:id="mc">Same edition as MU with errors detected by ACS corrected, 1866. Examined: UVA
-                        Special Collections and library of Jerome J. McGann. </witness>
-                    <witness xml:id="hm">Moxon remainders with Hotten title-page inserted. Initially found no variants between
+                    <witness xml:id="mc.01">Same edition as MU with errors detected by ACS corrected, 1866. Examined: UVA
+                        Special Collections and library of Jerome J. McGann. Edition is fully collated.</witness>
+                    <witness xml:id="mc.02">Same edition as MU with errors detected by ACS corrected, 1866. Examined: UVA
+                        Special Collections and library of Jerome J. McGann. Edition is fully collated.</witness>
+                    <witness xml:id="mc.03">Same edition as MU with errors detected by ACS corrected, 1866. Property of Bethany Nowviskie. Includes the normal Atalanta in
+                        Calydon and Chastelard advertisements but is otherwise largely identical to mc.01 and mc.02, with few variations. Edition is fully collated against known variants. </witness>
+                    <witness xml:id="hm.09">Moxon remainders with Hotten title-page inserted. Initially found no variants between
                         UVA Special Collections copy and MC (therefore HMC), but Nowviskie HM copy varies. To disentangle.</witness>
-                    <witness xml:id="e">Emory copy, a potential HMU (Moxon Uncorrected with Hotten’s title page tipped in), later re-bound. 
+                    <witness xml:id="e.08">Emory copy, a potential HMU (Moxon Uncorrected with Hotten’s title page tipped in), later re-bound. 
                         NB variants 1.4 and 146.5 – my only witness so far to those readings.</witness>
-                    <witness xml:id="hr">First Hotten reprint set from MU 1866, with additional errors. Examined: Library of Jerome J. McGann.</witness>
-                    <witness xml:id="ny">Carleton/Moxon “Author’s Edition” 1866 (set from MU with spelling
+                    <witness xml:id="hr.05">First Hotten reprint set from MU 1866, with additional errors. Examined: Library of Jerome J. McGann.</witness>
+                    <witness xml:id="ny.07">Carleton/Moxon “Author’s Edition” 1866 (set from MU with spelling
                         Americanized, punctuation regularized, and additional errors). Examined: Alderman Library and
                         Special Collections, UVA. (Americanized spellings in a separate listing.)</witness>
-                    <witness xml:id="cw">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
+                    <witness xml:id="cw.06">Chatto &amp; Windus (Harper’s) edition, 1904. Examined: Alderman Library, UVA,
                         and Chadwyck-Healey electronic edition.</witness>
-                    <witness xml:id="sp"><hi>The Spectator</hi></witness>
-                    <witness xml:id="ow"><hi>Once A Week</hi></witness>
-                    <witness xml:id="cr"><hi>Catalogue of the Royal Academy Exhibition</hi></witness>
+                    <witness xml:id="sp.14"><hi>The Spectator</hi></witness>
+                    <witness xml:id="ow.15"><hi>Once A Week</hi></witness>
+                    <witness xml:id="cr.16"><hi>Catalogue of the Royal Academy Exhibition</hi></witness>
+                    <witness xml:id="hr.10">Possible Hotten reprint as hr.05 above, with variations. </witness>
+                    <witness xml:id="mc.11">Possible initial printing, Moxon 1866, with errors detected by ACS corrected, with variations. </witness>
+                    <witness xml:id="hr.12">Possible Hotten reprint as hr.05 above, with variations. </witness>
+                    <witness xml:id="hr.13">Possible Hotten reprint as hr.05 above, with variations. </witness>
                 </listWit>
             </sourceDesc>
         </fileDesc>
