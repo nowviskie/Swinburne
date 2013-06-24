@@ -117,7 +117,7 @@
                             <l n="1-4"> A lady clothed like summer with sweet <app>
                                 <lem wit="#mc.01 #mc.02 #mc.03 #cw.06">hours.</lem>
                                 <rdgGrp>
-                                    <rdg wit="#hm.09" type="accidental">hours,</rdg>
+                                    <rdg wit="#hm.09 #hr.13" type="accidental">hours,</rdg>
                                 </rdgGrp>
                                 <rdgGrp type="substantive">
                                     <rdg wit="#mu.04 #hr.05">bowers.</rdg>
@@ -2974,7 +2974,9 @@
                         <l n="10-37">Laurel is green for a season, and love is sweet for a day; </l>
                         <l n="10-38">But love grows bitter with treason, and laurel outlives not May. </l>
                         <l n="10-39">Sleep, shall we sleep after all? for the world is not sweet in the end; </l>
-                        <l n="10-40">For the old faiths loosen and fall, the new years ruin and rend. </l>
+                        <l n="10-40">For the old faiths loosen and fall, the new years ruin<app><lem wit="#mc.01 #mc.02 #mc.03"></lem>
+                            <rdgGrp type="accidental"><rdg wit="#hr.13"><lb/></rdg></rdgGrp></app> and<app><lem wit="#mc.01 #mc.02 #mc.03"><lb/></lem>
+                                <rdgGrp type="accidental"><rdg wit="#hr.13"></rdg></rdgGrp></app> rend. </l>
                         <l n="10-41">Fate is a sea without shore, and the soul is a rock that abides; </l>
                         <l n="10-42">But her ears are vexed with the roar and her face with the foam of the tides. </l>
                         <l n="10-43">O lips that the live blood faints in, the leavings of racks and rods! </l>
