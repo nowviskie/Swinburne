@@ -198,7 +198,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[2]" type="verso"/>
+                        <pb n="2" type="verso"/>
                         <lg>
                             <l n="1-15"> The seven strings were named accordingly; </l>
                             <l n="1-16" rend="ti-1"> The first string charity, </l>
@@ -240,7 +240,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[3]" type="recto"/>
+                        <pb n="3" type="recto"/>
                         <lg>
                             <l n="1-41"> My soul said in <app>
                                 <lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">me;</lem>
@@ -287,7 +287,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[4]" type="verso"/>
+                        <pb n="4" type="verso"/>
                         <lg>
                             <l n="1-67" rend="ti-2"> And bosom carved to kiss. </l>
                             <l n="1-68"> Now therefore, if her pity further me, </l>
@@ -352,7 +352,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[6]" type="verso"/>
+                        <pb n="6" type="verso"/>
                         <lg>
                             <l n="2-21"> O Love, thou knowest if she were good to see. </l>
                             <l n="2-22"> O Time, thou shalt not find in any land </l>
@@ -387,7 +387,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[7]" type="recto"/>
+                        <pb n="7" type="recto"/>
                         <lg>
                             <l n="2-47"> Their garment of soft shame, </l>
                             <l n="2-48"> And weeping faces of the wearied loves </l>
@@ -433,7 +433,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[8]" type="verso"/>
+                        <pb n="8" type="verso"/>
                         <lg>
                             <l n="2-73"> Sweet still, but now not red, </l>
                             <l n="2-74"> Was the shut mouth whereby men lived and died. </l>
@@ -470,7 +470,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[9]" type="recto"/>
+                        <pb n="9" type="recto"/>
                         <lg>
                             <l n="2-99"> And all her body was more virtuous </l>
                             <l n="2-100"> Than souls of women fashioned otherwise. </l>
@@ -500,11 +500,11 @@
                     </div>
                 </div><div type="opening">
                     <div type="verso">
-                        <pb n="[10]" type="verso"/>
+                        <pb n="10" type="verso"/>
                         <div type="blank"></div>
                     </div>
                     <div type="recto">
-                        <pb n="[11]" type="recto"/>
+                        <pb n="11" type="recto"/>
                         <div type="half-title">
                             <head rend="center" n="3">LAUS VENERIS</head><!-- <l n="3-x"> -->
                         </div>
@@ -512,7 +512,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[12]" type="verso"/>
+                        <pb n="12" type="verso"/>
                         <epigraph>
                             <cit>
                                 <quote>
@@ -592,7 +592,7 @@
                 </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[14]" type="verso"/>
+                    <pb n="14" type="verso"/>
                     <lg>
                         <l n="3-17"> Alas, Lord, surely thou art great and fair. </l>
                         <l n="3-18"> But lo her wonderfully woven hair! </l>
@@ -633,7 +633,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[15]" type="recto"/>
+                    <pb n="15" type="recto"/>
                     <lg>
                         <l n="3-41"> The warp holds fast across; and every thread </l>
                         <l n="3-42"> That makes the woof up has dry specks of red; </l>
@@ -678,7 +678,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[16]" type="verso"/>
+                    <pb n="16" type="verso"/>
                     <lg>
                         <l n="3-65"> Ah God, that love were as a flower or flame, </l>
                         <l n="3-66"> That life were as the naming of a name, </l>
@@ -721,7 +721,7 @@
                     
                 </div>
                 <div type="recto">
-                    <pb n="[17]" type="recto"/>
+                    <pb n="17" type="recto"/>
                     <lg>
                         <l n="3-89"> The scent and shadow shed about me make </l>
                         <l n="3-90"> The very soul in all my senses ache; </l>
@@ -763,7 +763,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[18]" type="verso"/>
+                    <pb n="18" type="verso"/>
                     <lg>
                         <l n="3-113"> Ah, not as they, but as the souls that were </l>
                         <l n="3-114"> Slain in the old time, having found her fair; </l>
@@ -804,7 +804,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[19]" type="recto"/>
+                    <pb n="19" type="recto"/>
                     <lg>
                         <l n="3-137">Yea, all she slayeth; yea, every man save me; </l>
                         <l n="3-138">Me, love, thy lover that must cleave to thee </l>
@@ -846,7 +846,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[20]" type="verso"/>
+                    <pb n="20" type="verso"/>
                     <lg>
                         <l n="3-161">Yea, as if earth were sprinkled over me, </l>
                         <l n="3-162">Such chafed harsh earth as chokes a sandy sea, </l>
@@ -885,7 +885,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[21]" type="recto"/>
+                    <pb n="21" type="recto"/>
                     <lg>
                         <l n="3-185">There sit the knights that were so great of hand, </l>
                         <l n="3-186">The ladies that were queens of fair green land, </l>
@@ -927,7 +927,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[22]" type="verso"/>
+                    <pb n="22" type="verso"/>
                     <lg>
                         <l n="3-209">For I was of Christ's choosing, I God's knight, </l>
                         <l n="3-210">No blinkard heathen stumbling for scant light; </l>
@@ -968,7 +968,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[23]" type="recto"/>
+                    <pb n="23" type="recto"/>
                     <lg>
                         <l n="3-233">The blue curled eddies of the blowing Rhine, </l>
                         <l n="3-234">I felt the sharp wind shaking grass and vine </l>
@@ -1009,7 +1009,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[24]" type="verso"/>
+                    <pb n="24" type="verso"/>
                     <lg>
                         <l n="3-257">An one that hath a plague-mark on his brows; </l>
                         <l n="3-258">Dust and spilt blood do track him to his house </l>
@@ -1050,7 +1050,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[25]" type="recto"/>
+                    <pb n="25" type="recto"/>
                     <lg>
                         <l n="3-281">I sang of <app><lem wit="#cw.06 #e.08 #mc.01 #mc.02 #mc.03 #ny.07">love too</lem>
                         <rdgGrp type="accidental"><rdg wit="#hr.05">love, too</rdg></rdgGrp></app>, knowing <app><lem wit="#hr.05 #mc.01 #mc.02 #mc.03 #e.08 #cw.06">nought</lem>
@@ -1096,7 +1096,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[26]" type="verso"/>
+                    <pb n="26" type="verso"/>
                     <lg>
                         <l n="3-305">Up to the Horsel. A great elder-tree </l>
                         <l n="3-306">Held back its heaps of flowers to let me see </l>
@@ -1136,7 +1136,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[27]" type="recto"/>
+                    <pb n="27" type="recto"/>
                     <lg>
                         <l n="3-329">So that God looked upon me when your hands </l>
                         <l n="3-330">Were hot about me; yea, God brake my bands </l>
@@ -1179,7 +1179,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[28]" type="verso"/>
+                    <pb n="28" type="verso"/>
                     <lg>
                         <l n="3-353">But when I came I fell down at his feet, </l>
                         <l n="3-354">Saying, &#x201F;Father, though the Lord's blood be right sweet, </l>
@@ -1219,7 +1219,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[29]" type="recto"/>
+                    <pb n="29" type="recto"/>
                     <lg>
                         <l n="3-377">Nay, though sweet fruit were plucked of a dry tree, </l>
                         <l n="3-378">And though men drew sweet waters of the sea, </l>
@@ -1261,7 +1261,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[30]" type="verso"/>
+                    <pb n="30" type="verso"/>
                     <lg>
                         <l n="3-401">And I forgot fear and all weary things, </l>
                         <l n="3-402">All ended prayers and perished thanksgivings, </l>
@@ -1341,7 +1341,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[32]" type="verso"/>
+                    <pb n="32" type="verso"/>
                     <sp>
                         <speaker rend="center">PHÆDRA.</speaker>
                         <lg>
@@ -1375,7 +1375,7 @@
                             <l n="4-38">Make thy sword sure inside thine hand and smite, </l></lg></sp>
                 </div>
                 <div type="recto">
-                    <pb n="[33]" type="recto"/>
+                    <pb n="33" type="recto"/>
                     <sp>
                         <lg>
                             <l n="4-39">For the bright writing of my name is black, </l>
@@ -1427,7 +1427,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[34]" type="verso"/>
+                    <pb n="34" type="verso"/>
                     <sp>
                         <lg>
                     <l n="4-59">For wedding-water out of a noble well, </l>
@@ -1476,7 +1476,7 @@
                             <l n="4-81">Be but as sweet as is the bitterest, </l></lg></sp>
                 </div>
                 <div type="recto">
-                    <pb n="[35]" type="recto"/>
+                    <pb n="35" type="recto"/>
                     <sp><lg>
                         <l n="4-82">The most dispiteous out of all the gods, </l>
                         <l n="4-83">I am well pleased. Lo, do I crave so much? </l>
@@ -1511,7 +1511,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[36]" type="verso"/>
+                    <pb n="36" type="verso"/>
                     <sp>
                         <lg>
                             <l n="4-107">To do me good and slay me. But take heed; </l>
@@ -1571,7 +1571,7 @@
                     </sp>
                 </div>
                 <div type="recto">
-                    <pb n="[37]" type="recto"/>
+                    <pb n="37" type="recto"/>
                     <sp>
                         <speaker rend="center">PHÆDRA.</speaker>
                         <lg>
@@ -1607,7 +1607,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[38]" type="verso"/>
+                    <pb n="38" type="verso"/>
                     <sp>
                         <lg>
                             <l n="4-150">Love loathed of love, and mates unmatchable, </l>
@@ -1640,7 +1640,7 @@
                             <l n="4-177">Was tender, and the life still soft in it) </l></lg></sp>
                 </div>
                 <div type="recto">
-                    <pb n="[39]" type="recto"/>
+                    <pb n="39" type="recto"/>
                     <sp>
                         <lg>
                             <l n="4-178">The small swathed child, but bred him for my fate. </l>
@@ -1700,7 +1700,7 @@
                         <l n="5-20" rend="ti-1">Winter and summer depart in twain. </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[41]" type="recto"/>
+                    <pb n="41" type="recto"/>
                     <lg>
                     <l n="5-21">It will grow not again, it is ruined at root, </l>
                     <l n="5-22">The bloodlike blossom, the dull red fruit; </l>
@@ -1740,7 +1740,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[42]" type="verso"/>
+                    <pb n="42" type="verso"/>
                     <lg>
                         <l n="5-47">Had you loved me once, as you have not loved; </l>
                         <l n="5-48" rend="ti-1">Had the chance been with us that has not been.</l>
@@ -1778,7 +1778,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[43]" type="recto"/>
+                    <pb n="43" type="recto"/>
                     <lg>
                         <l n="5-73">The loves and hours of the life of a man, </l>
                         <l n="5-74" rend="ti-1">They are swift and sad, being born of the sea. </l>
@@ -1816,7 +1816,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[44]" type="verso"/>
+                    <pb n="44" type="verso"/>
                     <lg>
                     <l n="5-99">I had given you surely, and life to boot, </l>
                     <l n="5-100" rend="ti-1">Were we once made one for a single hour. </l>
@@ -1852,7 +1852,7 @@
                         <l n="5-124" rend="ti-1">Laugh low, live softly, murmur and muse; </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[45]" type="recto"/>
+                    <pb n="45" type="recto"/>
                     <lg>
                     <l n="5-125">Yea, and it may be, struck through by the dream, </l>
                     <l n="5-126">Feel the dust quicken and quiver, and seem </l>
@@ -1889,7 +1889,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[46]" type="verso"/>
+                    <pb n="46" type="verso"/>
                     <lg>
                     <l n="5-149">Nor all strong things had severed us then; </l>
                     <l n="5-150">Not wrath of gods, nor wisdom of men, </l>
@@ -1926,7 +1926,7 @@
                         <l n="5-174">Have the high gods anything left to give, </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[47]" type="recto"/>
+                    <pb n="47" type="recto"/>
                     <lg>
                         <l n="5-175">Save dust and laurels and gold and sand? </l>
                         <l n="5-176" rend="ti-1">Which gifts are goodly; but I will none.</l>
@@ -1965,7 +1965,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[48]" type="verso"/>
+                    <pb n="48" type="verso"/>
                     <lg>
                         <l n="5-201">Far off it walks, in a bleak blown space, </l>
                         <l n="5-202" rend="ti-1">Full of the sound of the sorrow of years. </l>
@@ -2003,7 +2003,7 @@
                         <l n="5-226" rend="ti-1">The cold old crimes and the deeds thrown by, </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[49]" type="recto"/>
+                    <pb n="49" type="recto"/>
                     <lg>
                         <l n="5-227">The misconceived and the misbegotten, </l>
                         <l n="5-228" rend="ti-1">I would find a sin to do ere I die, </l>
@@ -2041,7 +2041,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[50]" type="verso"/>
+                    <pb n="50" type="verso"/>
                     <lg>
                         <l n="5-253">Though the swords in my heart for one were seven, </l>
                         <l n="5-254"><app><lem wit="#mc.01 #mc.02 #mc.03">Should</lem>
@@ -2078,7 +2078,7 @@
                         <l n="5-278">Filled full with life to the eyes and hair, </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[51]" type="recto"/>
+                    <pb n="51" type="recto"/>
                     <lg>
                         <l n="5-279">As a rose is fulfilled to the roseleaf tips </l>
                         <l n="5-280" rend="ti-1">With splendid summer and perfume and pride.</l>
@@ -2120,7 +2120,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[52]" type="verso"/>
+                    <pb n="52" type="verso"/>
                     <lg>
                         <l n="5-305">And grief shall endure not for ever, I know. </l>
                         <l n="5-306" rend="ti-1">As things that are not shall these things be; </l>
@@ -2156,7 +2156,7 @@
                         <l n="5-330" rend="ti-1">For she bowed down to him weeping, and said </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[53]" type="recto"/>
+                    <pb n="53" type="recto"/>
                     <lg>
                         <l n="5-331"><app><lem wit="#mc.01 #mc.02 #mc.03 #cw.06 #e.08" >&#x201F;Live&#x201D;</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny.07 #hr.05" >&#x201F;Live;&#x201D;</rdg></rdgGrp></app> and her tears were shed on his face </l>
@@ -2195,7 +2195,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[54]" type="verso"/>
+                    <pb n="54" type="verso"/>
                     <lg>
                         <l n="5-357">There are sounds where the soul's delight takes fire, </l>
                         <l n="5-358">Face to face with its own desire;</l>
@@ -2231,7 +2231,7 @@
                         <l n="5-382">Had you felt, lying under the palms of your feet, </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[55]" type="recto"/>
+                    <pb n="55" type="recto"/>
                     <lg>
                         <l n="5-383">The heart of my heart, beating harder with pleasure </l>
                         <l n="5-384" rend="ti-1">To feel you tread it to dust and death&#x2014; </l>
@@ -2279,7 +2279,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[57]" type="recto"/>
+                    <pb n="57" type="recto"/>
                     <lg>
                         <l n="6-17">She knew not, being for shame's sake blind, </l>
                         <l n="6-18" rend="ti-1">If his eyes were hot on her face hard by. </l>
@@ -2322,7 +2322,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[58]" type="verso"/>
+                    <pb n="58" type="verso"/>
                     <lg>
                         <l n="6-41" >&#x201F;'For, Lord, thou knowest, O God most wise, </l>
                         <l n="6-42" rend="ti-1">How gracious on earth were his deeds towards me. </l>
@@ -2362,7 +2362,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[59]" type="recto"/>
+                    <pb n="59" type="recto"/>
                     <lg>
                         <l n="6-65">Had it been so hard for my love? but I, </l>
                         <l n="6-66" rend="ti-1">Though the gods gave all that a god can give, </l>
@@ -2420,7 +2420,7 @@
                             <rdgGrp type="accidental"><rdg wit="#ny.07" >&#x201F;If thou wilt, thrust in thy sickle and reap..&#x201D;</rdg></rdgGrp></app> </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[61]" type="recto"/>
+                    <pb n="61" type="recto"/>
                     <lg>
                         <l n="7-19">All is reaped now; no grass is left to mow; </l>
                         <l n="7-20">And we that sowed, though all we fell on sleep, </l>
@@ -2487,7 +2487,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[63]" type="recto"/>
+                    <pb n="63" type="recto"/>
                     <lg>
                         <l n="8-19">I the nightingale all spring through, </l>
                         <l n="8-20" rend="ti-1">O swallow, sister, O changing swallow, </l>
@@ -2524,7 +2524,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[64]" type="verso"/>
+                    <pb n="64" type="verso"/>
                     <lg>
                         <l n="8-43">O sweet stray sister, O shifting swallow, </l>
                         <l n="8-44" rend="ti-1">The heart's division divideth us. </l>
@@ -2591,7 +2591,7 @@
                 </div>
             </div><div type="opening">
                 <div type="verso">
-                    <pb n="[66]" type="verso"/>
+                    <pb n="66" type="verso"/>
                     <lg>
                         <l n="9-19">I charge thee keep thy lips from hers or his, </l>
                         <l n="9-20">Sweetest, till theirs be sweeter than my kiss: </l>
@@ -2624,7 +2624,7 @@
                         <l n="9-46">And leavings of the lilies in thine hair. </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[67]" type="recto"/>
+                    <pb n="67" type="recto"/>
                     <lg>
                     <l n="9-47">Yea, all sweet words of thine and all thy ways, </l>
                     <l n="9-48">And all the fruit of nights and flower of days, </l>
@@ -2662,7 +2662,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[68]" type="verso"/>
+                    <pb n="68" type="verso"/>
                     <lg>
                     <l n="9-75">Thy mouth the music; thou art more than I, </l>
                     <l n="9-76">Though my voice die not till the whole world die; </l>
@@ -2700,7 +2700,7 @@
                     <l n="9-102">Are there not other gods for other loves? </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[69]" type="recto"/>
+                    <pb n="69" type="recto"/>
                     <lg>
                         <l n="9-103">Yea, though she scourge thee, sweetest, for my sake, </l>
                         <l n="9-104">Blossom not <app><lem wit="#cw.06 #ny.07 #e.08 #mc.01 #mc.02 #mc.03">thorns and</lem>
@@ -2736,7 +2736,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[70]" type="verso"/>
+                    <pb n="70" type="verso"/>
                     <lg>
                     <l n="9-131">Die of thy pain and my delight, and be </l>
                     <l n="9-132">Mixed with thy blood and molten into thee! </l>
@@ -2769,7 +2769,7 @@
                     <rdgGrp type="accidental"><rdg wit="#hr.05">mouth</rdg></rdgGrp></app> of slaves, </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[71]" type="recto"/>
+                    <pb n="71" type="recto"/>
                     <lg>
                         <l n="9-159">From prison, and from plunging prows of ships </l>
                         <l n="9-160">Through flamelike foam of the sea's closing lips&#x2014; </l>
@@ -2805,7 +2805,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[72]" type="verso"/>
+                    <pb n="72" type="verso"/>
                     <lg>
                         <l n="9-187">And with the moon wax paler as she wanes, </l>
                         <l n="9-188">And pulse by pulse feel time grow through our veins? </l>
@@ -2841,7 +2841,7 @@
                         <l n="9-214">Memories shall mix and metaphors of me. </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[73]" type="recto"/>
+                    <pb n="73" type="recto"/>
                     <lg>
                         <l n="9-215">Like me shall be the shuddering calm of night, </l>
                         <l n="9-216">When all the winds of the world for pure delight </l>
@@ -2876,7 +2876,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[74]" type="verso"/>
+                    <pb n="74" type="verso"/>
                     <lg>
                         <l n="9-243">These, woven as raiment for his word and thought, </l>
                         <l n="9-244">These hath God made, and me as these, and wrought </l>
@@ -2908,7 +2908,7 @@
                         <l n="9-268">Blossom of branches, and on each high hill </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[75]" type="recto"/>
+                    <pb n="75" type="recto"/>
                     <lg>
                     <l n="9-269">Clear air and wind, and under in clamorous vales </l>
                     <l n="9-270">Fierce noises of the fiery nightingales, </l>
@@ -2947,7 +2947,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[76]" type="verso"/>
+                    <pb n="76" type="verso"/>
                     <lg>
                         <l n="9-297">Assuage <app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">me nor allay me nor</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny.07">me, nor allay me, nor</rdg></rdgGrp></app> appease, </l>
@@ -2991,7 +2991,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[78]" type="verso"/>
+                    <pb n="78" type="verso"/>
                     <lg>
                         <l n="10-13">O <app><lem wit="#hr.05 #cw.06 #mc.01 #mc.02 #mc.03 #e.08">Gods</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny.07">gods</rdg></rdgGrp></app> dethroned and deceased, cast forth, wiped out in a day! </l>
@@ -3016,7 +3016,7 @@
                         <l n="10-28">Dropped and deep in the flowers, with strings that flicker like fire. </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[79]" type="recto"/>
+                    <pb n="79" type="recto"/>
                     <lg>
                         <l n="10-29">More than these wilt thou give, things fairer than all these things? </l>
                         <l n="10-30">Nay, for a little we live, and life hath mutable wings.</l>
@@ -3043,7 +3043,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[80]" type="verso"/>
+                    <pb n="80" type="verso"/>
                     <lg>
                     <l n="10-45">Though all men abase them before you in spirit, and all knees bend, </l>
                         <l n="10-46">I kneel <app><lem wit="#cw.06 #mc.01 #mc.02 #mc.03 #hr.05 #e.08">not neither</lem>
@@ -3062,7 +3062,7 @@
                     <l n="10-58">With light of ruin, and sound of changes, and pulse of years: </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[81]" type="recto"/>
+                    <pb n="81" type="recto"/>
                     <lg>
                         <l n="10-59">With travail of day after day, and with trouble of hour upon hour; </l>
                         <l n="10-60">And bitter as blood is the spray; and the crests are as fangs that devour: </l>
@@ -3089,7 +3089,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[82]" type="verso"/>
+                    <pb n="82" type="verso"/>
                     <lg>
                         <l n="10-73">Though before thee the throned Cytherean be fallen, and hidden her head, </l>
                         <l n="10-74">Yet thy kingdom shall pass, Galilean, thy dead shall go down to thee dead. </l>
@@ -3112,7 +3112,7 @@
                         </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[83]" type="recto"/>
+                    <pb n="83" type="recto"/>
                     <lg>
                         <l n="10-87">And the wonderful waters knew her, the winds and the viewless ways, </l>
                         <l n="10-88">And the roses grew rosier, and bluer the sea-blue stream of the bays. </l>
@@ -3133,7 +3133,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[84]" type="verso"/>
+                    <pb n="84" type="verso"/>
                     <lg>
                         <l n="10-101">In the sweet low light of thy face, under heavens untrod by the sun, </l>
                         <l n="10-102">Let my soul with their souls find place, and forget what is done and undone. </l>
@@ -3202,7 +3202,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[86]" type="verso"/>
+                    <pb n="86" type="verso"/>
                     <lg>
                         <l n="11-19">There is not one thing with another, </l>
                         <l n="11-20">But Evil saith to Good: My brother, </l>
@@ -3241,7 +3241,7 @@
                         <l n="11-44">To these that shall not have good morrow; </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[87]" type="recto"/>
+                    <pb n="87" type="recto"/>
                     <lg>
                         <l n="11-45" rend="ti-1">The gods be gentle to all these. </l>
                         <l n="11-46">Nay, if death be not, how shall they be? </l>
@@ -3285,7 +3285,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[88]" type="verso"/>
+                    <pb n="88" type="verso"/>
                     <lg><l n="11-71">Whereof none knoweth how great the price is, </l>
                         <l n="11-72" rend="ti-1">And fruit that comes not of the vine.</l>
                     </lg>
@@ -3323,7 +3323,7 @@
                         <l n="11-96" rend="ti-1">The armlet of their arms is death.</l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[89]" type="recto"/>
+                    <pb n="89" type="recto"/>
                     <lg>
                         <l n="11-97">Lo, for no noise or light of thunder </l>
                         <l n="11-98">Shall these grave-clothes be rent in sunder; </l>
@@ -3364,7 +3364,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[90]" type="verso"/>
+                    <pb n="90" type="verso"/>
                     <lg>
                         <l n="11-123" rend="ti-1">Watch, sleep not, gird thyself with prayer. </l>
                         <l n="11-124">Nay, where the heart of wrath is broken, </l>
@@ -3431,7 +3431,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[92]" type="verso"/>
+                    <pb n="92" type="verso"/>
                     <lg>
                         <l n="12-20" rend="ti-1">Yet from them something like as fire is shed </l>
                         <l n="12-21" rend="ti-1">That shall not be assuaged till death be <app><lem wit="#e.08 #mc.01 #mc.02 #mc.03 #cw.06 #ny.07">dead,</lem>
@@ -3463,7 +3463,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[93]" type="recto"/>
+                    <pb n="93" type="recto"/>
                     <lg n="IV">
                         <head rend="center">IV.</head>
                         <l n="12-43">Yea, love, I see; it is not love but fear. </l>
@@ -3520,7 +3520,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[95]" type="recto"/>
+                    <pb n="95" type="recto"/>
                     <lg>
                         <l n="13-21">O sole desire of my delight!</l>
                         <l n="13-22">O sole delight of my desire!</l>
@@ -3560,7 +3560,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[96]" type="verso"/>
+                    <pb n="96" type="verso"/>
                     <lg>
                         <l n="13-46">Thy mouth is made of fire and wine,</l>
                         <l n="13-47">Thy barren bosom takes my kiss</l>
@@ -3663,7 +3663,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[99]" type="recto"/>
+                    <pb n="99" type="recto"/>
                     <lg>
                         <l n="15-17">A broken, an emptied boat,</l>
                         <l n="15-18" rend="ti-1">Sea saps it, winds blow apart,</l>
@@ -3704,7 +3704,7 @@
                 </div>
             </div><div type="opening">
                 <div type="verso">
-                    <pb n="[100]" type="verso"/>
+                    <pb n="100" type="verso"/>
                     <lg>
                         <l n="15-41">If I could but know after all,</l>
                         <l n="15-42" rend="ti-1">I might cease to hunger and ache,</l>
@@ -3745,7 +3745,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[101]" type="recto"/>
+                    <pb n="101" type="recto"/>
                     <lg>
                         <l n="15-65">Your hands nailed love to the tree,</l>
                         <l n="15-66" rend="ti-1">You stript him, scourged him with rods,</l>
@@ -3807,7 +3807,7 @@
                         
                 </div>
                 <div type="recto">
-                    <pb n="[103]" type="recto"/>
+                    <pb n="103" type="recto"/>
                     <lg>
                         <head rend="center">THIRD ANTIPHONE.</head>
                         <l n="16-17">As the tresses and wings of the wind</l>
@@ -3846,7 +3846,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[104]" type="verso"/>
+                    <pb n="104" type="verso"/>
                 <lg><head rend="center">SIXTH ANTIPHONE.</head>
                 <l n="16-41">From all our lovers that love us</l>
                         <l n="16-42" rend="ti-2"><app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">Thou God didst</lem>
@@ -3881,7 +3881,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[105]" type="recto"/>
+                    <pb n="105" type="recto"/>
                     <lg>
                     <head rend="center">EIGHTH ANTIPHONE.</head>
                     <l n="16-65">Not with fine gold for a payment,</l>
@@ -3917,7 +3917,7 @@
                 </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[106]" type="verso"/>
+                    <pb n="106" type="verso"/>
                     <lg>
                         <l n="16-89">Thou shalt neither rise up by day</l>
                         <l n="16-90" rend="ti-2">Nor lie down by night;</l>
@@ -3951,7 +3951,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[107]" type="recto"/>
+                    <pb n="107" type="recto"/>
                     <lg>
                         <l n="16-113">We could not arise by day,</l>
                         <l n="16-114" rend="ti-2">Nor lie down by night;</l>
@@ -3977,7 +3977,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[108]"/>
+                    <pb n="108"/>
                     <head rend="center" n="17">A LAMENTATION.</head><!-- <l n="17-x">
                     div <head>s for sections I, II, III removed and replaced by centered bolded text;
                     as major unit of hierarchy is the opening, poems and sections of poems as originally
@@ -4009,7 +4009,7 @@
                 </div>
                 
                 <div type="recto">
-                    <pb n="[109]"/>
+                    <pb n="109"/>
                     <lg>
                         <l n="17-19">Who shall behold it or hath?</l>
                         <l n="17-20" rend="ti-1">The twice-tongued prophets are mute,</l>
@@ -4044,7 +4044,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[110]"/>
+                    <pb n="110"/>
                     <lg>
                         <l n="17-45" rend="ti-2">While he lives let a man be glad,</l>
                         <l n="17-46" rend="ti-3">For none hath joy of his death.</l>
@@ -4088,7 +4088,7 @@
                         <l n="17-67" rend="ti-1">Foam blown as the snow.</l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[111]"/>
+                    <pb n="111"/>
                     <lg><l n="17-68">With snapping of chariot-poles</l>
                         <l n="17-69" rend="ti-1">And with straining of oars</l>
                         <l n="17-70">I have grazed in the race the goals,</l>
@@ -4123,7 +4123,7 @@
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[112]"/>
+                    <pb n="112"/>
                     <lg>
                         <l n="17-94"><!-- <app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #ny.07 #e.08"></lem>
                         <rdgGrp type="accidental"><rdg wit="#cw.06"><lb/></rdg></rdgGrp></app> -->But dumb the goddesses underground</l>
@@ -4158,7 +4158,7 @@
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[113]"/>
+                    <pb n="113"/>
                     <lg>
                         <l n="17-118">Could not one day withhold,</l>
                         <l n="17-119" rend="ti-1">One night; and like as these</l>
@@ -4202,7 +4202,7 @@
                             <l n="18-20" rend="ti-1">And man's death pay&#x2014; </l></lg>
                     </div>
                     <div type="recto">
-                        <pb n="[115]" type="recto"/>
+                        <pb n="115" type="recto"/>
                         <lg>
                             <l n="18-21">If souls once taken, </l>
                             <l n="18-22">If lives once shaken, </l>
@@ -4266,7 +4266,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[117]" type="recto"/>
+                        <pb n="117" type="recto"/>
                         <lg>
                             <l n="19-16">O my fair lord, I charge you leave me this: </l>
                             <l n="19-17">Is it not sweeter than a foolish kiss? </l>
@@ -4307,7 +4307,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[118]" type="verso"/>
+                        <pb n="118" type="verso"/>
                         <lg>
                             <l n="19-41">Yea, with thy sweet lips, with thy sweet sword; yea, </l>
                             <l n="19-42">Take life and all, for I will die, I say; </l>
@@ -4356,7 +4356,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[120]" type="verso"/>
+                        <pb n="120" type="verso"/>
                         <lg>
                             <l n="20-21">With daffodil and starling </l>
                             <l n="20-22" rend="ti-1">And hours of fruitful breath; </l>
@@ -4391,7 +4391,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[121]" type="recto"/>
+                        <pb n="121" type="recto"/>
                         <lg>
                             <l n="20-45">And teach his feet a measure, </l>
                             <l n="20-46" rend="ti-1">And find his mouth a rein; </l>
@@ -4439,7 +4439,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[123]" type="recto"/>
+                        <pb n="123" type="recto"/>
                         <lg>
                             <l n="21-17">Wine and rank poison, milk and blood, </l>
                             <l n="21-18" rend="ti-1">Being mixed therein </l>
@@ -4483,7 +4483,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[124]" type="verso"/>
+                        <pb n="124" type="verso"/>
                         <lg>
                             <l n="21-41">You have the face that suits a woman </l>
                             <l n="21-42" rend="ti-1">For her soul's screen&#x2014; </l>
@@ -4522,7 +4522,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[125]" type="recto"/>
+                        <pb n="125" type="recto"/>
                         <lg>
                             <l n="21-65">She loved the games men played with death, </l>
                             <l n="21-66" rend="ti-1">Where death must win; </l>
@@ -4563,7 +4563,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[126]" type="verso"/>
+                        <pb n="126" type="verso"/>
                         <lg>
                             <l n="21-89">Your soul forgot her joys, forgot </l>
                             <l n="21-90" rend="ti-1">Her times of teen; </l>
@@ -4602,7 +4602,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[127]" type="recto"/>
+                        <pb n="127" type="recto"/>
                         <lg>
                             <l n="21-113">A star upon your birthday burned, </l>
                             <l n="21-114" rend="ti-1">Whose fierce serene </l>
@@ -4648,7 +4648,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[128]" type="verso"/>
+                        <pb n="128" type="verso"/>
                         <lg>
                             <l n="21-137">But the time came of famished hours, </l>
                             <l n="21-138" rend="ti-1">Maimed loves and mean, </l>
@@ -4688,7 +4688,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[129]" type="recto"/>
+                        <pb n="129" type="recto"/>
                         <lg>
                             <l n="21-161">Curled lips, long since half kissed away, </l>
                             <l n="21-162" rend="ti-1">Still sweet and keen; </l>
@@ -4785,7 +4785,7 @@
                             <l n="24-20" rend="ti-1">Though light love sleep to death? </l></lg>
                     </div>
                     <div type="recto">
-                        <pb n="[133]" type="recto"/>
+                        <pb n="133" type="recto"/>
                         <lg>
                         <l n="24-21">We have drained his lips at leisure, </l>
                         <l n="24-22" rend="ti-1">Till there's not left to drain </l>
@@ -4823,7 +4823,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[134]" type="verso"/>
+                        <pb n="134" type="verso"/>
                         <lg>
                             <l n="24-47">The day that you remember, </l>
                             <l n="24-48" rend="ti-1">The day that I forget.</l>
@@ -4860,7 +4860,7 @@
                         </lg>                        
                     </div>
                     <div type="recto">
-                        <pb n="[135]" type="recto"/>
+                        <pb n="135" type="recto"/>
                         <lg>
                             <l n="24-73">Breathe close upon the ashes, </l>
                             <l n="24-74" rend="ti-1">It may be flame will leap; </l>
@@ -4936,7 +4936,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[138]" type="verso"/>
+                        <pb n="138" type="verso"/>
                         <lg>
                             <l n="26-17">How she then wore it on the brows, </l>
                             <l n="26-18" rend="ti-1">Yet am I glad to have her dead </l>
@@ -4977,7 +4977,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[139]" type="recto"/>
+                        <pb n="139" type="recto"/>
                         <lg>
                             <l n="26-41">I tell you over word by word. </l>
                             <l n="26-42" rend="ti-1">She, sitting edgewise on her bed, </l>
@@ -5019,7 +5019,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[140]" type="verso"/>
+                        <pb n="140" type="verso"/>
                         <lg>
                             <l n="26-65">Yea, he inside whose grasp all night </l>
                             <l n="26-66" rend="ti-1">Her fervent body leapt or lay, </l>
@@ -5058,7 +5058,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[141]" type="recto"/>
+                        <pb n="141" type="recto"/>
                         <lg>
                             <l n="26-89">Yea, though God hateth us, he knows </l>
                             <l n="26-90" rend="ti-1">That hardly in a little thing </l>
@@ -5100,7 +5100,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[142]" type="verso"/>
+                        <pb n="142" type="verso"/>
                         <lg>
                             <l n="26-113">Yea, and the scorn she had of me </l>
                             <l n="26-114" rend="ti-1">In the old time, doubtless vexed her then. </l>
@@ -5140,7 +5140,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[143]" type="recto"/>
+                        <pb n="143" type="recto"/>
                         <lg>
                             <l n="26-137">I am grown blind with all these things: </l>
                             <l n="26-138" rend="ti-1">It may be now she hath in sight </l>
@@ -5221,7 +5221,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[145]" type="recto"/>
+                        <pb n="145" type="recto"/>
                         <lg>
                             <l n="27-17">The burden of sweet speeches. Nay, kneel down,</l>
                             <l n="27-18" rend="ti-1">Cover thy head, and weep; for verily</l>
@@ -5264,7 +5264,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[146]" type="verso"/>
+                        <pb n="146" type="verso"/>
                         <lg>
                             <l n="27-43">Thy times and ways and words of love, and say</l>
                             <l n="27-44" rend="ti-1">How one was dear and one desirable,</l>
@@ -5304,7 +5304,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[147]" type="recto"/>
+                        <pb n="147" type="recto"/>
                         <lg>
                             <l n="27-69" rend="ti-1">And where the red was, lo the bloodless white,</l>
                             <l n="27-70">And where truth was, the likeness of a liar,</l>
@@ -5374,7 +5374,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[150]" type="verso"/>
+                        <pb n="150" type="verso"/>
                         <lg>
                             <l n="29-15">Soft snows that hard winds harden</l>
                             <l n="29-16" rend="ti-1">Till each flake bite</l>
@@ -5412,7 +5412,7 @@
                             <l n="29-37" rend="ti-1">Or what pains were;</l></lg>
                     </div>
                     <div type="recto">
-                        <pb n="[151]" type="recto"/>
+                        <pb n="151" type="recto"/>
                         <lg>
                             <l n="29-38">What pale new loves and treasures</l>
                             <l n="29-39" rend="ti-1">New years will bear;</l>
@@ -5449,7 +5449,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[152]" type="verso"/>
+                        <pb n="152" type="verso"/>
                         <lg>
                             <l n="29-59">She sees old loves that drifted,</l>
                             <l n="29-60" rend="ti-1">She knew not <app><lem wit="#hr.05 #mc.01 #mc.02 #mc.03 #cw.06 #e.08">why,</lem>
@@ -5488,7 +5488,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[154]" type="verso"/>
+                        <pb n="154" type="verso"/>
                         <lg>
                             <l n="30-21">What even though fairer fingers of strange girls</l>
                             <l n="30-22">Pass nestling through thy beautiful boy's curls</l>
@@ -5549,7 +5549,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[156]" type="verso"/>
+                        <pb n="156" type="verso"/>
                         <lg>
                             <l n="31-17">Shall never smile and turn and rest</l>
                             <l n="31-18" rend="ti-2">On mine as there,</l>
@@ -5588,7 +5588,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[157]" type="recto"/>
+                        <pb n="157" type="recto"/>
                         <lg>
                             <l n="31-41">Move thee no more; but love at least</l>
                             <l n="31-42" rend="ti-2">And reverent heart</l>
@@ -5645,7 +5645,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[159]" type="recto"/>
+                        <pb n="159" type="recto"/>
                         <lg>
                             <l n="32-17">Out to the sea with her there, </l>
                             <l n="32-18" rend="ti-2">Out with her over the sand; </l>
@@ -5701,7 +5701,7 @@
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[160]" type="verso"/>
+                        <pb n="160" type="verso"/>
                         <lg>
                             <l n="32-41">While the <app><lem wit="#mc.01 #mc.02 #mc.03">shepherd</lem>
                                 <rdgGrp type="accidental"><rdg wit="#sp">Shepherd</rdg></rdgGrp></app> sets wolves on his <app><lem wit="#mc.01 #mc.02 #mc.03">sheep</lem>
@@ -5741,7 +5741,7 @@
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[161]" type="recto"/><!-- Note: After the first two stanzas, this poem is printed in a single block of verse - not
+                        <pb n="161" type="recto"/><!-- Note: After the first two stanzas, this poem is printed in a single block of verse - not
 divided into stanzas of 2 lines each, as in all later printings. -->
                         <head rend="center" n="33">A SONG IN TIME OF REVOLUTION. 1860.</head><!-- <l n="33-x"> -->
                         <lg>
@@ -5766,7 +5766,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[162]" type="verso"/>
+                        <pb n="162" type="verso"/>
                         <lg>
                             <l n="33-9">They are smitten, they tremble greatly, they are pained for their pleasant
                                 things; </l>
@@ -5797,7 +5797,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[163]" type="recto"/>
+                        <pb n="163" type="recto"/>
                         <lg>
                             <l n="33-21">Set a word in thy lips, to stand before God with a word in thy <app><lem wit="#mc.01 #mc.02 #mc.03 #ny.07 #hr.05 #e.08">mouth;</lem>
                             <rdgGrp type="accidental"><rdg wit="#cw.06">mouth:</rdg></rdgGrp></app> </l>
@@ -5830,7 +5830,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[164]" type="verso"/>
+                        <pb n="164" type="verso"/>
                         <lg>
                             <l n="33-33">The wind is thwart in their feet; it is full of the shouting of mirth; </l>
                             <l n="33-34">As one shaketh the sides of a sheet, so it shaketh the ends of the earth.</l>
@@ -5858,7 +5858,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[165]" type="recto"/>
+                        <pb n="165" type="recto"/>
                         <lg>
                             <l n="33-45">The sides of the two-edged sword shall be bare, and its mouth shall be red, </l>
                             <l n="33-46">For the breath of the face of the Lord that is felt in the bones of the dead.
@@ -5896,7 +5896,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                             <l n="34-18" rend="ti-2">That shone with storms of spears </l></lg>
                     </div>
                     <div type="recto">
-                        <pb n="[167]" type="recto"/>
+                        <pb n="167" type="recto"/>
                         <lg>
                             <l n="34-19">And shook in the wind blown from a dead world's pyre, </l>
                             <l n="34-20" rend="ti-2">When by her back-blown hair </l>
@@ -5936,7 +5936,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[168]" type="verso"/>
+                        <pb n="168" type="verso"/>
                         <lg>
                             <l n="34-45" rend="ti-2">That stung the sense like wine, </l>
                             <l n="34-46">Or fell more soft than dew or snow by night, </l>
@@ -5973,7 +5973,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[169]" type="recto"/>
+                        <pb n="169" type="recto"/>
                         <lg>
                             <l n="34-71" rend="ti-2">Sad faith that cannot hope or fear, </l>
                             <l n="34-72">And memory <app><lem wit="#mc.01 #mc.02 #mc.03">grey</lem>
@@ -6013,7 +6013,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[170]" type="verso"/>
+                        <pb n="170" type="verso"/>
                         <lg>
                             <l n="34-97" rend="ti-2">She, killed with noisome air, </l>
                             <l n="34-98" rend="ti-2">Even she! and still so fair, </l>
@@ -6047,7 +6047,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[171]" type="recto"/>
+                        <pb n="171" type="recto"/>
                         <lg>
                             <l n="34-121" rend="ti-2">Thou art chief of us, and lord; </l>
                             <l n="34-122" rend="ti-2">Thy song is as a sword </l>
@@ -6088,7 +6088,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[172]" type="verso"/>
+                        <pb n="172" type="verso"/>
                         <lg>
                             <l n="34-147">Still shows him exile who will not be slave; </l>
                             <l n="34-148" rend="ti-2">All thy great fame and thee </l>
@@ -6125,7 +6125,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[173]" type="recto"/>
+                        <pb n="173" type="recto"/>
                         <lg>
                             <l n="34-172" rend="ti-2">For fame or fear or gold, </l>
                             <l n="34-173" rend="ti-2">Nor waxed for winter cold, </l>
@@ -6160,7 +6160,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[174]" type="verso"/><!-- <l n="35-x"> -->
+                        <pb n="174" type="verso"/><!-- <l n="35-x"> -->
                         <head rend="center" n="35">BEFORE DAWN</head><!-- <l n="35-x"> -->
                         <lg>
                             <l n="35-1">
@@ -6188,7 +6188,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                             <l n="35-18">Life gave, and seemed worth living; </l></lg>
                     </div>
                     <div type="recto">
-                        <pb n="[175]" type="recto"/>
+                        <pb n="175" type="recto"/>
                         <lg>
                             <l n="35-19">Sin sweet beyond forgiving </l>
                             <l n="35-20" rend="ti-1">And brief beyond regret: </l>
@@ -6229,7 +6229,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[176]" type="verso"/>
+                        <pb n="176" type="verso"/>
                         <lg>
                             <l n="35-45">Lips that no love can tire, </l>
                             <l n="35-46">With hands that sting like fire, </l>
@@ -6266,7 +6266,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[177]" type="recto"/>
+                        <pb n="177" type="recto"/>
                         <lg>
                             <l n="35-71">For love has no abiding, </l>
                             <l n="35-72" rend="ti-1">But dies before the kiss;</l>
@@ -6313,7 +6313,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                             <l n="36-18" rend="ti-1">O garden where all men may dwell, </l></lg>
                     </div>
                     <div type="recto">
-                        <pb n="[179]" type="recto"/>
+                        <pb n="179" type="recto"/>
                         <lg>
                             <l n="36-19">O tower not of ivory, but builded </l>
                             <l n="36-20" rend="ti-1">By hands that reach heaven from hell;</l>
@@ -6353,7 +6353,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[180]" type="verso"/>
+                        <pb n="180" type="verso"/>
                         <lg>
                             <l n="36-45">What bud was the shell of a blossom </l>
                             <l n="36-46" rend="ti-1">That all men may smell to and pluck? </l>
@@ -6390,7 +6390,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[181]" type="recto"/>
+                        <pb n="181" type="recto"/>
                         <lg>
                             <l n="36-71">O splendid and sterile Dolores, </l>
                             <l n="36-72" rend="ti-1">Our Lady of Pain.</l>
@@ -6429,7 +6429,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[182]" type="verso"/>
+                        <pb n="182" type="verso"/>
                         <lg>
                             <l n="36-97">Hast thou told all thy secrets the last time, </l>
                             <l n="36-98" rend="ti-1">And bared all thy beauties to one? </l>
@@ -6467,7 +6467,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[183]" type="recto"/>
+                        <pb n="183" type="recto"/>
                         <lg>
                             <l n="36-123">But he comes to thee sad, without feigning, </l>
                             <l n="36-124" rend="ti-1">Who has wearied of sorrow and joy; </l>
@@ -6509,7 +6509,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[184]" type="verso"/>
+                        <pb n="184" type="verso"/>
                         <lg>
                             <l n="36-149">They alone, they are wise, and none other; </l>
                             <l n="36-150" rend="ti-1">Give me place, even me, in their train, </l>
@@ -6546,7 +6546,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[185]" type="recto"/>
+                        <pb n="185" type="recto"/>
                         <lg>
                             <l n="36-175">Gave the cypress to love, my Dolores, </l>
                             <l n="36-176" rend="ti-1">The myrtle to death.</l>
@@ -6585,7 +6585,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[186]" type="verso"/>
+                        <pb n="186" type="verso"/>
                         <lg>
                             <l n="36-201">Thou shalt blind his bright eyes though he wrestle, </l>
                             <l n="36-202" rend="ti-1">Thou shalt chain his light limbs though he strive; </l>
@@ -6622,7 +6622,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[187]" type="recto"/>
+                        <pb n="187" type="recto"/>
                         <lg>
                             <l n="36-227">And thine hands were as arrows to scatter </l>
                             <l n="36-228" rend="ti-1">The children of change and their gods; </l>
@@ -6662,7 +6662,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[188]" type="verso"/>
+                        <pb n="188" type="verso"/>
                         <lg>
                             <l n="36-253">And a sound as the sound of loud water </l>
                             <l n="36-254" rend="ti-1">Smote far through the flight of the fires, </l>
@@ -6701,7 +6701,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[189]" type="recto"/>
+                        <pb n="189" type="recto"/>
                         <lg>
                             <l n="36-279">Come down and redeem us from virtue, </l>
                             <l n="36-280" rend="ti-1">Our Lady of Pain.</l>
@@ -6741,7 +6741,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[190]" type="verso"/>
+                        <pb n="190" type="verso"/>
                         <lg>
                             <l n="36-305">Then still, through dry seasons and moister, </l>
                             <l n="36-306" rend="ti-1">One god had a wreath to his shrine; </l>
@@ -6777,7 +6777,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[191]" type="recto"/>
+                        <pb n="191" type="recto"/>
                         <lg>
                             <l n="36-329">Cry aloud; for the old world is broken: </l>
                             <l n="36-330" rend="ti-1">Cry out; for the Phrygian is priest, </l>
@@ -6816,7 +6816,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[192]" type="verso"/>
+                        <pb n="192" type="verso"/>
                         <lg>
                             <l n="36-355">The fair limbs of the Loves, the fair faces </l>
                             <l n="36-356" rend="ti-1">Of gods that were goodly and glad. </l>
@@ -6853,7 +6853,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[193]" type="recto"/>
+                        <pb n="193" type="recto"/>
                         <lg>
                             <l n="36-381">Did he find out in fire at his waking, </l>
                             <l n="36-382" rend="ti-1">Or discern as his eyelids lost light, </l>
@@ -6894,7 +6894,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[194]" type="verso"/>
+                        <pb n="194" type="verso"/>
                         <lg>
                             <l n="36-407">Who embraced thee with awful embraces, </l>
                             <l n="36-408" rend="ti-1">Our Lady of Pain?</l>
@@ -6931,7 +6931,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[195]" type="recto"/>
+                        <pb n="195" type="recto"/>
                         <lg>
                             <l n="36-433">We shall know what the darkness discovers, </l>
                             <l n="36-434" rend="ti-1">If the grave-pit be shallow or deep; </l>
@@ -7033,7 +7033,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                     </div></div>
                     <div type="opening">
                         <div type="verso">
-                        <pb n="[198]" type="verso"/>
+                        <pb n="198" type="verso"/>
                         <lg>
                             <l n="37-45">Though one were fair as roses, </l>
                             <l n="37-46">His beauty clouds and closes; </l>
@@ -7070,7 +7070,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                         <div type="recto">
-                            <pb n="[199]" type="recto"/>
+                            <pb n="199" type="recto"/>
                             <lg><l n="37-71">Wild leaves that winds have taken, </l>
                                 <l n="37-72" rend="ti-1">Red strays of ruined springs.</l>
                             </lg>
@@ -7127,7 +7127,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         </lg>
                     </div>
                     <div type="recto">
-                        <pb n="[201]" type="recto"/>
+                        <pb n="201" type="recto"/>
                         <lg>
                             <l n="38-11">Straight from the sunset, across white waves whence rose as a daughter </l>
                             <l n="38-12" rend="ti-1">Venus thy mother, in years when the world was a water at rest.</l>
@@ -7151,7 +7151,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[202]" type="verso"/>
+                        <pb n="202" type="verso"/>
                         <lg>
                         <l n="38-25">Thine eyes that are quiet, thine hands that are tender, thy lips that are
                             loving, </l>
@@ -7173,7 +7173,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         <l n="38-39">From the bitter delights of the dark, and the feverish, the furtive caresses </l></lg>
                     </div>
                     <div type="recto">
-                        <pb n="[203]" type="recto"/>
+                        <pb n="203" type="recto"/>
                         <lg>
                             <l n="38-40" rend="ti-1">That murder the youth in a man or ever his heart have its will. </l>
                             <l n="38-41">Thy lips cannot laugh and thine eyes cannot weep; thou art pale as a rose is, </l>
@@ -7199,7 +7199,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[204]" type="verso"/>
+                        <pb n="204" type="verso"/>
                         <l n="38-54" rend="ti-1">Only the blossoms of sleep and of pleasure were mixed in my hair. </l>
                         <l n="38-55">Was it myrtle or poppy thy garland was woven <app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">with,</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny.07">with.</rdg></rdgGrp></app> O my Dolores? </l>
@@ -7225,7 +7225,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                         <l n="38-67">And her fierce mouth sweetens, her eyes wax wide and her eyelashes glitter, </l>
                     </div>
                     <div type="recto">
-                        <pb n="[205]" type="recto"/>
+                        <pb n="205" type="recto"/>
                         <lg>
                             <l n="38-68" rend="ti-1">And she laughs with a <app><lem wit="#mc.01 #mc.02 #mc.03">savour</lem>
                                 <rdgGrp type="accidental"><rdg wit="#ny.07">savor</rdg></rdgGrp></app> of blood in her face, and a savour of
@@ -7249,7 +7249,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
                 <div type="opening">
                     <div type="verso">
-                        <pb n="[206]" type="verso"/>
+                        <pb n="206" type="verso"/>
                         <l n="38-82" rend="ti-1">By the thundering reef and the low sea-wall and the channel of
                             years, </l>
                         <l n="38-83">Our wild steeds press on the night, strain hard through pleasure and peril, </l>
@@ -7299,7 +7299,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                 </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[208]" type="verso"/>
+                    <pb n="208" type="verso"/>
                     <lg>
                         <l n="39-19">Our ropes are dead maids' hair, </l>
                         <l n="39-20">Our stores are love-shafts fair </l>
@@ -7357,7 +7357,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[210]" type="verso"/>
+                    <pb n="210" type="verso"/>
                     <lg>
                         <l n="40-16">I will serve her and will not spare </l>
                         <l n="40-17" rend="ti-1">Till her pity awake </l>
@@ -7391,7 +7391,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[211]" type="recto"/>
+                    <pb n="211" type="recto"/>
                     <lg>
                         <l n="40-41">She is worthy of praise, </l>
                         <l n="40-42" rend="ti-1">For this grief of her giving is worth </l>
@@ -7454,7 +7454,7 @@ divided into stanzas of 2 lines each, as in all later printings. -->
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[213]" type="recto"/>
+                    <pb n="213" type="recto"/>
                     <lg>
                         <l n="41-19">I know each shadow of your lips by rote, </l>
                         <l n="41-20">Each change of love in eyelids and eyebrows; </l>
@@ -7523,7 +7523,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[215]" type="recto"/>
+                    <pb n="215" type="recto"/>
                     <lg>
                         <l n="42-16">We are vexed and cumbered in earth's sight </l>
                         <l n="42-17">With wants, with many memories; </l>
@@ -7564,7 +7564,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[216]" type="verso"/>
+                    <pb n="216" type="verso"/>
                     <lg>
                         <l n="42-41">The hard sun, as thy petals knew, </l>
                         <l n="42-42"><app><lem wit="#mc.01 #mc.02 #mc.03">Coloured</lem>
@@ -7608,7 +7608,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[218]" type="verso"/>
+                    <pb n="218" type="verso"/>
                     <lg>
                         <l n="43-16">Shall we not laugh, shall we not weep,</l>
                         <l n="43-17" rend="ti-1">Not we, though this be as it is?</l>
@@ -7647,7 +7647,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[219]" type="recto"/>
+                    <pb n="219" type="recto"/>
                     <lg>
                     <l n="43-41">But you sigh seldom, you sleep sound,</l>
                     <l n="43-42" rend="ti-1">You find love's new name good enough.</l>
@@ -7687,7 +7687,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[220]" type="verso"/>
+                    <pb n="220" type="verso"/>
                     <lg>
                         <l n="43-66">I love you and I do not love,</l>
                         <l n="43-67" rend="ti-1">Too much, a little, not at <app><lem wit="#mc.01 #mc.02 #mc.03 #e.08 #ny.07">all:</lem>
@@ -7726,7 +7726,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[221]" type="recto"/>
+                    <pb n="221" type="recto"/>
                     <lg>
                         <l n="43-91">Like <app><lem wit="#mc.01 #mc.02 #mc.03">colours</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny.07">colors</rdg></rdgGrp></app> in the sea, like flowers,</l>
@@ -7770,7 +7770,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[222]" type="verso"/>
+                    <pb n="222" type="verso"/>
                     <q rend="block">
                         <lg>
                             <l n="43-116"><app><lem wit="#mc.01 #mc.02 #mc.03 #ny.07 #e.08"><hi rend="x-small">O lips that mine have grown into</hi></lem>
@@ -7821,7 +7821,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[223]" type="recto"/>
+                    <pb n="223" type="recto"/>
                     <lg>
                         <l n="43-141">The old song sounds hollower in mine ear</l>
                         <l n="43-142" rend="ti-1">Than thin keen sounds of dead men's speech&#x2014; </l>
@@ -7863,7 +7863,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[224]" type="verso"/>
+                    <pb n="224" type="verso"/>
                     <lg>
                         <l n="43-166">For we that sing and you that love</l>
                         <l n="43-167" rend="ti-1">Know that which man may, only we.</l>
@@ -7902,7 +7902,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[225]" type="recto"/>
+                    <pb n="225" type="recto"/>
                     <lg>
                         <l n="43-191">Immortal are they, clothed with powers,</l>
                         <l n="43-192" rend="ti-1">Not to be comforted at all;</l>
@@ -7944,7 +7944,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[226]" type="verso"/>
+                    <pb n="226" type="verso"/>
                     <lg>
                         <l n="43-216">Are the skies wet because we weep,</l>
                         <l n="43-217" rend="ti-1">Or fair because of any mirth?</l>
@@ -7982,7 +7982,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[227]" type="recto"/>
+                    <pb n="227" type="recto"/>
                     <lg>
                         <l n="43-241">The ghosts of words and dusty dreams,</l>
                         <l n="43-242" rend="ti-1">Old memories, faiths infirm and dead.</l>
@@ -8024,7 +8024,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[228]" type="verso"/>
+                    <pb n="228" type="verso"/>
                     <lg>
                         <l n="43-266">Can ye beat off one wave with prayer,</l>
                         <l n="43-267" rend="ti-1">Can ye move mountains? bid the flower</l>
@@ -8063,7 +8063,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[229]" type="recto"/>
+                    <pb n="229" type="recto"/>
                     <lg>
                         <l n="43-291">Live and let live, as I will do,</l>
                         <l n="43-292" rend="ti-1">Love and let love, and so will I.</l>
@@ -8106,7 +8106,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[231]" type="recto"/>
+                    <pb n="231" type="recto"/>
                         <lg>
                             <l n="44-17"> By the stream where the stems were slender, </l>
                             <l n="44-18" rend="ti-1"> Your bright foot paused at the sedge; </l>
@@ -8148,7 +8148,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[232]" type="verso"/>
+                    <pb n="232" type="verso"/>
                     <lg>
                         <l n="44-41"> I remember the way we parted, </l>
                         <l n="44-42" rend="ti-1"> The day and the way we met; </l>
@@ -8203,7 +8203,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[234]" type="verso"/>
+                    <pb n="234" type="verso"/>
                     <lg>
                         <l n="45-21">All the fruits of the day from all her branches </l>
                         <l n="45-22">Gathered, neither is any left to gather. </l>
@@ -8260,7 +8260,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[236]" type="verso"/>
+                    <pb n="236" type="verso"/>
                     <lg>
                         <l n="46-17">Heard the flying feet of the Loves behind her </l>
                         <l n="46-18">Make a sudden thunder upon the waters, </l>
@@ -8299,7 +8299,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[237]" type="recto"/>
+                    <pb n="237" type="recto"/>
                     <lg>
                         <l n="46-41">Called her, saying, ''Turn to me, O my Sappho;'' </l>
                         <l n="46-42">Yet she turned her face from the Loves, she saw not </l>
@@ -8340,7 +8340,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[238]" type="verso"/>
+                    <pb n="238" type="verso"/>
                     <lg>
                         <l n="46-65">Then the Muses, stricken at heart, were silent; </l>
                         <l n="46-66">Yea, the gods waxed pale; such a song was that song. </l>
@@ -8396,7 +8396,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[240]" type="verso"/>
+                    <pb n="240" type="verso"/>
                     <lg>
                         <l n="47-21"> And ye put water to my mouth, made sweet </l>
                         <l n="47-22"> With brown hill-berries; so in time I spoke </l>
@@ -8429,7 +8429,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[241]" type="recto"/>
+                    <pb n="241" type="recto"/>
                     <lg>
                         <l n="47-49"> Till I get righted of my wound and wrong </l>
                         <l n="47-50"> By changing counsel of ill-minded Zeus. </l>
@@ -8465,7 +8465,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[242]" type="verso"/>
+                    <pb n="242" type="verso"/>
                     <lg>
                         <l n="47-77"> Forced the bright body of Persephone: </l>
                         <l n="47-78"> Out of pure grass, where she lying down, red flowers </l>
@@ -8499,7 +8499,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[243]" type="recto"/>
+                    <pb n="243" type="recto"/>
                     <lg>
                         <l n="47-105"> Did ear take note of me, nor eye at all </l>
                         <l n="47-106"> Track my feet going in the ways of them. </l>
@@ -8535,7 +8535,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[244]" type="verso"/>
+                    <pb n="244" type="verso"/>
                     <lg>
                         <l n="47-133"> That lacks not and is wearied with much loss. </l>
                         <l n="47-134"> Meantime the purple inward of the house </l>
@@ -8570,7 +8570,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[245]" type="recto"/>
+                    <pb n="245" type="recto"/>
                     <lg>
                         <l n="47-161"> As who unhusks an almond to the white </l>
                         <l n="47-162"> And pastures curiously the purer taste, </l>
@@ -8607,7 +8607,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[246]" type="verso"/>
+                    <pb n="246" type="verso"/>
                     <lg>
                         <l n="47-189"> As the fire smote her in the eyes between </l>
                         <l n="47-190"> Cried, and the child's laugh, sharply shortening </l>
@@ -8641,7 +8641,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[247]" type="recto"/>
+                    <pb n="247" type="recto"/>
                     <lg>
                         <l n="47-217"> Dividing earth and reaping fruits thereof </l>
                         <l n="47-218"> In fields where wait, well-girt, well-wreathen, all </l>
@@ -8685,7 +8685,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[249]" type="recto"/>
+                    <pb n="249" type="recto"/>
                     <lg>
                         <l n="48-19">The leaves caught gold across the sun, </l>
                         <l n="48-20">And where the bluest air <app><lem wit="#mc.01 #mc.02 #mc.03 #ny.07 #hr.05 #e.08">begun,</lem>
@@ -8731,7 +8731,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[250]" type="verso"/>
+                    <pb n="250" type="verso"/>
                     <lg>
                         <l n="48-45">Between the round ripe leaves had blurred </l>
                         <l n="48-46">The rind with stain and <app><lem wit="#mc.01 #mc.02 #mc.03">wet; I</lem>
@@ -8796,7 +8796,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[252]" type="verso"/>
+                    <pb n="252" type="verso"/>
                     <lg>
                         <l n="49-19">Mary had three women for her bed, </l>
                         <l n="49-20" rend="ti-2">The twain were maidens clean; </l>
@@ -8831,7 +8831,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[253]" type="recto"/>
+                    <pb n="253" type="recto"/>
                     <lg>
                         <l n="49-43" >&#x201F;If your child be none other man's, </l>
                         <l n="49-44" rend="ti-2">But if it be very mine, </l>
@@ -8868,7 +8868,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[254]" type="verso"/>
+                    <pb n="254" type="verso"/>
                     <lg>
                         <l n="49-67">He had two handmaids at his head, </l>
                         <l n="49-68" rend="ti-2">One handmaid at his feet; </l>
@@ -8919,7 +8919,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[256]" type="verso"/>
+                    <pb n="256" type="verso"/>
                     <sp>
                         <speaker rend="center x-small">PRIMUS MILES.</speaker>
                         <lg>
@@ -8972,7 +8972,7 @@ with the following:
                             <l n="50-37">That Urias the knight is dead </l></lg></sp>
                 </div>
                 <div type="recto">
-                    <pb n="[257]" type="recto"/>
+                    <pb n="257" type="recto"/>
                     <sp>
                         <lg>
                             <l n="50-38">Through some ill craft; by Poulis head, </l>
@@ -9021,7 +9021,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[258]" type="verso"/>
+                    <pb n="258" type="verso"/>
                     <sp>
                         <speaker rend="center x-small">PRIMUS MILES. </speaker>
                         <lg>
@@ -9066,7 +9066,7 @@ with the following:
                             <l n="50-82" rend="ti-2">With gold to show thereon. </l></lg></sp>
                 </div>
                 <div type="recto">
-                    <pb n="[259]" type="recto"/>
+                    <pb n="259" type="recto"/>
                     <sp>
                         <lg>
                             <l n="50-83">This Urias had one poor house </l>
@@ -9102,7 +9102,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[260]" type="verso"/>
+                    <pb n="260" type="verso"/>
                     <sp>
                         <speaker rend="center x-small">SECUNDUS MILES. </speaker>
                         <lg>
@@ -9143,7 +9143,7 @@ with the following:
                             <l n="50-129">All queens made as this Bersabe, </l></lg></sp>
                 </div>
                 <div type="recto">
-                    <pb n="[261]" type="recto"/>
+                    <pb n="261" type="recto"/>
                     <sp>
                         <lg>
                             <l n="50-130">All that were fair and foul ye be, </l>
@@ -9191,7 +9191,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[262]" type="verso"/>
+                    <pb n="262" type="verso"/>
                     <sp>
                         <lg>
                             <l n="50-151">Love bade my kissing eyelids ope </l>
@@ -9235,7 +9235,7 @@ with the following:
                     </sp>
                 </div>
                 <div type="recto">
-                    <pb n="[263]" type="recto"/>
+                    <pb n="263" type="recto"/>
                     <sp>
                         <lg>
                             <l n="50-175">A white space like a space of glass </l>
@@ -9282,7 +9282,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[264]" type="verso"/>
+                    <pb n="264" type="verso"/>
                     <sp>
                         <lg>
                             <l n="50-197" rend="ti-2">And strength was bound between my brows. </l>
@@ -9326,7 +9326,7 @@ with the following:
                     </sp>
                 </div>
                 <div type="recto">
-                    <pb n="[265]" type="recto"/>
+                    <pb n="265" type="recto"/>
                     <sp>
                         <speaker rend="center x-small">CHRYSOTHEMIS. </speaker>
                         <lg>
@@ -9367,7 +9367,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[266]" type="verso"/>
+                    <pb n="266" type="verso"/>
                     <sp>
                         <lg>
                             <l n="50-245" rend="ti-2">Whose hair a great wind scattereth. </l>
@@ -9409,7 +9409,7 @@ with the following:
                     </sp>
                 </div>
                 <div type="recto">
-                    <pb n="[267]" type="recto"/>
+                    <pb n="267" type="recto"/>
                     <sp>
                         <speaker rend="center x-small">SAPPHO. </speaker>
                         <lg>
@@ -9450,7 +9450,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[268]" type="verso"/>
+                    <pb n="268" type="verso"/>
                     <sp>
                         <lg>
                             <l n="50-290" rend="ti-2">And my feet shod with adder-skin. </l>
@@ -9491,7 +9491,7 @@ with the following:
                     </sp>
                 </div>
                 <div type="recto">
-                    <pb n="[269]" type="recto"/>
+                    <pb n="269" type="recto"/>
                     <sp>
                         <speaker rend="center x-small">ALACIEL. </speaker>
                         <lg>
@@ -9532,7 +9532,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[270]" type="verso"/>
+                    <pb n="270" type="verso"/>
                     <sp>
                         <lg>
                             <l n="50-336">Behold, Lord, this child is grown </l>
@@ -9569,7 +9569,7 @@ with the following:
                             <l n="50-361">There is no man that may stand; </l></lg></sp>
                 </div>
                 <div type="recto">
-                    <pb n="[271]" type="recto"/>
+                    <pb n="271" type="recto"/>
                     <sp>
                         <lg>
                             <l n="50-362" rend="ti-2">Lord, thou rue on me. </l>
@@ -9605,7 +9605,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[272]" type="verso"/>
+                    <pb n="272" type="verso"/>
                     <sp>
                         <lg>
                             <l n="50-390">There I saw in no great space </l>
@@ -9639,7 +9639,7 @@ with the following:
                             <l n="50-417">I woxe nigh blind to see the light </l></lg></sp>
                 </div>
                 <div type="recto">
-                    <pb n="[273]" type="recto"/>
+                    <pb n="273" type="recto"/>
                     <sp>
                         <lg>
                             <l n="50-418">Shed out of it to left and right; </l>
@@ -9696,7 +9696,7 @@ with the following:
                         <l n="51-20">His arms were a red hawk that alway fed </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[275]" type="recto"/>
+                    <pb n="275" type="recto"/>
                     <lg>
                         <l n="51-21">On a small bird with feathers gnawed upon, </l>
                         <l n="51-22">Beaten and plucked about the bosom-bone </l>
@@ -9734,7 +9734,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[276]" type="verso"/>
+                    <pb n="276" type="verso"/>
                     <lg><l n="51-49">She held a psalter painted green and red.</l>
                     </lg>
                     <lg>
@@ -9771,7 +9771,7 @@ with the following:
                         <l n="51-76">She was a maiden of most quiet face, </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[277]" type="recto"/>
+                    <pb n="277" type="recto"/>
                     <lg>
                         <l n="51-77">Tender of speech, and had no hardihood </l>
                         <l n="51-78">But was nigh feeble of her fearful blood; </l>
@@ -9811,7 +9811,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[278]" type="verso"/>
+                    <pb n="278" type="verso"/>
                     <lg>
                         <l n="51-105">That he was stifled after in hard sea. </l>
                         <l n="51-106">And some said that this wine-shedding should be </l>
@@ -9849,7 +9849,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[279]" type="recto"/>
+                    <pb n="279" type="recto"/>
                     <lg>
                         <l n="51-133">So thou wilt be my lady without sin. </l>
                         <l n="51-134">Goddess that art all gold outside and in, </l>
@@ -9891,7 +9891,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[280]" type="verso"/>
+                    <pb n="280" type="verso"/>
                     <lg>
                         <l n="51-161">To speak against this worthy word of yours; </l>
                         <l n="51-162">Knowing how God's will in all speech endures, </l>
@@ -9926,7 +9926,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[281]" type="recto"/>
+                    <pb n="281" type="recto"/>
                     <lg>
                         <l n="51-189">Sat over all and drank chill wine alone. </l>
                         <l n="51-190">To whom is come Theophilus anon, </l>
@@ -9964,7 +9964,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[282]" type="verso"/>
+                    <pb n="282" type="verso"/>
                     <lg>
                         <l n="51-217">Let me die maiden after many pains. </l>
                         <l n="51-218">Though I be least among thy handmaidens, </l>
@@ -10003,7 +10003,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[283]" type="recto"/>
+                    <pb n="283" type="recto"/>
                     <lg>
                         <l n="51-245">Building the feasting-chambers of his house, </l>
                         <l n="51-246">And the large world he holdeth with his <app><lem wit="#mc.01 #mc.02 #mc.03 #e.08">brows </lem>
@@ -10040,7 +10040,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[284]" type="verso"/>
+                    <pb n="284" type="verso"/>
                     <lg>
                         <l n="51-273">Hath set my feet to be upon his ways. </l>
                         <l n="51-274">Now therefore for no painfulness of days </l>
@@ -10078,7 +10078,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[285]" type="recto"/>
+                    <pb n="285" type="recto"/>
                     <lg>
                         <l n="51-301">But thou do this thou shalt be shortly slain. </l>
                         <l n="51-302">Lo, sir, she said, this death and all <app><lem wit="#mc.01 #mc.02 #mc.03">his pain</lem>
@@ -10118,7 +10118,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[286]" type="verso"/>
+                    <pb n="286" type="verso"/>
                     <lg>
                         
                         <l n="51-329">Out of his lewdness with his cursèd wives: </l>
@@ -10157,7 +10157,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[287]" type="recto"/>
+                    <pb n="287" type="recto"/>
                     <lg>
                         <l n="51-357">Beating for chill, their bodies swathed full <app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">thin: </lem>
                             <rdgGrp type="accidental"><rdg wit="ny">thin </rdg></rdgGrp></app></l>
@@ -10197,7 +10197,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[288]" type="verso"/>
+                    <pb n="288" type="verso"/>
                     <lg>
                         <l n="51-385">On a small cithern, full of tears and sleep </l>
                         <l n="51-386">And heavy pleasure that is quick to weep </l>
@@ -10236,7 +10236,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[289]" type="recto"/>
+                    <pb n="289" type="recto"/>
                     <lg>
                         <l n="51-413">The cold axe clove, and smote away her head. </l>
                         <l n="51-414">Out of her throat the tender blood full red </l>
@@ -10279,7 +10279,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[290]" type="verso"/>
+                    <pb n="290" type="verso"/>
                     <lg><l n="51-441">That sends you gifts; and with this he was gone. </l>
                         <l n="51-442">In all this earth there is not such an one </l>
                         <l n="51-443">For <app><lem wit="#mc.01 #mc.02 #mc.03">colour</lem>
@@ -10316,7 +10316,7 @@ with the following:
                         <l n="51-468">Forth of this world lo Theophile is gone </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[291]" type="recto"/>
+                    <pb n="291" type="recto"/>
                     <lg>
                         <l n="51-469">With a wried <app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">neck, God</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny.07">neck: God</rdg></rdgGrp></app> give us better fare </l>
@@ -10369,7 +10369,7 @@ with the following:
                         <l n="52-20">The leaves smelt sweet and sharp of rain, and blew </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[293]" type="recto"/>
+                    <pb n="293" type="recto"/>
                     <lg>
                         <l n="52-21">Sideways with tender wind; and therein fell </l>
                         <l n="52-22">Sweet sound wherewith the green waxed audible,</l>
@@ -10409,7 +10409,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[294]" type="verso"/>
+                    <pb n="294" type="verso"/>
                     <lg>
                         <l n="52-49">And just of judgment; and to child he had </l>
                         <l n="52-50">A maid so sweet that her mere sight made glad </l>
@@ -10448,7 +10448,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[295]" type="recto"/>
+                    <pb n="295" type="recto"/>
                     <lg>
                         <l n="52-77">If love of his might move that face at all, </l>
                         <l n="52-78">Tuned evenwise with <app><lem wit="#mc.01 #mc.02 #mc.03">colours</lem>
@@ -10488,7 +10488,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[296]" type="verso"/>
+                    <pb n="296" type="verso"/>
                     <lg>
                         <l n="52-105">Some bitter kernel where the teeth shut hard: </l>
                         <l n="52-106">Or as sweet music sharpens afterward, </l>
@@ -10525,7 +10525,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[297]" type="recto"/>
+                    <pb n="297" type="recto"/>
                     <lg>
                         <l n="52-133">Her body's balance from the moving feet&#x2014; </l>
                         <l n="52-134">All this, found fair, lacked yet one grain of sweet </l>
@@ -10565,7 +10565,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[298]" type="verso"/>
+                    <pb n="298" type="verso"/>
                     <lg>
                         <l n="52-161">Their lips were no more sweet than daily breath: </l>
                         <l n="52-162">The year was plagued with instances of death.</l>
@@ -10604,7 +10604,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[299]" type="recto"/>
+                    <pb n="299" type="recto"/>
                     <lg>
                         <l n="52-189">My one gold gift, if dreams be sharp and sore </l>
                         <l n="52-190">Shall not the waking time increase much more</l>
@@ -10645,7 +10645,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[300]" type="verso"/>
+                    <pb n="300" type="verso"/>
                     <lg>
                         <l n="52-217">With shaken rain or bitten through with drouth; </l>
                         <l n="52-218">When I, beholding ever how your mouth </l>
@@ -10681,7 +10681,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[301]" type="recto"/>
+                    <pb n="301" type="recto"/>
                     <lg>
                         <l n="52-245">But may be pleasurably seen? what sense </l>
                         <l n="52-246">Keeps in its hot sharp extreme violence </l>
@@ -10723,7 +10723,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[302]" type="verso"/>
+                    <pb n="302" type="verso"/>
                     <lg>
                         <l n="52-273">Then a cool naked sense beneath my feet </l>
                         <l n="52-274">Of bud and blossom; and sound of veins that beat </l>
@@ -10759,7 +10759,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[303]" type="recto"/>
+                    <pb n="303" type="recto"/>
                     <lg>
                         <l n="52-301">To touch their hair they see not, neither fly; </l>
                         <l n="52-302">This would I see in heaven and not die. </l>
@@ -10795,7 +10795,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[304]" type="verso"/>
+                    <pb n="304" type="verso"/>
                     <lg>
                         <l n="52-329">With the cool water's noise to hear in rhymes: </l>
                         <l n="52-330">And a wind warmed me full of furze and limes </l>
@@ -10831,7 +10831,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[305]" type="recto"/>
+                    <pb n="305" type="recto"/>
                     <lg>
                         <l n="52-357">And knew not what this dream was nor had wit; </l>
                         <l n="52-358">But now God knows if I have skill of it.&#x201D;</l>
@@ -10871,7 +10871,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[306]" type="verso"/>
+                    <pb n="306" type="verso"/>
                     <lg>
                         <l n="52-385">Is heard by people of the meadow-grass, </l>
                         <l n="52-386">Or ever a wandering waif of ruin pass </l>
@@ -10904,7 +10904,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[307]" type="recto"/>
+                    <pb n="307" type="recto"/>
                     <lg>
                         <l n="52-411">Her lips throbbed, and life trembled through her <app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #ny.07 #e.08">hair.</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny.07">hair</rdg></rdgGrp></app></l>
@@ -10945,7 +10945,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[308]" type="verso"/>
+                    <pb n="308" type="verso"/>
                     <lg>
                         <l n="52-439">She died of pure waste heart and weariness. </l>
                         <l n="52-440">And for love's <app><lem wit="#mc.01 #mc.02 #mc.03">honour</lem>
@@ -10984,7 +10984,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[310]" type="verso"/>
+                    <pb n="310" type="verso"/>
                     <lg>
                         <l n="53-16">And fishers in the middle sea </l>
                         <l n="53-17" rend="ti-2">Did get thee sea-fish and sea-weeds </l>
@@ -11025,7 +11025,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[311]" type="recto"/>
+                    <pb n="311" type="recto"/>
                     <lg>
                         <l n="53-41">Thy garments upon thee were fair </l>
                         <l n="53-42" rend="ti-2">With scarlet and with yellow thread; </l>
@@ -11065,7 +11065,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[312]" type="verso"/>
+                    <pb n="312" type="verso"/>
                     <lg>
                         <l n="53-66">Also the chosen of the years, </l>
                         <l n="53-67" rend="ti-2">The multitude being at ease, </l>
@@ -11105,7 +11105,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[313]" type="recto"/>
+                    <pb n="313" type="recto"/>
                     <lg>
                         <l n="53-91">Yea, saidest thou, I will go up </l>
                         <l n="53-92" rend="ti-2">When there is no more shade than one </l>
@@ -11146,7 +11146,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[314]" type="verso"/>
+                    <pb n="314" type="verso"/>
                     <lg>
                         <l n="53-116">Because thy face was like the face </l>
                         <l n="53-117" rend="ti-2">Of a clean maiden that smells sweet, </l>
@@ -11188,7 +11188,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[315]" type="recto"/>
+                    <pb n="315" type="recto"/>
                     <lg>
                         <l n="53-141">Also between the walls she had </l>
                         <l n="53-142" rend="ti-2">Fair faces of strong men portrayed; </l>
@@ -11256,7 +11256,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[318]" type="verso"/>
+                    <pb n="318" type="verso"/>
                     <lg>
                         <l n="55-17">She hath no more to wear </l>
                         <l n="55-18">But one white hood of vair </l>
@@ -11292,7 +11292,7 @@ with the following:
                         <l n="55-42">Ripens with reddest sheaves, </l></lg>
                 </div>
                 <div type="recto">
-                    <pb n="[319]" type="recto"/>
+                    <pb n="319" type="recto"/>
                     <lg>
                         <l n="55-43">Forgets, remembers, grieves, </l>
                     <l n="55-44" rend="ti-1">And is not sad; </l>
@@ -11330,7 +11330,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[320]" type="verso"/>
+                    <pb n="320" type="verso"/>
                     <lg>
                         <l n="55-69">This was my lady's birth; </l>
                         <l n="55-70">God gave her might and mirth </l>
@@ -11383,7 +11383,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[322]" type="verso"/>
+                    <pb n="322" type="verso"/>
                     <lg>
                         <l n="56-17">The seventh to woo, the eighth to wed, </l>
                         <l n="56-18" rend="ti-1">Fair thin reeds in the <app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">mill-water;</lem>
@@ -11429,7 +11429,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[323]" type="recto"/>
+                    <pb n="323" type="recto"/>
                     <lg>
                         <l n="56-41">He's made her bed to the goodliest, </l>
                         <l n="56-42" rend="ti-1">Wind and hail in the <app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">mill-water;</lem>
@@ -11512,7 +11512,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[325]" type="recto"/>
+                    <pb n="325" type="recto"/>
                     <lg>
                         <l n="57-15"><app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">But</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny.07">&#x201F;But</rdg></rdgGrp></app> no meat comes in my mouth, </l>
@@ -11565,7 +11565,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[326]" type="verso"/>
+                    <pb n="326" type="verso"/>
                     <lg>
                         <l n="57-35"><app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">Have</lem>
                             <rdgGrp type="accidental"><rdg wit="#ny.07">&#x201F;Have</rdg></rdgGrp></app> they boiled my maid in a brass pan, </l>
@@ -11641,7 +11641,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[328]" type="verso"/>
+                    <pb n="328" type="verso"/>
                     <lg>
                         <l n="58-17">Her father's drawn her by both hands, </l>
                         <l n="58-18" rend="ti-1">He's rent her gown from her, </l>
@@ -11711,7 +11711,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[330]" type="verso"/>
+                    <pb n="330" type="verso"/>
                     <lg>
                         <l n="59-15">Why is your coat sae fouled the day? </l>
                         <l n="59-16" rend="ti-1">And I wot I hae <app><lem wit="#mc.01 #mc.02 #mc.03 #hr.05 #cw.06 #e.08">but</lem>
@@ -11749,7 +11749,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="recto">
-                    <pb n="[331]" type="recto"/>
+                    <pb n="331" type="recto"/>
                     <lg>
                         <l n="59-38" >&#x201F;And what will ye leave your mither dear, </l>
                         <l n="59-39" rend="ti-1">My merry son, come tell me hither? </l>
@@ -11786,7 +11786,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="verso">
-                    <pb n="[332]" type="verso"/>
+                    <pb n="332" type="verso"/>
                     <lg>
                         <l n="59-63" >&#x201F;Wild mulberries for her mouth to eat, </l>
                         <l n="59-64">She'll get nae mair though it garred her greet, </l>
@@ -11862,7 +11862,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="recto">
-                    <pb n="[335]" type="recto"/>
+                    <pb n="335" type="recto"/>
                     <lg>
                         <l n="60-17" >&#x201F;O what will ye give my son to eat, </l>
                         <l n="60-18" rend="ti-1">Red rose leaves will never make wine?&#x201D;</l>
@@ -11917,7 +11917,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="verso">
-                    <pb n="[336]" type="verso"/>
+                    <pb n="336" type="verso"/>
                     <lg>
                         <l n="60-41" >&#x201F;The bearing-bread is soft and new, </l>
                         <l n="60-42" rend="ti-1">There is no soil in the straining <app><lem wit="#mc.01 #mc.02 #mc.03 #ny.07 #e.08">wine:</lem>
@@ -11997,7 +11997,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="verso">
-                    <pb n="[338]" type="verso"/>
+                    <pb n="338" type="verso"/>
                     <lg>
                         <l n="61-17">The second, with low patient brows </l>
                         <l n="61-18">Bound under aspen-<app><lem wit="#mc.01 #mc.02 #mc.03">coloured</lem>
@@ -12041,7 +12041,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="recto">
-                    <pb n="[339]" type="recto"/>
+                    <pb n="339" type="recto"/>
                     <lg>
                         <l n="61-41">And now the time is winterly </l>
                         <l n="61-42">The first love fades too: none will see, </l>
@@ -12080,7 +12080,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="recto">
-                    <pb n="[341]" type="recto"/>
+                    <pb n="341" type="recto"/>
                     <lg>
                         <l n="62-17">Some scattered in seven years' traces, </l>
                         <l n="62-18" rend="ti-1">As they fell from the boy that was then; </l>
@@ -12116,7 +12116,7 @@ with the following:
                         <l n="62-42" rend="ti-1">On wings of articulate words; </l></lg>
                 </div>
                 <div type="verso">
-                    <pb n="[342]" type="verso"/>
+                    <pb n="342" type="verso"/>
                     <lg>
                         <l n="62-43">Lost leaves that the shore-wind may squander, </l>
                         <l n="62-44" rend="ti-1">Light flocks of <app><lem wit="#mc.01 #mc.02 #mc.03">untameable</lem>
@@ -12160,7 +12160,7 @@ with the following:
             </div>
             <div type="opening">
                 <div type="recto">
-                    <pb n="[343]" type="recto"/>
+                    <pb n="343" type="recto"/>
                     <lg>
                         <l n="62-69">In woods where the spring half uncovers </l>
                         <l n="62-70" rend="ti-1">The flush of her amorous face, </l>
@@ -12197,7 +12197,7 @@ with the following:
                     </lg>
                 </div>
                 <div type="verso">
-                    <pb n="[344]" type="verso"/>
+                    <pb n="344" type="verso"/>
                     <lg>
                         <l n="62-95">Ere time that breaks all men has broken </l>
                         <l n="62-96" rend="ti-1">The faith between friends.</l>
